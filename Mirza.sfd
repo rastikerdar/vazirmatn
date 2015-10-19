@@ -4,7 +4,7 @@ FullName: Mirza
 FamilyName: Mirza
 Weight: Regular
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nCopyright (c) 2006 by Tavmjong Bah. All Rights Reserved.\nDejaVu changes are in public domain\nCopyright (c) 2015 by Saber Rastikerdar. All Rights Reserved.
-Version: 1.5
+Version: 1.5.1
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1445236035
+ModificationTime: 1445243226
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -2355,7 +2355,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Mirza Regular 1.5" "" "Version 1.5" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Non-Latin glyph's changes by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Mirza" "Regular" 
+LangName: 1033 "" "" "" "Mirza Regular 1.5.1" "" "Version 1.5.1" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Mirza" "Regular" 
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -3815,6 +3815,7 @@ SplineSet
  498.364 -261.515 498.364 -261.515 541.746 99.2871 c 0,0,1
 EndSplineSet
 Kerns2: 55 0 "'kern' Horizontal Kerning lookup 15-1" 
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEDF dx=-196 dy=0 dh=-196 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFBAC dx=-135 dy=0 dh=-135 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB90 dx=-172 dy=0 dh=-172 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni06A9 dx=-231 dy=0 dh=-231 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -3857,7 +3858,7 @@ PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0629 dx=-200 dy=0 dh=-200 d
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFE91 dx=-82 dy=0 dh=-82 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0628 dx=-190 dy=0 dh=-190 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0627 dx=-196 dy=0 dh=-196 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0622 dx=-275 dy=0 dh=-275 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0622 dx=-252 dy=0 dh=-252 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB94 dx=-171 dy=0 dh=-171 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" afii57509 dx=-257 dy=0 dh=-257 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB8A dx=-47 dy=0 dh=-47 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -3881,6 +3882,7 @@ Fore
 Refer: 54 1585 N 1 0 0 1 0 0 2
 Refer: 293 -1 S 1.07 0 0 1.07 389.56 831.43 2
 Kerns2: 68 0 "'kern' Horizontal Kerning lookup 15-1"  55 0 "'kern' Horizontal Kerning lookup 15-1"  54 0 "'kern' Horizontal Kerning lookup 15-1"  133 0 "'kern' Horizontal Kerning lookup 15-1"  108 0 "'kern' Horizontal Kerning lookup 15-1"  131 0 "'kern' Horizontal Kerning lookup 15-1" 
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEDF dx=-196 dy=0 dh=-196 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFBAC dx=-101 dy=0 dh=-101 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB90 dx=-120 dy=0 dh=-120 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni06A9 dx=-207 dy=0 dh=-207 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -3920,8 +3922,8 @@ PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni062A dx=-140 dy=0 dh=-140 d
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0629 dx=-186 dy=0 dh=-186 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFE91 dx=-83 dy=0 dh=-83 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0628 dx=-136 dy=0 dh=-136 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0627 dx=-175 dy=0 dh=-175 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0622 dx=-247 dy=0 dh=-247 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0627 dx=-196 dy=0 dh=-196 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0622 dx=-252 dy=0 dh=-252 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB94 dx=-133 dy=0 dh=-133 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" afii57509 dx=-193 dy=0 dh=-193 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB56 dx=-138 dy=0 dh=-138 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -7267,6 +7269,7 @@ SplineSet
  569.511 251.841 569.511 251.841 459.247 441.341 c 1,0,-1
 EndSplineSet
 Kerns2: 68 0 "'kern' Horizontal Kerning lookup 15-1"  66 0 "'kern' Horizontal Kerning lookup 15-1"  133 0 "'kern' Horizontal Kerning lookup 15-1" 
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEDF dx=-196 dy=0 dh=-196 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFBAC dx=-139 dy=0 dh=-139 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB90 dx=-93 dy=0 dh=-93 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni06A9 dx=-233 dy=0 dh=-233 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -7307,7 +7310,7 @@ PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni062A dx=-151 dy=0 dh=-151 d
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0629 dx=-163 dy=0 dh=-163 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFE91 dx=-71 dy=0 dh=-71 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0628 dx=-180 dy=0 dh=-180 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0627 dx=-227 dy=0 dh=-227 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0627 dx=-196 dy=0 dh=-196 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0622 dx=-279 dy=0 dh=-279 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB94 dx=-134 dy=0 dh=-134 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" afii57509 dx=-220 dy=0 dh=-220 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -7344,6 +7347,7 @@ Fore
 Refer: 214 65198 N 1 0 0 1 0.5 0 2
 Refer: 293 -1 S 1.07 0 0 1.07 379.11 815.562 2
 Kerns2: 68 0 "'kern' Horizontal Kerning lookup 15-1"  55 0 "'kern' Horizontal Kerning lookup 15-1"  54 0 "'kern' Horizontal Kerning lookup 15-1"  185 0 "'kern' Horizontal Kerning lookup 15-1"  133 0 "'kern' Horizontal Kerning lookup 15-1"  108 0 "'kern' Horizontal Kerning lookup 15-1"  131 0 "'kern' Horizontal Kerning lookup 15-1" 
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEDF dx=-196 dy=0 dh=-196 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFBAC dx=-76 dy=0 dh=-76 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB90 dx=-148 dy=0 dh=-148 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni06A9 dx=-235 dy=0 dh=-235 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -7382,8 +7386,8 @@ PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFE97 dx=-35 dy=0 dh=-35 dv=
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni062A dx=-101 dy=0 dh=-101 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0629 dx=-109 dy=0 dh=-109 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0628 dx=-85 dy=0 dh=-85 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0627 dx=-169 dy=0 dh=-169 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0622 dx=-174 dy=0 dh=-174 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0627 dx=-196 dy=0 dh=-196 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uni0622 dx=-200 dy=0 dh=-200 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB94 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" afii57509 dx=-141 dy=0 dh=-141 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB56 dx=-61 dy=0 dh=-61 dv=0 dx=0 dy=0 dh=0 dv=0
