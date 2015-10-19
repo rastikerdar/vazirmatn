@@ -4,7 +4,7 @@ FullName: Mirza Bold
 FamilyName: Mirza
 Weight: Bold
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nCopyright (c) 2006 by Tavmjong Bah. All Rights Reserved.\nDejaVu changes are in public domain\nCopyright (c) 2015 by Saber Rastikerdar. All Rights Reserved.
-Version: 1.4.4
+Version: 1.5
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1445169824
+ModificationTime: 1445235991
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -2362,7 +2362,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Mirza Bold 1.4.4" "" "Version 1.4.4" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Non-Latin glyph's changes by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Mirza" "Bold" 
+LangName: 1033 "" "" "" "Mirza Bold 1.5" "" "Version 1.5" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Non-Latin glyph's changes by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Mirza" "Bold" 
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -3459,7 +3459,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57407
+StartChar: uni061F
 Encoding: 1567 1567 37
 Width: 1093
 VWidth: 2102
@@ -3503,7 +3503,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57409
+StartChar: uni0621
 Encoding: 1569 1569 38
 Width: 1030
 VWidth: 2237
@@ -3565,11 +3565,11 @@ Width: 493
 VWidth: 2237
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-10" 304.95 2293.5 basechar 0
+AnchorPoint: "Anchor-10" 223.95 2023.5 basechar 0
 AnchorPoint: "Anchor-7" 304.95 -60.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 84 1620 N 1 0 0 1 -242.89 468.3 2
+Refer: 84 1620 S 1 0 0 1 -323.89 198.3 2
 Refer: 44 1575 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uni0654
@@ -3582,11 +3582,11 @@ Width: 805
 VWidth: 2237
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-10" 481.5 1504 basechar 0
+AnchorPoint: "Anchor-10" 361.5 1567 basechar 0
 AnchorPoint: "Anchor-7" 535 -488.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 84 1620 N 1 0 0 1 -66.34 -430.5 2
+Refer: 84 1620 S 1 0 0 1 -186.34 -367.5 2
 Refer: 72 1608 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0648 uni0654
@@ -3600,10 +3600,10 @@ VWidth: 2237
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-10" 304.95 1812 basechar 0
-AnchorPoint: "Anchor-7" 304.95 -542 basechar 0
+AnchorPoint: "Anchor-7" 262.95 -545 basechar 0
 LayerCount: 2
 Fore
-Refer: 85 1621 N 1 0 0 1 -242.89 51 2
+Refer: 85 1621 S 1 0 0 1 -284.89 48 2
 Refer: 44 1575 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uni0655
@@ -3629,7 +3629,7 @@ Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE8C
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE8A
 EndChar
 
-StartChar: afii57415
+StartChar: uni0627
 Encoding: 1575 1575 44
 Width: 493
 VWidth: 2237
@@ -3649,7 +3649,7 @@ EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE8E
 EndChar
 
-StartChar: afii57416
+StartChar: uni0628
 Encoding: 1576 1576 45
 Width: 1727
 VWidth: 2237
@@ -3661,12 +3661,12 @@ LayerCount: 2
 Fore
 Refer: 102 1646 N 1 0 0 1 0 0 2
 Refer: 293 -1 N 1.07 0 0 1.07 790.05 -336.84 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE91
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE92
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE90
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE92
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE91
 EndChar
 
-StartChar: afii57417
+StartChar: uni0629
 Encoding: 1577 1577 46
 Width: 951
 VWidth: 2237
@@ -3681,7 +3681,7 @@ Refer: 294 -1 N 1.07 0 0 1.07 206.5 1176.5 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE94
 EndChar
 
-StartChar: afii57418
+StartChar: uni062A
 Encoding: 1578 1578 47
 Width: 1727
 VWidth: 2237
@@ -3693,12 +3693,12 @@ LayerCount: 2
 Fore
 Refer: 102 1646 N 1 0 0 1 0 0 2
 Refer: 294 -1 N 1.07 0 0 1.07 645.69 898.92 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE97
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE98
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE96
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE98
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE97
 EndChar
 
-StartChar: afii57419
+StartChar: uni062B
 Encoding: 1579 1579 48
 Width: 1727
 VWidth: 2237
@@ -3710,12 +3710,12 @@ LayerCount: 2
 Fore
 Refer: 102 1646 N 1 0 0 1 0 0 2
 Refer: 295 -1 N 1.07 0 0 1.07 661.3 847.16 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE9B
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE9C
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE9A
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE9C
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE9B
 EndChar
 
-StartChar: afii57420
+StartChar: uni062C
 Encoding: 1580 1580 49
 Width: 1374
 VWidth: 2237
@@ -3727,12 +3727,12 @@ LayerCount: 2
 Fore
 Refer: 50 1581 N 1 0 0 1 0 0 2
 Refer: 293 -1 N 1.07 0 0 1.07 652.25 13.25 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE9F
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE9E
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA0
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE9F
 EndChar
 
-StartChar: afii57421
+StartChar: uni062D
 Encoding: 1581 1581 50
 Width: 1374
 VWidth: 2232
@@ -3767,12 +3767,12 @@ SplineSet
  28.9902 822.392 l 1,33,-1
  68.7744 831.36 l 2,0,1
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEA3
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA4
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEA2
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA4
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEA3
 EndChar
 
-StartChar: afii57422
+StartChar: uni062E
 Encoding: 1582 1582 51
 Width: 1374
 VWidth: 2237
@@ -3784,12 +3784,12 @@ LayerCount: 2
 Fore
 Refer: 50 1581 N 1 0 0 1 0 0 2
 Refer: 293 -1 N 1.07 0 0 1.07 515.25 1158 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEA7
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA8
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEA6
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA8
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEA7
 EndChar
 
-StartChar: afii57423
+StartChar: uni062F
 Encoding: 1583 1583 52
 Width: 902
 VWidth: 2237
@@ -3819,7 +3819,7 @@ EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEAA
 EndChar
 
-StartChar: afii57424
+StartChar: uni0630
 Encoding: 1584 1584 53
 Width: 902
 VWidth: 2237
@@ -3834,7 +3834,7 @@ Refer: 293 -1 S 1.07 0 0 1.07 245.75 1224.13 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEAC
 EndChar
 
-StartChar: afii57425
+StartChar: uni0631
 Encoding: 1585 1585 54
 Width: 788
 VWidth: 2237
@@ -3862,7 +3862,7 @@ EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEAE
 EndChar
 
-StartChar: afii57426
+StartChar: uni0632
 Encoding: 1586 1586 55
 Width: 788
 VWidth: 2237
@@ -3877,7 +3877,7 @@ Refer: 293 -1 S 1.07 0 0 1.07 389.56 886.43 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEB0
 EndChar
 
-StartChar: afii57427
+StartChar: uni0633
 Encoding: 1587 1587 56
 Width: 2375
 VWidth: 2237
@@ -3935,12 +3935,12 @@ SplineSet
  995.586 -68.0459 995.586 -68.0459 1030.8 32.8623 c 4,67,68
  1052 94.6982 1052 94.6982 1052 239.083 c 0,0,1
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEB3
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEB4
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEB2
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEB4
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEB3
 EndChar
 
-StartChar: afii57428
+StartChar: uni0634
 Encoding: 1588 1588 57
 Width: 2375
 VWidth: 2237
@@ -3952,12 +3952,12 @@ LayerCount: 2
 Fore
 Refer: 56 1587 N 1 0 0 1 0 0 2
 Refer: 295 -1 S 1.07 0 0 1.07 1453.38 881.99 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEB7
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEB8
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEB6
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEB8
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEB7
 EndChar
 
-StartChar: afii57429
+StartChar: uni0635
 Encoding: 1589 1589 58
 Width: 2376
 VWidth: 2237
@@ -4006,12 +4006,12 @@ SplineSet
  1860.29 647.936 1860.29 647.936 1747.47 554.501 c 1,57,58
  1619.92 446.023 1619.92 446.023 1517.02 289.744 c 1,47,-1
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEBB
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEBC
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEBA
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEBC
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEBB
 EndChar
 
-StartChar: afii57430
+StartChar: uni0636
 Encoding: 1590 1590 59
 Width: 2376
 VWidth: 2237
@@ -4023,12 +4023,12 @@ LayerCount: 2
 Fore
 Refer: 58 1589 N 1 0 0 1 0 0 2
 Refer: 293 -1 S 1.07 0 0 1.07 1809.25 1107.5 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEBF
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEBE
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC0
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEBF
 EndChar
 
-StartChar: afii57431
+StartChar: uni0637
 Encoding: 1591 1591 60
 Width: 1396
 VWidth: 2237
@@ -4062,12 +4062,12 @@ SplineSet
  1395.76 285.411 1395.76 285.411 1208.88 146.763 c 0,28,29
  1023.02 8.50418 1023.02 8.50418 743.536 5.83008 c 2,12,-1
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEC3
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC4
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEC2
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC4
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEC3
 EndChar
 
-StartChar: afii57432
+StartChar: uni0638
 Encoding: 1592 1592 61
 Width: 1396
 VWidth: 2237
@@ -4079,12 +4079,12 @@ LayerCount: 2
 Fore
 Refer: 60 1591 N 1 0 0 1 0 0 2
 Refer: 293 -1 N 1.07 0 0 1.07 816.38 1171.93 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEC7
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC8
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEC6
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC8
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEC7
 EndChar
 
-StartChar: afii57433
+StartChar: uni0639
 Encoding: 1593 1593 62
 Width: 1311
 VWidth: 2237
@@ -4127,12 +4127,12 @@ SplineSet
  300.487 -95.3037 300.487 -95.3037 392.986 -165.175 c 0,46,47
  501.444 -245.909 501.444 -245.909 665.802 -238.473 c 0,0,1
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFECB
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFECC
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFECA
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFECC
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFECB
 EndChar
 
-StartChar: afii57434
+StartChar: uni063A
 Encoding: 1594 1594 63
 Width: 1311
 VWidth: 2237
@@ -4144,12 +4144,12 @@ LayerCount: 2
 Fore
 Refer: 62 1593 N 1 0 0 1 0 0 2
 Refer: 293 -1 N 1.07 0 0 1.07 506.25 1348.5 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFECF
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFECE
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED0
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFECF
 EndChar
 
-StartChar: afii57440
+StartChar: uni0640
 Encoding: 1600 1600 64
 Width: 642
 VWidth: 2237
@@ -4168,7 +4168,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57441
+StartChar: uni0641
 Encoding: 1601 1601 65
 Width: 1739
 VWidth: 2237
@@ -4180,12 +4180,12 @@ LayerCount: 2
 Fore
 Refer: 109 1697 N 1 0 0 1 0 0 2
 Refer: 293 -1 S 1.07 0 0 1.07 1250.07 1323.49 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFED3
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED4
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFED2
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED4
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFED3
 EndChar
 
-StartChar: afii57442
+StartChar: uni0642
 Encoding: 1602 1602 66
 Width: 1459
 VWidth: 2237
@@ -4197,12 +4197,12 @@ LayerCount: 2
 Fore
 Refer: 103 1647 N 1 0 0 1 0 0 2
 Refer: 294 -1 S 1.07 0 0 1.07 804.5 1183 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFED7
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED8
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFED6
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED8
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFED7
 EndChar
 
-StartChar: afii57443
+StartChar: uni0643
 Encoding: 1603 1603 67
 Width: 1734
 VWidth: 2237
@@ -4265,12 +4265,12 @@ SplineSet
  451.882 330.994 451.882 330.994 571.351 303.721 c 0,76,77
  650.018 285.762 650.018 285.762 805.309 281.794 c 0,46,47
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEDB
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEDC
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEDA
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEDC
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEDB
 EndChar
 
-StartChar: afii57444
+StartChar: uni0644
 Encoding: 1604 1604 68
 Width: 1263
 VWidth: 2237
@@ -4301,12 +4301,12 @@ SplineSet
  741.276 -68.21 741.276 -68.21 810.581 -18.2461 c 0,28,29
  904.119 49.1887 904.119 49.1887 918.768 220.736 c 0,0,1
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEDF
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEDE
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE0
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEDF
 EndChar
 
-StartChar: afii57445
+StartChar: uni0645
 Encoding: 1605 1605 69
 Width: 1093
 VWidth: 2237
@@ -4347,12 +4347,12 @@ SplineSet
  834.432 162.856 834.432 162.856 685.711 168.15 c 0,45,46
  414.874 177.786 414.874 177.786 406.66 174.289 c 0,19,20
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEE3
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE4
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEE2
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE4
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEE3
 EndChar
 
-StartChar: afii57446
+StartChar: uni0646
 Encoding: 1606 1606 70
 Width: 1451
 VWidth: 2237
@@ -4364,12 +4364,12 @@ LayerCount: 2
 Fore
 Refer: 112 1722 N 1 0 0 1 0 0 2
 Refer: 293 -1 N 1.07 0 0 1.07 630.595 811.574 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEE7
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE8
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEE6
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE8
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEE7
 EndChar
 
-StartChar: afii57470
+StartChar: uni0647
 Encoding: 1607 1607 71
 Width: 951
 VWidth: 2237
@@ -4403,12 +4403,12 @@ SplineSet
  69.6797 129 69.6797 129 42.0039 282.271 c 0,31,32
  16.8779 421.417 16.8779 421.417 116.146 612.557 c 1,14,15
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEEB
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEEC
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEEA
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEEC
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEEB
 EndChar
 
-StartChar: afii57448
+StartChar: uni0648
 Encoding: 1608 1608 72
 Width: 805
 VWidth: 2237
@@ -4448,7 +4448,7 @@ EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEEE
 EndChar
 
-StartChar: afii57449
+StartChar: uni0649
 Encoding: 1609 1609 73
 Width: 1539
 VWidth: 2237
@@ -4494,12 +4494,12 @@ SplineSet
  1485.35 279.092 1485.35 279.092 1473.42 181.049 c 0,54,55
  1453.28 1.27734 1453.28 1.27734 1313.16 -119.63 c 0,0,1
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFBE8
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFBE9
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEF0
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFBE9
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFBE8
 EndChar
 
-StartChar: afii57450
+StartChar: uni064A
 Encoding: 1610 1610 74
 Width: 1539
 VWidth: 2237
@@ -4511,9 +4511,9 @@ LayerCount: 2
 Fore
 Refer: 73 1609 N 1 0 0 1 0 0 2
 Refer: 294 -1 S 1.07 0 0 1.07 415 -479.5 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEF3
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEF4
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEF2
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEF4
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEF3
 EndChar
 
 StartChar: uni064B
