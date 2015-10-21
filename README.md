@@ -1,8 +1,8 @@
-# Mirza-Font
+# Vazir-Font
 A Persian (Farsi) Font
 
-فونت فارسی میرزا
+فونت فارسی وزیر
 
-[نمایش فونت](http://rastikerdar.github.io/mirza-font/)
+[نمایش فونت](http://rastikerdar.github.io/vazir-font/)
 
 با تشکر از برنامه [FontForge](https://fontforge.github.io)
