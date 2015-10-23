@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1445570023
+ModificationTime: 1445569819
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -2420,7 +2420,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 180 12 13
+WinInfo: 0 12 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -4239,7 +4239,7 @@ Width: 1510
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 350 1410.5 basechar 0
+AnchorPoint: "Anchor-10" 406 1490.5 basechar 0
 AnchorPoint: "Anchor-7" 584 -461 basechar 0
 LayerCount: 2
 Fore
@@ -4404,7 +4404,7 @@ Width: 1484
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 704.845 1244.57 basechar 0
+AnchorPoint: "Anchor-10" 713.845 1193.57 basechar 0
 AnchorPoint: "Anchor-7" 562.5 -423 basechar 0
 LayerCount: 2
 Fore
@@ -5635,7 +5635,7 @@ Width: 1701
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 378 1294.34 basechar 0
+AnchorPoint: "Anchor-10" 390 1354.34 basechar 0
 AnchorPoint: "Anchor-7" 798 -139.68 basechar 0
 LayerCount: 2
 Fore
@@ -5681,12 +5681,12 @@ Width: 1701
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 403 1271.36 basechar 0
+AnchorPoint: "Anchor-10" 435 1371.36 basechar 0
 AnchorPoint: "Anchor-7" 676 -114 basechar 0
 LayerCount: 2
 Fore
 Refer: 110 1705 N 1 0 0 1 0 0 2
-Refer: 307 -1 N 1.07 0 0 1.07 916.9 -94.64 2
+Refer: 307 -1 S 1.07 0 0 1.07 916.9 -94.64 2
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB94
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB95
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB93
@@ -6103,7 +6103,7 @@ Width: 1791
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 383 1308.5 basechar 0
+AnchorPoint: "Anchor-10" 535 1544.5 basechar 0
 AnchorPoint: "Anchor-7" 856 -114 basechar 0
 LayerCount: 2
 Fore
@@ -6116,7 +6116,7 @@ Width: 1795
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 401 1296.5 basechar 0
+AnchorPoint: "Anchor-10" 477 1544.5 basechar 0
 AnchorPoint: "Anchor-7" 798 -114 basechar 0
 LayerCount: 2
 Fore
@@ -6192,7 +6192,7 @@ Width: 1701
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 375 1316.5 basechar 0
+AnchorPoint: "Anchor-10" 463 1508.5 basechar 0
 AnchorPoint: "Anchor-7" 856 -114 basechar 0
 LayerCount: 2
 Fore
@@ -6206,7 +6206,7 @@ Width: 1795
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 362 1305.5 basechar 0
+AnchorPoint: "Anchor-10" 474 1453.5 basechar 0
 AnchorPoint: "Anchor-7" 856 -114 basechar 0
 LayerCount: 2
 Fore
@@ -8505,7 +8505,7 @@ Width: 1510
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 289 1366.5 basechar 0
+AnchorPoint: "Anchor-10" 285 1430.5 basechar 0
 AnchorPoint: "Anchor-7" 671 -503 basechar 0
 LayerCount: 2
 Fore
@@ -8519,7 +8519,7 @@ Width: 1418
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 335 1341 basechar 0
+AnchorPoint: "Anchor-10" 331 1421 basechar 0
 AnchorPoint: "Anchor-7" 629 -574.5 basechar 0
 LayerCount: 2
 Fore
