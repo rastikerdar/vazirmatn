@@ -4,7 +4,7 @@ FullName: Vazir Bold
 FamilyName: Vazir
 Weight: Bold
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nCopyright (c) 2006 by Tavmjong Bah. All Rights Reserved.\nDejaVu changes are in public domain\nCopyright (c) 2015 by Saber Rastikerdar. All Rights Reserved.
-Version: 1.7.4
+Version: 1.7.5
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1445570023
+ModificationTime: 1445582225
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -2354,7 +2354,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Vazir Bold 1.7.4" "" "Version 1.7.4" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Vazir" "Bold" 
+LangName: 1033 "" "" "" "Vazir Bold 1.7.5" "" "Version 1.7.5" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Vazir" "Bold" 
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -4568,23 +4568,23 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 547.84 1279.5 mark 0
-AnchorPoint: "Anchor-9" 547.84 1279.5 mark 0
-AnchorPoint: "Anchor-1" 547.84 1814.5 basemark 0
-AnchorPoint: "Anchor-1" 547.84 1279.5 mark 0
+AnchorPoint: "Anchor-10" 547.84 1024.5 mark 0
+AnchorPoint: "Anchor-9" 547.84 1024.5 mark 0
+AnchorPoint: "Anchor-1" 547.84 1559.5 basemark 0
+AnchorPoint: "Anchor-1" 547.84 1024.5 mark 0
 LayerCount: 2
 Fore
 SplineSet
-269.4 1215.41 m 1,0,-1
- 269.4 1342.48 l 1,1,-1
- 827.28 1570.79 l 1,2,-1
- 827.28 1443.72 l 1,3,-1
- 269.4 1215.41 l 1,0,-1
-269.4 1472.21 m 1,4,-1
- 269.4 1599.28 l 1,5,-1
- 827.28 1827.59 l 1,6,-1
- 827.28 1700.52 l 1,7,-1
- 269.4 1472.21 l 1,4,-1
+269.4 960.41 m 5,0,-1
+ 269.4 1087.48 l 5,1,-1
+ 827.28 1315.79 l 5,2,-1
+ 827.28 1188.72 l 5,3,-1
+ 269.4 960.41 l 5,0,-1
+269.4 1217.21 m 5,4,-1
+ 269.4 1344.28 l 5,5,-1
+ 827.28 1572.59 l 5,6,-1
+ 827.28 1445.52 l 5,7,-1
+ 269.4 1217.21 l 5,4,-1
 EndSplineSet
 EndChar
 
@@ -4594,50 +4594,50 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 547.84 1223.5 mark 0
-AnchorPoint: "Anchor-9" 547.84 1223.5 mark 0
-AnchorPoint: "Anchor-1" 547.84 1919 basemark 0
-AnchorPoint: "Anchor-1" 547.84 1223.5 mark 0
+AnchorPoint: "Anchor-10" 549.458 1130.73 mark 0
+AnchorPoint: "Anchor-9" 549.458 1130.73 mark 0
+AnchorPoint: "Anchor-1" 546.458 1799.23 basemark 0
+AnchorPoint: "Anchor-1" 549.458 1130.73 mark 0
 LayerCount: 2
 Fore
 SplineSet
-568.672 1406.78 m 4,0,1
- 609.844 1446.84 609.844 1446.84 633.298 1493.75 c 6,2,-1
- 640.818 1508.79 l 5,3,-1
- 624.367 1512.28 l 6,4,5
- 591.011 1519.35 591.011 1519.35 567.986 1532.37 c 4,6,7
- 459.19 1589.79 459.19 1589.79 459.19 1682.53 c 4,8,9
- 459.19 1769.14 459.19 1769.14 527.819 1820.86 c 4,10,11
- 554.314 1840.73 554.314 1840.73 617.39 1840.73 c 4,12,13
- 690.212 1840.73 690.212 1840.73 729.192 1802.72 c 4,14,15
- 784.15 1748.77 784.15 1748.77 784.15 1669.69 c 4,16,17
- 784.15 1629.96 784.15 1629.96 771.914 1591.21 c 6,18,-1
- 766.856 1575.2 l 5,19,-1
- 783.628 1574.32 l 6,20,21
- 803.701 1573.26 803.701 1573.26 819.259 1573.23 c 4,22,23
- 832.659 1572.51 832.659 1572.51 847.28 1572.26 c 5,24,-1
- 847.28 1480.5 l 5,25,26
- 807.686 1480.75 807.686 1480.75 789.834 1482.54 c 6,27,-1
- 724.723 1488.8 l 5,28,-1
- 720.991 1480.05 l 6,29,30
- 694.106 1416.97 694.106 1416.97 615.574 1335.3 c 5,31,32
- 528.497 1247.2 528.497 1247.2 433.35 1247.2 c 4,33,34
- 320.473 1247.2 320.473 1247.2 263.659 1403.45 c 4,35,36
- 249.343 1442.57 249.343 1442.57 248.448 1550.76 c 5,37,-1
- 318.752 1550.76 l 5,38,39
- 319.596 1455.17 319.596 1455.17 332.76 1426.65 c 4,40,41
- 373.713 1338.9 373.713 1338.9 433.35 1338.9 c 4,42,43
- 498.53 1338.9 498.53 1338.9 568.672 1406.78 c 4,0,1
-670.746 1590.7 m 5,44,-1
- 681.77 1616.42 l 6,45,46
- 692.45 1641.34 692.45 1641.34 692.45 1669.69 c 4,47,48
- 692.45 1712.21 692.45 1712.21 669.524 1731.08 c 4,49,50
- 647.734 1749.03 647.734 1749.03 621.67 1749.03 c 4,51,52
- 593.241 1749.03 593.241 1749.03 577.329 1736.69 c 4,53,54
- 553.03 1718.4 553.03 1718.4 553.03 1682.53 c 4,55,56
- 553.03 1634.14 553.03 1634.14 609.352 1611.61 c 4,57,58
- 631.256 1602.85 631.256 1602.85 659.577 1594.14 c 6,59,-1
- 670.746 1590.7 l 5,44,-1
+567.29 1287.01 m 4,0,1
+ 608.462 1327.07 608.462 1327.07 631.916 1373.98 c 6,2,-1
+ 639.437 1389.02 l 5,3,-1
+ 622.985 1392.51 l 6,4,5
+ 589.629 1399.58 589.629 1399.58 566.604 1412.6 c 4,6,7
+ 457.809 1470.02 457.809 1470.02 457.809 1562.76 c 4,8,9
+ 457.809 1649.37 457.809 1649.37 526.438 1701.09 c 4,10,11
+ 552.933 1720.96 552.933 1720.96 616.008 1720.96 c 4,12,13
+ 688.83 1720.96 688.83 1720.96 727.811 1682.95 c 4,14,15
+ 782.769 1629 782.769 1629 782.769 1549.92 c 4,16,17
+ 782.769 1510.19 782.769 1510.19 770.532 1471.44 c 6,18,-1
+ 765.475 1455.43 l 5,19,-1
+ 782.246 1454.55 l 6,20,21
+ 802.319 1453.49 802.319 1453.49 817.877 1453.46 c 4,22,23
+ 831.277 1452.74 831.277 1452.74 845.898 1452.49 c 5,24,-1
+ 845.898 1360.73 l 5,25,26
+ 806.304 1360.98 806.304 1360.98 788.452 1362.77 c 6,27,-1
+ 723.341 1369.03 l 5,28,-1
+ 719.609 1360.28 l 6,29,30
+ 692.725 1297.2 692.725 1297.2 614.192 1215.53 c 5,31,32
+ 527.115 1127.43 527.115 1127.43 431.968 1127.43 c 4,33,34
+ 319.091 1127.43 319.091 1127.43 262.277 1283.68 c 4,35,36
+ 247.961 1322.8 247.961 1322.8 247.066 1430.99 c 5,37,-1
+ 317.37 1430.99 l 5,38,39
+ 318.214 1335.4 318.214 1335.4 331.378 1306.88 c 4,40,41
+ 372.331 1219.13 372.331 1219.13 431.968 1219.13 c 4,42,43
+ 497.148 1219.13 497.148 1219.13 567.29 1287.01 c 4,0,1
+669.364 1470.93 m 5,44,-1
+ 680.389 1496.65 l 6,45,46
+ 691.068 1521.57 691.068 1521.57 691.068 1549.92 c 4,47,48
+ 691.068 1592.44 691.068 1592.44 668.143 1611.31 c 4,49,50
+ 646.353 1629.26 646.353 1629.26 620.288 1629.26 c 4,51,52
+ 591.859 1629.26 591.859 1629.26 575.947 1616.92 c 4,53,54
+ 551.648 1598.63 551.648 1598.63 551.648 1562.76 c 4,55,56
+ 551.648 1514.37 551.648 1514.37 607.97 1491.84 c 4,57,58
+ 629.874 1483.08 629.874 1483.08 658.195 1474.37 c 6,59,-1
+ 669.364 1470.93 l 5,44,-1
 EndSplineSet
 EndChar
 
@@ -4647,23 +4647,23 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-7" 547.84 -4.5 mark 0
-AnchorPoint: "Anchor-6" 547.84 -4.5 mark 0
-AnchorPoint: "Anchor-0" 547.84 -539.5 basemark 0
-AnchorPoint: "Anchor-0" 547.84 -4.5 mark 0
+AnchorPoint: "Anchor-7" 533.84 64.5 mark 0
+AnchorPoint: "Anchor-6" 533.84 64.5 mark 0
+AnchorPoint: "Anchor-0" 547.84 -438.5 basemark 0
+AnchorPoint: "Anchor-0" 533.84 64.5 mark 0
 LayerCount: 2
 Fore
 SplineSet
-270.96 -612.18 m 1,0,-1
- 270.96 -485.11 l 1,1,-1
- 828.84 -256.8 l 1,2,-1
- 828.84 -383.87 l 1,3,-1
- 270.96 -612.18 l 1,0,-1
-270.96 -355.38 m 1,4,-1
- 270.96 -228.31 l 1,5,-1
- 828.84 0 l 1,6,-1
- 828.84 -127.07 l 1,7,-1
- 270.96 -355.38 l 1,4,-1
+270.96 -511.18 m 1,0,-1
+ 270.96 -384.11 l 1,1,-1
+ 828.84 -155.8 l 1,2,-1
+ 828.84 -282.87 l 1,3,-1
+ 270.96 -511.18 l 1,0,-1
+270.96 -254.38 m 1,4,-1
+ 270.96 -127.31 l 1,5,-1
+ 828.84 101 l 1,6,-1
+ 828.84 -26.0703 l 1,7,-1
+ 270.96 -254.38 l 1,4,-1
 EndSplineSet
 EndChar
 
@@ -4694,47 +4694,47 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 547.84 1180.5 mark 0
-AnchorPoint: "Anchor-9" 547.84 1180.5 mark 0
-AnchorPoint: "Anchor-1" 547.84 1876 basemark 0
-AnchorPoint: "Anchor-1" 547.84 1180.5 mark 0
+AnchorPoint: "Anchor-10" 526.868 1176.04 mark 0
+AnchorPoint: "Anchor-9" 526.868 1176.04 mark 0
+AnchorPoint: "Anchor-1" 541.868 1802.54 basemark 0
+AnchorPoint: "Anchor-1" 526.868 1176.04 mark 0
 LayerCount: 2
 Fore
 SplineSet
-594.529 1477.81 m 6,0,1
- 586.598 1479.57 586.598 1479.57 567.734 1489.5 c 4,2,3
- 459.19 1545.78 459.19 1545.78 459.19 1639.53 c 4,4,5
- 459.19 1726.14 459.19 1726.14 527.819 1777.86 c 4,6,7
- 554.314 1797.73 554.314 1797.73 617.39 1797.73 c 4,8,9
- 690.212 1797.73 690.212 1797.73 729.192 1759.72 c 4,10,11
- 784.15 1705.77 784.15 1705.77 784.15 1626.69 c 4,12,13
- 784.15 1594.43 784.15 1594.43 769.757 1548.16 c 6,14,-1
- 764.821 1532.3 l 5,15,-1
- 781.407 1531.32 l 6,16,17
- 799.81 1530.24 799.81 1530.24 819.259 1529.7 c 4,18,19
- 832.229 1529.34 832.229 1529.34 847.28 1529.21 c 5,20,-1
- 847.28 1437.53 l 5,21,22
- 817.029 1437.85 817.029 1437.85 789.455 1439.57 c 4,23,24
- 757.6 1441.7 757.6 1441.7 727.915 1444.88 c 6,25,-1
- 720.312 1445.69 l 5,26,-1
- 715.905 1439.44 l 6,27,28
- 671.45 1376.37 671.45 1376.37 599.88 1332.81 c 4,29,30
- 398.294 1208.85 398.294 1208.85 248.4 1203.36 c 5,31,-1
- 248.4 1295.01 l 5,32,33
- 408.671 1299.65 408.671 1299.65 554.781 1414.22 c 4,34,35
- 580.142 1434.07 580.142 1434.07 601.135 1456.16 c 6,36,-1
- 616.962 1472.83 l 5,37,-1
- 594.529 1477.81 l 6,0,1
-670.746 1547.7 m 5,38,-1
- 681.77 1573.42 l 6,39,40
- 692.45 1598.34 692.45 1598.34 692.45 1626.69 c 4,41,42
- 692.45 1669.21 692.45 1669.21 669.524 1688.08 c 4,43,44
- 647.734 1706.03 647.734 1706.03 621.67 1706.03 c 4,45,46
- 593.241 1706.03 593.241 1706.03 577.329 1693.69 c 4,47,48
- 553.03 1675.4 553.03 1675.4 553.03 1639.53 c 4,49,50
- 553.03 1591.14 553.03 1591.14 609.352 1568.61 c 4,51,52
- 631.256 1559.85 631.256 1559.85 659.577 1551.14 c 6,53,-1
- 670.746 1547.7 l 5,38,-1
+588.557 1404.35 m 6,0,1
+ 580.626 1406.11 580.626 1406.11 561.762 1416.04 c 4,2,3
+ 453.218 1472.32 453.218 1472.32 453.218 1566.07 c 4,4,5
+ 453.218 1652.68 453.218 1652.68 521.847 1704.4 c 4,6,7
+ 548.342 1724.27 548.342 1724.27 611.418 1724.27 c 4,8,9
+ 684.239 1724.27 684.239 1724.27 723.22 1686.26 c 4,10,11
+ 778.178 1632.31 778.178 1632.31 778.178 1553.23 c 4,12,13
+ 778.178 1520.97 778.178 1520.97 763.784 1474.7 c 6,14,-1
+ 758.849 1458.84 l 5,15,-1
+ 775.435 1457.86 l 6,16,17
+ 793.838 1456.78 793.838 1456.78 813.286 1456.24 c 4,18,19
+ 826.257 1455.88 826.257 1455.88 841.308 1455.75 c 5,20,-1
+ 841.308 1364.07 l 5,21,22
+ 811.057 1364.39 811.057 1364.39 783.482 1366.11 c 4,23,24
+ 751.628 1368.24 751.628 1368.24 721.942 1371.42 c 6,25,-1
+ 714.34 1372.23 l 5,26,-1
+ 709.933 1365.98 l 6,27,28
+ 665.478 1302.91 665.478 1302.91 593.907 1259.35 c 4,29,30
+ 392.321 1135.39 392.321 1135.39 242.428 1129.9 c 5,31,-1
+ 242.428 1221.55 l 5,32,33
+ 402.698 1226.19 402.698 1226.19 548.809 1340.76 c 4,34,35
+ 574.17 1360.61 574.17 1360.61 595.163 1382.7 c 6,36,-1
+ 610.989 1399.37 l 5,37,-1
+ 588.557 1404.35 l 6,0,1
+664.773 1474.24 m 5,38,-1
+ 675.798 1499.96 l 6,39,40
+ 686.478 1524.88 686.478 1524.88 686.478 1553.23 c 4,41,42
+ 686.478 1595.75 686.478 1595.75 663.552 1614.62 c 4,43,44
+ 641.762 1632.57 641.762 1632.57 615.697 1632.57 c 4,45,46
+ 587.269 1632.57 587.269 1632.57 571.356 1620.23 c 4,47,48
+ 547.058 1601.94 547.058 1601.94 547.058 1566.07 c 4,49,50
+ 547.058 1517.68 547.058 1517.68 603.38 1495.15 c 4,51,52
+ 625.283 1486.39 625.283 1486.39 653.604 1477.68 c 6,53,-1
+ 664.773 1474.24 l 5,38,-1
 EndSplineSet
 EndChar
 
@@ -4744,18 +4744,18 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-7" 547.84 -4.5 mark 0
-AnchorPoint: "Anchor-6" 547.84 -4.5 mark 0
-AnchorPoint: "Anchor-0" 547.84 -325.5 basemark 0
-AnchorPoint: "Anchor-0" 547.84 -4.5 mark 0
+AnchorPoint: "Anchor-7" 531.84 -13.5 mark 0
+AnchorPoint: "Anchor-6" 531.84 -13.5 mark 0
+AnchorPoint: "Anchor-0" 547.84 -288.5 basemark 0
+AnchorPoint: "Anchor-0" 531.84 -13.5 mark 0
 LayerCount: 2
 Fore
 SplineSet
-267.96 -391.836 m 1,0,-1
- 267.96 -264.766 l 1,1,-1
- 825.84 -36.4561 l 1,2,-1
- 825.84 -163.526 l 1,3,-1
- 267.96 -391.836 l 1,0,-1
+267.96 -354.836 m 1,0,-1
+ 267.96 -227.766 l 1,1,-1
+ 825.84 0.543945 l 1,2,-1
+ 825.84 -126.526 l 1,3,-1
+ 267.96 -354.836 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -4765,35 +4765,35 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 547.84 1256.5 mark 0
-AnchorPoint: "Anchor-9" 547.84 1256.5 mark 0
-AnchorPoint: "Anchor-1" 544.84 2069.5 basemark 0
-AnchorPoint: "Anchor-1" 547.84 1256.5 mark 0
+AnchorPoint: "Anchor-10" 556.84 1295.5 mark 0
+AnchorPoint: "Anchor-9" 556.84 1295.5 mark 0
+AnchorPoint: "Anchor-1" 538.84 1844.5 basemark 0
+AnchorPoint: "Anchor-1" 556.84 1295.5 mark 0
 LayerCount: 2
 Fore
 SplineSet
-507.84 1427.09 m 4,0,1
- 469.58 1378.39 469.58 1378.39 378.78 1378.39 c 4,2,3
- 301.302 1378.39 301.302 1378.39 261.261 1439.91 c 4,4,5
- 227 1492.31 227 1492.31 227 1542.07 c 4,6,7
- 227 1651.41 227 1651.41 242.222 1750.56 c 5,8,-1
- 320.73 1750.56 l 5,9,10
- 310.14 1626.98 310.14 1626.98 310.14 1569.89 c 4,11,12
- 310.14 1478.86 310.14 1478.86 398.84 1477.09 c 4,13,14
- 495.274 1475.16 495.274 1475.16 506.266 1628.54 c 4,15,16
- 508.168 1655.08 508.168 1655.08 508.4 1798.83 c 5,17,-1
- 586.06 1798.83 l 5,18,19
- 588.34 1763.85 588.34 1763.85 588.34 1715.53 c 4,20,21
- 588.34 1476.09 588.34 1476.09 700.84 1476.09 c 4,22,23
- 785.54 1476.09 785.54 1476.09 785.54 1693.06 c 4,24,25
- 785.54 1802.64 785.54 1802.64 774.521 1864.1 c 5,26,-1
- 857.705 1864.1 l 5,27,28
- 868.68 1788.87 868.68 1788.87 868.68 1674.87 c 4,29,30
- 868.68 1535.63 868.68 1535.63 841.188 1480.65 c 4,31,32
- 796.179 1391.62 796.179 1391.62 714.195 1381.75 c 4,33,34
- 650.159 1373.63 650.159 1373.63 616.258 1403.33 c 5,35,36
- 573.793 1442.62 573.793 1442.62 554.84 1541.09 c 5,37,38
- 536.141 1463.11 536.141 1463.11 507.84 1427.09 c 4,0,1
+507.84 1331.09 m 0,0,1
+ 469.58 1282.39 469.58 1282.39 378.78 1282.39 c 0,2,3
+ 301.302 1282.39 301.302 1282.39 261.261 1343.91 c 0,4,5
+ 227 1396.31 227 1396.31 227 1446.07 c 0,6,7
+ 227 1555.41 227 1555.41 242.222 1654.56 c 1,8,-1
+ 320.73 1654.56 l 1,9,10
+ 310.14 1530.98 310.14 1530.98 310.14 1473.89 c 0,11,12
+ 310.14 1382.86 310.14 1382.86 398.84 1381.09 c 0,13,14
+ 495.274 1379.16 495.274 1379.16 506.266 1532.54 c 0,15,16
+ 508.168 1559.08 508.168 1559.08 508.4 1702.83 c 1,17,-1
+ 586.06 1702.83 l 1,18,19
+ 588.34 1667.85 588.34 1667.85 588.34 1619.53 c 0,20,21
+ 588.34 1380.09 588.34 1380.09 700.84 1380.09 c 0,22,23
+ 785.54 1380.09 785.54 1380.09 785.54 1597.06 c 0,24,25
+ 785.54 1706.64 785.54 1706.64 774.521 1768.1 c 1,26,-1
+ 857.705 1768.1 l 1,27,28
+ 868.68 1692.87 868.68 1692.87 868.68 1578.87 c 0,29,30
+ 868.68 1439.63 868.68 1439.63 841.188 1384.65 c 0,31,32
+ 796.179 1295.62 796.179 1295.62 714.195 1285.75 c 0,33,34
+ 650.159 1277.63 650.159 1277.63 616.258 1307.33 c 1,35,36
+ 573.793 1346.62 573.793 1346.62 554.84 1445.09 c 1,37,38
+ 536.141 1367.11 536.141 1367.11 507.84 1331.09 c 0,0,1
 EndSplineSet
 EndChar
 
@@ -4803,31 +4803,31 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 547.84 1125.5 mark 0
-AnchorPoint: "Anchor-9" 547.84 1125.5 mark 0
+AnchorPoint: "Anchor-10" 559.84 1158.5 mark 0
+AnchorPoint: "Anchor-9" 559.84 1158.5 mark 0
 AnchorPoint: "Anchor-1" 547.84 1738 basemark 0
-AnchorPoint: "Anchor-1" 547.84 1125.5 mark 0
+AnchorPoint: "Anchor-1" 559.84 1158.5 mark 0
 LayerCount: 2
 Fore
 SplineSet
-674.569 1404.62 m 4,0,1
- 674.569 1449.15 674.569 1449.15 643.439 1480.28 c 132,-1,2
- 612.312 1511.41 612.312 1511.41 567.126 1511.41 c 4,3,4
- 521.285 1511.41 521.285 1511.41 490.485 1480.61 c 132,-1,5
- 459.686 1449.81 459.686 1449.81 459.686 1404.62 c 4,6,7
- 459.686 1358.78 459.686 1358.78 490.485 1327.98 c 132,-1,8
- 521.285 1297.18 521.285 1297.18 567.126 1297.18 c 4,9,10
- 612.314 1297.18 612.314 1297.18 643.439 1328.31 c 132,-1,11
- 674.569 1359.44 674.569 1359.44 674.569 1404.62 c 4,0,1
-750.396 1404.73 m 132,-1,13
- 750.396 1327.88 750.396 1327.88 697.316 1274.46 c 132,-1,14
- 644.259 1221.07 644.259 1221.07 567.436 1221.07 c 132,-1,15
- 490.613 1221.07 490.613 1221.07 437.557 1274.46 c 132,-1,16
- 384.476 1327.88 384.476 1327.88 384.476 1404.73 c 132,-1,17
- 384.476 1481.56 384.476 1481.56 437.537 1534.63 c 132,-1,18
- 490.596 1587.69 490.596 1587.69 567.436 1587.69 c 132,-1,19
- 644.276 1587.69 644.276 1587.69 697.335 1534.63 c 132,-1,12
- 750.396 1481.56 750.396 1481.56 750.396 1404.73 c 132,-1,13
+674.569 1404.62 m 0,0,1
+ 674.569 1449.15 674.569 1449.15 643.439 1480.28 c 128,-1,2
+ 612.312 1511.41 612.312 1511.41 567.126 1511.41 c 0,3,4
+ 521.285 1511.41 521.285 1511.41 490.485 1480.61 c 128,-1,5
+ 459.686 1449.81 459.686 1449.81 459.686 1404.62 c 0,6,7
+ 459.686 1358.78 459.686 1358.78 490.485 1327.98 c 128,-1,8
+ 521.285 1297.18 521.285 1297.18 567.126 1297.18 c 0,9,10
+ 612.314 1297.18 612.314 1297.18 643.439 1328.31 c 128,-1,11
+ 674.569 1359.44 674.569 1359.44 674.569 1404.62 c 0,0,1
+750.396 1404.73 m 128,-1,13
+ 750.396 1327.88 750.396 1327.88 697.316 1274.46 c 128,-1,14
+ 644.259 1221.07 644.259 1221.07 567.436 1221.07 c 128,-1,15
+ 490.613 1221.07 490.613 1221.07 437.557 1274.46 c 128,-1,16
+ 384.476 1327.88 384.476 1327.88 384.476 1404.73 c 128,-1,17
+ 384.476 1481.56 384.476 1481.56 437.537 1534.63 c 128,-1,18
+ 490.596 1587.69 490.596 1587.69 567.436 1587.69 c 128,-1,19
+ 644.276 1587.69 644.276 1587.69 697.335 1534.63 c 128,-1,12
+ 750.396 1481.56 750.396 1481.56 750.396 1404.73 c 128,-1,13
 EndSplineSet
 EndChar
 
@@ -8715,7 +8715,7 @@ Width: 1314
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 428.5 1028.5 basechar 0
+AnchorPoint: "Anchor-10" 440.5 1013.5 basechar 0
 AnchorPoint: "Anchor-7" 506 -447 basechar 0
 LayerCount: 2
 Fore
@@ -9340,14 +9340,14 @@ Width: 1167
 VWidth: 2237
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-9" 990.69 1572 baselig 0
+AnchorPoint: "Anchor-9" 972.69 1503 baselig 0
 AnchorPoint: "Anchor-6" 978.69 -60.5 baselig 0
 AnchorPoint: "Anchor-6" 265 -114 baselig 1
 AnchorPoint: "Anchor-9" 217.5 1755.5 baselig 1
 LayerCount: 2
 Fore
 Refer: 291 65275 N 1 0 0 1 51 0 2
-Refer: 83 1619 S 1 0 0 1 -174.34 170 2
+Refer: 83 1619 N 1 0 0 1 -174.34 170 2
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEDF uniFE82
 EndChar
@@ -9358,7 +9358,7 @@ Width: 1236
 VWidth: 2237
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-9" 882.69 1542 baselig 0
+AnchorPoint: "Anchor-9" 885.69 1497 baselig 0
 AnchorPoint: "Anchor-6" 927.69 -60.5 baselig 0
 AnchorPoint: "Anchor-6" 214 -114 baselig 1
 AnchorPoint: "Anchor-9" 198.5 1746.5 baselig 1
@@ -9412,7 +9412,7 @@ Width: 1167
 VWidth: 2237
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-9" 957.69 1534 baselig 0
+AnchorPoint: "Anchor-9" 963.69 1510 baselig 0
 AnchorPoint: "Anchor-6" 978.69 -60.5 baselig 0
 AnchorPoint: "Anchor-6" 265 -542 baselig 1
 AnchorPoint: "Anchor-9" 208.5 1481.5 baselig 1
@@ -9430,7 +9430,7 @@ Width: 1236
 VWidth: 2237
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-9" 894.69 1531 baselig 0
+AnchorPoint: "Anchor-9" 888.69 1507 baselig 0
 AnchorPoint: "Anchor-6" 927.69 -60.5 baselig 0
 AnchorPoint: "Anchor-6" 214 -542 baselig 1
 AnchorPoint: "Anchor-9" 148.5 1481.5 baselig 1
@@ -9484,7 +9484,7 @@ Width: 1236
 VWidth: 2237
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-9" 876.69 1524 baselig 0
+AnchorPoint: "Anchor-9" 876.69 1500 baselig 0
 AnchorPoint: "Anchor-6" 873.69 -60.5 baselig 0
 AnchorPoint: "Anchor-6" 160 -114 baselig 1
 AnchorPoint: "Anchor-9" 145.5 1453.5 baselig 1
@@ -9950,14 +9950,14 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 567.84 734.5 mark 0
-AnchorPoint: "Anchor-9" 567.84 734.5 mark 0
-AnchorPoint: "Anchor-1" 567.84 1911.5 basemark 0
-AnchorPoint: "Anchor-1" 567.84 734.5 mark 0
+AnchorPoint: "Anchor-10" 567.84 698.5 mark 0
+AnchorPoint: "Anchor-9" 567.84 698.5 mark 0
+AnchorPoint: "Anchor-1" 579.84 1761.5 basemark 0
+AnchorPoint: "Anchor-1" 567.84 698.5 mark 0
 LayerCount: 2
 Fore
-Refer: 75 1611 S 1 0 0 1 20 97 2
-Refer: 81 1617 S 1 0 0 1 22.16 -545 2
+Refer: 75 1611 N 1 0 0 1 17 148 2
+Refer: 81 1617 S 1 0 0 1 22.16 -596 2
 LCarets2: 1 0 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0651 uni064B
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064B uni0651
@@ -9969,14 +9969,14 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 507.84 811.5 mark 0
-AnchorPoint: "Anchor-9" 507.84 811.5 mark 0
-AnchorPoint: "Anchor-1" 507.84 2196.5 basemark 0
-AnchorPoint: "Anchor-1" 507.84 811.5 mark 0
+AnchorPoint: "Anchor-10" 507.84 673.5 mark 0
+AnchorPoint: "Anchor-9" 507.84 673.5 mark 0
+AnchorPoint: "Anchor-1" 504.84 1863.5 basemark 0
+AnchorPoint: "Anchor-1" 507.84 673.5 mark 0
 LayerCount: 2
 Fore
-Refer: 76 1612 S 1 0 0 1 -40 168 2
-Refer: 81 1617 S 1 0 0 1 -40 -468 2
+Refer: 76 1612 N 1 0 0 1 -40 30 2
+Refer: 81 1617 N 1 0 0 1 -40 -606 2
 LCarets2: 1 0 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0651 uni064C
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064C uni0651
@@ -9988,14 +9988,14 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 527.84 684.5 mark 0
-AnchorPoint: "Anchor-9" 527.84 684.5 mark 0
-AnchorPoint: "Anchor-1" 527.84 1861.5 basemark 0
-AnchorPoint: "Anchor-1" 527.84 684.5 mark 0
+AnchorPoint: "Anchor-10" 527.84 665.5 mark 0
+AnchorPoint: "Anchor-9" 527.84 665.5 mark 0
+AnchorPoint: "Anchor-1" 524.84 1758.5 basemark 0
+AnchorPoint: "Anchor-1" 527.84 665.5 mark 0
 LayerCount: 2
 Fore
-Refer: 81 1617 S 1 0 0 1 -17.84 -60 2
-Refer: 75 1611 S 1 0 0 1 -20 -595 2
+Refer: 81 1617 N 1 0 0 1 -17.84 -60 2
+Refer: 75 1611 N 1 0 0 1 -11 -354 2
 LCarets2: 1 0 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni0651 uni064D
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni064D uni0651
@@ -10007,14 +10007,14 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 571.84 729.5 mark 0
-AnchorPoint: "Anchor-9" 571.84 729.5 mark 0
-AnchorPoint: "Anchor-1" 571.84 1692.5 basemark 0
-AnchorPoint: "Anchor-1" 571.84 729.5 mark 0
+AnchorPoint: "Anchor-10" 562.84 847.5 mark 0
+AnchorPoint: "Anchor-9" 562.84 847.5 mark 0
+AnchorPoint: "Anchor-1" 571.84 1642.5 basemark 0
+AnchorPoint: "Anchor-1" 562.84 847.5 mark 0
 LayerCount: 2
 Fore
-Refer: 78 1614 S 1 0 0 1 24 92 2
-Refer: 81 1617 S 1 0 0 1 24 -550 2
+Refer: 78 1614 S 1 0 0 1 24 42 2
+Refer: 81 1617 S 1 0 0 1 18 -438 2
 LCarets2: 1 0 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0651 uni064E
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064E uni0651
@@ -10026,14 +10026,14 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 557.84 743.5 mark 0
-AnchorPoint: "Anchor-9" 557.84 743.5 mark 0
-AnchorPoint: "Anchor-1" 557.84 2134.5 basemark 0
-AnchorPoint: "Anchor-1" 557.84 743.5 mark 0
+AnchorPoint: "Anchor-10" 551.84 734.5 mark 0
+AnchorPoint: "Anchor-9" 551.84 734.5 mark 0
+AnchorPoint: "Anchor-1" 590.84 1858.5 basemark 0
+AnchorPoint: "Anchor-1" 551.84 734.5 mark 0
 LayerCount: 2
 Fore
-Refer: 79 1615 S 1 0 0 1 10 106 2
-Refer: 81 1617 S 1 0 0 1 10 -536 2
+Refer: 79 1615 N 1 0 0 1 4 22 2
+Refer: 81 1617 N 1 0 0 1 4 -545 2
 LCarets2: 1 0 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0651 uni064F
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064F uni0651
@@ -10045,14 +10045,14 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 581.84 894.5 mark 0
-AnchorPoint: "Anchor-9" 581.84 894.5 mark 0
-AnchorPoint: "Anchor-1" 547.84 1833.5 basemark 0
-AnchorPoint: "Anchor-1" 581.84 894.5 mark 0
+AnchorPoint: "Anchor-10" 581.84 954.5 mark 0
+AnchorPoint: "Anchor-9" 581.84 954.5 mark 0
+AnchorPoint: "Anchor-1" 544.84 1908.5 basemark 0
+AnchorPoint: "Anchor-1" 581.84 954.5 mark 0
 LayerCount: 2
 Fore
-Refer: 81 1617 S 1 0 0 1 0 -88 2
-Refer: 78 1614 S 1 0 0 1 34 -385 2
+Refer: 81 1617 N 1 0 0 1 -3 -12.9999 2
+Refer: 78 1614 N 1 0 0 1 31 -340 2
 LCarets2: 1 0 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni0651 uni0650
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni0650 uni0651
@@ -10064,14 +10064,14 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 551.84 879.5 mark 0
-AnchorPoint: "Anchor-9" 551.84 879.5 mark 0
-AnchorPoint: "Anchor-1" 551.84 1735.5 basemark 0
-AnchorPoint: "Anchor-1" 551.84 879.5 mark 0
+AnchorPoint: "Anchor-10" 533.84 906.5 mark 0
+AnchorPoint: "Anchor-9" 533.84 906.5 mark 0
+AnchorPoint: "Anchor-1" 542.84 1675.5 basemark 0
+AnchorPoint: "Anchor-1" 533.84 906.5 mark 0
 LayerCount: 2
 Fore
-Refer: 78 1614 S 1 0 0 1 4 135 2
-Refer: 84 1620 S 1 0 0 1 4 -400 2
+Refer: 78 1614 N 1 0 0 1 -5 75 2
+Refer: 84 1620 S 1 0 0 1 -5 -406 2
 LCarets2: 1 0 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0654 uni064E
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064E uni0654
@@ -10083,14 +10083,14 @@ Width: 0
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 542.84 849.5 mark 0
-AnchorPoint: "Anchor-9" 542.84 849.5 mark 0
-AnchorPoint: "Anchor-1" 542.84 2133.5 basemark 0
-AnchorPoint: "Anchor-1" 542.84 849.5 mark 0
+AnchorPoint: "Anchor-10" 526.84 760.5 mark 0
+AnchorPoint: "Anchor-9" 526.84 760.5 mark 0
+AnchorPoint: "Anchor-1" 560.84 1872.5 basemark 0
+AnchorPoint: "Anchor-1" 526.84 760.5 mark 0
 LayerCount: 2
 Fore
-Refer: 79 1615 S 1 0 0 1 -5 105 2
-Refer: 84 1620 S 1 0 0 1 -5 -430 2
+Refer: 79 1615 N 1 0 0 1 -14 30 2
+Refer: 84 1620 N 1 0 0 1 -18 -555 2
 LCarets2: 1 0 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0654 uni064F
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064F uni0654
