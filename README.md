@@ -6,12 +6,14 @@ A Persian (Farsi) Font
 [نمایش فونت](http://rastikerdar.github.io/vazir-font/)
 
 با تشکر از برنامه [FontForge](https://fontforge.github.io)
+
 بر مبنای فونت [DejaVu Sans 2.35](http://dejavu-fonts.org)
 
 <div lang="fa" dir="rtl">
 توضیحاتی در مورد مجوز:
 فونت DejaVu Sans 2.35 بر مبنای Vera Fonts ایجاد شده که در واقع حجم انبوهی از گلیف های گوناگون را به آن اضافه نموده است. فونت Vera با مجوز آزاد Bitstream Vera منتشر گردیده اما تغییرات فونت توسط DejaVu شامل گلیف های اضافی از جمله عربی/فارسی به صورت Public Domain منتشر گردیده است. در آخر نیز تمامی تغییراتی که فونت وزیر بر روی فونت DejaVu یا به طور دقیق تر بر روی گلیف های عربی/فارسی اعمال نموده تحت مجوز آزاد SIL Open Font License 1.1 منتشر می گردد.
 </div>
+
 
 
 اطلاعیه:
