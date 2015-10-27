@@ -4,7 +4,7 @@ FullName: Vazir
 FamilyName: Vazir
 Weight: Regular
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nCopyright (c) 2006 by Tavmjong Bah. All Rights Reserved.\nDejaVu changes are in public domain\nCopyright (c) 2015 by Saber Rastikerdar. All Rights Reserved.
-Version: 1.8.3
+Version: 1.8.4
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1445850870
+ModificationTime: 1445932403
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -54,36 +54,18 @@ OS2StrikeYPos: 530
 OS2Vendor: 'PfEd'
 OS2CodePages: 600001ff.dfff0000
 Lookup: 1 0 0 "'case' Case-Sensitive Forms in Latin lookup 0"  {"'case' Case-Sensitive Forms in Latin lookup 0 subtable"  } ['case' ('DFLT' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'dflt' > ) ]
-Lookup: 6 9 0 "Required Feature in N'Ko lookup 1"  {"Required Feature in N'Ko lookup 1 subtable"  } [' RQD' ('DFLT' <'dflt' > 'nko ' <'dflt' > ) ]
 Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition lookup 2"  {"'ccmp' Glyph Composition/Decomposition lookup 2 subtable"  } ['ccmp' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 3"  {"'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  } ['ccmp' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 4"  {"'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 2"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 3"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 4"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 5"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 6"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 7"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 8"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 9"  } ['ccmp' ('DFLT' <'dflt' > 'arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'armn' <'dflt' > 'brai' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'hebr' <'dflt' > 'kana' <'dflt' > 'lao ' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'nko ' <'dflt' > 'ogam' <'dflt' > 'runr' <'dflt' > 'tfng' <'dflt' > 'thai' <'dflt' > ) ]
-Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 5"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 5 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 6"  {"'locl' Localized Forms in Cyrillic lookup 6 subtable"  } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7"  {"'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'ISM ' 'KSM ' 'LSM ' 'NSM ' 'SKS ' 'SSM ' > ) ]
-Lookup: 1 9 0 "'fina' Terminal Forms in N'Ko lookup 8"  {"'fina' Terminal Forms in N'Ko lookup 8 subtable"  } ['fina' ('nko ' <'dflt' > ) ]
 Lookup: 1 9 0 "'fina' Terminal Forms in Arabic lookup 9"  {"'fina' Terminal Forms in Arabic lookup 9 subtable"  } ['fina' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 1 9 0 "'medi' Medial Forms in N'Ko lookup 10"  {"'medi' Medial Forms in N'Ko lookup 10 subtable"  } ['medi' ('nko ' <'dflt' > ) ]
 Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 11"  {"'medi' Medial Forms in Arabic lookup 11 subtable"  } ['medi' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 1 9 0 "'init' Initial Forms in N'Ko lookup 12"  {"'init' Initial Forms in N'Ko lookup 12 subtable"  } ['init' ('nko ' <'dflt' > ) ]
 Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 13"  {"'init' Initial Forms in Arabic lookup 13 subtable"  } ['init' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 14"  {"'rlig' Required Ligatures in Arabic lookup 14 subtable"  } ['rlig' ('arab' <'KUR ' 'dflt' > ) ]
 Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 15"  {"'rlig' Required Ligatures in Arabic lookup 15 subtable"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 16"  {"'rlig' Required Ligatures in Arabic lookup 16 subtable"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 4 9 1 "'liga' Standard Ligatures in Arabic lookup 17"  {"'liga' Standard Ligatures in Arabic lookup 17 subtable"  } ['liga' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 18"  {"'liga' Standard Ligatures in Latin lookup 18 subtable"  } ['liga' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
 Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 19"  {"'liga' Standard Ligatures in Arabic lookup 19 subtable"  } ['liga' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 1 0 "'hlig' Historic Ligatures in Hebrew lookup 20"  {"'hlig' Historic Ligatures in Hebrew lookup 20 subtable"  } ['hlig' ('hebr' <'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures in Armenian lookup 21"  {"'dlig' Discretionary Ligatures in Armenian lookup 21 subtable"  } ['dlig' ('armn' <'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures in Latin lookup 22"  {"'dlig' Discretionary Ligatures in Latin lookup 22 subtable"  } ['dlig' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 4 0 0 "'hlig' Historic Ligatures in Latin lookup 23"  {"'hlig' Historic Ligatures in Latin lookup 23 subtable"  } ['hlig' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures lookup 24"  {"'dlig' Discretionary Ligatures lookup 24 subtable"  } ['dlig' ('DFLT' <'dflt' > ) ]
-Lookup: 1 1 0 "'aalt' Access All Alternates in Hebrew lookup 25"  {"'aalt' Access All Alternates in Hebrew lookup 25 subtable"  } ['aalt' ('hebr' <'dflt' > ) ]
-Lookup: 1 1 0 "'salt' Stylistic Alternatives in Hebrew lookup 26"  {"'salt' Stylistic Alternatives in Hebrew lookup 26 subtable"  } ['salt' ('hebr' <'dflt' > ) ]
-Lookup: 1 0 0 "'aalt' Access All Alternates in Greek lookup 27"  {"'aalt' Access All Alternates in Greek lookup 27 subtable"  } ['aalt' ('grek' <'dflt' > ) ]
-Lookup: 1 0 0 "'salt' Stylistic Alternatives in Greek lookup 28"  {"'salt' Stylistic Alternatives in Greek lookup 28 subtable"  } ['salt' ('grek' <'dflt' > ) ]
-Lookup: 1 0 0 "'salt' Stylistic Alternatives in Latin lookup 29"  {"'salt' Stylistic Alternatives in Latin lookup 29 subtable"  } ['salt' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 3 0 0 "'aalt' Access All Alternates in Latin lookup 30"  {"'aalt' Access All Alternates in Latin lookup 30 subtable"  } ['aalt' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
 Lookup: 1 1 0 "Single Substitution lookup 31"  {"Single Substitution lookup 31 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 32"  {"Single Substitution lookup 32 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 33"  {"Single Substitution lookup 33 subtable"  } []
@@ -495,32 +477,6 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 2 subtable"  3 1
   ClassNames: "0"  "1"  "2"  
   BClassNames: "0"  
   FClassNames: "0"  "1"  "2"  
-EndFPST
-ChainSub2: class "Required Feature in N'Ko lookup 1 subtable"  2 2 2 3
-  Class: 1425 uni07CA uni07CB uni07CC uni07CD uni07CE uni07CF uni07D0 uni07D1 uni07D2 uni07D3 uni07D4 uni07D5 uni07D6 uni07D7 uni07D8 uni07D9 uni07DA uni07DB uni07DC uni07DD uni07DE uni07DF uni07E0 uni07E1 uni07E2 uni07E3 uni07E4 uni07E5 uni07E6 uni07E7 uni07FA uni200D uni07CA.fina uni07CA.medi uni07CA.init uni07CB.fina uni07CB.medi uni07CB.init uni07CC.fina uni07CC.medi uni07CC.init uni07CD.fina uni07CD.medi uni07CD.init uni07CE.fina uni07CE.medi uni07CE.init uni07CF.fina uni07CF.medi uni07CF.init uni07D0.fina uni07D0.medi uni07D0.init uni07D1.fina uni07D1.medi uni07D1.init uni07D2.fina uni07D2.medi uni07D2.init uni07D3.fina uni07D3.medi uni07D3.init uni07D4.fina uni07D4.medi uni07D4.init uni07D5.fina uni07D5.medi uni07D5.init uni07D6.fina uni07D6.medi uni07D6.init uni07D7.fina uni07D7.medi uni07D7.init uni07D8.fina uni07D8.medi uni07D8.init uni07D9.fina uni07D9.medi uni07D9.init uni07DA.fina uni07DA.medi uni07DA.init uni07DB.fina uni07DB.medi uni07DB.init uni07DC.fina uni07DC.medi uni07DC.init uni07DD.fina uni07DD.medi uni07DD.init uni07DE.fina uni07DE.medi uni07DE.init uni07DF.fina uni07DF.medi uni07DF.init uni07E0.fina uni07E0.medi uni07E0.init uni07E1.fina uni07E1.medi uni07E1.init uni07E2.fina uni07E2.medi uni07E2.init uni07E3.fina uni07E3.medi uni07E3.init uni07E4.fina uni07E4.medi uni07E4.init uni07E5.fina uni07E5.medi uni07E5.init uni07E6.fina uni07E6.medi uni07E6.init uni07E7.fina uni07E7.medi uni07E7.init
-  BClass: 1425 uni07CA uni07CB uni07CC uni07CD uni07CE uni07CF uni07D0 uni07D1 uni07D2 uni07D3 uni07D4 uni07D5 uni07D6 uni07D7 uni07D8 uni07D9 uni07DA uni07DB uni07DC uni07DD uni07DE uni07DF uni07E0 uni07E1 uni07E2 uni07E3 uni07E4 uni07E5 uni07E6 uni07E7 uni07FA uni200D uni07CA.fina uni07CA.medi uni07CA.init uni07CB.fina uni07CB.medi uni07CB.init uni07CC.fina uni07CC.medi uni07CC.init uni07CD.fina uni07CD.medi uni07CD.init uni07CE.fina uni07CE.medi uni07CE.init uni07CF.fina uni07CF.medi uni07CF.init uni07D0.fina uni07D0.medi uni07D0.init uni07D1.fina uni07D1.medi uni07D1.init uni07D2.fina uni07D2.medi uni07D2.init uni07D3.fina uni07D3.medi uni07D3.init uni07D4.fina uni07D4.medi uni07D4.init uni07D5.fina uni07D5.medi uni07D5.init uni07D6.fina uni07D6.medi uni07D6.init uni07D7.fina uni07D7.medi uni07D7.init uni07D8.fina uni07D8.medi uni07D8.init uni07D9.fina uni07D9.medi uni07D9.init uni07DA.fina uni07DA.medi uni07DA.init uni07DB.fina uni07DB.medi uni07DB.init uni07DC.fina uni07DC.medi uni07DC.init uni07DD.fina uni07DD.medi uni07DD.init uni07DE.fina uni07DE.medi uni07DE.init uni07DF.fina uni07DF.medi uni07DF.init uni07E0.fina uni07E0.medi uni07E0.init uni07E1.fina uni07E1.medi uni07E1.init uni07E2.fina uni07E2.medi uni07E2.init uni07E3.fina uni07E3.medi uni07E3.init uni07E4.fina uni07E4.medi uni07E4.init uni07E5.fina uni07E5.medi uni07E5.init uni07E6.fina uni07E6.medi uni07E6.init uni07E7.fina uni07E7.medi uni07E7.init
-  FClass: 1425 uni07CA uni07CB uni07CC uni07CD uni07CE uni07CF uni07D0 uni07D1 uni07D2 uni07D3 uni07D4 uni07D5 uni07D6 uni07D7 uni07D8 uni07D9 uni07DA uni07DB uni07DC uni07DD uni07DE uni07DF uni07E0 uni07E1 uni07E2 uni07E3 uni07E4 uni07E5 uni07E6 uni07E7 uni07FA uni200D uni07CA.fina uni07CA.medi uni07CA.init uni07CB.fina uni07CB.medi uni07CB.init uni07CC.fina uni07CC.medi uni07CC.init uni07CD.fina uni07CD.medi uni07CD.init uni07CE.fina uni07CE.medi uni07CE.init uni07CF.fina uni07CF.medi uni07CF.init uni07D0.fina uni07D0.medi uni07D0.init uni07D1.fina uni07D1.medi uni07D1.init uni07D2.fina uni07D2.medi uni07D2.init uni07D3.fina uni07D3.medi uni07D3.init uni07D4.fina uni07D4.medi uni07D4.init uni07D5.fina uni07D5.medi uni07D5.init uni07D6.fina uni07D6.medi uni07D6.init uni07D7.fina uni07D7.medi uni07D7.init uni07D8.fina uni07D8.medi uni07D8.init uni07D9.fina uni07D9.medi uni07D9.init uni07DA.fina uni07DA.medi uni07DA.init uni07DB.fina uni07DB.medi uni07DB.init uni07DC.fina uni07DC.medi uni07DC.init uni07DD.fina uni07DD.medi uni07DD.init uni07DE.fina uni07DE.medi uni07DE.init uni07DF.fina uni07DF.medi uni07DF.init uni07E0.fina uni07E0.medi uni07E0.init uni07E1.fina uni07E1.medi uni07E1.init uni07E2.fina uni07E2.medi uni07E2.init uni07E3.fina uni07E3.medi uni07E3.init uni07E4.fina uni07E4.medi uni07E4.init uni07E5.fina uni07E5.medi uni07E5.init uni07E6.fina uni07E6.medi uni07E6.init uni07E7.fina uni07E7.medi uni07E7.init
- 1 1 1
-  ClsList: 1
-  BClsList: 1
-  FClsList: 1
- 1
-  SeqLookup: 0 "'medi' Medial Forms in N'Ko lookup 10" 
- 1 1 0
-  ClsList: 1
-  BClsList: 1
-  FClsList:
- 1
-  SeqLookup: 0 "'fina' Terminal Forms in N'Ko lookup 8" 
- 1 0 1
-  ClsList: 1
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "'init' Initial Forms in N'Ko lookup 12" 
-  ClassNames: "0"  "1"  
-  BClassNames: "0"  "1"  
-  FClassNames: "0"  "1"  
 EndFPST
 TtTable: prep
 PUSHW_1
@@ -2354,7 +2310,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Vazir Regular 1.8.3" "" "Version 1.8.3" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Vazir" "Regular" 
+LangName: 1033 "" "" "" "Vazir Regular 1.8.4" "" "Version 1.8.4" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Vazir" "Regular" 
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -2420,7 +2376,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 25 25 13
+WinInfo: 0 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2436,7 +2392,7 @@ Grid
  11871.8 4394.33 l 0
 EndSplineSet
 AnchorClass2: "Anchor-0"  "'mkmk' Mark to Mark in Arabic lookup 0 subtable" "Anchor-1"  "'mkmk' Mark to Mark in Arabic lookup 1 subtable" "Anchor-2"  "'mkmk' Mark to Mark in Lao lookup 2 subtable" "Anchor-3"  "'mkmk' Mark to Mark in Lao lookup 3 subtable" "Anchor-4"  "'mkmk' Mark to Mark lookup 4 anchor 0" "Anchor-5"  "'mkmk' Mark to Mark lookup 4 anchor 1" "Anchor-6"  "'mark' Mark Positioning lookup 5 subtable" "Anchor-7"  "'mark' Mark Positioning lookup 6 subtable" "Anchor-8"  "'mark' Mark Positioning lookup 7 subtable" "Anchor-9"  "'mark' Mark Positioning lookup 8 subtable" "Anchor-10"  "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"  "'mark' Mark Positioning in Lao lookup 10 subtable" "Anchor-12"  "'mark' Mark Positioning in Lao lookup 11 subtable" "Anchor-13"  "'mark' Mark Positioning lookup 12 subtable" "Anchor-14"  "'mark' Mark Positioning lookup 13 anchor 0" "Anchor-15"  "'mark' Mark Positioning lookup 13 anchor 1" "Anchor-16"  "'mark' Mark Positioning lookup 13 anchor 2" "Anchor-17"  "'mark' Mark Positioning lookup 13 anchor 3" "Anchor-18"  "'mark' Mark Positioning lookup 13 anchor 4" "Anchor-19"  "'mark' Mark Positioning lookup 13 anchor 5" 
-BeginChars: 1114447 336
+BeginChars: 65562 336
 
 StartChar: space
 Encoding: 32 32 0
@@ -4993,39 +4949,31 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-486.951 886.934 m 2,0,1
- 474.312 885.989 474.312 885.989 468.844 873.154 c 128,-1,2
- 463.375 860.32 463.375 860.32 465.536 829.325 c 128,-1,3
- 467.697 798.33 467.697 798.33 471.169 773.975 c 128,-1,4
- 474.641 749.619 474.641 749.619 483.28 698.44 c 0,5,6
- 484.953 688.473 484.953 688.473 485.801 683.491 c 0,7,8
- 519.36 484.229 519.36 484.229 519.854 8.5 c 1,9,-1
- 353.252 8.5 l 1,10,11
- 352.693 454.721 352.693 454.721 313.487 687.823 c 0,12,13
- 262.068 991.061 262.068 991.061 100.95 1373.5 c 1,14,-1
- 282.325 1373.5 l 1,15,16
- 330.513 1255.7 330.513 1255.7 371.758 1127.85 c 0,17,18
- 390.075 1071.07 390.075 1071.07 453.834 1061.21 c 0,19,20
- 464.774 1059.52 464.774 1059.52 474.822 1058.89 c 0,21,22
- 525.059 1055.75 525.059 1055.75 553.768 1080.52 c 128,-1,23
- 582.479 1105.29 582.479 1105.29 585.432 1154.68 c 0,24,25
- 591.453 1278.17 591.453 1278.17 591.844 1373.5 c 1,26,-1
- 758.481 1373.5 l 1,27,28
- 758.724 1249.29 758.724 1249.29 761.991 1191.37 c 128,-1,29
- 765.258 1133.45 765.258 1133.45 775.19 1115.71 c 0,30,31
- 802.411 1069.93 802.411 1069.93 859.782 1067.49 c 0,32,33
- 932.602 1065.02 932.602 1065.02 951.824 1121.4 c 1,34,35
- 965.941 1167.02 965.941 1167.02 966.357 1373.5 c 1,36,-1
- 1132.95 1373.5 l 1,37,38
- 1132.04 1062.66 1132.04 1062.66 1093.38 1004.16 c 0,39,40
- 1021.26 894.46 1021.26 894.46 862.42 894.46 c 0,41,42
- 728.028 894.46 728.028 894.46 697.422 953.762 c 2,43,-1
- 688.399 971.244 l 1,44,-1
- 675.855 956.089 l 2,45,46
- 649.251 923.941 649.251 923.941 539.964 892.883 c 0,47,48
- 506.034 883.116 506.034 883.116 490.854 886.634 c 2,49,-1
- 488.926 887.081 l 1,50,-1
- 486.951 886.934 l 2,0,1
+485.801 683.491 m 0,0,1
+ 519.36 484.229 519.36 484.229 519.854 8.5 c 1,2,-1
+ 353.252 8.5 l 1,3,4
+ 352.693 454.721 352.693 454.721 313.487 687.823 c 0,5,6
+ 262.068 991.061 262.068 991.061 100.95 1373.5 c 1,7,-1
+ 282.325 1373.5 l 1,8,9
+ 330.513 1255.7 330.513 1255.7 371.758 1127.85 c 0,10,11
+ 390.075 1071.07 390.075 1071.07 453.834 1061.21 c 0,12,13
+ 464.774 1059.52 464.774 1059.52 474.822 1058.89 c 0,14,15
+ 525.059 1055.75 525.059 1055.75 553.768 1080.52 c 128,-1,16
+ 582.479 1105.29 582.479 1105.29 585.432 1154.68 c 0,17,18
+ 591.453 1278.17 591.453 1278.17 591.844 1373.5 c 1,19,-1
+ 758.481 1373.5 l 1,20,21
+ 758.724 1249.29 758.724 1249.29 761.991 1191.37 c 128,-1,22
+ 765.258 1133.45 765.258 1133.45 775.19 1115.71 c 0,23,24
+ 802.411 1069.93 802.411 1069.93 859.782 1067.49 c 0,25,26
+ 932.602 1065.02 932.602 1065.02 951.824 1121.4 c 1,27,28
+ 965.941 1167.02 965.941 1167.02 966.357 1373.5 c 1,29,-1
+ 1111.95 1373.5 l 1,30,31
+ 1111.06 1066.07 1111.06 1066.07 1065 992.918 c 0,32,33
+ 1001.72 894.46 1001.72 894.46 862.42 894.46 c 0,34,35
+ 749.627 894.46 749.627 894.46 688.399 971.244 c 1,36,37
+ 638.843 911.373 638.843 911.373 576 895.917 c 0,38,39
+ 530.068 884.62 530.068 884.62 444.501 893.582 c 1,40,41
+ 454.176 869.291 454.176 869.291 485.801 683.491 c 0,0,1
 EndSplineSet
 EndChar
 
@@ -5840,7 +5788,7 @@ Encoding: 64344 64344 127
 Width: 677
 VWidth: 2186
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 294.57 -683.96 basechar 0
 AnchorPoint: "Anchor-10" 319.93 1065.5 basechar 0
 LayerCount: 2
@@ -9239,7 +9187,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 16 subtable" uniFEE0 uniF
 EndChar
 
 StartChar: arabic_dot
-Encoding: 1114127 -1 293
+Encoding: 65536 -1 293
 Width: 150
 GlyphClass: 2
 Flags: W
@@ -9255,7 +9203,7 @@ EndSplineSet
 EndChar
 
 StartChar: arabic_2dots
-Encoding: 1114128 -1 294
+Encoding: 65537 -1 294
 Width: 400
 GlyphClass: 2
 Flags: W
@@ -9276,7 +9224,7 @@ EndSplineSet
 EndChar
 
 StartChar: arabic_3dots
-Encoding: 1114129 -1 295
+Encoding: 65538 -1 295
 Width: 400
 GlyphClass: 2
 Flags: W
@@ -9302,7 +9250,7 @@ EndSplineSet
 EndChar
 
 StartChar: arabic_3dots_a
-Encoding: 1114130 -1 296
+Encoding: 65539 -1 296
 Width: 400
 GlyphClass: 2
 Flags: W
@@ -9328,7 +9276,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni066E.fina
-Encoding: 1114133 -1 297
+Encoding: 65540 -1 297
 Width: 1846
 VWidth: 2186
 GlyphClass: 2
@@ -9365,7 +9313,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni066E.init
-Encoding: 1114134 -1 298
+Encoding: 65541 -1 298
 Width: 558
 VWidth: 2186
 GlyphClass: 2
@@ -9378,7 +9326,7 @@ Refer: 147 64488 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni066E.medi
-Encoding: 1114135 -1 299
+Encoding: 65542 -1 299
 Width: 657
 VWidth: 2186
 GlyphClass: 2
@@ -9391,7 +9339,7 @@ Refer: 148 64489 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni06A1.fina
-Encoding: 1114136 -1 300
+Encoding: 65543 -1 300
 Width: 1953
 VWidth: 2186
 GlyphClass: 2
@@ -9437,7 +9385,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni06A1.init
-Encoding: 1114137 -1 301
+Encoding: 65544 -1 301
 Width: 825
 VWidth: 2186
 GlyphClass: 2
@@ -9472,7 +9420,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni06A1.medi
-Encoding: 1114138 -1 302
+Encoding: 65545 -1 302
 Width: 1108
 VWidth: 2186
 GlyphClass: 2
@@ -9514,7 +9462,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni066F.fina
-Encoding: 1114139 -1 303
+Encoding: 65546 -1 303
 Width: 1405
 VWidth: 2186
 GlyphClass: 2
@@ -9557,7 +9505,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni066F.init
-Encoding: 1114140 -1 304
+Encoding: 65547 -1 304
 Width: 753
 VWidth: 2186
 GlyphClass: 2
@@ -9570,7 +9518,7 @@ Refer: 301 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni066F.medi
-Encoding: 1114141 -1 305
+Encoding: 65548 -1 305
 Width: 1108
 VWidth: 2186
 GlyphClass: 2
@@ -9583,7 +9531,7 @@ Refer: 302 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: arabic_ring
-Encoding: 1114144 -1 306
+Encoding: 65549 -1 306
 Width: 438
 GlyphClass: 2
 Flags: W
@@ -9612,7 +9560,7 @@ EndSplineSet
 EndChar
 
 StartChar: arabic_gaf_bar
-Encoding: 1114163 -1 307
+Encoding: 65550 -1 307
 Width: 738
 GlyphClass: 2
 Flags: W
@@ -9628,7 +9576,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni06D5.fina
-Encoding: 1114200 -1 308
+Encoding: 65551 -1 308
 Width: 990
 VWidth: 2186
 GlyphClass: 2
@@ -9641,7 +9589,7 @@ Refer: 274 65258 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0651064B
-Encoding: 1114211 -1 309
+Encoding: 65552 -1 309
 Width: 0
 VWidth: 2186
 GlyphClass: 4
@@ -9660,7 +9608,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064B uni0
 EndChar
 
 StartChar: uni0651064C
-Encoding: 1114212 -1 310
+Encoding: 65553 -1 310
 Width: 0
 VWidth: 2186
 GlyphClass: 4
@@ -9679,7 +9627,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064C uni0
 EndChar
 
 StartChar: uni064B0651
-Encoding: 1114213 -1 311
+Encoding: 65554 -1 311
 Width: 0
 VWidth: 2186
 GlyphClass: 4
@@ -9698,7 +9646,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni064D uni0
 EndChar
 
 StartChar: uni0651064E
-Encoding: 1114214 -1 312
+Encoding: 65555 -1 312
 Width: 0
 VWidth: 2186
 GlyphClass: 4
@@ -9717,7 +9665,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064E uni0
 EndChar
 
 StartChar: uni0651064F
-Encoding: 1114215 -1 313
+Encoding: 65556 -1 313
 Width: 0
 VWidth: 2186
 GlyphClass: 4
@@ -9736,7 +9684,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064F uni0
 EndChar
 
 StartChar: uni064E0651
-Encoding: 1114216 -1 314
+Encoding: 65557 -1 314
 Width: 0
 VWidth: 2186
 GlyphClass: 4
@@ -9755,7 +9703,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni0650 uni0
 EndChar
 
 StartChar: uni0654064E
-Encoding: 1114217 -1 315
+Encoding: 65558 -1 315
 Width: 0
 VWidth: 2186
 GlyphClass: 4
@@ -9774,7 +9722,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064E uni0
 EndChar
 
 StartChar: uni0654064F
-Encoding: 1114218 -1 316
+Encoding: 65559 -1 316
 Width: 0
 VWidth: 2186
 GlyphClass: 4
@@ -9793,7 +9741,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064F uni0
 EndChar
 
 StartChar: uni066E.init.math
-Encoding: 1114410 -1 317
+Encoding: 65560 -1 317
 Width: 877
 VWidth: 2186
 GlyphClass: 2
@@ -10203,7 +10151,7 @@ Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni06CA.fina
 EndChar
 
 StartChar: uni06CA.fina
-Encoding: 1114126 -1 331
+Encoding: 65561 -1 331
 Width: 862
 VWidth: 2186
 GlyphClass: 2
