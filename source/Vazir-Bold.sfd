@@ -4,7 +4,7 @@ FullName: Vazir Bold
 FamilyName: Vazir
 Weight: Bold
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nCopyright (c) 2006 by Tavmjong Bah. All Rights Reserved.\nDejaVu changes are in public domain\nCopyright (c) 2015 by Saber Rastikerdar. All Rights Reserved.
-Version: 1.9.5
+Version: 1.10.1
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1446186801
+ModificationTime: 1446642583
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -2310,7 +2310,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Vazir Bold 1.9.5" "" "Version 1.9.5" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Vazir" "Bold" 
+LangName: 1033 "" "" "" "Vazir Bold 1.10.1" "" "Version 1.10.1" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Vazir" "Bold" 
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -2380,8 +2380,6 @@ WinInfo: 25 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
-796.218 2560 m 0
- 796.218 -1536 l 0
 -2048 1260.44 m 0
  4096 1260.44 l 0
 -2048 -313.814 m 0
@@ -3422,40 +3420,39 @@ EndChar
 
 StartChar: uni0621
 Encoding: 1569 1569 38
-Width: 1081
+Width: 896
 VWidth: 2237
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Anchor-7" 550 -122 basechar 0
+AnchorPoint: "Anchor-10" 463.5 1259.94 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-136.41 92.2627 m 1,0,-1
- 136.41 358.018 l 1,1,-1
- 179.388 364.863 l 2,2,3
- 226.139 372.31 226.139 372.31 302.627 395.35 c 0,4,5
- 318.36 399.977 318.36 399.977 333.107 405.24 c 1,6,7
- 245.812 438.936 245.812 438.936 203.845 501.479 c 0,8,9
- 140.69 595.609 140.69 595.609 140.69 697.061 c 0,10,11
- 140.69 771.336 140.69 771.336 164.445 856.669 c 1,12,13
- 200.745 997.778 200.745 997.778 323.595 1072.92 c 0,14,15
- 438.625 1143.8 438.625 1143.8 554.26 1143.8 c 0,16,17
- 669.683 1143.8 669.683 1143.8 766.597 1121.7 c 2,18,-1
- 806.26 1112.66 l 1,19,-1
- 806.26 833.875 l 1,20,-1
- 741.038 852.815 l 2,21,22
- 650.342 879.152 650.342 879.152 587.271 877.351 c 0,23,24
- 541.599 876.455 541.599 876.455 496.765 852.668 c 1,25,26
- 453.241 830.906 453.241 830.906 434.245 798.976 c 128,-1,27
- 415.248 767.045 415.248 767.045 415.71 715.42 c 0,28,29
- 415.71 621.872 415.71 621.872 600.871 575.579 c 0,30,31
- 652.465 562.907 652.465 562.907 705.188 576.545 c 0,32,33
- 765.967 592.582 765.967 592.582 816.573 619.987 c 2,34,-1
- 891.86 660.759 l 1,35,-1
- 891.86 378.879 l 1,36,-1
- 868.582 363.804 l 2,37,38
- 768.068 298.709 768.068 298.709 552.005 214.393 c 0,39,40
- 316.755 122.733 316.755 122.733 195.906 102.314 c 2,41,-1
- 136.41 92.2627 l 1,0,-1
+49.4102 -9.68066 m 1,0,-1
+ 49.4102 255.24 l 1,1,-1
+ 87.9482 264.952 l 2,2,3
+ 170.79 285.828 170.79 285.828 245.271 314.323 c 1,4,5
+ 172.318 348.341 172.318 348.341 129.017 403.512 c 0,6,7
+ 56.1348 496.367 56.1348 496.367 56.1348 627 c 0,8,9
+ 56.1348 742.112 56.1348 742.112 101.723 830.71 c 128,-1,10
+ 147.311 919.308 147.311 919.308 236.606 973.926 c 0,11,12
+ 414.03 1083.25 414.03 1083.25 679.596 1022.7 c 2,13,-1
+ 719.26 1013.66 l 1,14,-1
+ 719.26 734.876 l 1,15,-1
+ 654.038 753.815 l 2,16,17
+ 563.342 780.152 563.342 780.152 500.269 778.35 c 0,18,19
+ 403.434 776.477 403.434 776.477 364.784 742.695 c 128,-1,20
+ 326.135 708.914 326.135 708.914 326.135 633.776 c 0,21,22
+ 326.135 572.799 326.135 572.799 361.14 537.271 c 128,-1,23
+ 396.144 501.743 396.144 501.743 480.988 485.039 c 0,24,25
+ 579.312 465.678 579.312 465.678 648.854 485.96 c 0,26,27
+ 690.749 498.179 690.749 498.179 727.996 520.096 c 2,28,-1
+ 804.86 565.324 l 1,29,-1
+ 804.86 277.024 l 1,30,-1
+ 777.878 262.62 l 2,31,32
+ 417.906 70.4482 417.906 70.4482 111.247 3.7666 c 2,33,-1
+ 49.4102 -9.68066 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -3552,16 +3549,16 @@ Width: 544
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 254.5 1494 basechar 0
-AnchorPoint: "Anchor-7" 244.5 -60.5 basechar 0
+AnchorPoint: "Anchor-10" 234.5 1542 basechar 0
+AnchorPoint: "Anchor-7" 240.5 -176.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-112.06 1400.96 m 5,0,-1
- 380.94 1400.96 l 5,1,-1
+112.06 1400.96 m 1,0,-1
+ 380.94 1400.96 l 1,1,-1
  380.94 1.5 l 1,2,-1
  112.06 1.5 l 1,3,-1
- 112.06 1400.96 l 5,0,-1
+ 112.06 1400.96 l 1,0,-1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE8E
 EndChar
@@ -3573,7 +3570,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 775 1028.5 basechar 0
-AnchorPoint: "Anchor-7" 457.3 -464.34 basechar 0
+AnchorPoint: "Anchor-7" 353.3 -420.34 basechar 0
 LayerCount: 2
 Fore
 Refer: 102 1646 N 1 0 0 1 0 0 2
@@ -3589,8 +3586,8 @@ Width: 1002
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 489.5 1537.5 basechar 0
-AnchorPoint: "Anchor-7" 444 -104 basechar 0
+AnchorPoint: "Anchor-10" 441.5 1561.5 basechar 0
+AnchorPoint: "Anchor-7" 344 -244 basechar 0
 LayerCount: 2
 Fore
 Refer: 71 1607 N 1 0 0 1 51 0 2
@@ -3605,7 +3602,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 767.69 1322.92 basechar 0
-AnchorPoint: "Anchor-7" 759 -126 basechar 0
+AnchorPoint: "Anchor-7" 439 -194 basechar 0
 LayerCount: 2
 Fore
 Refer: 102 1646 N 1 0 0 1 0 0 2
@@ -3622,7 +3619,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 771.3 1493.66 basechar 0
-AnchorPoint: "Anchor-7" 823 -110 basechar 0
+AnchorPoint: "Anchor-7" 503 -250 basechar 0
 LayerCount: 2
 Fore
 Refer: 102 1646 N 1 0 0 1 0 0 2
@@ -3638,8 +3635,8 @@ Width: 1425
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 677.5 1107.5 basechar 0
-AnchorPoint: "Anchor-7" 640.84 -649 basechar 0
+AnchorPoint: "Anchor-10" 653.5 1111.5 basechar 0
+AnchorPoint: "Anchor-7" 400.84 -677 basechar 0
 LayerCount: 2
 Fore
 Refer: 50 1581 N 1 0 0 1 51 0 2
@@ -3656,30 +3653,30 @@ VWidth: 2232
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 597.5 1121.5 basechar 0
-AnchorPoint: "Anchor-7" 626.84 -591.5 basechar 0
+AnchorPoint: "Anchor-7" 378.84 -695.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 68.7744 831.36 m 2,0,1
- 361.726 897.4 361.726 897.4 570.96 897.4 c 0,2,3
- 880.674 897.4 880.674 897.4 1093.21 840.965 c 2,4,-1
+ 361.745 897.4 361.745 897.4 570.96 897.4 c 0,2,3
+ 880.689 897.4 880.689 897.4 1093.21 840.965 c 2,4,-1
  1131.12 830.898 l 1,5,-1
  1131.12 606.777 l 1,6,-1
  1088.75 599.501 l 2,7,8
  442.562 488.534 442.562 488.534 363.621 176.928 c 0,9,10
  313.398 -19.5762 313.398 -19.5762 428.258 -134.438 c 0,11,12
  575.982 -282.16 575.982 -282.16 905.077 -222.322 c 0,13,14
- 999.328 -205.186 999.328 -205.186 1228.05 -117.012 c 2,15,-1
+ 1036.27 -198.47 1036.27 -198.47 1228.05 -119.012 c 2,15,-1
  1297.4 -90.2783 l 1,16,-1
  1297.4 -365.004 l 1,17,-1
  1267.96 -378.736 l 2,18,19
- 1069.35 -471.363 1069.35 -471.363 865.899 -494.18 c 0,20,21
- 524.91 -532.803 524.91 -532.803 297.208 -390.774 c 0,22,23
- 176.247 -315.337 176.247 -315.337 119.872 -186.391 c 128,-1,24
+ 1055.28 -477.939 1055.28 -477.939 912.899 -492.18 c 0,20,21
+ 494.191 -531.766 494.191 -531.766 299.195 -410.421 c 0,22,23
+ 178.234 -334.984 178.234 -334.984 120.866 -196.215 c 128,-1,24
  63.4971 -57.4453 63.4971 -57.4453 71.2461 116.788 c 0,25,26
  85.5127 433.026 85.5127 433.026 415.482 631.509 c 1,27,28
  365.895 627.351 365.895 627.351 317.583 621.578 c 0,29,30
- 198.819 607.438 198.819 607.438 99.0156 567.31 c 2,31,-1
+ 198.816 607.438 198.816 607.438 99.0156 567.31 c 2,31,-1
  28.9902 539.154 l 1,32,-1
  28.9902 822.392 l 1,33,-1
  68.7744 831.36 l 2,0,1
@@ -3696,7 +3693,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 551.5 1520 basechar 0
-AnchorPoint: "Anchor-7" 560.84 -606 basechar 0
+AnchorPoint: "Anchor-7" 390.84 -711 basechar 0
 LayerCount: 2
 Fore
 Refer: 50 1581 N 1 0 0 1 0 0 2
@@ -3712,8 +3709,8 @@ Width: 953
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 270.58 1111.5 basechar 0
-AnchorPoint: "Anchor-7" 330.5 -119 basechar 0
+AnchorPoint: "Anchor-10" 285.58 1228.5 basechar 0
+AnchorPoint: "Anchor-7" 372.5 -263 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3743,7 +3740,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 258 1534.13 basechar 0
-AnchorPoint: "Anchor-7" 367.5 -118 basechar 0
+AnchorPoint: "Anchor-7" 383.5 -250 basechar 0
 LayerCount: 2
 Fore
 Refer: 52 1583 N 1 0 0 1 0 0 2
@@ -3757,8 +3754,8 @@ Width: 839
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 372.7 849.348 basechar 0
-AnchorPoint: "Anchor-7" 264.291 -554.16 basechar 0
+AnchorPoint: "Anchor-10" 384.7 918.348 basechar 0
+AnchorPoint: "Anchor-7" 438.291 -653.16 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3834,11 +3831,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 421.81 1330.43 basechar 0
-AnchorPoint: "Anchor-7" 535 -488.5 basechar 0
+AnchorPoint: "Anchor-7" 535 -604.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 54 1585 N 1 0 0 1 0 0 2
-Refer: 293 -1 S 1.07 0 0 1.07 389.56 882.43 2
+Refer: 293 -1 N 1.07 0 0 1.07 389.56 882.43 2
 Kerns2: 68 0 "'kern' Horizontal Kerning lookup 15-1"  55 0 "'kern' Horizontal Kerning lookup 15-1"  54 0 "'kern' Horizontal Kerning lookup 15-1"  195 0 "'kern' Horizontal Kerning lookup 15-1"  185 0 "'kern' Horizontal Kerning lookup 15-1"  133 0 "'kern' Horizontal Kerning lookup 15-1"  108 0 "'kern' Horizontal Kerning lookup 15-1"  131 0 "'kern' Horizontal Kerning lookup 15-1" 
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEDF dx=-70 dy=0 dh=-70 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFBAC dx=-70 dy=0 dh=-70 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -3893,8 +3890,8 @@ Width: 2426
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 547.51 902.5 basechar 0
-AnchorPoint: "Anchor-7" 481.5 -558.03 basechar 0
+AnchorPoint: "Anchor-10" 571.51 944.5 basechar 0
+AnchorPoint: "Anchor-7" 379.5 -660.03 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3956,12 +3953,12 @@ Width: 2426
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 642 902.5 basechar 0
-AnchorPoint: "Anchor-7" 642 -595.5 basechar 0
+AnchorPoint: "Anchor-10" 624 962.5 basechar 0
+AnchorPoint: "Anchor-7" 414 -691.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 56 1587 N 1 0 0 1 0 0 2
-Refer: 295 -1 S 1.07 0 0 1.07 1504.38 887.99 2
+Refer: 295 -1 N 1.07 0 0 1.07 1504.38 887.99 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEB6
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEB8
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEB7
@@ -3973,8 +3970,8 @@ Width: 2427
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 481.84 902.5 basechar 0
-AnchorPoint: "Anchor-7" 481.84 -595.5 basechar 0
+AnchorPoint: "Anchor-10" 565.84 986.5 basechar 0
+AnchorPoint: "Anchor-7" 349.84 -691.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4028,11 +4025,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 642 902.5 basechar 0
-AnchorPoint: "Anchor-7" 642 -702.5 basechar 0
+AnchorPoint: "Anchor-7" 360 -684.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 58 1589 N 1 0 0 1 0 0 2
-Refer: 293 -1 S 1.07 0 0 1.07 1860.25 1172.5 2
+Refer: 293 -1 N 1.07 0 0 1.07 1860.25 1172.5 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEBE
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC0
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEBF
@@ -4045,7 +4042,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 287.72 1527.47 basechar 0
-AnchorPoint: "Anchor-7" 284.72 -114 basechar 0
+AnchorPoint: "Anchor-7" 588.72 -290 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4083,7 +4080,7 @@ Width: 1447
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-7" 423.72 -122 basechar 0
+AnchorPoint: "Anchor-7" 599.72 -299.814 basechar 0
 AnchorPoint: "Anchor-10" 279.72 1518.47 basechar 0
 LayerCount: 2
 Fore
@@ -4101,40 +4098,40 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 520.325 1403.51 basechar 0
-AnchorPoint: "Anchor-7" 724.235 -598.76 basechar 0
+AnchorPoint: "Anchor-7" 299.235 -683.76 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 665.802 -238.473 m 0,0,1
- 918.222 -226.565 918.222 -226.565 1110.13 -127.533 c 2,2,-1
+ 918.211 -226.566 918.211 -226.566 1110.13 -127.533 c 2,2,-1
  1169.46 -96.918 l 1,3,-1
  1226.65 -364.833 l 1,4,-1
  1190.62 -382.254 l 2,5,6
- 1005.73 -471.645 1005.73 -471.645 778.889 -496.858 c 0,7,8
+ 1005.75 -471.643 1005.75 -471.643 778.889 -496.858 c 0,7,8
  641.748 -512.418 641.748 -512.418 522.382 -500.749 c 0,9,10
  272.271 -477.321 272.271 -477.321 143.234 -320.678 c 0,11,12
  12.3652 -162.118 12.3652 -162.118 31.5117 78.041 c 0,13,14
  50.2539 317.507 50.2539 317.507 315.801 521.219 c 1,15,16
  296.555 532.723 296.555 532.723 277.224 547.545 c 0,17,18
  153.561 642.357 153.561 642.357 147.282 817.316 c 0,19,20
- 142.856 960.486 142.856 960.486 215.898 1059.1 c 128,-1,21
- 288.94 1157.72 288.94 1157.72 430.533 1201.84 c 0,22,23
- 614.78 1259.66 614.78 1259.66 853.651 1136.34 c 2,24,-1
- 891.073 1117.01 l 1,25,-1
- 821.376 880.311 l 1,26,-1
- 767.167 906.688 l 2,27,28
- 630.128 973.36 630.128 973.36 536.139 958.677 c 0,29,30
- 465.012 947.565 465.012 947.565 436.446 917.648 c 128,-1,31
- 407.88 887.732 407.88 887.732 407.88 829.72 c 0,32,33
- 407.88 781.929 407.88 781.929 422.769 754.662 c 128,-1,34
- 437.658 727.395 437.658 727.395 469.131 711.6 c 0,35,36
- 502.986 694.608 502.986 694.608 525.065 690.386 c 1,37,-1
- 999.04 733.75 l 1,38,-1
- 999.04 461.021 l 1,39,-1
- 953.078 456.457 l 2,40,41
- 687.314 430.075 687.314 430.075 538.33 345.028 c 0,42,43
- 313.843 215.34 313.843 215.34 306.54 49.7842 c 0,44,45
- 300.487 -95.3037 300.487 -95.3037 392.986 -165.175 c 0,46,47
+ 142.856 960.486 142.856 960.486 209.561 1058.18 c 0,21,22
+ 283.359 1166.27 283.359 1166.27 417.859 1200 c 4,23,24
+ 628.257 1252.77 628.257 1252.77 853.651 1136.34 c 2,25,-1
+ 891.073 1117.01 l 1,26,-1
+ 821.376 880.311 l 1,27,-1
+ 767.167 906.688 l 2,28,29
+ 630.141 973.362 630.141 973.362 536.139 958.677 c 0,30,31
+ 465.012 947.565 465.012 947.565 436.446 917.648 c 128,-1,32
+ 407.88 887.732 407.88 887.732 407.88 829.72 c 0,33,34
+ 407.88 781.929 407.88 781.929 422.769 754.662 c 128,-1,35
+ 437.658 727.395 437.658 727.395 469.131 711.6 c 0,36,37
+ 502.986 694.608 502.986 694.608 525.065 690.386 c 1,38,-1
+ 999.04 733.75 l 1,39,-1
+ 999.04 461.021 l 1,40,-1
+ 953.078 456.457 l 2,41,42
+ 687.297 430.065 687.297 430.065 538.33 345.028 c 0,43,44
+ 313.843 215.34 313.843 215.34 306.54 49.7842 c 0,45,46
+ 300.487 -95.3037 300.487 -95.3037 392.986 -165.175 c 0,47,48
  501.444 -245.909 501.444 -245.909 665.802 -238.473 c 0,0,1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFECA
@@ -4149,7 +4146,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 450.5 1661.5 basechar 0
-AnchorPoint: "Anchor-7" 654.89 -601.5 basechar 0
+AnchorPoint: "Anchor-7" 312.89 -727.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 62 1593 N 1 0 0 1 0 0 2
@@ -4185,11 +4182,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 566 1223.5 basechar 0
-AnchorPoint: "Anchor-7" 712 -131.5 basechar 0
+AnchorPoint: "Anchor-7" 352 -195.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 109 1697 N 1 0 0 1 0 0 2
-Refer: 293 -1 S 1.07 0 0 1.07 1250.07 1323.49 2
+Refer: 293 -1 N 1.07 0 0 1.07 1250.07 1323.49 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFED2
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED4
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFED3
@@ -4202,7 +4199,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 350 1410.5 basechar 0
-AnchorPoint: "Anchor-7" 584 -461 basechar 0
+AnchorPoint: "Anchor-7" 329 -566 basechar 0
 LayerCount: 2
 Fore
 Refer: 103 1647 N 1 0 0 1 0 0 2
@@ -4219,7 +4216,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 531 1450.5 basechar 0
-AnchorPoint: "Anchor-7" 789 -167.5 basechar 0
+AnchorPoint: "Anchor-7" 349 -215.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4269,7 +4266,7 @@ SplineSet
  27.4953 632.794 27.4953 632.794 80.0684 777.421 c 2,68,-1
  94.9893 818.468 l 1,69,-1
  350.633 768.183 l 1,70,-1
- 337.985 718.272 l 6,71,72
+ 337.985 718.272 l 2,71,72
  308.318 601.198 308.318 601.198 317.481 536.255 c 0,73,74
  331.532 440.346 331.532 440.346 384.432 383.965 c 128,-1,75
  437.331 327.585 437.331 327.585 536.949 303.577 c 0,76,77
@@ -4287,13 +4284,13 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 443.01 1201.5 basechar 0
-AnchorPoint: "Anchor-7" 503.15 -412.616 basechar 0
+AnchorPoint: "Anchor-7" 328.15 -497.616 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 918.768 220.736 m 0,0,1
  920.91 245.827 920.91 245.827 920.91 502.32 c 2,2,-1
- 920.91 1400.03 l 5,3,-1
+ 920.91 1400.03 l 1,3,-1
  1188.79 1400.03 l 1,4,-1
  1188.79 502.32 l 2,5,6
  1188.79 310.385 1188.79 310.385 1186.44 244.835 c 1,7,8
@@ -4322,38 +4319,36 @@ Width: 1113
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 544.5 1062.31 basechar 0
-AnchorPoint: "Anchor-7" 125.631 -660.952 basechar 0
+AnchorPoint: "Anchor-10" 524.5 1070.31 basechar 0
+AnchorPoint: "Anchor-7" 133.631 -736.952 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-496.927 415.685 m 4,0,1
- 620.244 409.52 620.244 409.52 632.167 409.341 c 4,2,3
- 717.686 409.438 717.686 409.438 759.294 421.196 c 4,4,5
- 765.182 422.835 765.182 422.835 769.433 424.781 c 5,6,7
- 762.858 513.324 762.858 513.324 728.287 558.979 c 132,-1,8
- 693.716 604.636 693.716 604.636 626.315 621.007 c 5,9,10
- 537.826 640.479 537.826 640.479 502.566 599.834 c 5,11,12
- 464.193 543.371 464.193 543.371 469.133 417.399 c 5,13,14
- 481.806 416.382 481.806 416.382 496.927 415.685 c 4,0,1
-376 154 m 0,15,16
- 334.209 154 334.209 154 302.435 91.833 c 0,17,18
- 278 43.7783 278 43.7783 278 -33 c 2,19,-1
- 278 -630 l 1,20,-1
- 10 -630 l 1,21,-1
- 10 -19 l 2,22,23
- 10 187.745 10 187.745 96.9443 297.568 c 0,24,25
- 145.193 359.062 145.193 359.062 216.655 384.062 c 1,26,27
- 211.957 662.903 211.957 662.903 338.634 779.979 c 0,28,29
- 492.72 921.223 492.72 921.223 723.192 851.793 c 1,30,31
- 848.046 813.082 848.046 813.082 920.059 716.372 c 128,-1,32
- 992.072 619.662 992.072 619.662 1007.7 474.519 c 0,33,34
- 1018.9 372.605 1018.9 372.605 987.166 295.119 c 128,-1,35
- 955.437 217.632 955.437 217.632 879.848 175.462 c 2,36,-1
- 877.485 174.145 l 1,37,-1
- 874.997 173.084 l 2,38,39
- 803.521 142.619 803.521 142.619 655.216 148.031 c 0,40,41
- 477.143 154 477.143 154 376 154 c 0,15,16
+496.927 413.685 m 0,0,1
+ 552.575 409.255 552.575 409.255 632.167 409.341 c 0,2,3
+ 717.686 409.438 717.686 409.438 759.294 421.196 c 0,4,5
+ 765.182 422.835 765.182 422.835 769.433 424.781 c 1,6,7
+ 762.498 516.274 762.498 516.274 727.787 561.979 c 0,8,9
+ 691.057 610.337 691.057 610.337 629.315 624.007 c 0,10,11
+ 537.583 644.316 537.583 644.316 502.566 597.834 c 0,12,13
+ 464.049 546.89 464.049 546.89 469.133 417.399 c 1,14,15
+ 483.43 414.974 483.43 414.974 496.927 413.685 c 0,0,1
+376 154 m 0,16,17
+ 334.209 154 334.209 154 302.435 91.833 c 0,18,19
+ 278 43.7783 278 43.7783 278 -33 c 2,20,-1
+ 278 -630 l 1,21,-1
+ 10 -630 l 1,22,-1
+ 10 -19 l 2,23,24
+ 10 187.745 10 187.745 96.9443 297.568 c 0,25,26
+ 145.193 359.062 145.193 359.062 216.655 384.062 c 1,27,28
+ 211.957 662.903 211.957 662.903 338.634 779.979 c 0,29,30
+ 492.72 921.223 492.72 921.223 723.192 851.793 c 1,31,32
+ 848.046 813.082 848.046 813.082 920.059 716.372 c 128,-1,33
+ 992.072 619.662 992.072 619.662 1007.7 474.519 c 0,34,35
+ 1018.9 372.605 1018.9 372.605 987.164 296.108 c 0,36,37
+ 952.559 212.695 952.559 212.695 877.485 176.145 c 0,38,39
+ 810.135 143.354 810.135 143.354 655.216 148.031 c 0,40,41
+ 477.143 154 477.143 154 376 154 c 0,16,17
 EndSplineSet
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEE3
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE4
@@ -4367,7 +4362,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 704.845 1244.57 basechar 0
-AnchorPoint: "Anchor-7" 532.5 -510 basechar 0
+AnchorPoint: "Anchor-7" 460.5 -514 basechar 0
 LayerCount: 2
 Fore
 Refer: 112 1722 N 1 0 0 1 0 0 2
@@ -4383,18 +4378,17 @@ Width: 1002
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 438.924 1205.58 basechar 0
-AnchorPoint: "Anchor-7" 471.864 -55.5596 basechar 0
+AnchorPoint: "Anchor-10" 429.924 1229.58 basechar 0
+AnchorPoint: "Anchor-7" 327.864 -253.56 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 330.689 434.777 m 0,0,1
- 309.452 380.625 309.452 380.625 326.661 340.32 c 128,-1,2
- 343.828 300.112 343.828 300.112 401.277 276.738 c 0,3,4
- 468.085 249.871 468.085 249.871 559.221 270.066 c 0,5,6
- 589.177 276.444 589.177 276.444 604.205 289.567 c 128,-1,7
- 619.233 302.691 619.233 302.691 626.717 326.686 c 0,8,9
- 638.568 368.498 638.568 368.498 610.128 450.05 c 1,10,11
+ 309.452 380.625 309.452 380.625 324.501 338.5 c 0,2,3
+ 342.464 288.219 342.464 288.219 397 273 c 0,4,5
+ 479 249 479 249 552 267 c 0,6,7
+ 614.271 283.588 614.271 283.588 626.717 328.686 c 0,8,9
+ 638.256 370.498 638.256 370.498 610.128 450.05 c 1,10,11
  566.097 550.362 566.097 550.362 461.322 626.833 c 1,12,13
  362.752 517.108 362.752 517.108 330.689 434.777 c 0,0,1
 116.146 612.557 m 1,14,15
@@ -4423,35 +4417,33 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 454.282 1128.17 basechar 0
-AnchorPoint: "Anchor-7" 463.191 -527.141 basechar 0
+AnchorPoint: "Anchor-7" 555.191 -639.141 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 488.754 526.572 m 0,0,1
- 466.957 529.111 466.957 529.111 452.928 523.703 c 128,-1,2
- 438.899 518.295 438.899 518.295 424.711 501.95 c 0,3,4
- 390.165 463.751 390.165 463.751 389.535 377.328 c 0,5,6
- 389.213 345.354 389.213 345.354 398.911 326.512 c 128,-1,7
- 408.609 307.669 408.609 307.669 430.272 294.5 c 0,8,9
- 473.602 268.158 473.602 268.158 583.622 281.331 c 1,10,11
- 586.874 424.924 586.874 424.924 539.427 499.225 c 0,12,13
+ 450.002 531.086 450.002 531.086 424.711 501.95 c 0,2,3
+ 390.165 463.751 390.165 463.751 389.535 377.328 c 0,4,5
+ 388.954 319.617 388.954 319.617 430.272 294.5 c 0,6,7
+ 473.602 268.158 473.602 268.158 583.622 281.331 c 1,8,9
+ 586.874 424.924 586.874 424.924 539.427 499.225 c 0,10,11
  524.242 523.002 524.242 523.002 488.754 526.572 c 0,0,1
-76.9902 -468.772 m 1,14,-1
- 30.249 -206.008 l 1,15,-1
- 85.6201 -201.018 l 2,16,17
- 422.073 -170.698 422.073 -170.698 529.438 3.0918 c 1,18,19
- 510.809 3.12207 510.809 3.12207 489.952 2.7998 c 0,20,21
- 302.425 -0.410156 302.425 -0.410156 207.438 127.978 c 0,22,23
- 124.327 240.315 124.327 240.315 131.646 401.201 c 0,24,25
- 138.497 557.502 138.497 557.502 237.108 683.088 c 0,26,27
- 339.336 813.278 339.336 813.278 495.579 814.633 c 0,28,29
- 602.936 814.633 602.936 814.633 682.428 758.017 c 128,-1,30
- 761.919 701.4 761.919 701.4 806.522 595.605 c 0,31,32
- 852.429 486.847 852.429 486.847 853.014 312.455 c 0,33,34
- 853.039 175.149 853.039 175.149 831.601 52.498 c 0,35,36
- 790.641 -173.01 790.641 -173.01 606.46 -306.299 c 0,37,38
- 421.926 -439.999 421.926 -439.999 123.302 -464.909 c 2,39,-1
- 76.9902 -468.772 l 1,14,-1
+76.9902 -468.772 m 1,12,-1
+ 30.249 -206.008 l 1,13,-1
+ 85.6201 -201.018 l 2,14,15
+ 422.073 -170.698 422.073 -170.698 529.438 3.0918 c 1,16,17
+ 510.809 3.12207 510.809 3.12207 489.952 2.7998 c 0,18,19
+ 302.425 -0.410156 302.425 -0.410156 207.438 127.978 c 0,20,21
+ 124.327 240.315 124.327 240.315 131.646 401.201 c 0,22,23
+ 138.497 557.502 138.497 557.502 237.108 683.088 c 0,24,25
+ 339.336 813.278 339.336 813.278 495.579 814.633 c 0,26,27
+ 602.936 814.633 602.936 814.633 682.428 758.017 c 128,-1,28
+ 761.919 701.4 761.919 701.4 806.522 595.605 c 0,29,30
+ 852.429 486.847 852.429 486.847 853.014 312.455 c 0,31,32
+ 853.039 175.149 853.039 175.149 831.601 52.498 c 0,33,34
+ 790.641 -173.01 790.641 -173.01 606.46 -306.299 c 0,35,36
+ 421.926 -439.999 421.926 -439.999 123.302 -464.909 c 2,37,-1
+ 76.9902 -468.772 l 1,12,-1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEEE
 EndChar
@@ -4462,8 +4454,8 @@ Width: 1423
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 377.847 1093.66 basechar 0
-AnchorPoint: "Anchor-7" 671.548 -438.146 basechar 0
+AnchorPoint: "Anchor-10" 493.847 1109.66 basechar 0
+AnchorPoint: "Anchor-7" 383.548 -530.146 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4513,12 +4505,12 @@ Width: 1423
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 535 849 basechar 0
-AnchorPoint: "Anchor-7" 626 -710 basechar 0
+AnchorPoint: "Anchor-10" 571 1053 basechar 0
+AnchorPoint: "Anchor-7" 178 -745 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1609 N 1 0 0 1 0 0 2
-Refer: 294 -1 S 1.07 0 0 1.07 478 -603.5 2
+Refer: 294 -1 S 1.07 0 0 1.07 440 -603.5 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEF2
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEF4
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEF3
@@ -5398,13 +5390,13 @@ LayerCount: 2
 Fore
 SplineSet
 1064.02 703.546 m 0,0,1
- 1037.24 706.271 1037.24 706.271 1009.4 667.056 c 0,2,3
- 965.525 606.997 965.525 606.997 969.419 539.896 c 0,4,5
+ 1033.58 706.425 1033.58 706.425 1005.7 664.927 c 0,2,3
+ 965.359 604.867 965.359 604.867 969.419 539.896 c 0,4,5
  970.952 515.122 970.952 515.122 978.027 503.513 c 128,-1,6
  985.103 491.903 985.103 491.903 999.053 485.32 c 0,7,8
  1049.25 463.337 1049.25 463.337 1155.54 475.739 c 1,9,10
- 1154.03 578.636 1154.03 578.636 1112.45 655.478 c 0,11,12
- 1088.55 700.34 1088.55 700.34 1064.02 703.546 c 0,0,1
+ 1153.75 586.824 1153.75 586.824 1115.45 659.479 c 4,11,12
+ 1092.96 701.963 1092.96 701.963 1064.02 703.546 c 0,0,1
 1138.84 211.522 m 1,13,-1
  1058.18 204.652 l 1,14,-1
  1056.38 204.627 l 2,15,16
@@ -5491,11 +5483,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 849.771 1101.5 basechar 0
-AnchorPoint: "Anchor-7" 875.771 -759.5 basechar 0
+AnchorPoint: "Anchor-7" 211.771 -439.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 102 1646 N 1 0 0 1 0.77066 0 2
-Refer: 296 -1 S 1.07 0 0 1.07 661.771 -385 2
+Refer: 296 -1 N 1.07 0 0 1.07 661.771 -385 2
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB58
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB59
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB57
@@ -5508,11 +5500,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 539.5 1098.5 basechar 0
-AnchorPoint: "Anchor-7" 604.84 -598.5 basechar 0
+AnchorPoint: "Anchor-7" 396.84 -690.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 50 1581 N 1 0 0 1 0 0 2
-Refer: 296 -1 S 1.07 0 0 1.07 603.34 117 2
+Refer: 296 -1 N 1.07 0 0 1.07 603.34 117 2
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB7C
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB7D
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB7B
@@ -5525,7 +5517,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 468 1604 basechar 0
-AnchorPoint: "Anchor-7" 491 -492.5 basechar 0
+AnchorPoint: "Anchor-7" 501 -637.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 54 1585 N 1 0 0 1 0 0 2
@@ -5593,7 +5585,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 378 1294.34 basechar 0
-AnchorPoint: "Anchor-7" 798 -139.68 basechar 0
+AnchorPoint: "Anchor-7" 463 -279.68 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5639,7 +5631,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 403 1271.36 basechar 0
-AnchorPoint: "Anchor-7" 676 -114 basechar 0
+AnchorPoint: "Anchor-7" 461 -269 basechar 0
 LayerCount: 2
 Fore
 Refer: 110 1705 N 1 0 0 1 0 0 2
@@ -5692,7 +5684,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 484 1083 basechar 0
-AnchorPoint: "Anchor-7" 656 -399.5 basechar 0
+AnchorPoint: "Anchor-7" 340 -555.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1609 N 1 0 0 1 0 0 2
@@ -5707,8 +5699,8 @@ Width: 1002
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 453.5 1210 basechar 0
-AnchorPoint: "Anchor-7" 465 -68 basechar 0
+AnchorPoint: "Anchor-10" 426.5 1237 basechar 0
+AnchorPoint: "Anchor-7" 339 -257 basechar 0
 LayerCount: 2
 Fore
 Refer: 71 1607 N 1 0 0 1 0 0 2
@@ -5847,36 +5839,35 @@ EndChar
 StartChar: uni06F6
 Encoding: 1782 1782 121
 Width: 1177
-VWidth: 2237
+VWidth: 2288
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
 190.028 72.4727 m 2,0,1
- 260.536 340.562 260.536 340.562 378.477 532.87 c 0,2,3
- 432.793 621.537 432.793 621.537 505.948 695.905 c 5,4,5
- 467.022 709.773 467.022 709.773 434.09 732.762 c 0,6,7
- 276.58 841.338 276.58 841.338 276.58 1040.53 c 0,8,9
- 276.58 1242.56 276.58 1242.56 392.703 1357.51 c 0,10,11
- 523.627 1487.27 523.627 1487.27 689.08 1487.27 c 0,12,13
- 817.333 1487.27 817.333 1487.27 914.597 1455.24 c 2,14,-1
- 949.64 1443.7 l 1,15,-1
- 949.64 1162.11 l 1,16,-1
- 875.438 1200.02 l 2,17,18
- 797.047 1240.07 797.047 1240.07 695.5 1240.07 c 0,19,20
- 644.673 1240.07 644.673 1240.07 604.407 1200.65 c 0,21,22
- 545.18 1142.32 545.18 1142.32 545.18 1053.37 c 0,23,24
- 545.18 987.565 545.18 987.565 591.889 944.255 c 0,25,26
- 628.073 910.54 628.073 910.54 723.32 910.54 c 0,27,28
- 824.363 910.54 824.363 910.54 944.875 941.919 c 2,29,-1
- 1013.84 959.876 l 1,30,-1
- 1013.84 696.511 l 1,31,-1
- 979.033 684.855 l 2,32,33
- 756.148 610.216 756.148 610.216 645.865 460.548 c 0,34,35
- 510.22 275.312 510.22 275.312 454.446 47.377 c 2,36,-1
- 444.933 8.5 l 1,37,-1
- 173.203 8.5 l 1,38,-1
+ 260.542 340.572 260.542 340.572 378.477 532.869 c 0,2,3
+ 436.113 626.957 436.113 626.957 515.03 704.993 c 1,4,5
+ 407.229 738.879 407.229 738.879 346.814 824.392 c 128,-1,6
+ 286.398 909.904 286.398 909.904 276.716 1036.81 c 0,7,8
+ 263.616 1224.36 263.616 1224.36 389.926 1358.7 c 0,9,10
+ 511.623 1488.12 511.623 1488.12 691.912 1489.27 c 0,11,12
+ 811.29 1489.27 811.29 1489.27 914.596 1455.24 c 2,13,-1
+ 949.64 1443.7 l 1,14,-1
+ 949.64 1170.25 l 1,15,-1
+ 879.781 1198.05 l 2,16,17
+ 683.43 1276.19 683.43 1276.19 590.853 1186.63 c 1,18,19
+ 545.18 1140.86 545.18 1140.86 545.18 1053.37 c 0,20,21
+ 545.18 987.565 545.18 987.565 591.894 944.25 c 0,22,23
+ 628.072 910.54 628.072 910.54 723.32 910.54 c 0,24,25
+ 853.528 910.54 853.528 910.54 944.875 944.919 c 2,26,-1
+ 1013.84 970.875 l 1,27,-1
+ 1013.84 696.511 l 1,28,-1
+ 979.033 684.855 l 2,29,30
+ 756.157 610.229 756.157 610.229 645.864 460.547 c 0,31,32
+ 510.228 275.322 510.228 275.322 454.446 47.377 c 2,33,-1
+ 444.933 8.5 l 1,34,-1
+ 173.202 8.5 l 1,35,-1
  190.028 72.4727 l 2,0,1
 EndSplineSet
 EndChar
@@ -5921,10 +5912,10 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 861 1083.5 basechar 0
-AnchorPoint: "Anchor-7" 652.58 -719.91 basechar 0
+AnchorPoint: "Anchor-7" 224.58 -503.91 basechar 0
 LayerCount: 2
 Fore
-Refer: 296 -1 S 1.07 0 0 1.07 645.58 -366.41 2
+Refer: 296 -1 N 1.07 0 0 1.07 645.58 -366.41 2
 Refer: 102 1646 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5934,11 +5925,11 @@ Width: 1846
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 963 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 836.96 -744.46 basechar 0
+AnchorPoint: "Anchor-10" 783 1121.5 basechar 0
+AnchorPoint: "Anchor-7" 221.96 -554.46 basechar 0
 LayerCount: 2
 Fore
-Refer: 296 -1 S 1.07 0 0 1.07 622.96 -369.96 2
+Refer: 296 -1 N 1.07 0 0 1.07 622.96 -369.96 2
 Refer: 297 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5948,7 +5939,7 @@ Width: 677
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-7" 294.57 -683.96 basechar 0
+AnchorPoint: "Anchor-7" 538.57 -735.96 basechar 0
 AnchorPoint: "Anchor-10" 319.93 1116.5 basechar 0
 LayerCount: 2
 Fore
@@ -5963,11 +5954,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 319.93 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 156.93 -705 basechar 0
+AnchorPoint: "Anchor-7" 532.93 -733 basechar 0
 LayerCount: 2
 Fore
 Refer: 299 -1 N 1 0 0 1 0 0 2
-Refer: 296 -1 S 1.07 0 0 1.07 50.93 -368 2
+Refer: 296 -1 N 1.07 0 0 1.07 50.93 -368 2
 EndChar
 
 StartChar: uniFB7A
@@ -5976,11 +5967,11 @@ Width: 1371
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 695.5 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 868.84 -595.5 basechar 0
+AnchorPoint: "Anchor-10" 575.5 1152.5 basechar 0
+AnchorPoint: "Anchor-7" 356.84 -703.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 296 -1 S 1.07 0 0 1.07 546.34 120 2
+Refer: 296 -1 N 1.07 0 0 1.07 546.34 120 2
 Refer: 50 1581 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5990,11 +5981,11 @@ Width: 1367
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 695.5 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 868.84 -595.5 basechar 0
+AnchorPoint: "Anchor-10" 587.5 1156.5 basechar 0
+AnchorPoint: "Anchor-7" 288.84 -643.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 296 -1 S 1.07 0 0 1.07 423.015 65.9799 2
+Refer: 296 -1 N 1.07 0 0 1.07 423.015 65.9799 2
 Refer: 202 65186 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6033,10 +6024,10 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 482.45 1518.74 basechar 0
-AnchorPoint: "Anchor-7" 535 -488.5 basechar 0
+AnchorPoint: "Anchor-7" 515 -613.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 295 -1 S 1.07 0 0 1.07 309.45 891.24 2
+Refer: 295 -1 N 1.07 0 0 1.07 309.45 891.24 2
 Refer: 54 1585 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6047,11 +6038,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 462.98 1544.37 basechar 0
-AnchorPoint: "Anchor-7" 535 -488.5 basechar 0
+AnchorPoint: "Anchor-7" 520 -598.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 214 65198 N 1 0 0 1 0 0 2
-Refer: 295 -1 S 1.07 0 0 1.07 251.98 900.87 2
+Refer: 295 -1 N 1.07 0 0 1.07 251.98 900.87 2
 EndChar
 
 StartChar: uniFB8E
@@ -6061,7 +6052,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 383 1308.5 basechar 0
-AnchorPoint: "Anchor-7" 548 -214 basechar 0
+AnchorPoint: "Anchor-7" 503 -284 basechar 0
 LayerCount: 2
 Fore
 Refer: 110 1705 N 1 0 0 1 0 0 2
@@ -6074,7 +6065,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 401 1296.5 basechar 0
-AnchorPoint: "Anchor-7" 614 -202 basechar 0
+AnchorPoint: "Anchor-7" 519 -287 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6124,7 +6115,7 @@ VWidth: 2186
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 210.5 1540 basechar 0
-AnchorPoint: "Anchor-7" 291 -210 basechar 0
+AnchorPoint: "Anchor-7" 351 -265 basechar 0
 LayerCount: 2
 Fore
 Refer: 259 65243 N 1 0 0 1 0 0 2
@@ -6137,7 +6128,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 210.5 1534 basechar 0
-AnchorPoint: "Anchor-7" 288 -234 basechar 0
+AnchorPoint: "Anchor-7" 388 -302.814 basechar 0
 LayerCount: 2
 Fore
 Refer: 260 65244 N 1 0 0 1 0 0 2
@@ -6150,7 +6141,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 375 1316.5 basechar 0
-AnchorPoint: "Anchor-7" 512 -162 basechar 0
+AnchorPoint: "Anchor-7" 412 -277 basechar 0
 LayerCount: 2
 Fore
 Refer: 307 -1 N 1.07 0 0 1.07 916.9 -95.99 2
@@ -6164,7 +6155,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 362 1305.5 basechar 0
-AnchorPoint: "Anchor-7" 548 -222 basechar 0
+AnchorPoint: "Anchor-7" 458 -300.814 basechar 0
 LayerCount: 2
 Fore
 Refer: 136 64399 N 1 0 0 1 0 0 2
@@ -6178,7 +6169,7 @@ VWidth: 2186
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 243.5 1758.57 basechar 0
-AnchorPoint: "Anchor-7" 261 -216 basechar 0
+AnchorPoint: "Anchor-7" 351 -314.814 basechar 0
 LayerCount: 2
 Fore
 Refer: 137 64400 N 1 0 0 1 0 0 2
@@ -6192,7 +6183,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 242.5 1711.22 basechar 0
-AnchorPoint: "Anchor-7" 291 -201 basechar 0
+AnchorPoint: "Anchor-7" 376 -319.814 basechar 0
 LayerCount: 2
 Fore
 Refer: 138 64401 N 1 0 0 1 0 0 2
@@ -6205,7 +6196,7 @@ Width: 1432
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 695.5 849 basechar 0
+AnchorPoint: "Anchor-10" 735.5 1141 basechar 0
 AnchorPoint: "Anchor-7" 805.5 -432 basechar 0
 LayerCount: 2
 Fore
@@ -6260,7 +6251,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 508 1382.5 basechar 0
-AnchorPoint: "Anchor-7" 532.5 -114 basechar 0
+AnchorPoint: "Anchor-7" 536.5 -278 basechar 0
 LayerCount: 2
 Fore
 Refer: 275 65259 N 1 0 0 1 51 0 2
@@ -6273,7 +6264,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 457 1271.5 basechar 0
-AnchorPoint: "Anchor-7" 535 -595.5 basechar 0
+AnchorPoint: "Anchor-7" 387 -703.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 276 65260 N 1 0 0 1 0 0 2
@@ -6286,14 +6277,14 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 319.93 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 293.93 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 281.93 -258.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 334.044 103.948 m 0,0,1
  212.625 0 212.625 0 4.90039 0 c 2,2,-1
- -80.4004 0 l 5,3,-1
- -80.4004 280.98 l 5,4,-1
+ -80.4004 0 l 1,3,-1
+ -80.4004 280.98 l 1,4,-1
  13.0498 280.98 l 2,5,6
  32.6949 280.98 32.6949 280.98 44.166 282.465 c 0,7,8
  139.015 293.258 139.015 293.258 172.311 337.338 c 0,9,10
@@ -6314,14 +6305,14 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 249.93 1066.5 basechar 0
-AnchorPoint: "Anchor-7" 227.93 -116.5 basechar 0
+AnchorPoint: "Anchor-7" 263.93 -246.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 320.196 85.2734 m 1,0,1
  223.182 0 223.182 0 74.9004 0 c 2,2,-1
- -23.4004 0 l 5,3,-1
- -23.4004 280.98 l 5,4,-1
+ -23.4004 0 l 1,3,-1
+ -23.4004 280.98 l 1,4,-1
  28.0498 280.98 l 2,5,6
  118.339 280.979 118.339 280.979 148.239 310.678 c 0,7,8
  182.413 344.624 182.413 344.624 188.773 404.681 c 2,9,-1
@@ -6343,8 +6334,8 @@ Width: 1423
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 358 1092 basechar 0
-AnchorPoint: "Anchor-7" 749 -381.5 basechar 0
+AnchorPoint: "Anchor-10" 530 1104 basechar 0
+AnchorPoint: "Anchor-7" 305 -525.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1609 N 1 0 0 1 0 0 2
@@ -6357,7 +6348,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 590 808.36 basechar 0
-AnchorPoint: "Anchor-7" 524 -549.5 basechar 0
+AnchorPoint: "Anchor-7" 296 -689.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 280 65264 N 1 0 0 1 0 0 2
@@ -6370,7 +6361,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 301.93 1076.5 basechar 0
-AnchorPoint: "Anchor-7" 240.37 -485.86 basechar 0
+AnchorPoint: "Anchor-7" 268.37 -625.86 basechar 0
 LayerCount: 2
 Fore
 Refer: 147 64488 N 1 0 0 1 56 0 2
@@ -6384,7 +6375,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 233.93 1028.5 basechar 0
-AnchorPoint: "Anchor-7" 260.91 -454 basechar 0
+AnchorPoint: "Anchor-7" 263.91 -637 basechar 0
 LayerCount: 2
 Fore
 Refer: 148 64489 N 1 0 0 1 0 0 2
@@ -6624,12 +6615,12 @@ EndChar
 
 StartChar: uniFE80
 Encoding: 65152 65152 168
-Width: 1081
+Width: 896
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 481.5 1223.5 basechar 0
-AnchorPoint: "Anchor-7" 535 100 basechar 0
+AnchorPoint: "Anchor-10" 463.5 1259.94 basechar 0
+AnchorPoint: "Anchor-7" 541 -212 basechar 0
 LayerCount: 2
 Fore
 Refer: 38 1569 N 1 0 0 1 0 0 2
@@ -6642,10 +6633,10 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 235.95 1826.5 basechar 0
-AnchorPoint: "Anchor-7" 226.95 -81.5 basechar 0
+AnchorPoint: "Anchor-7" 231.95 -296.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 83 1619 S 1 0 0 1 -161.89 235.5 2
+Refer: 83 1619 N 1 0 0 1 -161.89 235.5 2
 Refer: 44 1575 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6656,11 +6647,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 250.95 1817.5 basechar 0
-AnchorPoint: "Anchor-7" 304.95 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 319.95 -304.314 basechar 0
 LayerCount: 2
 Fore
 Refer: 182 65166 N 1 0 0 1 0 0 2
-Refer: 83 1619 S 1 0 0 1 -115.89 220.5 2
+Refer: 83 1619 N 1 0 0 1 -115.89 220.5 2
 EndChar
 
 StartChar: uniFE83
@@ -6670,7 +6661,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 203.95 2081.5 basechar 0
-AnchorPoint: "Anchor-7" 247.95 -75.5 basechar 0
+AnchorPoint: "Anchor-7" 232.95 -240.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 84 1620 N 1 0 0 1 -292.89 213.5 2
@@ -6684,7 +6675,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 264.95 2103.5 basechar 0
-AnchorPoint: "Anchor-7" 304.95 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 299.95 -220.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 182 65166 N 1 0 0 1 0 0 2
@@ -6698,7 +6689,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 370.5 1471 basechar 0
-AnchorPoint: "Anchor-7" 535 -488.5 basechar 0
+AnchorPoint: "Anchor-7" 540 -658.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 84 1620 N 1 0 0 1 -117.34 -403.5 2
@@ -6712,7 +6703,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 364.5 1474 basechar 0
-AnchorPoint: "Anchor-7" 535 -488.5 basechar 0
+AnchorPoint: "Anchor-7" 520 -643.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 278 65262 N 1 0 0 1 0 0 2
@@ -6726,7 +6717,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 244.95 1536 basechar 0
-AnchorPoint: "Anchor-7" 208.95 -574.5 basechar 0
+AnchorPoint: "Anchor-7" 203.95 -664.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 85 1621 N 1 0 0 1 -293.89 39 2
@@ -6740,11 +6731,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 265.95 1536 basechar 0
-AnchorPoint: "Anchor-7" 241.95 -556.5 basechar 0
+AnchorPoint: "Anchor-7" 313.95 -647.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 182 65166 N 1 0 0 1 0 0 2
-Refer: 85 1621 N 1 0 0 1 -298.89 51 2
+Refer: 85 1621 N 1 0 0 1 -251.89 30 2
 EndChar
 
 StartChar: uniFE89
@@ -6754,7 +6745,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 412 1437.5 basechar 0
-AnchorPoint: "Anchor-7" 635 -417.5 basechar 0
+AnchorPoint: "Anchor-7" 445 -547.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 84 1620 N 1 0 0 1 38.16 -430.5 2
@@ -6768,7 +6759,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 642 1170 basechar 0
-AnchorPoint: "Anchor-7" 503 -552.5 basechar 0
+AnchorPoint: "Anchor-7" 347 -696.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 280 65264 N 1 0 0 1 0 0 2
@@ -6781,12 +6772,12 @@ Width: 609
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 275.93 1531 basechar 0
-AnchorPoint: "Anchor-7" 319.93 -60.5 basechar 0
+AnchorPoint: "Anchor-10" 247.93 1551 basechar 0
+AnchorPoint: "Anchor-7" 295.93 -280.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 147 64488 N 1 0 0 1 0 0 2
-Refer: 84 1620 S 1 0 0 1 -271.91 -337 2
+Refer: 84 1620 N 1 0 0 1 -271.91 -337 2
 EndChar
 
 StartChar: uniFE8C
@@ -6796,7 +6787,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 319.93 1438 basechar 0
-AnchorPoint: "Anchor-7" 253.93 -126.5 basechar 0
+AnchorPoint: "Anchor-7" 269.93 -286.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 148 64489 N 1 0 0 1 0 0 2
@@ -6810,7 +6801,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 236.5 1534 basechar 0
-AnchorPoint: "Anchor-7" 214.5 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 234.5 -314.314 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 1575 N 1 0 0 1 0 0 2
@@ -6823,7 +6814,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 280.95 1504 basechar 0
-AnchorPoint: "Anchor-7" 262.95 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 278.95 -288.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6834,8 +6825,8 @@ SplineSet
  411.39 391.486 411.39 391.486 433.814 349.359 c 0,5,6
  452.007 315.183 452.007 315.183 486.059 298.081 c 128,-1,7
  520.11 280.98 520.11 280.98 578.83 280.98 c 2,8,-1
- 672.08 280.98 l 5,9,-1
- 672.08 0 l 5,10,-1
+ 672.08 280.98 l 1,9,-1
+ 672.08 0 l 1,10,-1
  558.98 0 l 2,11,12
  436.434 0 436.434 0 345.684 48.6152 c 128,-1,13
  254.934 97.2305 254.934 97.2305 203.679 193.604 c 1,14,15
@@ -6878,7 +6869,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 319.93 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 194.27 -517.07 basechar 0
+AnchorPoint: "Anchor-7" 266.27 -649.07 basechar 0
 LayerCount: 2
 Fore
 Refer: 298 -1 N 1 0 0 1 0 0 2
@@ -6892,7 +6883,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 221.93 1028.5 basechar 0
-AnchorPoint: "Anchor-7" 157.93 -510.51 basechar 0
+AnchorPoint: "Anchor-7" 241.93 -615.51 basechar 0
 LayerCount: 2
 Fore
 Refer: 299 -1 N 1 0 0 1 0 0 2
@@ -6906,7 +6897,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 309.5 1514.5 basechar 0
-AnchorPoint: "Anchor-7" 407 -110 basechar 0
+AnchorPoint: "Anchor-7" 359 -298 basechar 0
 LayerCount: 2
 Fore
 Refer: 294 -1 N 1.07 0 0 1.07 268.5 1170.5 2
@@ -6920,7 +6911,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 342.5 1465.5 basechar 0
-AnchorPoint: "Anchor-7" 439 -111 basechar 0
+AnchorPoint: "Anchor-7" 411 -259 basechar 0
 LayerCount: 2
 Fore
 Refer: 274 65258 N 1 0 0 1 0 0 2
@@ -6934,7 +6925,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 798.06 1288.02 basechar 0
-AnchorPoint: "Anchor-7" 735 -126 basechar 0
+AnchorPoint: "Anchor-7" 595 -290 basechar 0
 LayerCount: 2
 Fore
 Refer: 294 -1 N 1.07 0 0 1.07 647.62 864.22 2
@@ -6948,7 +6939,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 776.65 1266.07 basechar 0
-AnchorPoint: "Anchor-7" 739 -166 basechar 0
+AnchorPoint: "Anchor-7" 519 -281 basechar 0
 LayerCount: 2
 Fore
 Refer: 297 -1 N 1 0 0 1 0 0 2
@@ -6962,7 +6953,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 217.07 1418.49 basechar 0
-AnchorPoint: "Anchor-7" 357.93 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 309.93 -296.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 298 -1 N 1 0 0 1 38 0 2
@@ -6976,7 +6967,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 187.93 1269.75 basechar 0
-AnchorPoint: "Anchor-7" 235.93 -90.5 basechar 0
+AnchorPoint: "Anchor-7" 226.93 -308.314 basechar 0
 LayerCount: 2
 Fore
 Refer: 148 64489 N 1 0 0 1 0 0 2
@@ -6990,7 +6981,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 727 1462.5 basechar 0
-AnchorPoint: "Anchor-7" 771 -126 basechar 0
+AnchorPoint: "Anchor-7" 471 -278 basechar 0
 LayerCount: 2
 Fore
 Refer: 295 -1 N 1.07 0 0 1.07 641 793 2
@@ -7004,7 +6995,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 754 1443.5 basechar 0
-AnchorPoint: "Anchor-7" 763 -130 basechar 0
+AnchorPoint: "Anchor-7" 498 -270 basechar 0
 LayerCount: 2
 Fore
 Refer: 297 -1 N 1 0 0 1 0 0 2
@@ -7018,11 +7009,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 227.93 1622.5 basechar 0
-AnchorPoint: "Anchor-7" 357.93 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 313.93 -292.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 298 -1 S 1 0 0 1 38 0 2
-Refer: 295 -1 S 1.07 0 0 1.07 73.93 1006 2
+Refer: 298 -1 N 1 0 0 1 38 0 2
+Refer: 295 -1 N 1.07 0 0 1.07 73.93 1006 2
 EndChar
 
 StartChar: uniFE9C
@@ -7032,7 +7023,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 201.93 1486.61 basechar 0
-AnchorPoint: "Anchor-7" 241.93 -80.5 basechar 0
+AnchorPoint: "Anchor-7" 273.93 -288.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 148 64489 N 1 0 0 1 0 0 2
@@ -7046,10 +7037,10 @@ VWidth: 2232
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 527.5 1111.5 basechar 0
-AnchorPoint: "Anchor-7" 535.84 -633.5 basechar 0
+AnchorPoint: "Anchor-7" 363.84 -721.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 293 -1 S 1.07 0 0 1.07 669.25 53.25 2
+Refer: 293 -1 N 1.07 0 0 1.07 669.25 53.25 2
 Refer: 50 1581 N 1 0 0 1 0 0 2
 EndChar
 
@@ -7060,7 +7051,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 695.5 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 637.84 -607.5 basechar 0
+AnchorPoint: "Anchor-7" 429.84 -671.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 202 65186 N 1 0 0 1 0 0 2
@@ -7074,7 +7065,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 492 1218.5 basechar 0
-AnchorPoint: "Anchor-7" 911.16 -524.35 basechar 0
+AnchorPoint: "Anchor-7" 927.16 -584.35 basechar 0
 LayerCount: 2
 Fore
 Refer: 203 65187 N 1 0 0 1 51 0 2
@@ -7088,7 +7079,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 492 1215.5 basechar 0
-AnchorPoint: "Anchor-7" 833.16 -524.72 basechar 0
+AnchorPoint: "Anchor-7" 853.16 -564.72 basechar 0
 LayerCount: 2
 Fore
 Refer: 204 65188 N 1 0 0 1 0 0 2
@@ -7102,7 +7093,7 @@ VWidth: 2232
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 594.5 1111.5 basechar 0
-AnchorPoint: "Anchor-7" 551.84 -609.5 basechar 0
+AnchorPoint: "Anchor-7" 359.84 -713.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 50 1581 N 1 0 0 1 0 0 2
@@ -7115,13 +7106,13 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 602.5 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 565.84 -629.64 basechar 0
+AnchorPoint: "Anchor-7" 365.84 -697.64 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 1300.13 281.38 m 2,0,-1
- 1407.94 281.38 l 5,1,-1
- 1407.94 0.5 l 5,2,-1
+ 1407.94 281.38 l 1,1,-1
+ 1407.94 0.5 l 1,2,-1
  1290.51 0.5 l 2,3,4
  1029.18 0.5 1029.18 0.5 836.877 304.248 c 0,5,6
  809.082 348.145 809.082 348.145 758.196 488.995 c 1,7,8
@@ -7163,7 +7154,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 480 1236.73 basechar 0
-AnchorPoint: "Anchor-7" 594 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 594 -288.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7171,7 +7162,7 @@ SplineSet
  914.738 274.937 914.738 274.937 706.987 156.22 c 0,2,3
  433.608 0 433.608 0 71.2549 -0 c 2,4,-1
  -59.4004 0 l 1,5,-1
- -59.4004 280.98 l 5,6,-1
+ -59.4004 280.98 l 1,6,-1
  37.5996 280.98 l 2,7,8
  153.127 280.98 153.127 280.98 299.461 304.848 c 0,9,10
  512.719 339.631 512.719 339.631 781.479 519.541 c 1,11,12
@@ -7200,15 +7191,15 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 473 1224.69 basechar 0
-AnchorPoint: "Anchor-7" 605 -114.5 basechar 0
+AnchorPoint: "Anchor-7" 573 -286.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 837.402 234.321 m 1,0,1
  770.588 192.962 770.588 192.962 707.196 156.34 c 0,2,3
  436.569 0 436.569 0 71.2549 0 c 2,4,-1
- -59.4004 0 l 5,5,-1
- -59.4004 280.98 l 5,6,-1
+ -59.4004 0 l 1,5,-1
+ -59.4004 280.98 l 1,6,-1
  37.5996 280.98 l 2,7,8
  153.127 280.98 153.127 280.98 299.461 304.848 c 0,9,10
  512.719 339.632 512.719 339.632 782.143 519.986 c 1,11,12
@@ -7244,7 +7235,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 493.5 1479 basechar 0
-AnchorPoint: "Anchor-7" 612.84 -611.5 basechar 0
+AnchorPoint: "Anchor-7" 387.84 -721.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 293 -1 N 1.07 0 0 1.07 452.25 1127 2
@@ -7258,7 +7249,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 522.5 1474 basechar 0
-AnchorPoint: "Anchor-7" 634.84 -616.5 basechar 0
+AnchorPoint: "Anchor-7" 409.84 -676.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 202 65186 N 1 0 0 1 0 0 2
@@ -7272,7 +7263,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 559.38 1527.14 basechar 0
-AnchorPoint: "Anchor-7" 642 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 618 -296.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 203 65187 N 1 0 0 1 0 0 2
@@ -7286,7 +7277,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 568.74 1516.67 basechar 0
-AnchorPoint: "Anchor-7" 642 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 642 -306.314 basechar 0
 LayerCount: 2
 Fore
 Refer: 204 65188 N 1 0 0 1 0 0 2
@@ -7300,7 +7291,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 313 1290.5 basechar 0
-AnchorPoint: "Anchor-7" 368.5 -116 basechar 0
+AnchorPoint: "Anchor-7" 383.5 -299 basechar 0
 LayerCount: 2
 Fore
 Refer: 52 1583 N 1 0 0 1 -1 0 2
@@ -7313,7 +7304,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 447.99 1164.65 basechar 0
-AnchorPoint: "Anchor-7" 333.5 -114 basechar 0
+AnchorPoint: "Anchor-7" 417.5 -310.814 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7323,8 +7314,8 @@ SplineSet
  575.149 979.074 l 2,3,4
  637.507 838.788 637.507 838.788 799.715 464.815 c 1,5,6
  869.179 307.898 869.179 307.898 976.625 281.38 c 1,7,-1
- 1037.65 281.38 l 5,8,-1
- 1037.65 0.5 l 5,9,-1
+ 1037.65 281.38 l 1,8,-1
+ 1037.65 0.5 l 1,9,-1
  974.439 0.5 l 2,10,11
  814.88 0.5 814.88 0.5 722.183 92.9287 c 1,12,13
  658.933 40.4287 658.933 40.4287 558.284 19.7012 c 128,-1,14
@@ -7356,7 +7347,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 276.72 1492.54 basechar 0
-AnchorPoint: "Anchor-7" 481.5 -114 basechar 0
+AnchorPoint: "Anchor-7" 401.5 -311.814 basechar 0
 LayerCount: 2
 Fore
 Refer: 293 -1 N 1.07 0 0 1.07 247.47 1190.54 2
@@ -7370,7 +7361,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 368.24 1617.37 basechar 0
-AnchorPoint: "Anchor-7" 481.5 -114 basechar 0
+AnchorPoint: "Anchor-7" 425.5 -311.814 basechar 0
 LayerCount: 2
 Fore
 Refer: 210 65194 N 1 0 0 1 0 0 2
@@ -7384,7 +7375,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 513 885 basechar 0
-AnchorPoint: "Anchor-7" 535 -488.5 basechar 0
+AnchorPoint: "Anchor-7" 541 -620.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 54 1585 N 1 0 0 1 0 0 2
@@ -7397,7 +7388,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 489 869 basechar 0
-AnchorPoint: "Anchor-7" 461.925 -504.55 basechar 0
+AnchorPoint: "Anchor-7" 476.925 -636.55 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7407,8 +7398,8 @@ SplineSet
  683.726 524.008 683.726 524.008 742.705 412.476 c 0,4,5
  779.323 343.23 779.323 343.23 824.469 312.106 c 128,-1,6
  869.617 280.979 869.617 280.979 927.84 280.98 c 2,7,-1
- 963.6 280.98 l 5,8,-1
- 963.6 0 l 5,9,-1
+ 963.6 280.98 l 1,8,-1
+ 963.6 0 l 1,9,-1
  941.99 0 l 2,10,11
  817.701 0 817.701 0 745.565 29.7432 c 1,12,13
  690.372 -188.559 690.372 -188.559 510.984 -312.262 c 128,-1,14
@@ -7475,10 +7466,10 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 356.95 1290.01 basechar 0
-AnchorPoint: "Anchor-7" 535 -488.5 basechar 0
+AnchorPoint: "Anchor-7" 505 -605.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 293 -1 S 1.07 0 0 1.07 354.7 866.43 2
+Refer: 293 -1 N 1.07 0 0 1.07 354.7 866.43 2
 Refer: 54 1585 N 1 0 0 1 0 0 2
 EndChar
 
@@ -7489,11 +7480,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 442.36 1320.56 basechar 0
-AnchorPoint: "Anchor-7" 535.5 -488.5 basechar 0
+AnchorPoint: "Anchor-7" 532.5 -671.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 214 65198 N 1 0 0 1 0.5 0 2
-Refer: 293 -1 S 1.07 0 0 1.07 356.11 866.562 2
+Refer: 293 -1 N 1.07 0 0 1.07 356.11 866.562 2
 Kerns2: 68 0 "'kern' Horizontal Kerning lookup 15-1"  55 0 "'kern' Horizontal Kerning lookup 15-1"  54 0 "'kern' Horizontal Kerning lookup 15-1"  195 0 "'kern' Horizontal Kerning lookup 15-1"  191 0 "'kern' Horizontal Kerning lookup 15-1"  185 0 "'kern' Horizontal Kerning lookup 15-1"  133 0 "'kern' Horizontal Kerning lookup 15-1"  108 0 "'kern' Horizontal Kerning lookup 15-1"  131 0 "'kern' Horizontal Kerning lookup 15-1" 
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEDF dx=-70 dy=0 dh=-70 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFBAC dx=-70 dy=0 dh=-70 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -7547,7 +7538,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 642 902.5 basechar 0
-AnchorPoint: "Anchor-7" 542 -565.5 basechar 0
+AnchorPoint: "Anchor-7" 327 -665.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 56 1587 N 1 0 0 1 0 0 2
@@ -7560,7 +7551,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 553 902.5 basechar 0
-AnchorPoint: "Anchor-7" 523 -530.5 basechar 0
+AnchorPoint: "Anchor-7" 349 -698.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7605,8 +7596,8 @@ SplineSet
  2313.01 325.367 2313.01 325.367 2319.28 315.873 c 128,-1,59
  2325.54 306.379 2325.54 306.379 2330.68 303.479 c 0,60,61
  2369.84 281.38 2369.84 281.38 2449.46 281.38 c 2,62,-1
- 2492.33 281.38 l 5,63,-1
- 2492.33 0.5 l 5,64,-1
+ 2492.33 281.38 l 1,63,-1
+ 2492.33 0.5 l 1,64,-1
  2420.92 0.5 l 2,65,66
  2255.97 0.5 2255.97 0.5 2167.47 85.5566 c 1,67,68
  2090.22 -1.13477 2090.22 -1.13477 1986.22 0.00195312 c 0,69,70
@@ -7623,7 +7614,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 695.5 1033.5 basechar 0
-AnchorPoint: "Anchor-7" 675.5 -214 basechar 0
+AnchorPoint: "Anchor-7" 743.5 -290 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7669,7 +7660,7 @@ VWidth: 2232
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 720.5 1004.5 basechar 0
-AnchorPoint: "Anchor-7" 712.5 -171 basechar 0
+AnchorPoint: "Anchor-7" 748.5 -307 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7679,8 +7670,8 @@ SplineSet
  453.253 4.5752 453.253 4.5752 366.718 96.751 c 1,6,7
  347.747 82.0938 347.747 82.0938 321.348 64.5352 c 0,8,9
  224.32 0 224.32 0 72.207 0 c 2,10,-1
- -49.2744 0 l 5,11,-1
- -49.2744 280.979 l 5,12,-1
+ -49.2744 0 l 1,11,-1
+ -49.2744 280.979 l 1,12,-1
  36.4385 280.979 l 2,13,14
  137.329 280.98 137.329 280.98 184.78 309.384 c 0,15,16
  230.785 336.922 230.785 336.922 239.102 389.037 c 2,17,-1
@@ -7718,10 +7709,10 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 637 937.5 basechar 0
-AnchorPoint: "Anchor-7" 542 -545.5 basechar 0
+AnchorPoint: "Anchor-7" 357 -670.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 295 -1 S 1.07 0 0 1.07 1444.38 879.26 2
+Refer: 295 -1 N 1.07 0 0 1.07 1444.38 879.26 2
 Refer: 56 1587 N 1 0 0 1 0 0 2
 EndChar
 
@@ -7732,7 +7723,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 637 987.5 basechar 0
-AnchorPoint: "Anchor-7" 542 -530.5 basechar 0
+AnchorPoint: "Anchor-7" 362 -602.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 218 65202 N 1 0 0 1 0 0 2
@@ -7746,7 +7737,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 645.943 1533.86 basechar 0
-AnchorPoint: "Anchor-7" 667.5 -154 basechar 0
+AnchorPoint: "Anchor-7" 767.5 -318.992 basechar 0
 LayerCount: 2
 Fore
 Refer: 219 65203 N 1 0 0 1 0 0 2
@@ -7760,7 +7751,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 767.54 1533.12 basechar 0
-AnchorPoint: "Anchor-7" 679.5 -170 basechar 0
+AnchorPoint: "Anchor-7" 843.5 -294 basechar 0
 LayerCount: 2
 Fore
 Refer: 220 65204 N 1 0 0 1 0 0 2
@@ -7774,7 +7765,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 592 997.5 basechar 0
-AnchorPoint: "Anchor-7" 547 -565.5 basechar 0
+AnchorPoint: "Anchor-7" 337 -630.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 58 1589 N 1 0 0 1 0 0 2
@@ -7786,8 +7777,8 @@ Width: 2472
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 503 1027.5 basechar 0
-AnchorPoint: "Anchor-7" 473 -545.5 basechar 0
+AnchorPoint: "Anchor-10" 575 1021.5 basechar 0
+AnchorPoint: "Anchor-7" 317 -689.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7818,8 +7809,8 @@ SplineSet
  2339.8 404.383 2339.8 404.383 2309.21 334.231 c 1,41,42
  2319.41 326.03 2319.41 326.03 2325.97 321.305 c 0,43,44
  2381.46 281.38 2381.46 281.38 2456.78 281.38 c 2,45,-1
- 2517.1 281.38 l 5,46,-1
- 2517.1 0.5 l 5,47,-1
+ 2517.1 281.38 l 1,46,-1
+ 2517.1 0.5 l 1,47,-1
  2397.93 0.5 l 2,48,49
  2242.4 0.5 2242.4 0.5 2118.9 123.451 c 1,50,51
  1906.33 0.525935 1906.33 0.525935 1665.06 -0.0654297 c 2,52,-1
@@ -7843,7 +7834,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 548.3 1125.8 basechar 0
-AnchorPoint: "Anchor-7" 524.3 -114 basechar 0
+AnchorPoint: "Anchor-7" 600.3 -308.665 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7867,8 +7858,8 @@ SplineSet
  550.826 0.949434 550.826 0.949434 447.818 54.8877 c 0,28,29
  387.558 86.4414 387.558 86.4414 345.782 132.791 c 1,30,31
  227.122 0 227.122 0 60.9902 0 c 2,32,-1
- -45.4004 0 l 5,33,-1
- -45.4004 280.98 l 5,34,-1
+ -45.4004 0 l 1,33,-1
+ -45.4004 280.98 l 1,34,-1
  2.13965 280.98 l 2,35,36
  94.5702 280.979 94.5702 280.979 128.292 307.447 c 0,37,38
  184.044 351.218 184.044 351.218 197.753 449.132 c 2,39,-1
@@ -7886,7 +7877,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 580.5 1190.5 basechar 0
-AnchorPoint: "Anchor-7" 588.5 -114 basechar 0
+AnchorPoint: "Anchor-7" 644.5 -290 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7911,8 +7902,8 @@ SplineSet
  552.179 0.240145 552.179 0.240145 447.818 54.8877 c 0,28,29
  387.558 86.4414 387.558 86.4414 345.782 132.791 c 1,30,31
  227.122 0 227.122 0 60.9902 0 c 2,32,-1
- -40.4004 0 l 5,33,-1
- -40.4004 280.98 l 5,34,-1
+ -40.4004 0 l 1,33,-1
+ -40.4004 280.98 l 1,34,-1
  2.13965 280.98 l 2,35,36
  94.7177 280.979 94.7177 280.979 136.137 322.396 c 0,37,38
  182.621 368.883 182.621 368.883 195.78 460.324 c 2,39,-1
@@ -7936,7 +7927,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 642 902.5 basechar 0
-AnchorPoint: "Anchor-7" 497 -545.5 basechar 0
+AnchorPoint: "Anchor-7" 317 -630.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 293 -1 N 1.07 0 0 1.07 1753.9 1161.65 2
@@ -7950,11 +7941,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 642 902.5 basechar 0
-AnchorPoint: "Anchor-7" 527 -535.5 basechar 0
+AnchorPoint: "Anchor-7" 359 -637.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 226 65210 N 1 0 0 1 0 0 2
-Refer: 293 -1 S 1.07 0 0 1.07 1695.7 1168.55 2
+Refer: 293 -1 N 1.07 0 0 1.07 1695.7 1168.55 2
 EndChar
 
 StartChar: uniFEBF
@@ -7964,7 +7955,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 759.945 1512.15 basechar 0
-AnchorPoint: "Anchor-7" 588.5 -114 basechar 0
+AnchorPoint: "Anchor-7" 660.5 -302 basechar 0
 LayerCount: 2
 Fore
 Refer: 227 65211 N 1 0 0 1 0 0 2
@@ -7978,7 +7969,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 655.34 1504.54 basechar 0
-AnchorPoint: "Anchor-7" 588.5 -114 basechar 0
+AnchorPoint: "Anchor-7" 696.5 -274 basechar 0
 LayerCount: 2
 Fore
 Refer: 228 65212 N 1 0 0 1 0 0 2
@@ -7991,7 +7982,7 @@ Width: 1450
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-7" 287.72 -114 basechar 0
+AnchorPoint: "Anchor-7" 584.72 -300 basechar 0
 AnchorPoint: "Anchor-10" 287.72 1518.47 basechar 0
 LayerCount: 2
 Fore
@@ -8005,8 +7996,8 @@ SplineSet
  936.102 650.197 936.102 650.197 823.284 556.772 c 1,10,11
  695.652 448.214 695.652 448.214 592.821 292.009 c 1,0,-1
 746.048 0 m 2,12,-1
- 1.75 0 l 5,13,-1
- 1.75 280.979 l 5,14,-1
+ 1.75 0 l 1,13,-1
+ 1.75 280.979 l 1,14,-1
  156.28 280.979 l 1,15,-1
  156.28 1398.89 l 1,16,-1
  424.16 1398.89 l 1,17,-1
@@ -8026,7 +8017,7 @@ Width: 1562
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-7" 395.13 -114 basechar 0
+AnchorPoint: "Anchor-7" 691.13 -303.814 basechar 0
 AnchorPoint: "Anchor-10" 307.67 1520.79 basechar 0
 LayerCount: 2
 Fore
@@ -8047,8 +8038,8 @@ SplineSet
  1482.25 0.5 l 2,19,20
  1304.64 0.5 1304.64 0.5 1195.16 125.6 c 1,21,22
  1007.48 0 1007.48 0 759.298 0 c 2,23,-1
- 1 0 l 5,24,-1
- 1 280.98 l 5,25,-1
+ 1 0 l 1,24,-1
+ 1 280.98 l 1,25,-1
  168.53 280.98 l 1,26,-1
  168.53 1399.89 l 1,27,-1
  437.41 1399.89 l 1,28,-1
@@ -8067,7 +8058,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 277.57 1512.47 basechar 0
-AnchorPoint: "Anchor-7" 268.57 -114 basechar 0
+AnchorPoint: "Anchor-7" 478.57 -310.814 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8080,8 +8071,8 @@ SplineSet
  916.951 650.197 916.951 650.197 804.136 556.773 c 1,10,11
  676.503 448.214 676.503 448.214 573.672 292.009 c 1,0,-1
 726.898 0 m 2,12,-1
- -39.4004 0 l 5,13,-1
- -39.4004 280.98 l 5,14,-1
+ -39.4004 0 l 1,13,-1
+ -39.4004 280.98 l 1,14,-1
  136.13 280.98 l 1,15,-1
  136.13 1399.89 l 1,16,-1
  405.01 1399.89 l 1,17,-1
@@ -8102,7 +8093,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 269.27 1521.79 basechar 0
-AnchorPoint: "Anchor-7" 362.73 -114 basechar 0
+AnchorPoint: "Anchor-7" 538.73 -310 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8122,8 +8113,8 @@ SplineSet
  1449.85 0.5 l 2,19,20
  1272.24 0.5 1272.24 0.5 1162.76 125.6 c 1,21,22
  975.081 0 975.081 0 726.898 0 c 2,23,-1
- -39.4004 0 l 5,24,-1
- -39.4004 280.98 l 5,25,-1
+ -39.4004 0 l 1,24,-1
+ -39.4004 280.98 l 1,25,-1
  136.13 280.98 l 1,26,-1
  136.13 1400.89 l 1,27,-1
  405.01 1400.89 l 1,28,-1
@@ -8142,7 +8133,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 291.72 1528.47 basechar 0
-AnchorPoint: "Anchor-7" 423.72 -114 basechar 0
+AnchorPoint: "Anchor-7" 564.72 -314.259 basechar 0
 LayerCount: 2
 Fore
 Refer: 233 65217 N 1 0 0 1 0 0 2
@@ -8156,7 +8147,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 305.21 1516 basechar 0
-AnchorPoint: "Anchor-7" 513.21 -118 basechar 0
+AnchorPoint: "Anchor-7" 597.21 -302 basechar 0
 LayerCount: 2
 Fore
 Refer: 234 65218 N 1 0 0 1 0 0 2
@@ -8170,11 +8161,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 266.73 1521 basechar 0
-AnchorPoint: "Anchor-7" 362.73 -114 basechar 0
+AnchorPoint: "Anchor-7" 521.73 -308.759 basechar 0
 LayerCount: 2
 Fore
 Refer: 235 65219 N 1 0 0 1 0 0 2
-Refer: 293 -1 S 1.07 0 0 1.07 814.98 1172.01 2
+Refer: 293 -1 N 1.07 0 0 1.07 814.98 1172.01 2
 EndChar
 
 StartChar: uniFEC8
@@ -8184,7 +8175,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 258.73 1516 basechar 0
-AnchorPoint: "Anchor-7" 362.73 -114 basechar 0
+AnchorPoint: "Anchor-7" 530.73 -290 basechar 0
 LayerCount: 2
 Fore
 Refer: 236 65220 N 1 0 0 1 0 0 2
@@ -8198,7 +8189,7 @@ VWidth: 2232
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 429.5 1424 basechar 0
-AnchorPoint: "Anchor-7" 617.5 -603.5 basechar 0
+AnchorPoint: "Anchor-7" 261.5 -679.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 62 1593 N 1 0 0 1 0 0 2
@@ -8211,7 +8202,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 568 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 524.69 -608.64 basechar 0
+AnchorPoint: "Anchor-7" 278.69 -662.64 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8237,8 +8228,8 @@ SplineSet
  944.311 536.932 944.311 536.932 942.15 534.654 c 0,28,29
  878.101 467.148 878.101 467.148 781.981 420.951 c 1,30,31
  908.009 281.38 908.009 281.38 1049.5 281.38 c 2,32,-1
- 1214.7 281.38 l 5,33,-1
- 1214.7 0.5 l 5,34,-1
+ 1214.7 281.38 l 1,33,-1
+ 1214.7 0.5 l 1,34,-1
  1066.62 0.5 l 2,35,36
  842.175 0.5 842.175 0.5 595.694 278.738 c 1,37,38
  435.18 206.653 435.18 206.653 369.744 123.791 c 0,39,40
@@ -8264,11 +8255,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 373.265 1272.23 basechar 0
-AnchorPoint: "Anchor-7" 513.6 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 501.6 -308.314 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--39.4004 280.979 m 5,0,-1
+-39.4004 280.979 m 1,0,-1
  171.397 280.979 l 1,1,2
  142.532 324.5 142.532 324.5 126.42 370.352 c 0,3,4
  64.8581 551.362 64.8581 551.362 128.407 711.92 c 0,5,6
@@ -8290,8 +8281,8 @@ SplineSet
  1014 115.918 l 1,28,-1
  975.745 106.045 l 2,29,30
  564.759 -0.0238531 564.759 -0.0238531 356.355 -0.015625 c 2,31,-1
- -39.4004 0 l 5,32,-1
- -39.4004 280.979 l 5,0,-1
+ -39.4004 0 l 1,32,-1
+ -39.4004 280.979 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -8302,7 +8293,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 464.58 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 404.58 -81.5 basechar 0
+AnchorPoint: "Anchor-7" 422.58 -291.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8351,7 +8342,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 505.5 1684.5 basechar 0
-AnchorPoint: "Anchor-7" 695.5 -595.5 basechar 0
+AnchorPoint: "Anchor-7" 319.5 -711.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 293 -1 N 1.07 0 0 1.07 425.25 1333.5 2
@@ -8365,7 +8356,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 581.94 1484.7 basechar 0
-AnchorPoint: "Anchor-7" 540.89 -616.5 basechar 0
+AnchorPoint: "Anchor-7" 316.89 -660.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 242 65226 N 1 0 0 1 0 0 2
@@ -8379,11 +8370,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 521.5 1506.5 basechar 0
-AnchorPoint: "Anchor-7" 567 -141.5 basechar 0
+AnchorPoint: "Anchor-7" 543 -288.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 243 65227 N 1 0 0 1 0 0 2
-Refer: 293 -1 S 1.07 0 0 1.07 490.25 1218.5 2
+Refer: 293 -1 N 1.07 0 0 1.07 490.25 1218.5 2
 EndChar
 
 StartChar: uniFED0
@@ -8393,7 +8384,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 402.58 1370 basechar 0
-AnchorPoint: "Anchor-7" 372.58 -81.5 basechar 0
+AnchorPoint: "Anchor-7" 423.58 -288.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 244 65228 N 1 0 0 1 0 0 2
@@ -8406,11 +8397,11 @@ Width: 1790
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 749 1223.5 basechar 0
-AnchorPoint: "Anchor-7" 856 -167.5 basechar 0
+AnchorPoint: "Anchor-10" 605 1219.5 basechar 0
+AnchorPoint: "Anchor-7" 328 -247.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 293 -1 S 1.07 0 0 1.07 1262.75 1344.47 2
+Refer: 293 -1 N 1.07 0 0 1.07 1262.75 1344.47 2
 Refer: 109 1697 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8421,11 +8412,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 749 1223.5 basechar 0
-AnchorPoint: "Anchor-7" 856 -167.5 basechar 0
+AnchorPoint: "Anchor-7" 361 -267.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 300 -1 N 1 0 0 1 0 0 2
-Refer: 293 -1 S 1.07 0 0 1.07 1419.01 1150.34 2
+Refer: 293 -1 N 1.07 0 0 1.07 1419.01 1150.34 2
 EndChar
 
 StartChar: uniFED3
@@ -8435,7 +8426,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 358.88 1643.24 basechar 0
-AnchorPoint: "Anchor-7" 427 -120 basechar 0
+AnchorPoint: "Anchor-7" 406 -307.814 basechar 0
 LayerCount: 2
 Fore
 Refer: 301 -1 N 1 0 0 1 0 0 2
@@ -8449,7 +8440,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 536.47 1511.65 basechar 0
-AnchorPoint: "Anchor-7" 506.26 -129 basechar 0
+AnchorPoint: "Anchor-7" 506.26 -297 basechar 0
 LayerCount: 2
 Fore
 Refer: 302 -1 N 1 0 0 1 0 0 2
@@ -8462,8 +8453,8 @@ Width: 1510
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 289 1366.5 basechar 0
-AnchorPoint: "Anchor-7" 671 -503 basechar 0
+AnchorPoint: "Anchor-10" 309 1322.5 basechar 0
+AnchorPoint: "Anchor-7" 307 -579 basechar 0
 LayerCount: 2
 Fore
 Refer: 294 -1 N 1.07 0 0 1.07 798.5 1155.28 2
@@ -8476,12 +8467,12 @@ Width: 1418
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 335 1341 basechar 0
-AnchorPoint: "Anchor-7" 629 -574.5 basechar 0
+AnchorPoint: "Anchor-10" 383 1201 basechar 0
+AnchorPoint: "Anchor-7" 333 -682.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 303 -1 N 1 0 0 1 0 0 2
-Refer: 294 -1 S 1.07 0 0 1.07 758 985.75 2
+Refer: 294 -1 N 1.07 0 0 1.07 758 985.75 2
 EndChar
 
 StartChar: uniFED7
@@ -8490,8 +8481,8 @@ Width: 876
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 318.1 1652.44 basechar 0
-AnchorPoint: "Anchor-7" 445 -122 basechar 0
+AnchorPoint: "Anchor-10" 276.1 1664.44 basechar 0
+AnchorPoint: "Anchor-7" 412 -293 basechar 0
 LayerCount: 2
 Fore
 Refer: 304 -1 N 1 0 0 1 0 0 2
@@ -8505,7 +8496,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 431.26 1504.5 basechar 0
-AnchorPoint: "Anchor-7" 482.26 -123 basechar 0
+AnchorPoint: "Anchor-7" 485.26 -307.814 basechar 0
 LayerCount: 2
 Fore
 Refer: 305 -1 N 1 0 0 1 0 0 2
@@ -8519,7 +8510,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 625 1455.5 basechar 0
-AnchorPoint: "Anchor-7" 856 -167.5 basechar 0
+AnchorPoint: "Anchor-7" 436 -255.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 67 1603 N 1 0 0 1 0 0 2
@@ -8532,7 +8523,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 539 1423.5 basechar 0
-AnchorPoint: "Anchor-7" 790 -167.5 basechar 0
+AnchorPoint: "Anchor-7" 414 -287.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8587,8 +8578,8 @@ SplineSet
  1690.3 432.06 1690.3 432.06 1687.39 402.938 c 0,76,77
  1683.03 359.221 1683.03 359.221 1671.86 318.169 c 1,78,79
  1713.6 281.38 1713.6 281.38 1795.97 281.38 c 2,80,-1
- 1873.22 281.38 l 5,81,-1
- 1873.22 0.5 l 5,82,-1
+ 1873.22 281.38 l 1,81,-1
+ 1873.22 0.5 l 1,82,-1
  1737.12 0.5 l 2,83,84
  1626.19 0.5 1626.19 0.5 1495.72 98.8652 c 1,85,86
  1406.99 53.8057 1406.99 53.8057 1275.76 30.0098 c 0,46,47
@@ -8602,7 +8593,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 192.5 1511 basechar 0
-AnchorPoint: "Anchor-7" 270 -216 basechar 0
+AnchorPoint: "Anchor-7" 276 -304.814 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8634,7 +8625,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 182.5 1505 basechar 0
-AnchorPoint: "Anchor-7" 315 -243 basechar 0
+AnchorPoint: "Anchor-7" 342 -307.814 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8673,7 +8664,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 440.5 1013.5 basechar 0
-AnchorPoint: "Anchor-7" 506 -447 basechar 0
+AnchorPoint: "Anchor-7" 250 -511 basechar 0
 LayerCount: 2
 Fore
 Refer: 68 1604 N 1 0 0 1 0 0 2
@@ -8686,7 +8677,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 453.5 1084.5 basechar 0
-AnchorPoint: "Anchor-7" 524.34 -535.3 basechar 0
+AnchorPoint: "Anchor-7" 292.34 -619.3 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8696,8 +8687,8 @@ SplineSet
  1186.28 456.31 l 2,3,4
  1186.28 358.628 1186.28 358.628 1227.58 317.331 c 0,5,6
  1263.54 281.38 1263.54 281.38 1343.72 281.38 c 2,7,-1
- 1438.97 281.38 l 5,8,-1
- 1438.97 0.5 l 5,9,-1
+ 1438.97 281.38 l 1,8,-1
+ 1438.97 0.5 l 1,9,-1
  1357.87 0.5 l 2,10,11
  1263.4 0.5 1263.4 0.5 1181.43 34.2842 c 1,12,13
  1156.77 -171.903 1156.77 -171.903 1024.19 -314.646 c 0,14,15
@@ -8724,7 +8715,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 303.73 1521 basechar 0
-AnchorPoint: "Anchor-7" 218.73 -174.5 basechar 0
+AnchorPoint: "Anchor-7" 233.73 -267.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8749,7 +8740,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 313.73 1521 basechar 0
-AnchorPoint: "Anchor-7" 253.73 -190.5 basechar 0
+AnchorPoint: "Anchor-7" 241.73 -306.314 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8779,7 +8770,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 544.5 1177 basechar 0
-AnchorPoint: "Anchor-7" 139.3 -669 basechar 0
+AnchorPoint: "Anchor-7" 157.3 -765 basechar 0
 LayerCount: 2
 Fore
 Refer: 69 1605 N 1 0 0 1 0 0 2
@@ -8787,43 +8778,49 @@ EndChar
 
 StartChar: uniFEE2
 Encoding: 65250 65250 266
-Width: 1158
+Width: 1152
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 555.5 1047 basechar 0
-AnchorPoint: "Anchor-7" 137.188 -734.422 basechar 0
+AnchorPoint: "Anchor-10" 456.5 1047 basechar 0
+AnchorPoint: "Anchor-7" 173.188 -722.422 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-528.264 273.549 m 0,0,1
- 616.683 268.492 616.683 268.492 664.13 267.428 c 0,2,3
- 757.195 265.289 757.195 265.289 800.951 272.041 c 1,4,5
- 797.255 364.021 797.255 364.021 764.547 410.57 c 128,-1,6
- 731.838 457.119 731.838 457.119 665.933 473.322 c 0,7,8
- 573.25 495.562 573.25 495.562 539.194 450.481 c 0,9,10
- 502.097 402.534 502.097 402.534 502.124 275.387 c 1,11,12
- 513.878 274.372 513.878 274.372 528.264 273.549 c 0,0,1
-1039.01 291.703 m 1,13,14
- 1063.42 280.945 1063.42 280.945 1117.74 280.713 c 2,15,-1
- 1188.99 280.408 l 5,16,-1
- 1188.99 0.709961 l 5,17,-1
- 1103.5 0.709961 l 2,18,19
- 991.535 0.709961 991.535 0.709961 927.913 49.3574 c 1,20,21
- 849.392 -0.583008 849.392 -0.583008 686.729 5.14941 c 0,22,23
- 507.417 11.4688 507.417 11.4688 407.655 11.2891 c 0,24,25
- 365.994 11.1533 365.994 11.1533 333.929 -51.2764 c 0,26,27
- 309.54 -98.8574 309.54 -98.8574 309.54 -175.855 c 2,28,-1
- 309.54 -660.217 l 1,29,-1
- 41.8701 -660.217 l 1,30,-1
- 41.8701 -161.947 l 2,31,32
- 41.8701 78.7178 41.8701 78.7178 131.213 174.74 c 0,33,34
- 186.168 233.804 186.168 233.804 248.896 257.572 c 1,35,36
- 247.103 485.756 247.103 485.756 356.041 610.623 c 0,37,38
- 422.329 686.254 422.329 686.254 516.366 712.403 c 128,-1,39
- 610.403 738.553 610.403 738.553 724.308 716.068 c 0,40,41
- 870.208 687.268 870.208 687.268 949.623 577.595 c 128,-1,42
- 1029.04 467.923 1029.04 467.923 1039.01 291.703 c 1,13,14
+665.112 429.992 m 0,0,1
+ 635.516 429.423 635.516 429.423 614.032 426.098 c 128,-1,2
+ 592.549 422.772 592.549 422.772 581.638 418.63 c 128,-1,3
+ 570.727 414.486 570.727 414.486 564.46 408.341 c 128,-1,4
+ 558.193 402.194 558.193 402.194 556.9 398.026 c 128,-1,5
+ 555.605 393.859 555.605 393.859 555.489 388.439 c 0,6,7
+ 554.772 350.562 554.772 350.562 557.659 318.541 c 0,8,9
+ 566.258 223.158 566.258 223.158 599.082 188.984 c 128,-1,10
+ 631.905 154.812 631.905 154.812 697.9 160.791 c 0,11,12
+ 794.15 169.508 794.15 169.508 773.696 401.007 c 0,13,14
+ 770.965 432.031 770.965 432.031 665.112 429.992 c 0,0,1
+1016.99 287.707 m 1,15,16
+ 1037.79 280 1037.79 280 1078 280 c 2,17,-1
+ 1181 280 l 1,18,-1
+ 1181 0 l 1,19,-1
+ 1064 0 l 2,20,21
+ 999.93 0 999.93 0 955.164 24.5488 c 1,22,23
+ 925.312 -14.3506 925.312 -14.3506 882.814 -42.9404 c 0,24,25
+ 812.873 -89.2695 812.873 -89.2695 724.407 -92.9658 c 0,26,27
+ 619.237 -96.4424 619.237 -96.4424 539.229 -66.8047 c 0,28,29
+ 448.145 -32.8623 448.145 -32.8623 391.793 39.7725 c 128,-1,30
+ 335.441 112.407 335.441 112.407 316.837 216.411 c 1,31,32
+ 312.456 165.347 312.456 165.347 312.998 101.433 c 0,33,34
+ 313.49 43.3828 313.49 43.3828 313 -193.048 c 2,35,-1
+ 313 -546 l 1,36,-1
+ 45 -546 l 1,37,-1
+ 45 181.291 l 1,38,-1
+ 45.0654 182.58 l 2,39,40
+ 54.9102 376.9 54.9102 376.9 159.968 500.482 c 128,-1,41
+ 265.025 624.063 265.025 624.063 456.343 666.765 c 0,42,43
+ 574.929 693.342 574.929 693.342 695.527 684.878 c 0,44,45
+ 826.461 675.963 826.461 675.963 908.266 622.918 c 128,-1,46
+ 990.071 569.873 990.071 569.873 1005.87 470.985 c 0,47,48
+ 1016.43 404.496 1016.43 404.496 1016.99 287.707 c 1,15,16
 EndSplineSet
 EndChar
 
@@ -8833,8 +8830,8 @@ Width: 972
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 432.69 957.5 basechar 0
-AnchorPoint: "Anchor-7" 394.69 -120.5 basechar 0
+AnchorPoint: "Anchor-10" 416.69 1103.5 basechar 0
+AnchorPoint: "Anchor-7" 418.69 -302.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8846,24 +8843,21 @@ SplineSet
  -59.4004 280.979 l 1,8,-1
  50.96 280.979 l 2,9,10
  84.2158 280.979 84.2158 280.979 92.4795 288.551 c 1,11,12
- 113.152 430.898 113.152 430.898 114.409 439.158 c 2,13,-1
+ 113.121 430.687 113.121 430.687 114.409 439.158 c 2,13,-1
  114.758 441.454 l 1,14,-1
  115.314 443.709 l 2,15,16
- 162.724 635.802 162.724 635.802 253.765 708.622 c 1,17,18
- 354.975 787.394 354.975 787.394 458.154 797.716 c 1,19,20
- 603.469 810.51 603.469 810.51 709.363 729.654 c 0,21,22
+ 156.103 609.139 156.103 609.139 261.765 705.622 c 0,17,18
+ 347.206 784.838 347.206 784.838 458.154 796.716 c 0,19,20
+ 601.444 812.056 601.444 812.056 709.363 729.654 c 0,21,22
  870.408 608.357 870.408 608.357 870.408 344.948 c 0,23,24
  870.408 196.729 870.408 196.729 793.382 112.927 c 0,0,1
 516.707 251.303 m 0,25,26
  565.282 251.958 565.282 251.958 594.207 280.481 c 0,27,28
- 598.264 284.532 598.264 284.532 601.812 296.63 c 128,-1,29
- 605.361 308.729 605.361 308.729 607.5 334.844 c 128,-1,30
- 609.638 360.96 609.638 360.96 604.281 398.454 c 0,31,32
- 595.919 462.021 595.919 462.021 575.73 491.627 c 128,-1,33
- 555.543 521.233 555.543 521.233 524.806 529.051 c 0,34,35
- 484.019 538.629 484.019 538.629 455.933 527.582 c 128,-1,36
- 427.846 516.535 427.846 516.535 401.773 480.408 c 0,37,38
- 358.146 417.67 358.146 417.67 352.014 301.73 c 1,39,40
+ 617.774 304.014 617.774 304.014 604.281 398.454 c 0,29,30
+ 595.919 462.021 595.919 462.021 575.73 491.627 c 128,-1,31
+ 555.543 521.233 555.543 521.233 524.806 529.051 c 0,32,33
+ 449.621 546.707 449.621 546.707 401.773 480.408 c 1,34,35
+ 358.146 417.67 358.146 417.67 352.014 301.73 c 1,36,37
  439.725 250.264 439.725 250.264 516.707 251.303 c 0,25,26
 EndSplineSet
 EndChar
@@ -8874,15 +8868,15 @@ Width: 1127
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 531.79 947.5 basechar 0
-AnchorPoint: "Anchor-7" 531.79 -122.5 basechar 0
+AnchorPoint: "Anchor-10" 537.79 1031.5 basechar 0
+AnchorPoint: "Anchor-7" 504.79 -293.5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 562.16 260.932 m 0,0,1
- 634.261 249.967 634.261 249.967 677.303 284.435 c 0,2,3
- 701.986 304.431 701.986 304.431 692.524 384.406 c 0,4,5
- 684.474 452.927 684.474 452.927 659.599 480.496 c 128,-1,6
+ 624.181 252.151 624.181 252.151 664.89 273.86 c 0,2,3
+ 709.635 296.53 709.635 296.53 699.524 384.406 c 0,4,5
+ 691.474 452.927 691.474 452.927 663.099 480.495 c 128,-1,6
  634.725 508.064 634.725 508.064 586.74 510.363 c 0,7,8
  522.826 513.108 522.826 513.108 482.884 466.842 c 128,-1,9
  442.941 420.574 442.941 420.574 424.864 305.704 c 1,10,11
@@ -8890,8 +8884,8 @@ SplineSet
 593.678 -8.96973 m 2,12,13
  422.007 -8.96973 422.007 -8.96973 298.356 79.5781 c 1,14,15
  194.841 0 194.841 0 85.5996 0 c 2,16,-1
- -36.4004 0 l 5,17,-1
- -36.4004 280.979 l 5,18,-1
+ -36.4004 0 l 1,17,-1
+ -36.4004 280.979 l 1,18,-1
  92.0195 280.979 l 2,19,20
  159.894 280.979 159.894 280.979 163.938 302.429 c 0,21,22
  184.379 397.799 184.379 397.799 186.146 407.188 c 0,23,24
@@ -8919,7 +8913,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 706.68 1187.24 basechar 0
-AnchorPoint: "Anchor-7" 595.5 -390 basechar 0
+AnchorPoint: "Anchor-7" 358.5 -507 basechar 0
 LayerCount: 2
 Fore
 Refer: 293 -1 N 1.07 0 0 1.07 641.43 793.24 2
@@ -8933,7 +8927,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 707.27 1117.47 basechar 0
-AnchorPoint: "Anchor-7" 612.5 -545.5 basechar 0
+AnchorPoint: "Anchor-7" 380.5 -669.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 144 64415 N 1 0 0 1 0 0 2
@@ -8947,11 +8941,11 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 236.93 1396.53 basechar 0
-AnchorPoint: "Anchor-7" 319.93 -60.5 basechar 0
+AnchorPoint: "Anchor-7" 286.93 -297.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 293 -1 S 1.07 0 0 1.07 162.68 1040.53 2
-Refer: 298 -1 S 1 0 0 1 0 0 2
+Refer: 293 -1 N 1.07 0 0 1.07 162.68 1040.53 2
+Refer: 298 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniFEE8
@@ -8961,7 +8955,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 257.93 1273.54 basechar 0
-AnchorPoint: "Anchor-7" 249.93 -82.5 basechar 0
+AnchorPoint: "Anchor-7" 239.93 -294.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 148 64489 N 1 0 0 1 0 0 2
@@ -8975,7 +8969,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 371.5 1308 basechar 0
-AnchorPoint: "Anchor-7" 445 -98 basechar 0
+AnchorPoint: "Anchor-7" 325 -298 basechar 0
 LayerCount: 2
 Fore
 Refer: 71 1607 N 1 0 0 1 0 0 2
@@ -8988,7 +8982,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 354.95 1164.81 basechar 0
-AnchorPoint: "Anchor-7" 362.88 -179 basechar 0
+AnchorPoint: "Anchor-7" 335.88 -311.164 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9000,26 +8994,25 @@ SplineSet
  452.866 611.382 452.866 611.382 416.59 589.374 c 0,8,9
  313.081 526.911 313.081 526.911 304.303 431.268 c 0,10,11
  299.635 380.409 299.635 380.409 332.615 338.441 c 0,12,13
- 346.764 320.438 346.764 320.438 403.557 305.29 c 128,-1,14
- 460.35 290.144 460.35 290.144 554.557 288.97 c 2,15,-1
+ 369.685 291.274 369.685 291.274 554.557 288.97 c 2,14,-1
  571.52 288.759 l 1,0,1
-600.031 185.923 m 1,16,-1
- 584.814 31.8018 l 1,17,-1
- 538.819 30.9248 l 2,18,19
- 193.879 24.3477 193.879 24.3477 84.4443 212.264 c 0,20,21
- 0.749023 355.985 0.749023 355.985 31.6387 498.801 c 0,22,23
- 65.3848 651.853 65.3848 651.853 239.313 793.477 c 0,24,25
- 321.667 860.534 321.667 860.534 446.538 887.733 c 0,26,27
- 561.496 913.361 561.496 913.361 646.388 865.743 c 128,-1,28
- 731.278 818.125 731.278 818.125 770.818 706.186 c 0,29,30
- 810.021 595.777 810.021 595.777 817.484 389.723 c 0,31,32
- 819.43 333.056 819.43 333.056 854.226 307.561 c 128,-1,33
- 888.976 282.099 888.976 282.099 978.338 282 c 2,34,-1
- 1030.26 281.942 l 5,35,-1
- 1030.26 0 l 5,36,-1
- 959.34 0 l 2,37,38
- 730.431 0 730.431 0 632.495 124.854 c 0,39,40
- 614.722 147.317 614.722 147.317 600.031 185.923 c 1,16,-1
+600.031 185.923 m 1,15,-1
+ 584.814 31.8018 l 1,16,-1
+ 538.819 30.9248 l 2,17,18
+ 193.879 24.3477 193.879 24.3477 84.4443 212.264 c 0,19,20
+ 0.749023 355.985 0.749023 355.985 31.6387 498.801 c 0,21,22
+ 65.3848 651.853 65.3848 651.853 239.313 793.477 c 0,23,24
+ 321.667 860.534 321.667 860.534 446.538 887.733 c 0,25,26
+ 561.496 913.361 561.496 913.361 646.388 865.743 c 128,-1,27
+ 731.278 818.125 731.278 818.125 770.818 706.186 c 0,28,29
+ 810.021 595.777 810.021 595.777 817.484 389.723 c 0,30,31
+ 819.43 333.056 819.43 333.056 854.226 307.561 c 128,-1,32
+ 888.976 282.099 888.976 282.099 978.338 282 c 2,33,-1
+ 1030.26 281.942 l 1,34,-1
+ 1030.26 0 l 1,35,-1
+ 959.34 0 l 2,36,37
+ 730.431 0 730.431 0 632.495 124.854 c 0,38,39
+ 614.722 147.317 614.722 147.317 600.031 185.923 c 1,15,-1
 EndSplineSet
 EndChar
 
@@ -9029,8 +9022,8 @@ Width: 1331
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 601.801 1365.23 basechar 0
-AnchorPoint: "Anchor-7" 388.41 -114 basechar 0
+AnchorPoint: "Anchor-10" 559.801 1368.23 basechar 0
+AnchorPoint: "Anchor-7" 436.41 -316.814 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9073,7 +9066,7 @@ Width: 1055
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-7" 535 -595.5 basechar 0
+AnchorPoint: "Anchor-7" 313 -676.5 basechar 0
 AnchorPoint: "Anchor-10" 437.76 1217.74 basechar 0
 LayerCount: 2
 Fore
@@ -9108,8 +9101,8 @@ SplineSet
  661.32 -480.367 l 2,42,43
  342.504 -459.026 342.504 -459.026 212.115 -231.781 c 0,44,45
  157.78 -137.064 157.78 -137.064 142.375 0 c 1,46,-1
- -38.9355 0 l 5,47,-1
- -38.9355 280.965 l 5,48,-1
+ -38.9355 0 l 1,47,-1
+ -38.9355 280.965 l 1,48,-1
  133.962 281.022 l 1,49,50
  124.312 619.971 124.312 619.971 185.882 757.346 c 0,16,17
 EndSplineSet
@@ -9122,7 +9115,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 379 1165 basechar 0
-AnchorPoint: "Anchor-7" 535 -488.5 basechar 0
+AnchorPoint: "Anchor-7" 559 -581.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 72 1608 N 1 0 0 1 0 0 2
@@ -9135,38 +9128,37 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 330 1115 basechar 0
-AnchorPoint: "Anchor-7" 451.515 -528.238 basechar 0
+AnchorPoint: "Anchor-7" 460.515 -585.238 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 403.754 525.572 m 0,0,1
- 381.956 528.111 381.956 528.111 367.928 522.703 c 128,-1,2
- 353.899 517.295 353.899 517.295 339.71 500.948 c 0,3,4
- 305.161 462.751 305.161 462.751 304.535 377.328 c 0,5,6
- 304.213 345.354 304.213 345.354 313.911 326.512 c 128,-1,7
- 323.609 307.669 323.609 307.669 345.272 294.5 c 0,8,9
- 388.602 268.158 388.602 268.158 498.617 281.33 c 1,10,11
- 501.81 424.024 501.81 424.024 454.427 498.225 c 0,12,13
+ 365.001 530.086 365.001 530.086 339.71 500.948 c 0,2,3
+ 305.161 462.751 305.161 462.751 304.535 377.328 c 0,4,5
+ 304.213 345.354 304.213 345.354 313.911 326.512 c 128,-1,6
+ 323.609 307.669 323.609 307.669 345.272 294.5 c 0,7,8
+ 388.602 268.158 388.602 268.158 498.617 281.33 c 1,9,10
+ 501.81 424.024 501.81 424.024 454.427 498.225 c 0,11,12
  439.242 522.002 439.242 522.002 403.754 525.572 c 0,0,1
-734.811 0.5 m 1,14,15
- 683.551 -181.22 683.551 -181.22 523.194 -305.649 c 0,16,17
- 358.928 -433.113 358.928 -433.113 40.2695 -465.819 c 2,18,-1
- -6.67285 -470.637 l 1,19,-1
- -55.0527 -204.53 l 1,20,-1
- 1.68457 -199.93 l 2,21,22
- 336.21 -172.808 336.21 -172.808 443.706 3.0918 c 1,23,24
- 425.126 3.11426 425.126 3.11426 404.956 2.7998 c 0,25,26
- 217.425 -0.410156 217.425 -0.410156 122.439 127.978 c 0,27,28
- 39.3271 240.313 39.3271 240.313 46.6455 401.199 c 0,29,30
- 53.4492 557.617 53.4492 557.617 152.182 682.181 c 0,31,32
- 255.4 813.633 255.4 813.633 410.579 813.633 c 0,33,34
- 517.352 813.633 517.352 813.633 596.77 757.07 c 128,-1,35
- 676.188 700.508 676.188 700.508 721.408 594.875 c 0,36,37
- 760.367 504.22 760.367 504.22 767.975 314.364 c 0,38,39
- 768.623 297.485 768.623 297.485 768.741 280.767 c 1,40,-1
- 899.66 281.642 l 5,41,-1
- 899.66 0.5 l 5,42,-1
- 734.811 0.5 l 1,14,15
+734.811 0.5 m 1,13,14
+ 683.551 -181.22 683.551 -181.22 523.194 -305.649 c 0,15,16
+ 358.928 -433.113 358.928 -433.113 40.2695 -465.819 c 2,17,-1
+ -6.67285 -470.637 l 1,18,-1
+ -55.0527 -204.53 l 1,19,-1
+ 1.68457 -199.93 l 2,20,21
+ 336.21 -172.808 336.21 -172.808 443.706 3.0918 c 1,22,23
+ 425.126 3.11426 425.126 3.11426 404.956 2.7998 c 0,24,25
+ 217.425 -0.410156 217.425 -0.410156 122.439 127.978 c 0,26,27
+ 39.3271 240.313 39.3271 240.313 46.6455 401.199 c 0,28,29
+ 53.4492 557.617 53.4492 557.617 152.182 682.181 c 0,30,31
+ 255.4 813.633 255.4 813.633 410.579 813.633 c 0,32,33
+ 517.352 813.633 517.352 813.633 596.77 757.07 c 128,-1,34
+ 676.188 700.508 676.188 700.508 721.408 594.875 c 0,35,36
+ 760.367 504.22 760.367 504.22 767.975 314.364 c 0,37,38
+ 768.623 297.485 768.623 297.485 768.741 280.767 c 1,39,-1
+ 899.66 281.642 l 1,40,-1
+ 899.66 0.5 l 1,41,-1
+ 734.811 0.5 l 1,13,14
 EndSplineSet
 EndChar
 
@@ -9177,7 +9169,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 433 1092 basechar 0
-AnchorPoint: "Anchor-7" 749 -381.5 basechar 0
+AnchorPoint: "Anchor-7" 197 -528.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1609 N 1 0 0 1 0 0 2
@@ -9190,7 +9182,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 578.73 825.315 basechar 0
-AnchorPoint: "Anchor-7" 515.94 -562.88 basechar 0
+AnchorPoint: "Anchor-7" 251.94 -595.88 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9202,8 +9194,8 @@ SplineSet
  789.333 243.149 789.333 243.149 807.951 260.626 c 0,7,8
  823.31 275.042 823.31 275.042 844.618 279.771 c 2,9,-1
  850.057 280.978 l 1,10,-1
- 1478.89 281.413 l 5,11,-1
- 1478.89 0.489258 l 5,12,-1
+ 1478.89 281.413 l 1,11,-1
+ 1478.89 0.489258 l 1,12,-1
  1371.54 0.521484 l 1,13,14
  1383.61 -46.0488 1383.61 -46.0488 1373.83 -106.025 c 0,15,16
  1361.07 -183.001 1361.07 -183.001 1295.55 -248.248 c 128,-1,17
@@ -9235,10 +9227,10 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 490 1107 basechar 0
-AnchorPoint: "Anchor-7" 680 -664 basechar 0
+AnchorPoint: "Anchor-7" 236 -727 basechar 0
 LayerCount: 2
 Fore
-Refer: 294 -1 N 1.07 0 0 1.07 517 -610.5 2
+Refer: 294 -1 N 1.07 0 0 1.07 481 -610.5 2
 Refer: 73 1609 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9249,10 +9241,10 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 642 849 basechar 0
-AnchorPoint: "Anchor-7" 599 -853.32 basechar 0
+AnchorPoint: "Anchor-7" 176 -883.32 basechar 0
 LayerCount: 2
 Fore
-Refer: 294 -1 S 1.07 0 0 1.07 427 -757.82 2
+Refer: 294 -1 N 1.07 0 0 1.07 427 -757.82 2
 Refer: 280 65264 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9262,7 +9254,7 @@ Width: 712
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-7" 320.25 -478.551 basechar 0
+AnchorPoint: "Anchor-7" 317.25 -592.551 basechar 0
 AnchorPoint: "Anchor-10" 351.93 1125.5 basechar 0
 LayerCount: 2
 Fore
@@ -9277,7 +9269,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 227.93 1076.5 basechar 0
-AnchorPoint: "Anchor-7" 292.93 -474.51 basechar 0
+AnchorPoint: "Anchor-7" 278.93 -600.51 basechar 0
 LayerCount: 2
 Fore
 Refer: 148 64489 N 1 0 0 1 0 0 2
@@ -9291,8 +9283,8 @@ VWidth: 2237
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-9" 972.69 1503 baselig 0
-AnchorPoint: "Anchor-6" 978.69 -60.5 baselig 0
-AnchorPoint: "Anchor-6" 265 -114 baselig 1
+AnchorPoint: "Anchor-6" 969.69 -228.5 baselig 0
+AnchorPoint: "Anchor-6" 256 -282 baselig 1
 AnchorPoint: "Anchor-9" 217.5 1755.5 baselig 1
 LayerCount: 2
 Fore
@@ -9309,8 +9301,8 @@ VWidth: 2237
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-9" 885.69 1497 baselig 0
-AnchorPoint: "Anchor-6" 927.69 -60.5 baselig 0
-AnchorPoint: "Anchor-6" 214 -114 baselig 1
+AnchorPoint: "Anchor-6" 939.69 -240.5 baselig 0
+AnchorPoint: "Anchor-6" 226 -294 baselig 1
 AnchorPoint: "Anchor-9" 198.5 1746.5 baselig 1
 LayerCount: 2
 Fore
@@ -9327,13 +9319,13 @@ VWidth: 2237
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-9" 951.69 1518 baselig 0
-AnchorPoint: "Anchor-6" 978.69 -60.5 baselig 0
-AnchorPoint: "Anchor-6" 265 -114 baselig 1
+AnchorPoint: "Anchor-6" 958.69 -276.5 baselig 0
+AnchorPoint: "Anchor-6" 245 -330 baselig 1
 AnchorPoint: "Anchor-9" 232.5 1968.9 baselig 1
 LayerCount: 2
 Fore
 Refer: 291 65275 N 1 0 0 1 51 0 2
-Refer: 84 1620 S 1 0 0 1 -315.34 133 2
+Refer: 84 1620 N 1 0 0 1 -315.34 133 2
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEDF uniFE84
 EndChar
@@ -9345,8 +9337,8 @@ VWidth: 2237
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-9" 879.69 1527 baselig 0
-AnchorPoint: "Anchor-6" 927.69 -60.5 baselig 0
-AnchorPoint: "Anchor-6" 214 -114 baselig 1
+AnchorPoint: "Anchor-6" 927.69 -284.5 baselig 0
+AnchorPoint: "Anchor-6" 214 -338 baselig 1
 AnchorPoint: "Anchor-9" 163.5 1946.9 baselig 1
 LayerCount: 2
 Fore
@@ -9363,8 +9355,8 @@ VWidth: 2237
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-9" 963.69 1510 baselig 0
-AnchorPoint: "Anchor-6" 978.69 -60.5 baselig 0
-AnchorPoint: "Anchor-6" 265 -542 baselig 1
+AnchorPoint: "Anchor-6" 922.69 -260.5 baselig 0
+AnchorPoint: "Anchor-6" 257 -634 baselig 1
 AnchorPoint: "Anchor-9" 208.5 1481.5 baselig 1
 LayerCount: 2
 Fore
@@ -9381,8 +9373,8 @@ VWidth: 2237
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-9" 888.69 1507 baselig 0
-AnchorPoint: "Anchor-6" 927.69 -60.5 baselig 0
-AnchorPoint: "Anchor-6" 214 -542 baselig 1
+AnchorPoint: "Anchor-6" 907.69 -272.5 baselig 0
+AnchorPoint: "Anchor-6" 234 -638 baselig 1
 AnchorPoint: "Anchor-9" 148.5 1481.5 baselig 1
 LayerCount: 2
 Fore
@@ -9399,8 +9391,8 @@ VWidth: 2237
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-9" 911.69 1514 baselig 0
-AnchorPoint: "Anchor-6" 908.69 -60.5 baselig 0
-AnchorPoint: "Anchor-6" 195 -114 baselig 1
+AnchorPoint: "Anchor-6" 899.69 -219.5 baselig 0
+AnchorPoint: "Anchor-6" 186 -273 baselig 1
 AnchorPoint: "Anchor-9" 122.5 1481.5 baselig 1
 LayerCount: 2
 Fore
@@ -9415,12 +9407,12 @@ SplineSet
  103.766 286.925 l 2,11,12
  234.229 259.753 234.229 259.753 333.957 260.32 c 1,13,-1
  40.0811 1274.41 l 1,14,-1
- 276.71 1388.77 l 5,15,-1
+ 276.71 1388.77 l 1,15,-1
  592.395 302.529 l 1,16,17
  666.73 325.627 666.73 325.627 710.611 387.735 c 128,-1,18
  754.493 449.844 754.493 449.844 769.571 561.373 c 0,19,20
  776.672 613.527 776.672 613.527 776.951 977.433 c 2,21,-1
- 777.282 1409.96 l 5,22,-1
+ 777.282 1409.96 l 1,22,-1
  1045.14 1400.96 l 1,23,-1
  1045.03 938.87 l 2,0,1
 EndSplineSet
@@ -9435,8 +9427,8 @@ VWidth: 2237
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-9" 876.69 1500 baselig 0
-AnchorPoint: "Anchor-6" 873.69 -60.5 baselig 0
-AnchorPoint: "Anchor-6" 160 -114 baselig 1
+AnchorPoint: "Anchor-6" 891.69 -237.5 baselig 0
+AnchorPoint: "Anchor-6" 178 -291 baselig 1
 AnchorPoint: "Anchor-9" 145.5 1453.5 baselig 1
 LayerCount: 2
 Fore
@@ -9567,7 +9559,7 @@ VWidth: 2237
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 703 1116.5 basechar 0
-AnchorPoint: "Anchor-7" 703 -123 basechar 0
+AnchorPoint: "Anchor-7" 383 -295 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9575,8 +9567,8 @@ SplineSet
  1657.67 408.621 1657.67 408.621 1674.23 368.382 c 128,-1,2
  1690.78 328.143 1690.78 328.143 1705.5 315.778 c 0,3,4
  1746.46 281.38 1746.46 281.38 1835.97 281.38 c 2,5,-1
- 1872.17 281.38 l 5,6,-1
- 1872.17 0.5 l 5,7,-1
+ 1872.17 281.38 l 1,6,-1
+ 1872.17 0.5 l 1,7,-1
  1791.03 0.5 l 2,8,9
  1597.27 0.5 1597.27 0.5 1501.07 137.18 c 1,10,11
  1431.44 69.9375 1431.44 69.9375 1312.03 39.5947 c 0,12,13
@@ -10443,11 +10435,11 @@ Encoding: 1738 1738 330
 Width: 946
 VWidth: 2237
 Flags: W
-AnchorPoint: "Anchor-7" 535 -488.5 basechar 0
+AnchorPoint: "Anchor-7" 575 -598.5 basechar 0
 AnchorPoint: "Anchor-10" 420 1355 basechar 0
 LayerCount: 2
 Fore
-Refer: 294 -1 S 1 0 0 1 276 951 2
+Refer: 294 -1 N 1 0 0 1 276 951 2
 Refer: 72 1608 N 1 0 0 1 0 0 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni06CA.fina
 EndChar
@@ -10458,7 +10450,7 @@ Width: 862
 VWidth: 2237
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-7" 490.515 -500.238 basechar 0
+AnchorPoint: "Anchor-7" 496.515 -584.238 basechar 0
 AnchorPoint: "Anchor-10" 324 1388 basechar 0
 LayerCount: 2
 Fore
