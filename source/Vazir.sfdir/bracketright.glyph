@@ -1,0 +1,20 @@
+StartChar: bracketright
+Encoding: 93 93 25
+Width: 751
+GlyphClass: 2
+Flags: W
+GlyphCompositionVertical: 3  uni23A6%0,0,44,2687 uni23A5%1,44,44,2713 uni23A4%0,44,0,2699
+LayerCount: 2
+Fore
+SplineSet
+585.62 1462.64 m 1,0,-1
+ 585.62 -253.8 l 1,1,-1
+ 187.06 -253.8 l 1,2,-1
+ 187.06 -119.38 l 1,3,-1
+ 411.72 -119.38 l 1,4,-1
+ 411.72 1328.22 l 1,5,-1
+ 187.06 1328.22 l 1,6,-1
+ 187.06 1462.64 l 1,7,-1
+ 585.62 1462.64 l 1,0,-1
+EndSplineSet
+EndChar

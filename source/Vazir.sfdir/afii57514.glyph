@@ -1,0 +1,27 @@
+StartChar: afii57514
+Encoding: 1722 1722 112
+Width: 1432
+VWidth: 2186
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-10" 643.11 798 basechar 0
+AnchorPoint: "Anchor-7" 665.58 -524.02 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1340.54 179.725 m 4,0,1
+ 1247.3 -318.871 1247.3 -318.871 709.526 -311.411 c 5,2,3
+ 141.98 -306.894 141.98 -306.894 91.7988 184.801 c 4,4,5
+ 67.418 423.007 67.418 423.007 182.943 644.253 c 5,6,-1
+ 342.557 596.132 l 5,7,8
+ 236.347 334.1 236.347 334.1 262.724 183.41 c 4,9,10
+ 318.605 -137.721 318.605 -137.721 702.404 -140.521 c 5,11,12
+ 1158.72 -156.916 1158.72 -156.916 1178.11 323.58 c 4,13,14
+ 1182.77 441.111 1182.77 441.111 1104.19 685.172 c 5,15,-1
+ 1267.11 727.597 l 5,16,17
+ 1382.19 403.666 1382.19 403.666 1340.54 179.725 c 4,0,1
+EndSplineSet
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uni06BA.init
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uni06BA.medi
+Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB9F
+EndChar

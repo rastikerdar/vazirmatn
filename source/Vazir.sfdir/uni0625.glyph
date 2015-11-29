@@ -1,0 +1,16 @@
+StartChar: uni0625
+Encoding: 1573 1573 42
+Width: 493
+VWidth: 2186
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-10" 229.95 1539 basechar 0
+AnchorPoint: "Anchor-7" 304.95 -593 basechar 0
+LayerCount: 2
+Fore
+Refer: 85 1621 N 1 0 0 1 -242.89 0 2
+Refer: 44 1575 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uni0655
+Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE88
+EndChar

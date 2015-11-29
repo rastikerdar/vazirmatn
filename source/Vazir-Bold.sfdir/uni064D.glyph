@@ -1,0 +1,25 @@
+StartChar: uni064D
+Encoding: 1613 1613 77
+Width: 0
+VWidth: 2186
+GlyphClass: 4
+Flags: W
+AnchorPoint: "Anchor-7" 533.84 64.5 mark 0
+AnchorPoint: "Anchor-6" 533.84 64.5 mark 0
+AnchorPoint: "Anchor-0" 547.84 -438.5 basemark 0
+AnchorPoint: "Anchor-0" 533.84 64.5 mark 0
+LayerCount: 2
+Fore
+SplineSet
+270.96 -511.18 m 1,0,-1
+ 270.96 -384.11 l 1,1,-1
+ 828.84 -155.8 l 1,2,-1
+ 828.84 -282.87 l 1,3,-1
+ 270.96 -511.18 l 1,0,-1
+270.96 -254.38 m 1,4,-1
+ 270.96 -127.31 l 1,5,-1
+ 828.84 101 l 1,6,-1
+ 828.84 -26.0703 l 1,7,-1
+ 270.96 -254.38 l 1,4,-1
+EndSplineSet
+EndChar

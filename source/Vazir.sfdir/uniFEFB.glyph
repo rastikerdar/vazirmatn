@@ -1,0 +1,32 @@
+StartChar: uniFEFB
+Encoding: 65275 65275 291
+Width: 1116
+VWidth: 2186
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-9" 903.69 1497 baselig 0
+AnchorPoint: "Anchor-6" 832.69 -163.5 baselig 0
+AnchorPoint: "Anchor-6" 195 -217 baselig 1
+AnchorPoint: "Anchor-9" 202.5 1490.5 baselig 1
+LayerCount: 2
+Fore
+SplineSet
+994.03 887.88 m 2,0,1
+ 993.951 480.927 993.951 480.927 970.9 380.5 c 0,2,3
+ 918.766 149.004 918.766 149.004 745.487 61.4238 c 0,4,5
+ 603.858 -12.2051 603.858 -12.2051 289.908 3.70801 c 0,6,7
+ 149.574 10.4248 149.574 10.4248 91.4023 28.5 c 1,8,-1
+ 93.3672 185.996 l 1,9,10
+ 273.402 148.5 273.402 148.5 399.227 161.782 c 1,11,-1
+ 100.451 1295.46 l 1,12,-1
+ 242.902 1358.89 l 1,13,-1
+ 555.764 191.185 l 1,14,15
+ 782.432 224.886 782.432 224.886 820.105 503.494 c 0,16,17
+ 827.72 559.334 827.72 559.334 827.951 926.4 c 2,18,-1
+ 828.25 1399.96 l 1,19,-1
+ 994.13 1399.96 l 1,20,-1
+ 994.03 887.88 l 2,0,1
+EndSplineSet
+LCarets2: 1 0 
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 16 subtable" uniFEDF uniFE8E
+EndChar
