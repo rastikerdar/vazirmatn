@@ -4,15 +4,16 @@ FullName: Vazir Bold
 FamilyName: Vazir
 Weight: Bold
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nCopyright (c) 2015 by Saber Rastikerdar. All Rights Reserved.
-Version: 1.10.8
+Version: 1.11
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
 Ascent: 1536
 Descent: 512
+InvalidEm: 0
 LayerCount: 2
-Layer: 0 1 "Back"  1
-Layer: 1 1 "Fore"  0
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
 XUID: [1021 502 1027637223 9622186]
 UniqueID: 4172837
 UseUniqueID: 1
@@ -21,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1448789967
+ModificationTime: 1449647697
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -53,51 +54,51 @@ OS2StrikeYSize: 102
 OS2StrikeYPos: 530
 OS2Vendor: 'PfEd'
 OS2CodePages: 600001ff.dfff0000
-Lookup: 1 0 0 "'case' Case-Sensitive Forms in Latin lookup 0"  {"'case' Case-Sensitive Forms in Latin lookup 0 subtable"  } ['case' ('DFLT' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'dflt' > ) ]
-Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition lookup 2"  {"'ccmp' Glyph Composition/Decomposition lookup 2 subtable"  } ['ccmp' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 3"  {"'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  } ['ccmp' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 4"  {"'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 2"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 3"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 4"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 5"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 6"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 7"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 8"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 9"  } ['ccmp' ('DFLT' <'dflt' > 'arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'armn' <'dflt' > 'brai' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'hebr' <'dflt' > 'kana' <'dflt' > 'lao ' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'nko ' <'dflt' > 'ogam' <'dflt' > 'runr' <'dflt' > 'tfng' <'dflt' > 'thai' <'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7"  {"'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'ISM ' 'KSM ' 'LSM ' 'NSM ' 'SKS ' 'SSM ' > ) ]
-Lookup: 1 9 0 "'fina' Terminal Forms in Arabic lookup 9"  {"'fina' Terminal Forms in Arabic lookup 9 subtable"  } ['fina' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 11"  {"'medi' Medial Forms in Arabic lookup 11 subtable"  } ['medi' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 13"  {"'init' Initial Forms in Arabic lookup 13 subtable"  } ['init' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 14"  {"'rlig' Required Ligatures in Arabic lookup 14 subtable"  } ['rlig' ('arab' <'KUR ' 'dflt' > ) ]
-Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 15"  {"'rlig' Required Ligatures in Arabic lookup 15 subtable"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 16"  {"'rlig' Required Ligatures in Arabic lookup 16 subtable"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 9 1 "'liga' Standard Ligatures in Arabic lookup 17"  {"'liga' Standard Ligatures in Arabic lookup 17 subtable"  } ['liga' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 19"  {"'liga' Standard Ligatures in Arabic lookup 19 subtable"  } ['liga' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 1 1 0 "Single Substitution lookup 31"  {"Single Substitution lookup 31 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 32"  {"Single Substitution lookup 32 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 33"  {"Single Substitution lookup 33 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 34"  {"Single Substitution lookup 34 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 35"  {"Single Substitution lookup 35 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 36"  {"Single Substitution lookup 36 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 37"  {"Single Substitution lookup 37 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 38"  {"Single Substitution lookup 38 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 39"  {"Single Substitution lookup 39 subtable"  } []
-Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 0"  {"'mkmk' Mark to Mark in Arabic lookup 0 subtable"  } ['mkmk' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 1"  {"'mkmk' Mark to Mark in Arabic lookup 1 subtable"  } ['mkmk' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Mark to Mark in Lao lookup 2"  {"'mkmk' Mark to Mark in Lao lookup 2 subtable"  } ['mkmk' ('lao ' <'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Mark to Mark in Lao lookup 3"  {"'mkmk' Mark to Mark in Lao lookup 3 subtable"  } ['mkmk' ('lao ' <'dflt' > ) ]
-Lookup: 262 4 0 "'mkmk' Mark to Mark lookup 4"  {"'mkmk' Mark to Mark lookup 4 anchor 0"  "'mkmk' Mark to Mark lookup 4 anchor 1"  } ['mkmk' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 261 1 0 "'mark' Mark Positioning lookup 5"  {"'mark' Mark Positioning lookup 5 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning lookup 6"  {"'mark' Mark Positioning lookup 6 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning lookup 7"  {"'mark' Mark Positioning lookup 7 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 261 1 0 "'mark' Mark Positioning lookup 8"  {"'mark' Mark Positioning lookup 8 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning lookup 9"  {"'mark' Mark Positioning lookup 9 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in Lao lookup 10"  {"'mark' Mark Positioning in Lao lookup 10 subtable"  } ['mark' ('lao ' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in Lao lookup 11"  {"'mark' Mark Positioning in Lao lookup 11 subtable"  } ['mark' ('lao ' <'dflt' > ) ]
-Lookup: 261 0 0 "'mark' Mark Positioning lookup 12"  {"'mark' Mark Positioning lookup 12 subtable"  } ['mark' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 260 4 0 "'mark' Mark Positioning lookup 13"  {"'mark' Mark Positioning lookup 13 anchor 0"  "'mark' Mark Positioning lookup 13 anchor 1"  "'mark' Mark Positioning lookup 13 anchor 2"  "'mark' Mark Positioning lookup 13 anchor 3"  "'mark' Mark Positioning lookup 13 anchor 4"  "'mark' Mark Positioning lookup 13 anchor 5"  } ['mark' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'tfng' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 14"  {"'kern' Horizontal Kerning in Latin lookup 14 subtable"  } ['kern' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 258 9 0 "'kern' Horizontal Kerning lookup 15"  {"'kern' Horizontal Kerning lookup 15-1" [307,30,2] } ['kern' ('DFLT' <'dflt' > 'arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'armn' <'dflt' > 'brai' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'hebr' <'dflt' > 'kana' <'dflt' > 'lao ' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'nko ' <'dflt' > 'ogam' <'dflt' > 'runr' <'dflt' > 'tfng' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "'case' Case-Sensitive Forms in Latin lookup 0" { "'case' Case-Sensitive Forms in Latin lookup 0 subtable"  } ['case' ('DFLT' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'dflt' > ) ]
+Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition lookup 2" { "'ccmp' Glyph Composition/Decomposition lookup 2 subtable"  } ['ccmp' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 3" { "'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  } ['ccmp' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 4" { "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 2"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 3"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 4"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 5"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 6"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 7"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 8"  "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 9"  } ['ccmp' ('DFLT' <'dflt' > 'arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'armn' <'dflt' > 'brai' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'hebr' <'dflt' > 'kana' <'dflt' > 'lao ' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'nko ' <'dflt' > 'ogam' <'dflt' > 'runr' <'dflt' > 'tfng' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7" { "'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'ISM ' 'KSM ' 'LSM ' 'NSM ' 'SKS ' 'SSM ' > ) ]
+Lookup: 1 9 0 "'fina' Terminal Forms in Arabic lookup 9" { "'fina' Terminal Forms in Arabic lookup 9 subtable"  } ['fina' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 11" { "'medi' Medial Forms in Arabic lookup 11 subtable"  } ['medi' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 13" { "'init' Initial Forms in Arabic lookup 13 subtable"  } ['init' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 14" { "'rlig' Required Ligatures in Arabic lookup 14 subtable"  } ['rlig' ('arab' <'KUR ' 'dflt' > ) ]
+Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 15" { "'rlig' Required Ligatures in Arabic lookup 15 subtable"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 16" { "'rlig' Required Ligatures in Arabic lookup 16 subtable"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 4 9 1 "'liga' Standard Ligatures in Arabic lookup 17" { "'liga' Standard Ligatures in Arabic lookup 17 subtable"  } ['liga' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 19" { "'liga' Standard Ligatures in Arabic lookup 19 subtable"  } ['liga' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 1 1 0 "Single Substitution lookup 31" { "Single Substitution lookup 31 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 32" { "Single Substitution lookup 32 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 33" { "Single Substitution lookup 33 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 34" { "Single Substitution lookup 34 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 35" { "Single Substitution lookup 35 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 36" { "Single Substitution lookup 36 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 37" { "Single Substitution lookup 37 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 38" { "Single Substitution lookup 38 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 39" { "Single Substitution lookup 39 subtable"  } []
+Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 0" { "'mkmk' Mark to Mark in Arabic lookup 0 subtable"  } ['mkmk' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 1" { "'mkmk' Mark to Mark in Arabic lookup 1 subtable"  } ['mkmk' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Mark to Mark in Lao lookup 2" { "'mkmk' Mark to Mark in Lao lookup 2 subtable"  } ['mkmk' ('lao ' <'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Mark to Mark in Lao lookup 3" { "'mkmk' Mark to Mark in Lao lookup 3 subtable"  } ['mkmk' ('lao ' <'dflt' > ) ]
+Lookup: 262 4 0 "'mkmk' Mark to Mark lookup 4" { "'mkmk' Mark to Mark lookup 4 anchor 0"  "'mkmk' Mark to Mark lookup 4 anchor 1"  } ['mkmk' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
+Lookup: 261 1 0 "'mark' Mark Positioning lookup 5" { "'mark' Mark Positioning lookup 5 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning lookup 6" { "'mark' Mark Positioning lookup 6 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning lookup 7" { "'mark' Mark Positioning lookup 7 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
+Lookup: 261 1 0 "'mark' Mark Positioning lookup 8" { "'mark' Mark Positioning lookup 8 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning lookup 9" { "'mark' Mark Positioning lookup 9 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Lao lookup 10" { "'mark' Mark Positioning in Lao lookup 10 subtable"  } ['mark' ('lao ' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Lao lookup 11" { "'mark' Mark Positioning in Lao lookup 11 subtable"  } ['mark' ('lao ' <'dflt' > ) ]
+Lookup: 261 0 0 "'mark' Mark Positioning lookup 12" { "'mark' Mark Positioning lookup 12 subtable"  } ['mark' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
+Lookup: 260 4 0 "'mark' Mark Positioning lookup 13" { "'mark' Mark Positioning lookup 13 anchor 0"  "'mark' Mark Positioning lookup 13 anchor 1"  "'mark' Mark Positioning lookup 13 anchor 2"  "'mark' Mark Positioning lookup 13 anchor 3"  "'mark' Mark Positioning lookup 13 anchor 4"  "'mark' Mark Positioning lookup 13 anchor 5"  } ['mark' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'tfng' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 14" { "'kern' Horizontal Kerning in Latin lookup 14 subtable"  } ['kern' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
+Lookup: 258 9 0 "'kern' Horizontal Kerning lookup 15" { "'kern' Horizontal Kerning lookup 15-1" [307,30,2] } ['kern' ('DFLT' <'dflt' > 'arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'armn' <'dflt' > 'brai' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'hebr' <'dflt' > 'kana' <'dflt' > 'lao ' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'nko ' <'dflt' > 'ogam' <'dflt' > 'runr' <'dflt' > 'tfng' <'dflt' > 'thai' <'dflt' > ) ]
 MarkAttachClasses: 5
 "MarkClass-1" 307 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0315 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0351 uni0352 uni0357
 "MarkClass-2" 300 uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0321 uni0322 dotbelowcomb uni0324 uni0325 uni0326 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353
 "MarkClass-3" 7 uni0327
 "MarkClass-4" 7 uni0328
 DEI: 91125
-KernClass2: 53 80 "'kern' Horizontal Kerning in Latin lookup 14 subtable" 
+KernClass2: 53 80 "'kern' Horizontal Kerning in Latin lookup 14 subtable"
  6 hyphen
  1 A
  1 B
@@ -230,7 +231,7 @@ KernClass2: 53 80 "'kern' Horizontal Kerning in Latin lookup 14 subtable"
  13 quotedblright
  12 quotedblbase
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -146 {} 0 {} 0 {} 0 {} 150 {} 229 {} 114 {} 150 {} 0 {} -375 {} 0 {} -239 {} -166 {} -204 {} -484 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 75 {} 0 {} 0 {} 0 {} 0 {} -110 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 75 {} 0 {} -90 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 150 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -72 {} -72 {} 114 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -72 {} -72 {} 0 {} -319 {} 0 {} -259 {} -222 {} 0 {} -319 {} 0 {} 0 {} -72 {} -72 {} -72 {} -146 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -239 {} -166 {} 0 {} -276 {} -146 {} 0 {} 0 {} -72 {} 0 {} -72 {} 0 {} -72 {} 0 {} 114 {} 0 {} -72 {} -72 {} -72 {} -72 {} -72 {} -72 {} -72 {} -72 {} 0 {} 0 {} -72 {} -72 {} -319 {} 0 {} 0 {} -222 {} -166 {} -319 {} -276 {} -72 {} -72 {} -319 {} 0 {} -319 {} -276 {} -166 {} -222 {} -528 {} -507 {} 95 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -72 {} 0 {} -72 {} 0 {} 0 {} -124 {} -146 {} 0 {} -222 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -124 {} -72 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} -146 {} 0 {} -222 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -146 {} -222 {} -222 {} -166 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 75 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -222 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -222 {} 0 {} 0 {} 0 {} 0 {} 0 {} -222 {} 0 {} 0 {} 0 {} -90 {} -110 {} -375 {} 0 {} 0 {} -658 {} -319 {} -375 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -375 {} 0 {} 0 {} -222 {} 0 {} 0 {} -299 {} 0 {} 0 {} -146 {} -299 {} 0 {} 0 {} -222 {} 0 {} 0 {} 0 {} -375 {} 0 {} 0 {} 0 {} 0 {} -375 {} -222 {} 0 {} -146 {} -222 {} -375 {} -375 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -222 {} 0 {} 0 {} -299 {} -146 {} 0 {} -72 {} -72 {} -222 {} 0 {} 0 {} 0 {} -375 {} 0 {} -146 {} -72 {} -146 {} 0 {} -375 {} 0 {} 0 {} -90 {} 0 {} -751 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -146 {} 0 {} 0 {} 0 {} 0 {} -204 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -90 {} -110 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -146 {} -124 {} -146 {} 0 {} -146 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -146 {} -124 {} -222 {} 0 {} -430 {} 0 {} 0 {} -72 {} 0 {} -222 {} 0 {} 0 {} 0 {} 0 {} -222 {} 0 {} 0 {} -319 {} -110 {} 0 {} -146 {} 0 {} -146 {} 0 {} -72 {} 0 {} 0 {} -204 {} 0 {} 0 {} 0 {} 0 {} 0 {} -204 {} 0 {} 0 {} 0 {} -204 {} 0 {} 0 {} 0 {} -299 {} -259 {} 0 {} 0 {} -222 {} -72 {} -204 {} 0 {} -204 {} -204 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -124 {} -124 {} 0 {} 0 {} -72 {} 0 {} 0 {} 95 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -146 {} 0 {} 0 {} -562 {} -204 {} -449 {} -375 {} 0 {} -543 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} -375 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -829 {} -1074 {} 0 {} 0 {} 114 {} -166 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} -259 {} -222 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -72 {} -375 {} 0 {} -90 {} -640 {} 0 {} -259 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} 0 {} -184 {} 0 {} 0 {} -146 {} 0 {} 0 {} -90 {} 0 {} -72 {} -146 {} -72 {} -72 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} -184 {} -146 {} 0 {} -146 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 75 {} 75 {} -658 {} 0 {} 114 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -72 {} -259 {} 0 {} -166 {} -146 {} -124 {} -166 {} 0 {} -204 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -299 {} 0 {} -222 {} -166 {} 0 {} -259 {} 0 {} -90 {} 0 {} 0 {} -184 {} 0 {} 0 {} 0 {} 0 {} 0 {} -184 {} 0 {} 0 {} 0 {} -184 {} 0 {} 0 {} 0 {} -222 {} -222 {} -72 {} 0 {} -204 {} -90 {} -184 {} 0 {} -184 {} -184 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -299 {} -259 {} -72 {} 0 {} 0 {} 0 {} 0 {} 75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -375 {} -484 {} -449 {} -319 {} 0 {} -239 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -678 {} -695 {} 0 {} -695 {} 0 {} 0 {} -124 {} 0 {} 0 {} -695 {} -601 {} -678 {} 0 {} -623 {} 0 {} -678 {} 0 {} -640 {} -375 {} -222 {} 0 {} -239 {} -477 {} -575 {} 0 {} -535 {} -559 {} 0 {} 0 {} -695 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -528 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -239 {} -528 {} -334 {} -259 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -319 {} 0 {} 0 {} -319 {} 0 {} 0 {} -90 {} 0 {} 0 {} -319 {} 0 {} 0 {} 0 {} -276 {} 0 {} 0 {} 0 {} -110 {} -355 {} -222 {} 0 {} 0 {} -319 {} -319 {} 0 {} -319 {} -276 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -562 {} 0 {} -166 {} -471 {} -239 {} -222 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -259 {} 0 {} 0 {} -239 {} 0 {} 0 {} -90 {} 0 {} 0 {} -239 {} -184 {} 0 {} 0 {} -146 {} 0 {} 0 {} 0 {} -72 {} -222 {} -72 {} 0 {} 0 {} -259 {} -239 {} 0 {} -239 {} -146 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} -528 {} 0 {} -204 {} 0 {} 0 {} 0 {} 0 {} -299 {} 0 {} 0 {} 0 {} 0 {} -259 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -184 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -222 {} 0 {} 0 {} -299 {} 0 {} -184 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -319 {} -166 {} -90 {} 0 {} -484 {} -829 {} -543 {} -319 {} 0 {} -222 {} 0 {} 0 {} 0 {} 0 {} -222 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -562 {} 0 {} 0 {} -543 {} 0 {} 0 {} -146 {} 0 {} 0 {} -543 {} 0 {} 0 {} 0 {} -471 {} 0 {} 0 {} 0 {} 0 {} -449 {} -299 {} 0 {} -222 {} -562 {} -543 {} 0 {} -543 {} -471 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -222 {} -72 {} -528 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -222 {} -299 {} -146 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -72 {} -146 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 131 {} 0 {} -471 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -146 {} 0 {} 0 {} 0 {} 0 {} 0 {} -146 {} 0 {} 0 {} 0 {} -124 {} 0 {} 0 {} 0 {} -146 {} 0 {} 0 {} 0 {} 0 {} -72 {} -146 {} 0 {} -146 {} -124 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -299 {} -222 {} -184 {} 0 {} 75 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -124 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -299 {} -146 {} -259 {} 0 {} -259 {} -375 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -72 {} -90 {} 0 {} -72 {} 0 {} 0 {} -72 {} -90 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} -110 {} 0 {} -146 {} 0 {} 0 {} 0 {} 0 {} -90 {} 0 {} -90 {} 0 {} 0 {} 0 {} -90 {} 0 {} 0 {} 0 {} 144 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 172 {} -623 {} 0 {} -110 {} -319 {} -222 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -543 {} 0 {} 0 {} -375 {} -222 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -430 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} -124 {} 0 {} 0 {} 0 {} 0 {} 0 {} -124 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -124 {} 0 {} -124 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -582 {} -299 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -601 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} -72 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} -222 {} 0 {} -222 {} -72 {} 0 {} -299 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} -72 {} 0 {} 0 {} 301 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -146 {} -146 {} -72 {} -72 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} -375 {} 0 {} -355 {} -222 {} -222 {} -449 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} -72 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -72 {} -72 {} 114 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -72 {} -72 {} 0 {} -319 {} 0 {} -259 {} -222 {} 0 {} -319 {} 0 {} 0 {} -72 {} -72 {} -72 {} -146 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -239 {} -166 {} 0 {} -276 {} -146 {} 0 {} 0 {} -72 {} 0 {} -72 {} 0 {} -72 {} 0 {} 114 {} 0 {} -72 {} -72 {} 0 {} -72 {} -72 {} 0 {} -72 {} -72 {} 0 {} 0 {} -72 {} -72 {} -319 {} 0 {} 0 {} -222 {} -166 {} -319 {} -276 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} -528 {} -507 {} 95 {} 0 {} -90 {} -72 {} -72 {} 114 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -72 {} -72 {} 0 {} -319 {} 0 {} -259 {} -222 {} 0 {} -319 {} 0 {} 0 {} -72 {} -72 {} -72 {} -146 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -239 {} -166 {} 0 {} -276 {} -146 {} 0 {} 0 {} -72 {} 0 {} -72 {} 0 {} -72 {} 0 {} 114 {} 0 {} -72 {} -72 {} 0 {} -72 {} -72 {} 0 {} -72 {} -72 {} 0 {} 0 {} -72 {} -72 {} -319 {} 0 {} 0 {} -222 {} -166 {} -319 {} -276 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} -222 {} -528 {} -507 {} 95 {} 0 {} -90 {} -72 {} -72 {} 114 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -72 {} -72 {} 0 {} -319 {} 0 {} -259 {} -222 {} 0 {} -319 {} 0 {} 0 {} -72 {} -72 {} -72 {} -146 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -239 {} -166 {} 0 {} -276 {} -146 {} 0 {} 0 {} -72 {} 0 {} -72 {} 0 {} -72 {} 0 {} 114 {} 0 {} -72 {} -72 {} 0 {} -72 {} -72 {} 0 {} -72 {} -72 {} 0 {} 0 {} -72 {} -72 {} -319 {} 0 {} 0 {} -222 {} -166 {} -319 {} -276 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -222 {} -528 {} -507 {} 95 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -166 {} -184 {} -222 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 75 {} 0 {} 0 {} 0 {} -299 {} -146 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} -375 {} 0 {} 75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -222 {} -222 {} -166 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -184 {} -222 {} -146 {} 0 {} -90 {} -72 {} -72 {} 114 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -72 {} -72 {} 0 {} -319 {} 0 {} -259 {} -222 {} 0 {} -319 {} 0 {} 0 {} -72 {} -72 {} -72 {} -146 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -239 {} -166 {} 0 {} -276 {} -146 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} -72 {} 0 {} 114 {} 0 {} 0 {} -72 {} 0 {} -72 {} -72 {} -72 {} -72 {} 0 {} 0 {} 0 {} -72 {} -72 {} -319 {} 0 {} 0 {} -222 {} -166 {} -319 {} -276 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} -222 {} -528 {} -508 {} 95 {} 0 {} -90 {} -72 {} -72 {} 114 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -72 {} -72 {} 0 {} -319 {} 0 {} -259 {} -222 {} 0 {} -319 {} 0 {} 0 {} -72 {} -72 {} -72 {} -146 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -72 {} 0 {} -239 {} -166 {} 0 {} 0 {} -146 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} -72 {} 0 {} 114 {} 0 {} 0 {} -72 {} 0 {} -72 {} -72 {} -72 {} -72 {} 0 {} 0 {} 0 {} -72 {} 0 {} -319 {} 0 {} 0 {} -222 {} -166 {} -319 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} -222 {} -528 {} -508 {} 95 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -222 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -110 {} -375 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -385 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -259 {} -375 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -72 {} -90 {} 0 {} -72 {} 0 {} 0 {} -72 {} -90 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} -110 {} 0 {} -146 {} 0 {} 0 {} 0 {} 0 {} -90 {} 0 {} -90 {} 0 {} 0 {} 0 {} -90 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 172 {} -623 {} 0 {} -375 {} -484 {} -449 {} -319 {} 0 {} -239 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -678 {} -695 {} 0 {} -695 {} 0 {} 0 {} -124 {} 0 {} 0 {} -695 {} -601 {} -678 {} 0 {} -623 {} 0 {} -678 {} 0 {} -640 {} -375 {} -222 {} 0 {} -239 {} -678 {} -695 {} 0 {} -695 {} -623 {} 0 {} 0 {} -695 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -528 {} 0 {} 0 {} 0 {} 0 {} -90 {} -146 {} 0 {} 0 {} 0 {} 150 {} 229 {} 114 {} 150 {} 0 {} -375 {} 0 {} -239 {} -166 {} -204 {} -484 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 75 {} 0 {} 0 {} 0 {} 0 {} -110 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 150 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -528 {} -124 {} -146 {} -124 {} -124 {} -146 {} -124 {} -146 {} -146 {} 0 {} 0 {} 0 {} 0 {} 0 {} -239 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} -146 {} 0 {} 0 {} 0 {} -222 {} -299 {} -222 {} 0 {} 0 {} 0 {} -146 {} -146 {} 0 {} -146 {} 0 {} 0 {} -772 {} -146 {} 0 {} 0 {} -146 {} -299 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -146 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 75 {} -146 {} -222 {} -146 {} -146 {} -146 {} 95 {} -222 {} -222 {} 0 {} -562 {} 0 {} -751 {} -507 {} -146 {} -751 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} -146 {} -146 {} -146 {} 0 {} 0 {} 0 {} -471 {} -392 {} 0 {} -222 {} 0 {} 0 {} 75 {} -222 {} 0 {} 0 {} -146 {} -146 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -146 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 9"  3 3 1 1
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 9" 3 3 1 1
   Class: 7 uni02E9
   Class: 39 uni02E5.1 uni02E6.1 uni02E7.1 uni02E8.1
   BClass: 7 uni02E9
@@ -240,12 +241,12 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 9" 
   BClsList: 2
   FClsList:
  1
-  SeqLookup: 0 "Single Substitution lookup 39" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  "1"  "2"  
-  FClassNames: "0"  
+  SeqLookup: 0 "Single Substitution lookup 39"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0" "1" "2"
+  FClassNames: "0"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 8"  3 3 1 1
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 8" 3 3 1 1
   Class: 7 uni02E8
   Class: 39 uni02E5.2 uni02E6.2 uni02E7.2 uni02E9.2
   BClass: 7 uni02E8
@@ -255,12 +256,12 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 8" 
   BClsList: 2
   FClsList:
  1
-  SeqLookup: 0 "Single Substitution lookup 39" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  "1"  "2"  
-  FClassNames: "0"  
+  SeqLookup: 0 "Single Substitution lookup 39"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0" "1" "2"
+  FClassNames: "0"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 7"  3 3 1 1
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 7" 3 3 1 1
   Class: 7 uni02E7
   Class: 39 uni02E5.3 uni02E6.3 uni02E8.3 uni02E9.3
   BClass: 7 uni02E7
@@ -270,12 +271,12 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 7" 
   BClsList: 2
   FClsList:
  1
-  SeqLookup: 0 "Single Substitution lookup 39" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  "1"  "2"  
-  FClassNames: "0"  
+  SeqLookup: 0 "Single Substitution lookup 39"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0" "1" "2"
+  FClassNames: "0"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 6"  3 3 1 1
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 6" 3 3 1 1
   Class: 7 uni02E6
   Class: 39 uni02E5.4 uni02E7.4 uni02E8.4 uni02E9.4
   BClass: 7 uni02E6
@@ -285,12 +286,12 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 6" 
   BClsList: 2
   FClsList:
  1
-  SeqLookup: 0 "Single Substitution lookup 39" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  "1"  "2"  
-  FClassNames: "0"  
+  SeqLookup: 0 "Single Substitution lookup 39"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0" "1" "2"
+  FClassNames: "0"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 5"  3 3 1 1
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 5" 3 3 1 1
   Class: 7 uni02E5
   Class: 39 uni02E6.5 uni02E7.5 uni02E8.5 uni02E9.5
   BClass: 7 uni02E5
@@ -300,12 +301,12 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 5" 
   BClsList: 2
   FClsList:
  1
-  SeqLookup: 0 "Single Substitution lookup 39" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  "1"  "2"  
-  FClassNames: "0"  
+  SeqLookup: 0 "Single Substitution lookup 39"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0" "1" "2"
+  FClassNames: "0"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 4"  3 1 3 2
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 4" 3 1 3 2
   Class: 7 uni02E9
   Class: 31 uni02E5 uni02E6 uni02E7 uni02E8
   FClass: 7 uni02E9
@@ -315,18 +316,18 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 4" 
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Single Substitution lookup 38" 
+  SeqLookup: 0 "Single Substitution lookup 38"
  1 0 1
   ClsList: 2
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Single Substitution lookup 38" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  
-  FClassNames: "0"  "1"  "2"  
+  SeqLookup: 0 "Single Substitution lookup 38"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0"
+  FClassNames: "0" "1" "2"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 3"  3 1 3 2
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 3" 3 1 3 2
   Class: 7 uni02E8
   Class: 31 uni02E5 uni02E6 uni02E7 uni02E9
   FClass: 7 uni02E8
@@ -336,18 +337,18 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 3" 
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Single Substitution lookup 37" 
+  SeqLookup: 0 "Single Substitution lookup 37"
  1 0 1
   ClsList: 2
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Single Substitution lookup 37" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  
-  FClassNames: "0"  "1"  "2"  
+  SeqLookup: 0 "Single Substitution lookup 37"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0"
+  FClassNames: "0" "1" "2"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 2"  3 1 3 2
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 2" 3 1 3 2
   Class: 7 uni02E7
   Class: 31 uni02E5 uni02E6 uni02E8 uni02E9
   FClass: 7 uni02E7
@@ -357,18 +358,18 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 2" 
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Single Substitution lookup 36" 
+  SeqLookup: 0 "Single Substitution lookup 36"
  1 0 1
   ClsList: 2
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Single Substitution lookup 36" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  
-  FClassNames: "0"  "1"  "2"  
+  SeqLookup: 0 "Single Substitution lookup 36"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0"
+  FClassNames: "0" "1" "2"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1"  3 1 3 2
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1" 3 1 3 2
   Class: 7 uni02E6
   Class: 31 uni02E5 uni02E7 uni02E8 uni02E9
   FClass: 7 uni02E6
@@ -378,18 +379,18 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 1" 
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Single Substitution lookup 35" 
+  SeqLookup: 0 "Single Substitution lookup 35"
  1 0 1
   ClsList: 2
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Single Substitution lookup 35" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  
-  FClassNames: "0"  "1"  "2"  
+  SeqLookup: 0 "Single Substitution lookup 35"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0"
+  FClassNames: "0" "1" "2"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0"  3 1 3 2
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0" 3 1 3 2
   Class: 7 uni02E5
   Class: 31 uni02E6 uni02E7 uni02E8 uni02E9
   FClass: 7 uni02E5
@@ -399,18 +400,18 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 4 contextual 0" 
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Single Substitution lookup 34" 
+  SeqLookup: 0 "Single Substitution lookup 34"
  1 0 1
   ClsList: 2
   BClsList:
   FClsList: 1
  1
-  SeqLookup: 0 "Single Substitution lookup 34" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  
-  FClassNames: "0"  "1"  "2"  
+  SeqLookup: 0 "Single Substitution lookup 34"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0"
+  FClassNames: "0" "1" "2"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  5 5 5 6
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 3 subtable" 5 5 5 6
   Class: 91 i j iogonek uni0249 uni0268 uni029D uni03F3 uni0456 uni0458 uni1E2D uni1ECB uni2148 uni2149
   Class: 363 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0351 uni0352 uni0357 uni0483 uni0484 uni0485 uni0486 uni20D0 uni20D1 uni20D6 uni20D7
   Class: 1071 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z b d f h k l t Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute lacute Lcommaaccent lcommaaccent Lcaron lcaron Ldot ldot Lslash lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron Tcommaaccent Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron longs uni0186 uni0190 florin uni0194 uni01B7 uni01B8 uni01CD uni01CF uni01D0 uni01D1 uni01D3 uni01E2 uni01EA uni01EC Scommaaccent uni021A uni022E uni0232
@@ -428,42 +429,42 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  5 5
   BClsList:
   FClsList: 2
  1
-  SeqLookup: 0 "Single Substitution lookup 33" 
+  SeqLookup: 0 "Single Substitution lookup 33"
  1 0 2
   ClsList: 1
   BClsList:
   FClsList: 4 2
  1
-  SeqLookup: 0 "Single Substitution lookup 33" 
+  SeqLookup: 0 "Single Substitution lookup 33"
  1 0 3
   ClsList: 1
   BClsList:
   FClsList: 4 4 2
  1
-  SeqLookup: 0 "Single Substitution lookup 33" 
+  SeqLookup: 0 "Single Substitution lookup 33"
  1 1 0
   ClsList: 2
   BClsList: 3
   FClsList:
  1
-  SeqLookup: 0 "Single Substitution lookup 32" 
+  SeqLookup: 0 "Single Substitution lookup 32"
  1 2 0
   ClsList: 2
   BClsList: 4 3
   FClsList:
  1
-  SeqLookup: 0 "Single Substitution lookup 32" 
+  SeqLookup: 0 "Single Substitution lookup 32"
  1 3 0
   ClsList: 2
   BClsList: 4 4 3
   FClsList:
  1
-  SeqLookup: 0 "Single Substitution lookup 32" 
-  ClassNames: "0"  "1"  "2"  "3"  "4"  
-  BClassNames: "0"  "1"  "2"  "3"  "4"  
-  FClassNames: "0"  "1"  "2"  "3"  "4"  
+  SeqLookup: 0 "Single Substitution lookup 32"
+  ClassNames: "0" "1" "2" "3" "4"
+  BClassNames: "0" "1" "2" "3" "4"
+  FClassNames: "0" "1" "2" "3" "4"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 2 subtable"  3 1 3 1
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 2 subtable" 3 1 3 1
   Class: 7 uni05E2
   Class: 95 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni05C7
   FClass: 7 uni05E2
@@ -473,10 +474,10 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 2 subtable"  3 1
   BClsList:
   FClsList: 2
  1
-  SeqLookup: 0 "Single Substitution lookup 31" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  
-  FClassNames: "0"  "1"  "2"  
+  SeqLookup: 0 "Single Substitution lookup 31"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0"
+  FClassNames: "0" "1" "2"
 EndFPST
 TtTable: prep
 PUSHW_1
@@ -2310,7 +2311,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Vazir Bold 1.10.8" "" "Version 1.10.8" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain.+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Vazir" "Bold" 
+LangName: 1033 "" "" "" "Vazir Bold 1.11" "" "Version 1.11" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain.+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Vazir" "Bold"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -2380,18 +2381,20 @@ WinInfo: 25 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
+-2048 -482.472900391 m 0
+ 4096 -482.472900391 l 1024
 -2048 1260.44 m 0
- 4096 1260.44 l 0
+ 4096 1260.44 l 1024
 -2048 -313.814 m 0
- 4096 -313.814 l 0
+ 4096 -313.814 l 1024
 -5935.87 4096.3 m 0
- 11871.8 4096.3 l 0
+ 11871.8 4096.3 l 1024
 -5935.87 5463.63 m 0
- 11871.8 5463.63 l 0
+ 11871.8 5463.63 l 1024
 -5935.87 4288.06 m 0
- 11871.8 4288.06 l 0
+ 11871.8 4288.06 l 1024
 -5935.87 4496.33 m 0
- 11871.8 4496.33 l 0
+ 11871.8 4496.33 l 1024
 EndSplineSet
-AnchorClass2: "Anchor-0"  "'mkmk' Mark to Mark in Arabic lookup 0 subtable" "Anchor-1"  "'mkmk' Mark to Mark in Arabic lookup 1 subtable" "Anchor-2"  "'mkmk' Mark to Mark in Lao lookup 2 subtable" "Anchor-3"  "'mkmk' Mark to Mark in Lao lookup 3 subtable" "Anchor-4"  "'mkmk' Mark to Mark lookup 4 anchor 0" "Anchor-5"  "'mkmk' Mark to Mark lookup 4 anchor 1" "Anchor-6"  "'mark' Mark Positioning lookup 5 subtable" "Anchor-7"  "'mark' Mark Positioning lookup 6 subtable" "Anchor-8"  "'mark' Mark Positioning lookup 7 subtable" "Anchor-9"  "'mark' Mark Positioning lookup 8 subtable" "Anchor-10"  "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"  "'mark' Mark Positioning in Lao lookup 10 subtable" "Anchor-12"  "'mark' Mark Positioning in Lao lookup 11 subtable" "Anchor-13"  "'mark' Mark Positioning lookup 12 subtable" "Anchor-14"  "'mark' Mark Positioning lookup 13 anchor 0" "Anchor-15"  "'mark' Mark Positioning lookup 13 anchor 1" "Anchor-16"  "'mark' Mark Positioning lookup 13 anchor 2" "Anchor-17"  "'mark' Mark Positioning lookup 13 anchor 3" "Anchor-18"  "'mark' Mark Positioning lookup 13 anchor 4" "Anchor-19"  "'mark' Mark Positioning lookup 13 anchor 5" 
+AnchorClass2: "Anchor-0" "'mkmk' Mark to Mark in Arabic lookup 0 subtable" "Anchor-1" "'mkmk' Mark to Mark in Arabic lookup 1 subtable" "Anchor-2" "'mkmk' Mark to Mark in Lao lookup 2 subtable" "Anchor-3" "'mkmk' Mark to Mark in Lao lookup 3 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 4 anchor 0" "Anchor-5" "'mkmk' Mark to Mark lookup 4 anchor 1" "Anchor-6" "'mark' Mark Positioning lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8" "'mark' Mark Positioning lookup 7 subtable" "Anchor-9" "'mark' Mark Positioning lookup 8 subtable" "Anchor-10" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11" "'mark' Mark Positioning in Lao lookup 10 subtable" "Anchor-12" "'mark' Mark Positioning in Lao lookup 11 subtable" "Anchor-13" "'mark' Mark Positioning lookup 12 subtable" "Anchor-14" "'mark' Mark Positioning lookup 13 anchor 0" "Anchor-15" "'mark' Mark Positioning lookup 13 anchor 1" "Anchor-16" "'mark' Mark Positioning lookup 13 anchor 2" "Anchor-17" "'mark' Mark Positioning lookup 13 anchor 3" "Anchor-18" "'mark' Mark Positioning lookup 13 anchor 4" "Anchor-19" "'mark' Mark Positioning lookup 13 anchor 5" 
 EndSplineFont
