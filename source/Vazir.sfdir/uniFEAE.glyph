@@ -5,7 +5,7 @@ VWidth: 2186
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 489 818 basechar 0
-AnchorPoint: "Anchor-7" 461.925 -627.55 basechar 0
+AnchorPoint: "Anchor-7" 383.925 -657.55 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -22,7 +22,7 @@ SplineSet
  494.69 -260.647 494.69 -260.647 547.247 99.3408 c 0,15,16
  569.511 251.841 569.511 251.841 459.247 441.341 c 1,0,-1
 EndSplineSet
-Kerns2: 68 0 "'kern' Horizontal Kerning lookup 15-1"  66 0 "'kern' Horizontal Kerning lookup 15-1"  55 0 "'kern' Horizontal Kerning lookup 15-1"  54 0 "'kern' Horizontal Kerning lookup 15-1"  185 0 "'kern' Horizontal Kerning lookup 15-1"  133 0 "'kern' Horizontal Kerning lookup 15-1"  108 0 "'kern' Horizontal Kerning lookup 15-1"  131 0 "'kern' Horizontal Kerning lookup 15-1" 
+Kerns2: 68 0 "'kern' Horizontal Kerning lookup 15-1" 66 0 "'kern' Horizontal Kerning lookup 15-1" 55 0 "'kern' Horizontal Kerning lookup 15-1" 54 0 "'kern' Horizontal Kerning lookup 15-1" 185 0 "'kern' Horizontal Kerning lookup 15-1" 133 0 "'kern' Horizontal Kerning lookup 15-1" 108 0 "'kern' Horizontal Kerning lookup 15-1" 131 0 "'kern' Horizontal Kerning lookup 15-1"
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEDF dx=-70 dy=0 dh=-70 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFBAC dx=-70 dy=0 dh=-70 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFB90 dx=-70 dy=0 dh=-70 dv=0 dx=0 dy=0 dh=0 dv=0
