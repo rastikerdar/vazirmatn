@@ -1,6 +1,6 @@
 # Vazir-Font
 A Persian (Farsi) Font
-
+<div dir="rtl">
 فونت فارسی وزیر
 
 [نمایش فونت](http://rastikerdar.github.io/vazir-font/)
