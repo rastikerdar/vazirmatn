@@ -28,6 +28,7 @@
       * {
         margin: 0;
         padding: 0;
+        box-sizing: border-box;
       }
 
       a {
@@ -36,6 +37,7 @@
       }
       
       body {
+        background-color: #eee;
         color: #000;
         font-size: 14px;
         direction: rtl;
@@ -44,14 +46,18 @@
       }
 
       header, .sample, footer {
-        margin: auto;
-        padding: 100px 50px;
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        border-radius: 5px;
+        margin: 20px auto;
+        max-width: 500px;
+        padding: 50px;
       }
 
       header {
         text-align: center;
         background-color: #eee;
         color: #222;
+        border: none;
       }
       
       header .get {
@@ -96,9 +102,11 @@
       .sample.sec0-test a { color: #0b6db3; }
 
       .sample.sec1 {
-        background-color: #5F9D15;
-        color: #fff;
+        background-color: #d2eeb1;
+        color: #2B2B2B;
+<!--
         font-size: 15px;
+-->
       }
       .sample.sec2 {
         background-color: #F2F2EE;
@@ -131,6 +139,10 @@
       @media all and (max-width: 480px){
         header, .sample, footer {
           padding: 50px 30px;
+          width: 100%;
+          border: none;
+          margin: 0;
+          border-radius: 0;
         }
       }
     </style>
@@ -190,7 +202,7 @@
 
     <section class="sample sec3">
       <h2>طراحی</h2>
-      <p>این فونت باز طراحی شده فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.</p>
+      <p>این فونت باز طراحی فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.</p>
     </section>
         
     <footer>
