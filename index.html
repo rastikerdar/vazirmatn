@@ -9,19 +9,19 @@
      
       @font-face {
         font-family: Vazir;
-        src: url('Vazir.eot?v=1.12.1');
-        src: url('Vazir.eot?v=1.12.1#iefix') format('embedded-opentype'),
-             url('Vazir.woff?v=1.12.1') format('woff'),
-             url('Vazir.ttf?v=1.12.1') format('truetype');
+        src: url('Vazir.eot?v=2-alpha');
+        src: url('Vazir.eot?v=2-alpha#iefix') format('embedded-opentype'),
+             url('Vazir.woff?v=2-alpha') format('woff'),
+             url('Vazir.ttf?v=2-alpha') format('truetype');
         font-weight: normal;
-      }    
+      }
       
       @font-face {
         font-family: Vazir;
-        src: url('Vazir-Bold.eot?v=1.12.1');
-        src: url('Vazir-Bold.eot?v=1.12.1#iefix') format('embedded-opentype'),
-             url('Vazir-Bold.woff?v=1.12.1') format('woff'),
-             url('Vazir-Bold.ttf?v=1.12.1') format('truetype');
+        src: url('Vazir-Bold.eot?v=2-alpha');
+        src: url('Vazir-Bold.eot?v=2-alpha#iefix') format('embedded-opentype'),
+             url('Vazir-Bold.woff?v=2-alpha') format('woff'),
+             url('Vazir-Bold.ttf?v=2-alpha') format('truetype');
         font-weight: bold;
       }
       
@@ -30,7 +30,8 @@
         padding: 0;
         box-sizing: border-box;
       }
-
+     
+      p { margin-bottom: 10px; }
       a {
         text-decoration: none;
         color: #007fba;
@@ -75,49 +76,76 @@
         color: #999;
         font-size: 12px;
       }
+
+      header .version {
+        position: absolute;
+        left: 0;
+        top: -5px;
+        color: #999;
+        font-size: 12px;
+        direction: ltr;
+      }
+
+      header h1 { 
+        position: relative; 
+        display: inline-block;
+        color: #444444;
+      }
                   
       .sample {
         text-align: center;
       }
       
-      .sample.sec0 {
-        background-color: #555;
-        color: #eee;
-      }
-
-      .sample.sec0-test {
+      .sample.test0 {
         background-color: #fff;
         color: #333;
       }
 
-      .sample.sec0-test p.first {
+      .sample.test0 p.first {
         font-size: 14px;
         margin-bottom: 30px;
       }
 
-      .sample.sec0-test p.second{
+      .sample.test0 p.second{
         font-size: 13px;
       }
 
-      .sample.sec0-test a { color: #0b6db3; }
+      .sample.test0 a { color: #0b6db3; }
+
+      .sample.test1 {
+        background-color: #09497d;
+        color: #e1e1e1;
+        font-size: 18px;
+        font-weight: bold;
+      }
+
+      .sample.test2 {
+        background-color: #ecede6;
+        color: #2f5695;
+        font-size: 16px;
+      }
+
+      .sample.test3 {
+        background-color: #f2f2f2;
+        color: #545454;
+        font-size: 16px;
+      }
 
       .sample.sec1 {
-        background-color: #d2eeb1;
-        color: #2B2B2B;
-<!--
-        font-size: 15px;
--->
+        background-color: #C53F3F;
+        color: #ffffff;
       }
+
       .sample.sec2 {
-        background-color: #F2F2EE;
-        color: #222;
-        font-size: 18px;
+        background-color: #FBFFD3;
+        color: #555;
+
       }
       
       .sample.sec3 {
-        background-color: #308BA9;
+        background-color: #c65e0e;
         color: #fff;
-        font-size: 12px;
+        font-size: 13px;
       }
       
       .sample.sec3 a {
@@ -126,7 +154,7 @@
       }
             
       footer {
-        background-color: #1a3854;
+        background-color: #515254;
         border-radius: 0;
         color: #eee;
         margin: 0;
@@ -151,20 +179,22 @@
     </style>
   </head>
   
-  <body>    
+  <body contenteditable="false">    
     <header>
-      <h1>فونت فارسی وزیر</h1>
+      <h1>فونت فارسی وزیر <span class="version">2-alpha</span></h1>
       <div class="description">فونتی برای استفاده در صفحات وب، رابط کاربری برنامه‌ها و ...</div>
       <div class="get">
-        <a href="https://github.com/rastikerdar/vazir-font/releases/download/v1.12.1/vazir-font-v1.12.1.zip" class="download">دریافت (دانلود)</a>
+        <a href="https://github.com/rastikerdar/vazir-font/releases/download/v2-alpha/vazir-font-v2-alpha.zip" class="download">دریافت (دانلود)</a>
         <a href="https://github.com/rastikerdar/vazir-font" class="github">GitHub</a>
       </div>
       <div class="info">
-        <div>آخرین نسخه: 1.12.1</div>
+        <div>آخرین نسخه: <span dir="ltr">2-alpha</span></div>
+        <div>برای دریافت نسخه ‌های قدمی‌تر به <a href="https://github.com/rastikerdar/vazir-font/releases" target="_blank">این صفحه</a> مراجعه نمایید</div>
         <div>مجوز: SIL Open Font License 1.1</div>
         <div>معنی وزیر (دهخدا): معاون، مددکار</div>
         <div>توصیه: همیشه اطمینان یابید که از آخرین نسخه فونت در حال استفاده می‌باشید.</div>
 	<div>توصیه: برای حالت ضخیم یا Bold حتما از فایل Vazir-Bold استفاده نمایید.</div>
+        <div>نکته: نسخه تمام اعداد فارسی در پوشه مجزا موجود می باشد.</div>
         <div>سایر قلم‌های آزاد:
            <a href="http://rastikerdar.github.io/parastoo-font/" target="_blank">پرستو</a>،
            <a href="http://rastikerdar.github.io/samim-font/" target="_blank">صمیم</a>،
@@ -174,47 +204,79 @@
         </div>
         <div>برای مقایسه قلم های فارسی به <a href="http://rastikerdar.github.io/compare-fonts/" target="_blank">این صفحه </a> مراجعه نمایید.</div>
         <div><a href="http://rastikerdar.github.io/getting-started-with-fontforge/" target="_blank">آموزش</a> برنامه ویرایش قلم <a href="https://fontforge.github.io" target="_blank">فونت‌فورج</a> به زبان فارسی</div>
+        <div>این فونت مراحل توسعه پیش از انتشار اصلی را می گذراند. هم اکنون می توانید از آن استفاده نمایید اما از پایگاه های دانلود فایل تقاضا می گردد تا پیش از انتشار نسخه اصلی آن را بر روی سرورهای خود برای دانلود قرار ندهید.</div>
+
       </div>
     </header>
 
-    <section class="sample sec0">
-      <h2>خوانایی</h2>
-      <p>در طراحی این فونت سعی شده است معیار خوانایی در اولویت قرار گیرد.</p>
+    <section class="sample sec1">
+      <h2>وزیر۲</h2>
+      <p>با تلاش فراوان نسخه شماره دو وزیر با تغییرات گسترده در تقریبا تمامی گلیف‌ها آماده گردید.</p>
     </section>
 
-    <section class="sample sec0-test">
-      <h2>متن نمونه</h2>
+    <section class="sample test0">
+      <h2>متن آزمایشی</h2>
       <p class="first">
-زبان‌های ایرانی یکی از شاخه‌های زبان‌های هندوایرانی از خانواده بزرگ زبان‌های هندواروپایی را تشکیل می‌دهد. منظور از اصطلاح زبان‌های ایرانی یا زبان‌های ایرانی‌تبار، گروهی از زبان‌ها است که همگی ریشه در یک زبان باستانی به نام زبان نیا-ایرانی داشته‌اند و به معنی زبان‌های مرتبط با واحد سیاسی کشور امروزی ایران نیست.
+سلام. امروزه داشتن یک فونت خوب نیاز هر بنی بشری می‌باشد! همانطور که رئیس کمپانی بزرگ دگر اندیشان بارانداز طی نطق سالانه خود در مقابل دیدگان تمامی اعضای مجمع بیان نمود ما نیز باید به همان شیوه در زندگی خود عمل نموده تا از گزند حوادث سهمگین روزگار اگر نگوییم در امان باشیم که سرنگون باشیم! تردیدی نیست که استیلای بزرگان عصر حاضر بر این پدیده عجیب خود مایه شگفتیست!
       </p>
       <h2>...</h2>
-      <p class="second">زبان های ایرانی یک ریشه مشترک باستانی دارد و به گویش های مختلف و هر گویش به لهجه های مختلف استعمال می شود. این زبان ها از آرامی باستان بسیار وام گرفته است. بعضی از گویش های زبان ایرانی به خاطر تفاوتهای ظاهری در نحوه استفاده از عبارات و ترکیب ها، امروزه خود به عنوان یک زبان نام برده می شوند. مهمترین زبان‌ها و گویش های ایرانی امروزی عبارتند از: فارسی (پارسی ، دری، یا تاجیکی)، مازنی، کردی، پشتو، بلوچی، لری، لکی، زازاکی، گیلکی، تالشی، تاتی و آسی</p>
-      <p>منبع: <a href="https://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C">ویکی پدیا</a></p>
-    </section>
-
-
-    <section class="sample sec1">
-      <h2>هماهنگی</h2>
-      <p>در اندازه‌ها با فونت‌های رایج تطبیق داده شده تا در صورت انتخاب این فونت (قلم) نیازی به تغییر اندازه‌ها نباشد.</p>
+      <p class="second">
+مهم‌تر از آلودگی هوا، آلودگی قلب‌هاست. دکتر میرفشنگی در کتاب رگ‌های خونی چنین می‌نویسد: قلب‌های آلوده عموما دارای کارکردی ناقص توام با سر و صدا و البته ریتمی نامنظم می‌باشند. طبیعتاً پمپاژ خون با سر و صدا می تواند برای بیمار مشکلات فراوانی به ویژه در هنگام مطالعه یا مشاهده خواب به وجود آورد. دکتر چین چون چان پس از مدت ۳۸ سال تحقیق و پژوهش سرانجام تصمیم گرفت که دیگر فکر نکند!
+      </p>
+      <p>منبع: <a href="#">همین جا</a></p>
     </section>
 
     <section class="sample sec2">
-      <h2>شخصیت</h2>
-      <p>همچنین تلاش شده است علاوه بر حفظ وقار، مولفه شادابی نیز در حین طراحی در نظر گرفته شود.</p>
+      <h2>خوانایی</h2>
+      <p>در وزیر۲ تلاش گردید خوانایی نسبت به نسخه پیشین بهبود چشمگیری یابد.</p>
+    </section>
+
+    <section class="sample test1">
+      <h2>متن آزمایشی</h2>
+      <p class="first">
+بیایید با یکدیگر مهربان باشیم. به دیگران احترام بگذاریم. حقوق همدیگر را به رسمیت بشناسیم.
+      </p>
+    </section>
+
+    <section class="sample test2">
+      <h2>در توسعه قلم وزیر مشارکت نمایید</h2>
+      <p>به هر طریقی که فکر می‌کنید از جمله گزارش اشکالات، اصلاح قلم، پیشنهاد، انتقاد، معرفی به دیگران، ساخت قلم جدید از روی آن و ... مشارکت نمایید مایه دلگرمیست.
+      </p>
+      <p>اگر نهایتا به هیچ کدام از شیوه‌های بالا تمایل ندارید و علاقه‌مندید مبلغی هدیه فرمایید:</p>
+<form action="https://www.zarinpal.com/webservice/Simplepay" method="post" id="TransactionAddForm">
+	<input type="hidden" id="TransactionAccountID" value="zp.127332.1" name="data[Transaction][account_id]">
+	<input type="text" id="TransactionAmount" value="" placeholder="مبلغ به تومان" name="data[Transaction][amount]">
+<br>
+توضیح:
+<br>
+	<input type="text" id="TransactionDesc" value="بابت فونت وزیر" name="data[Transaction][desc]">
+<br>
+	<input type="hidden" id="TransactionRedirectUrl" value="http://rastikerdar.github.io/vazir-font/" name="data[Transaction][redirect_url]">
+	<div class="submit"><input type="submit" value="پرداخت از درگاه زرین‌پال"></div>
+</form>
+سپاس
+    </section>
+
+    <section class="sample test3">
+      <h2>متن نمونه</h2>
+      <p>چند شب پیش مهمونی خونه یکی از اقوام دعوت بودیم. طبق معمول بعد از صرف غذا مشغول به صحبت شدیم که مثل همیشه آقای الف شروع کرد به غر زدن! آقا اینها چرا اینجوری می‌کنند، چرا اونجوری نمی‌کنند و خلاصه موتورش حسابی گرم شد. صدای تلویزیون بالا بود و شلوغی بچه‌ها بی اندازه. داشتم توی افکارم غرق می‌شدم که یه صدای مهربون به آرامی توی گوشم پیچید! با همون نگاه شیرین و قشنگش گفت: این کتاب رو برای تو آوردم ...
+      </p>
+
     </section>
 
     <section class="sample sec3">
       <h2>طراحی</h2>
-      <p>این فونت باز طراحی فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.</p>
+      <p>این فونت باز طراحی فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.
+      </p>
     </section>
         
     <footer>
-      صفحه وبلاگ برای ثبت دیدگاه پیرامون فونت:
-      <a href="http://rastikerdar.blog.ir/1394/07/22/%D9%81%D9%88%D9%86%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D9%88%D8%B2%DB%8C%D8%B1" target="_blank">rastikerdar.blog.ir</a>
+      صفحه وبلاگ برای ثبت دیدگاه پیرامون فونت وزیر۲:
+      <a href="http://rastikerdar.blog.ir/post/16" target="_blank">rastikerdar.blog.ir</a>
       <br>
       توسط صابر راستی کردار
       <br>
-      saber.rastikerdar بر روی جیمیل
+      saber.rastikerdar بر روی جی‌میل
       <br>
       © 2015
       <br>
