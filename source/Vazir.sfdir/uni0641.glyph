@@ -1,5 +1,5 @@
 StartChar: uni0641
-Encoding: 1601 1601 65
+Encoding: 1601 1601 46
 Width: 1745
 VWidth: 2186
 GlyphClass: 2
@@ -8,8 +8,8 @@ AnchorPoint: "Anchor-10" 576 1257.5 basechar 0
 AnchorPoint: "Anchor-7" 502 -247.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 109 1697 N 1 0 0 1 0 0 2
-Refer: 293 -1 S 1.07 0 0 1.07 1258.07 1272.49 2
+Refer: 90 1697 N 1 0 0 1 0 0 2
+Refer: 274 -1 S 1.07 0 0 1.07 1258.07 1272.49 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFED2
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED4
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFED3
