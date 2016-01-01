@@ -1,5 +1,5 @@
 StartChar: uniFE77
-Encoding: 65143 65143 140
+Encoding: 65143 65143 132
 Width: 642
 VWidth: 2186
 GlyphClass: 3
@@ -8,8 +8,8 @@ AnchorPoint: "Anchor-10" 321 1600.5 basechar 0
 AnchorPoint: "Anchor-7" 321 -111.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 59 1614 N 1 0 0 1 -226.84 0 2
-Refer: 45 1600 N 1 0 0 1 0 0 2
+Refer: 51 1614 N 1 0 0 1 -226.84 0 2
+Refer: 37 1600 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0640 uni064E
 EndChar

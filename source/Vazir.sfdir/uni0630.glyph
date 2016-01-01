@@ -1,14 +1,14 @@
 StartChar: uni0630
-Encoding: 1584 1584 34
-Width: 907
+Encoding: 1584 1584 26
+Width: 939
 VWidth: 2186
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 310 1433.13 basechar 0
+AnchorPoint: "Anchor-10" 334 1433.13 basechar 0
 AnchorPoint: "Anchor-7" 373.5 -237 basechar 0
 LayerCount: 2
 Fore
-Refer: 33 1583 N 1 0 0 1 0 0 2
-Refer: 274 -1 S 1.07 0 0 1.07 245.75 1095.13 2
+Refer: 25 1583 N 1 0 0 1 0 0 2
+Refer: 266 -1 S 1.07 0 0 1.07 250.75 1095.13 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEAC
 EndChar

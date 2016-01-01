@@ -1,15 +1,15 @@
 StartChar: afii57509
-Encoding: 1711 1711 92
-Width: 1703
-VWidth: 2237
+Encoding: 1711 1711 84
+Width: 1824
+VWidth: 2186
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 419 1219.36 basechar 0
-AnchorPoint: "Anchor-7" 486 -184 basechar 0
+AnchorPoint: "Anchor-10" 419 1168.36 basechar 0
+AnchorPoint: "Anchor-7" 486 -235 basechar 0
 LayerCount: 2
 Fore
-Refer: 91 1705 N 1 0 0 1 0 0 2
-Refer: 288 -1 S 1.07 0 0 1.07 914.9 -117.64 2
+Refer: 83 1705 N 1 0 0 1 0 0 2
+Refer: 280 -1 S 1.07 0 0 1.07 1012.9 -175.64 2
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB94
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB95
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB93

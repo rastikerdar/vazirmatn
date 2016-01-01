@@ -1,18 +1,18 @@
 StartChar: afii57440
-Encoding: 1600 1600 45
-Width: 642
-VWidth: 2186
+Encoding: 1600 1600 37
+Width: 650
+VWidth: 2304
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 321 1279.5 basechar 0
-AnchorPoint: "Anchor-7" 321 -111.5 basechar 0
+AnchorPoint: "Anchor-10" 329.976 1347.15 basechar 0
+AnchorPoint: "Anchor-7" 329.976 -121.744 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--8.40039 0 m 1,0,-1
- -8.40039 178.979 l 1,1,-1
- 650.4 178.979 l 5,2,-1
- 650.4 0 l 1,3,-1
- -8.40039 0 l 1,0,-1
+-13.87109375 0 m 1,0,-1
+ -13.87109375 181.001953125 l 1,1,-1
+ 673.822265625 181.001953125 l 1,2,-1
+ 673.822265625 0 l 1,3,-1
+ -13.87109375 0 l 1,0,-1
 EndSplineSet
 EndChar
