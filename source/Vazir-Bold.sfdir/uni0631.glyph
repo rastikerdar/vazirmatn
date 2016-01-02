@@ -4,7 +4,7 @@ Width: 858
 VWidth: 2304
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 368.707 884.056 basechar 0
+AnchorPoint: "Anchor-10" 455.707 926.056 basechar 0
 AnchorPoint: "Anchor-7" 309.188 -618.857 basechar 0
 LayerCount: 2
 Fore
@@ -18,9 +18,10 @@ SplineSet
  0.310546875 -230.232421875 l 1,9,-1
  49.5078125 -226.01171875 l 2,10,11
  401 -196 401 -196 482.48828125 31.107421875 c 0,12,13
- 513 116 513 116 513.157226562 206.850585938 c 4,14,15
+ 513 116 513 116 513.157226562 206.850585938 c 0,14,15
  514 393 514 393 433.774414062 563.870117188 c 1,0,-1
 EndSplineSet
+PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEE7 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB90 dx=-190 dy=0 dh=-190 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB8E dx=-190 dy=0 dh=-190 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06A9 dx=-190 dy=0 dh=-190 dv=0 dx=0 dy=0 dh=0 dv=0

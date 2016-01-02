@@ -4,14 +4,14 @@ Width: -27
 VWidth: 2186
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-10" 570.84 719.5 mark 0
-AnchorPoint: "Anchor-9" 570.84 719.5 mark 0
+AnchorPoint: "Anchor-10" 606.84 719.5 mark 0
+AnchorPoint: "Anchor-9" 606.84 719.5 mark 0
 AnchorPoint: "Anchor-1" 546.84 1850.5 basemark 0
-AnchorPoint: "Anchor-1" 570.84 719.5 mark 0
+AnchorPoint: "Anchor-1" 606.84 719.5 mark 0
 LayerCount: 2
 Fore
-Refer: 49 1612 S 1 0 0 1 -5 11 2
-Refer: 54 1617 S 1 0 0 1 -5 -623 2
+Refer: 49 1612 N 1 0 0 1 -5 11 2
+Refer: 54 1617 N 1 0 0 1 -5 -623 2
 LCarets2: 1 0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0651 uni064C
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064C uni0651
