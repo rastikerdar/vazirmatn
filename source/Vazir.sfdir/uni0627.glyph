@@ -1,19 +1,19 @@
 StartChar: uni0627
 Encoding: 1575 1575 17
-Width: 453
-VWidth: 2304
+Width: 471
+VWidth: 2393
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 225.512 1612.79 basechar 0
-AnchorPoint: "Anchor-7" 228.68 -253.688 basechar 0
+AnchorPoint: "Anchor-10" 234.532 1674.3 basechar 0
+AnchorPoint: "Anchor-7" 237.827 -266.836 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-150.903320312 1470.4140625 m 1,0,-1
- 319.12890625 1470.4140625 l 1,1,-1
- 319.12890625 0.583984375 l 1,2,-1
- 150.903320312 0.583984375 l 1,3,-1
- 150.903320312 1470.4140625 l 1,0,-1
+159.939453125 1523.23046875 m 1,0,-1
+ 328.89453125 1523.23046875 l 5,1,-1
+ 328.89453125 0.607421875 l 1,2,-1
+ 159.939453125 0.607421875 l 1,3,-1
+ 159.939453125 1523.23046875 l 1,0,-1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE8E
 EndChar

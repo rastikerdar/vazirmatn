@@ -1,15 +1,15 @@
 StartChar: uniFEB0
 Encoding: 65200 65200 189
-Width: 898
+Width: 919
 VWidth: 2186
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 446.36 1318.56 basechar 0
-AnchorPoint: "Anchor-7" 285.5 -620.5 basechar 0
+AnchorPoint: "Anchor-10" 401.36 1363.56 basechar 0
+AnchorPoint: "Anchor-7" 285.5 -665.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 187 65198 N 1 0 0 1 0.5 0 2
-Refer: 266 -1 S 1.07 0 0 1.07 441.11 849.562 2
+Refer: 266 -1 S 1.07 0 0 1.07 441.11 894.562 2
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEE7 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB90 dx=-190 dy=0 dh=-190 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB8E dx=-190 dy=0 dh=-190 dv=0 dx=0 dy=0 dh=0 dv=0
