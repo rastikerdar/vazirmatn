@@ -1,6 +1,6 @@
 StartChar: uniFBFE
 Encoding: 64510 64510 124
-Width: 701
+Width: 719
 VWidth: 2186
 GlyphClass: 2
 Flags: W
@@ -9,5 +9,5 @@ AnchorPoint: "Anchor-7" 240.37 -581.86 basechar 0
 LayerCount: 2
 Fore
 Refer: 120 64488 N 1 0 0 1 0 0 2
-Refer: 267 -1 S 1.07 0 0 1.07 85.37 -400.36 2
+Refer: 267 -1 N 1.07 0 0 1.07 85.37 -400.36 2
 EndChar

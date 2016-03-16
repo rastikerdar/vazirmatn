@@ -4,7 +4,7 @@ FullName: Vazir
 FamilyName: Vazir
 Weight: Regular
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.
-Version: 2-RC6
+Version: 2-RC7
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1458014437
+ModificationTime: 1458104652
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -2389,6 +2389,12 @@ StemSnapV 13 [156 163 226]
 ExpansionFactor 4 0.06
 EndPrivate
 Grid
+-2048 870.274414062 m 0
+ 4096 870.274414062 l 1024
+-2048 858.724243164 m 0
+ 4096 858.724243164 l 1024
+-2048 918 m 0
+ 4096 918 l 1024
 -2048 -486.24861145 m 0
  4096 -486.24861145 l 1024
 -2048 902.727813721 m 0
