@@ -4,7 +4,7 @@ Width: 1498
 VWidth: 2393
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 473.599 1701.85 basechar 0
+AnchorPoint: "Anchor-10" 473.599 1681.85 basechar 0
 AnchorPoint: "Anchor-7" 651.982 -267.158 basechar 0
 LayerCount: 2
 Fore
@@ -26,8 +26,8 @@ SplineSet
  97.7392578125 320.102539062 l 1,23,-1
  273.529296875 320.248046875 l 1,24,25
  295 355 295 355 318.662109375 389.032226562 c 1,26,-1
- 318.662109375 1523.81542969 l 1,27,-1
- 577.616210938 1523.81542969 l 1,28,-1
+ 318.662109375 1503.81542969 l 5,27,-1
+ 577.616210938 1503.81542969 l 5,28,-1
  577.616210938 688.884765625 l 1,9,10
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEC2
