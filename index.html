@@ -1,193 +1,157 @@
 <html>
-  <head>
-    <title>فونت فارسی وزیر - صفحه رسمی پروژه</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
-    <meta name="description" content="فونت فارسی وزیر از نوع سانس سریف">   
-    <meta name="keywords" content="فونت,فارسی,وزیر,سانس سریف,font,farsi,Vazir,sans-serif">
-    <style>
-     
-      @font-face {
-        font-family: Vazir;
-        src: url('Vazir.eot?v=2-RC13');
-        src: url('Vazir.eot?v=2-RC13#iefix') format('embedded-opentype'),
-             url('Vazir.woff?v=2-RC13') format('woff'),
-             url('Vazir.ttf?v=2-RC13') format('truetype');
-        font-weight: normal;
-      }
-      
-      @font-face {
-        font-family: Vazir;
-        src: url('Vazir-Bold.eot?v=2-RC13');
-        src: url('Vazir-Bold.eot?v=2-RC13#iefix') format('embedded-opentype'),
-             url('Vazir-Bold.woff?v=2-RC13') format('woff'),
-             url('Vazir-Bold.ttf?v=2-RC13') format('truetype');
-        font-weight: bold;
-      }
-      
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
-     
-      p { margin-bottom: 10px; }
-      a {
-        text-decoration: none;
-        color: #007fba;
-      }
-      
-      li { list-style-type: none; }
-      
-      body {
-        background-color: #eee;
-        color: #000;
-        font-size: 14px;
-        direction: rtl;
-        line-height: 1.5;
-        font-family: Vazir,Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif;
-      }
+<head>
+  <title>فونت فارسی وزیر - صفحه رسمی پروژه</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+  <meta name="description" content="فونت فارسی وزیر از نوع سانس سریف">   
+  <meta name="keywords" content="فونت,فارسی,وزیر,سانس سریف,font,farsi,Vazir,sans-serif">
+  <style>
+   
+    @font-face {
+      font-family: Vazir;
+      src: url('Vazir.eot?v=2-RC13');
+      src: url('Vazir.eot?v=2-RC13#iefix') format('embedded-opentype'),
+           url('Vazir.woff?v=2-RC13') format('woff'),
+           url('Vazir.ttf?v=2-RC13') format('truetype');
+      font-weight: normal;
+    }
+    
+    @font-face {
+      font-family: Vazir;
+      src: url('Vazir-Bold.eot?v=2-RC13');
+      src: url('Vazir-Bold.eot?v=2-RC13#iefix') format('embedded-opentype'),
+           url('Vazir-Bold.woff?v=2-RC13') format('woff'),
+           url('Vazir-Bold.ttf?v=2-RC13') format('truetype');
+      font-weight: bold;
+    }
+    
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+   
+    p { margin-bottom: 10px; }
+    a {
+      text-decoration: none;
+      color: #007fba;
+    }
+    
+    li { list-style-type: none; }
+    
+    body {
+      background-color: #eee;
+      color: #000;
+      font-size: 14px;
+      direction: rtl;
+      line-height: 1.5;
+      font-family: Vazir,Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif;
+    }
 
+    .main {
+      padding: 50px;
+      margin: 20px auto;
+      max-width: 1000;
+    }
+    
+    header, .sample, footer {
+      border: 1px solid rgba(0, 0, 0, 0.08);
+      border-radius: 5px;
+      margin: 20px auto;
+      padding: 20px;
+    }
+
+    .sample {
+      background-color: #f1f1f1;
+      color: #0e395f;
+      float: left;
+      font-size: 14px;
+      text-align: center;
+      width: 50%;
+    }
+    
+    header {
+      text-align: center;
+      color: #222;
+      border: none;
+      float: right;
+      width: 50%;
+    }
+    
+    header .get {
+      margin: 20px 0;
+    }
+    
+    header .get a {
+      display: inline-block;
+      border-bottom: 1px solid #d5d5d5;
+      color: #007fba;
+      margin: 0 5px;
+    }
+    
+    header .info {
+      color: #999;
+      font-size: 12px;
+    }
+
+    header .version {
+      position: absolute;
+      left: 0;
+      top: -5px;
+      color: #999;
+      font-size: 12px;
+      direction: ltr;
+    }
+    
+    header .notice {
+      color: #B40000;
+      font-size: 13px;
+    }
+    
+    header h1 { 
+      position: relative; 
+      display: inline-block;
+      color: #444444;
+    }
+
+    footer {
+      background-color: #515254;
+      border-radius: 0;
+      color: #eee;
+      margin: 0;
+      max-width: 100%;
+      text-align: center;
+      clear: both;
+    }
+    
+    footer a {
+      color: #D7DD77;
+      text-decoration: underline;
+    }
+
+    @media all and (max-width: 768px){
       header, .sample, footer {
-        border: 1px solid rgba(0, 0, 0, 0.08);
-        border-radius: 5px;
-        margin: 20px auto;
-        max-width: 500px;
-        padding: 50px;
-      }
-
-      header {
-        text-align: center;
-        background-color: #eee;
-        color: #222;
-        border: none;
-      }
-      
-      header .get {
-        margin: 20px 0;
-      }
-      
-      header .get a {
-        display: inline-block;
-        border-bottom: 1px solid #d5d5d5;
-        color: #007fba;
-        margin: 0 5px;
-      }
-      
-      header .info {
-        color: #999;
-        font-size: 12px;
-      }
-
-      header .version {
-        position: absolute;
-        left: 0;
-        top: -5px;
-        color: #999;
-        font-size: 12px;
-        direction: ltr;
-      }
-      
-      header .notice {
-        color: #B40000;
-        font-size: 13px;
-      }
-      
-      header h1 { 
-        position: relative; 
-        display: inline-block;
-        color: #444444;
-      }
-                  
-      .sample {
-        text-align: center;
-      }
-      
-      .sample.test0 {
-        background-color: #fff;
-        color: #333;
-        text-align: right;
-      }
-
-      .sample.test0 p.first {
-        font-size: 14px;
-        margin-bottom: 30px;
-      }
-
-      .sample.test0 p.second{
-        font-size: 13px;
-      }
-
-      .sample.test0 a { color: #0b6db3; }
-
-      .sample.test1 {
-        background-color: #09497d;
-        color: #e1e1e1;
-        font-size: 18px;
-        font-weight: bold;
-      }
-
-      .sample.test2 {
-        background-color: #ecede6;
-        color: #2f5695;
-        font-size: 16px;
-      }
-
-      .sample.test3 {
-        background-color: #f2f2f2;
-        color: #545454;
-        font-size: 16px;
-        text-align: right;
-      }
-
-      .sample.sec1 {
-        background-color: #C53F3F;
-        color: #ffffff;
-      }
-
-      .sample.sec2 {
-        background-color: #f7f7f7;
-        color: #505e78;
-        font-size: 21px;
-        text-shadow: 0 1px 1px #bbbaba;
-
-      }
-      
-      .sample.sec3 {
-        background-color: #c65e0e;
-        color: #fff;
-        font-size: 13px;
-      }
-      
-      .sample.sec3 a {
-        color: #E6FF65;
-        text-decoration: underline;
-      }
-            
-      footer {
-        background-color: #515254;
-        border-radius: 0;
-        color: #eee;
+        padding: 50px 30px;
+        width: 100%;
         margin: 0;
-        max-width: 100%;
-        text-align: center;
+        border-radius: 0;
       }
-      
-      footer a {
-        color: #D7DD77;
-        text-decoration: underline;
-      }
+    }
 
-      @media all and (max-width: 480px){
-        header, .sample, footer {
-          padding: 50px 30px;
-          width: 100%;
-          border: none;
-          margin: 0;
-          border-radius: 0;
-        }
+    @media all and (max-width: 480px){
+     .main { padding:0; margin:0; }
+      header, .sample, footer {
+        border: none;
+        padding: 50px 30px;
+        width: 100%;
+        border: none;
+        margin: 0;
+        border-radius: 0;
       }
-    </style>
+    }
+        
+    .clear { clear: both; }
+  </style>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -198,9 +162,10 @@
   ga('send', 'pageview');
 
 </script>
-  </head>
+</head>
   
-  <body contenteditable="false">    
+<body contenteditable="false">    
+  <div class="main">  
     <header>
       <h1>فونت فارسی وزیر <span class="version">2-RC</span></h1>
       <div class="description">فونتی برای استفاده در صفحات وب، رابط کاربری برنامه‌ها و ...</div>
@@ -210,7 +175,6 @@
       </div>
       <div class="info">
         <div>آخرین نسخه: <span dir="ltr">2-RC13</span></div>
-        <div class="notice">توجه: اندازه کل فونت در سری RC برای همنشینی کامل با زبان لاتین و هماهنگی با فونت تاهوما بزرگتر شد.</div>
         <div>برای دریافت نسخه‌های قدیمی‌تر به <a href="https://github.com/rastikerdar/vazir-font/releases" target="_blank">این صفحه</a> مراجعه نمایید</div>
         <div>مجوز: Public Domain</div>
         <div>معنی وزیر (دهخدا): معاون، مددکار</div>
@@ -232,37 +196,7 @@
       </div>
     </header>
 
-    <section class="sample sec1">
-      <h2>وزیر۲</h2>
-      <p>با تلاش فراوان نسخه شماره دو وزیر با تغییرات گسترده در تقریبا تمامی گلیف‌ها آماده گردید.</p>
-    </section>
-
-    <section class="sample test0">
-      <h2>متن آزمایشی</h2>
-      <p class="first">
-سلام. همه ما دوست داریم جنس خوب از فروشنده تحویل بگیریم. این حق ماست. تعریف کالای خوب را همگی می‌دانیم پس نیازی به توضیح و تبصره نیست. اما آیا به این موضوع هم اندیشیده‌ایم که این حق برای دیگران نیز هست؟ آیا ما نباید به دیگران کالای خوب بدهیم؟ آیا یک ارتباط خوب، یک احساس شیرین، یک تجربه به واقع دلچسب می‌تواند تنها در یک سوی معامله شکل گیرد بی آنکه طرف مقابل نیز از آن بهره‌مند باشد؟ به دیگران جنس خوب بدهیم حتی اگر ...
-      </p>
-      <h2>...</h2>
-      <p class="second">
-اخلاق خوش و نیکو انسان را زیبا می‌کند. واکنش آدم‌ها به خلق و خوی لطیف و مهربان غالبا مثبت می‌باشد. تعجب می‌کنم از اینکه چرا برخی آدم‌ها بداخلاقند. مگر با کج‌خلقی مشکلی حل می شود جز اینکه حال ما و اطرافیان را خراب‌تر می‌کند. در بدترین شرایط زندگی نیز با خوشرویی و گشاده‌رویی می توان لحظات را با آرامش سپری کرد. هر چه آرام تر باشیم به تصمیمات صحیح و عقلانی نزدیک‌تر می‌گردیم ...
-      </p>
-      <p>منبع: <a href="#">همین جا</a></p>
-    </section>
-
-    <section class="sample sec2">
-      <h2>خوانایی</h2>
-      <p>در وزیر۲ تلاش گردید خوانایی نسبت به نسخه پیشین بهبود چشمگیری یابد.</p>
-    </section>
-
-    <section class="sample test1">
-      <h2>متن آزمایشی</h2>
-      <p class="first">
-بیایید با یکدیگر مهربان باشیم. به دیگران احترام بگذاریم. حقوق همدیگر را به رسمیت بشناسیم.
-      </p>
-    </section>
-
     <section class="sample test2">
-      <h2>در توسعه قلم وزیر مشارکت نمایید</h2>
       <p>به هر طریقی که فکر می‌کنید از جمله گزارش اشکالات، اصلاح قلم، پیشنهاد، انتقاد، معرفی به دیگران، ساخت قلم جدید از روی آن و ... مشارکت نمایید مایه دلگرمیست.
       </p>
       <p>اگر نهایتا به هیچ یک از شیوه‌های بالا تمایل ندارید و علاقه‌مندید مبلغی هدیه فرمایید می توانید از <a href="https://www.payping.ir/saber">این صفحه</a> اقدام نمایید.      
@@ -270,7 +204,7 @@
       <p><a href="https://www.payping.ir/saber">پرداخت وجه</a></p>
       <br>
 
-      <b>کمک های مالی به ترتیب زمان (جمعا ۵۴۵ هزار تومان)</b>
+      <b>کمک های مالی به ترتیب زمان (جمعا ۵۵۳ هزار تومان)</b>
       <ul>
         <li><a href="https://github.com/msm1365" target="_blank">Muhamad Moghadam</a></li>
         <li><a href="https://github.com/behdad222" target="_blank">Behdad Abedi</a></li>
@@ -289,32 +223,22 @@
       <br>
       <p>سپاس</p>
     </section>
-
-    <section class="sample test3">
-      <h2>متن نمونه</h2>
-      <p>چند شب پیش مهمونی خونه یکی از اقوام دعوت بودیم. طبق معمول بعد از صرف غذا مشغول به صحبت شدیم که مثل همیشه آقای الف شروع کرد به غر زدن! آقا اینها چرا اینجوری می‌کنند، چرا اونجوری نمی‌کنند و خلاصه موتورش حسابی گرم شد. صدای تلویزیون بالا بود و شلوغی بچه‌ها بی اندازه. داشتم توی افکارم غرق می‌شدم که یه صدای مهربون به آرامی توی گوشم پیچید! با همون نگاه شیرین و قشنگش گفت: این کتاب رو برای تو آوردم ...
-      </p>
-
-    </section>
-
-    <section class="sample sec3">
-      <h2>طراحی</h2>
-      <p>این فونت باز طراحی فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.
-      </p>
-    </section>
-        
-    <footer>
-      صفحه وبلاگ برای ثبت دیدگاه پیرامون فونت وزیر۲:
-      <a href="http://rastikerdar.blog.ir/post/16" target="_blank">rastikerdar.blog.ir</a>
-      <br>
-      توسط صابر راستی کردار
-      <br>
-      saber.rastikerdar بر روی جی‌میل
-      <br>
-      © 2015
-      <br>
-      <br>
+    <div class="clear"></div>
+  </div>
+  <footer>
+    <p>این فونت باز طراحی فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.
+    </p>
+    صفحه وبلاگ برای ثبت دیدگاه پیرامون فونت وزیر۲:
+    <a href="http://rastikerdar.blog.ir/post/16" target="_blank">rastikerdar.blog.ir</a>
+    <br>
+    توسط صابر راستی کردار
+    <br>
+    saber.rastikerdar بر روی جی‌میل
+    <br>
+    © 2015
+    <br>
+    <br>
 سپاس از اعضای <a href="http://tehlug.org">تهلاگ</a> و همه کسانی که با معرفی این قلم به دیگران، گزارش اشکالات آن و پیشنهاداتشان یاری رساندند.
-    </footer>
-  </body>
+  </footer>
+</body>
 </html>
