@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/master/dist/Vazir.eot');
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/master/dist/Vazir.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.rawgit.com/rastikerdar/vazir-font/master/dist/Vazir.woff') format('woff'),
+		 url('https://cdn.rawgit.com/rastikerdar/vazir-font/master/dist/Vazir.ttf') format('truetype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Vazir';
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/master/dist/Vazir-Bold.eot');
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/master/dist/Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.rawgit.com/rastikerdar/vazir-font/master/dist/Vazir-Bold.woff') format('woff'),
+		 url('https://cdn.rawgit.com/rastikerdar/vazir-font/master/dist/Vazir-Bold.ttf') format('truetype');
+    font-weight: bold;
+}

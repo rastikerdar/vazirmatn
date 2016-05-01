@@ -43,3 +43,24 @@ A Persian (Farsi) Font
 }
 ```
 
+## Install
+
+Grab the [latest release](https://github.com/rastikerdar/vazir-font/releases/latest) file.
+
+Or you can get it on bower:
+
+```
+bower install vazir-font --save
+```
+
+Or [RawGit](https://rawgit.com) CDN:
+
+```html
+<link href="https://cdn.rawgit.com/rastikerdar/vazir-font/master/dist/font-face.css" rel="stylesheet" type="text/css" />
+```
+
+And integrate the font into your CSS:
+
+```
+font-family: 'Vazir', sans-serif;
+```

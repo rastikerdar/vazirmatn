@@ -1,0 +1,21 @@
+{
+    "name": "vazir-font",
+    "version": "2.0.0-rc.14",
+    "main": [
+        "dist/*"
+    ],
+    "homepage": "http://rastikerdar.github.io/vazir-font/",
+    "authors": [
+        { "name": "Saber Rastikerdar", "homepage": "http://rastikerdar.blog.ir" }
+    ],
+    "license": ["Public Domain"],
+    "ignore": [
+        "*.md",
+        "*.json",
+        "source"
+    ],
+    "keywords": [
+        "font",
+        "persian"
+    ]
+}
