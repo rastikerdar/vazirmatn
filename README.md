@@ -41,6 +41,25 @@ A Persian (Farsi) Font
        url('Vazir-Bold.ttf') format('truetype');
   font-weight: bold;
 }
+
+@font-face {
+  font-family: Vazir;
+  src: url('Vazir-Light.eot');
+  src: url('Vazir-Light.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Light.woff') format('woff'),
+       url('Vazir-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('Vazir-Medium.eot');
+  src: url('Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Medium.woff') format('woff'),
+       url('Vazir-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+```
 ```
 
 ## Install
@@ -53,14 +72,3 @@ Or you can get it on bower:
 bower install vazir-font --save
 ```
 
-Or [RawGit](https://rawgit.com) CDN:
-
-```html
-<link href="https://cdn.rawgit.com/rastikerdar/vazir-font/master/dist/font-face.css" rel="stylesheet" type="text/css" />
-```
-
-And integrate the font into your CSS:
-
-```
-font-family: 'Vazir', sans-serif;
-```
