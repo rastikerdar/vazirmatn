@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1466167048
+ModificationTime: 1466238797
 PfmFamily: 33
 TTFWeight: 300
 TTFWidth: 5
@@ -3023,17 +3023,17 @@ Encoding: 1600 1600 37
 Width: 676
 VWidth: 2393
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-10" 343.175 1398.04 basechar 0
 AnchorPoint: "Anchor-7" 343.175 -129.613 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-0.57421875 12 m 1,0,-1
- 0.57421875 170.2421875 l 1,1,-1
- 674.775390625 170.2421875 l 1,2,-1
- 674.775390625 12 l 1,3,-1
- 0.57421875 12 l 1,0,-1
+-10.42578125 12 m 5,0,-1
+ -10.42578125 170.2421875 l 5,1,-1
+ 686.775390625 170.2421875 l 1,2,-1
+ 686.775390625 12 l 1,3,-1
+ -10.42578125 12 l 5,0,-1
 EndSplineSet
 EndChar
 
