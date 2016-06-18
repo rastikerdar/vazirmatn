@@ -60,7 +60,6 @@ A Persian (Farsi) Font
   font-weight: 500;
 }
 ```
-```
 
 ## Install
 
@@ -70,5 +69,17 @@ Or you can get it on bower:
 
 ```
 bower install vazir-font --save
+```
+
+Or [RawGit](https://rawgit.com) CDN:
+
+```html
+<link href="https://cdn.rawgit.com/rastikerdar/vazir-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
+```
+
+Replace [X.Y.Z] with the latest version (e.g. 3.0.0) and integrate the font into your CSS:
+
+```
+font-family: 'Vazir', sans-serif;
 ```
 
