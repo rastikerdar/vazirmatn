@@ -5,8 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
   <meta name="description" content="فونت فارسی وزیر از نوع سانس سریف">
   <meta name="keywords" content="فونت,فارسی,وزیر,سانس سریف,font,farsi,Vazir,sans-serif">
-  <link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/rastikerdar/vazir-font/v3.1.0/dist/font-face.css">
+  <link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/rastikerdar/vazir-font/4.0.0/dist/font-face.css">
   <style>
+      @font-face {
+          font-family: 'gift';
+          src: url('gift.woff') format('woff');
+          font-weight: normal;
+          font-style: normal;
+      }
+
+      .gifticon{
+          font-family: gift;
+          font-size: 1.5em;
+          /*color:#009155;*/
+      }
 
     * {
       margin: 0;
@@ -17,17 +29,17 @@
     p { margin-bottom: 10px; }
     a {
       text-decoration: none;
-      color: #3b7d00;
+      color: #367100;
     }
 
     li { list-style-type: none; }
 
     body {
-      background-color: #eee;
+      background-color: #f7f8f9;
       color: #000;
       font-size: 14px;
       direction: rtl;
-      line-height: 1.5;
+      line-height: 1.7;
       font-family: Vazir,Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif;
     }
 
@@ -45,10 +57,10 @@
     }
 
     .sample {
-      background-color: #f7f7f7;
-      color: #0e395f;
+      background-color: #fff;
+      color: #4a4a4a;
       float: left;
-      font-size: 14px;
+      font-size: 15px;
       text-align: center;
       width: 50%;
     }
@@ -92,9 +104,10 @@
     }
 
     header h1 {
-      position: relative;
-      display: inline-block;
-      color:#B54E00;
+        color: #f55900;
+        display: inline-block;
+        position: relative;
+        text-shadow: 0 0 1px rgba(1, 1, 1, 0.26);
     }
 
     header .weights {
@@ -117,7 +130,7 @@
 
     header .weights h2 {
       font-weight: bold;
-      color: #005fab;
+      color: #004d99;
     }
 
     header .weights h3 {
@@ -136,6 +149,38 @@
       font-weight: 300;
       font-size: 13px;
       color: #700077;
+    }
+
+    .donors li {
+         display: inline-block;
+         margin: 0 2px 5px;
+         min-height: 100px;
+         text-align: center;
+         vertical-align: top;
+         width: 85px;
+         font-size: 13px;
+    }
+
+    .donors li a {
+        display: block;
+    }
+
+    .donors li .name {
+        margin-top: 3px;
+        display: block;
+    }
+
+    .donors li .gifticon {
+        display: block;
+        height: 50px;
+        padding-top: 20px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .donors li img {
+        width: 50px;
+        border-radius: 5px;
     }
 
     footer {
@@ -166,7 +211,7 @@
      .main { padding:0; margin:0; }
       header, .sample, footer {
         border: none;
-        padding: 50px 30px;
+        padding: 50px 20px;
         width: 100%;
         border: none;
         margin: 0;
@@ -191,14 +236,15 @@
 <body contenteditable="false">
   <div class="main">
     <header>
-      <h1>فونت فارسی وزیر <span class="version">3-RC</span></h1>
+      <h1>فونت فارسی وزیر <span class="version">نسخه ۴</span></h1>
       <div class="description">فونتی برای استفاده در صفحات وب، رابط کاربری برنامه‌ها و ...</div>
       <div class="get">
-        <a href="https://github.com/rastikerdar/vazir-font/releases/download/v3.1.0/vazir-font-v3.1.0.zip" class="download">دریافت (دانلود)</a>
+        <a href="https://github.com/rastikerdar/vazir-font/releases/download/v4.0.0/vazir-font-v4.0.0.zip" class="download">دریافت (دانلود)</a>
         <a href="https://github.com/rastikerdar/vazir-font" class="github">GitHub</a>
       </div>
       <div class="info">
-        <div>آخرین نسخه: <span dir="ltr">3.1.0</span></div>
+        <div>آخرین نسخه: <span dir="ltr">4.0.0</span></div>
+        <div>برای حروف لاتین از گلیف های قلم Roboto استفاده شده است.</div>
         <div>برای دریافت نسخه‌های قدیمی‌تر به <a href="https://github.com/rastikerdar/vazir-font/releases" target="_blank">این صفحه</a> مراجعه نمایید</div>
         <div>مجوز: Public Domain</div>
         <div>معنی وزیر (دهخدا): معاون، مددکار</div>
@@ -207,11 +253,14 @@
 	<div>توصیه: برای حالت ضخیم یا Bold حتما از فایل Vazir-Bold استفاده نمایید.</div>
         <div>نکته: نسخه تمام اعداد فارسی در پوشه مجزا موجود می باشد.</div>
         <div>سایر قلم‌های آزاد:
+           <a href="http://rastikerdar.github.io/sahel-font/" target="_blank">ساحل</a>،
            <a href="http://rastikerdar.github.io/parastoo-font/" target="_blank">پرستو</a>،
            <a href="http://rastikerdar.github.io/samim-font/" target="_blank">صمیم</a>،
            <a href="http://rastikerdar.github.io/tanha-font/" target="_blank">تنها</a>،
            <a href="http://rastikerdar.github.io/gandom-font/" target="_blank">گندم</a>،
            <a href="http://rastikerdar.github.io/shabnam-font/" target="_blank">شبنم</a>
+           <a href="http://font-store.github.io/font-nika/" target="_blank">نیکا</a>
+           <a href="https://pfont.ir" target="_blank">پی فونت</a>
         </div>
         <div>برای مقایسه قلم های فارسی به <a href="http://rastikerdar.github.io/compare-fonts/" target="_blank">این صفحه </a> مراجعه نمایید.</div>
         <div><a href="http://rastikerdar.github.io/getting-started-with-fontforge/" target="_blank">آموزش</a> برنامه ویرایش قلم <a href="https://fontforge.github.io" target="_blank">فونت‌فورج</a> به زبان فارسی</div>
@@ -220,8 +269,7 @@
       </div>
 
       <div class="weights">
-        <h2>بولد: برای تیتر یا عناوین درشت</h2>
-        <h3>متوسط: برای عنوان‌های کوچکتر، متون با ضخامت درشت‌تر، گزینه‌ها، دکمه‌ها و ...</h3>
+        <h2>ضخیم: مناسب تیتر یا عناوین درشت</h2>
         <h4>معمولی: برای متون و سایر جاها. اگرچه کاربرد این وزن بسیار فراتر از سایر اوزان می باشد اما نباید از زیبایی و کارآمدی آنها نیز غافل شد.</h4>
         <h5>نازک: بسته به نوع زمینه هم می تواند به جای معمولی و هم در کنار آن مورد استفاده قرار گیرد. به کارگیری وزن های گوناگون یک قلم به میزان قابل توجهی به تخصص، ذوق و سلیقه طراح بستگی دارد.</h5>
       </div>
@@ -235,35 +283,35 @@
       <p><a href="https://www.payping.ir/saber">پرداخت وجه</a></p>
       <br>
 
-      <b>کمک های مالی به ترتیب زمان (جمعا ۷۸۶ هزار تومان)</b>
-      <ul>
-        <li><a href="https://github.com/msm1365" target="_blank">Muhamad Moghadam</a></li>
-        <li><a href="https://github.com/behdad222" target="_blank">Behdad Abedi</a></li>
-        <li><a href="https://github.com/aziz" target="_blank">Allen Bargi</a></li>
-        <li><a href="http://piratepay.ir" target="_blank">piratepay.ir</a></li>
-        <li><a href="https://peygir.net" target="_blank">peygir.net</a></li>
-        <li>عابد ارجمند</li>
-        <li><a href="https://camva.ir" target="_blank">camva.ir</a></li>
-        <li><a href="https://github.com/bluetec" target="_blank">هادی مصطفی پور</a></li>
-        <li><a href="http://ghadamyari.com" target="_blank">مهدی قدمیاری</a></li>
-        <li><a href="https://www.payping.ir/saman" target="_blank">سامان سلطانی</a></li>
-        <li>kia</li>
-        <li>پوریا</li>
-        <li>یوسف شیری</li>
-        <li><a href="http://masoudltf.ir" target="_blank">مسعود لطفی</a></li>
-        <li><a href="http://mirzaproject.ir" target="_blank">mirzaproject.ir</a></li>
-        <li>محراب پرویزی</li>
-        <li><a href="http://www.boghche.ir" target="_blank">boghche.ir</a></li>
-        <li><a href="http://0web.ir" target="_blank">0web.ir</a></li>
-        <li>آرمان پساینده</li>
-        <li>سعید سرپوشان</li>
-        <li>حسین شرفی</li>
-        <li>میلاد دهقان</li>
-        <li><a href="http://mmnaderi.ir" target="_blank">محمّد مهدی نادری</a></li>
-        <li>دوست</li>
-        <li>مرتضی خدادادی</li>
-        <li>نوید میرزاآقازاده</li>
-        <li>hadi akbariejdi</li>
+      <b>کمک های مالی (جمعا ۷۸۶ هزار تومان)</b>
+      <ul class="donors">
+        <li><a href="https://github.com/msm1365" target="_blank"><span class="gifticon">&#xe900;</span><span class="name">Muhamad Moghadam</span></a></li>
+        <li><a href="https://github.com/behdad222" target="_blank"><img src="https://www.gravatar.com/avatar/fefa2b212779849e419b80d876f24142"><span class="name">Behdad Abedi</span></a></li>
+        <li><a href="https://github.com/aziz" target="_blank"><img src="https://www.gravatar.com/avatar/33bfc61845ba1e6eaf9a67f4d16c51e4"><span class="name">Allen Bargi</span></a></li>
+        <li><a href="http://piratepay.ir" target="_blank"><span class="gifticon">&#xe900;</span><span class="name">piratepay.ir</span></a></li>
+        <li><a href="https://peygir.net" target="_blank"><img src="donors-img/peygir.ir.png"><span class="name">peygir.net</span></a></li>
+        <li><span class="gifticon">&#xe900;</span><span class="name">عابد ارجمند</span></li>
+        <li><a href="https://camva.ir" target="_blank"><img src="https://www.gravatar.com/avatar/724e0e3fbcf0529c94708e36525825b3"><span class="name">camva.ir</span></a></li>
+        <li><a href="https://github.com/bluetec" target="_blank"><img src="https://www.gravatar.com/avatar/b2f5bf3c958222a58dd0a5dbc95819ed"><span class="name">هادی مصطفی پور</span></a></li>
+        <li><a href="http://ghadamyari.com" target="_blank"><img src="https://www.gravatar.com/avatar/0580f6105f11d6cfe68cc125373e2cf5"><span class="name">مهدی قدمیاری</span></a></li>
+        <li><a href="http://samansoltani.com/" target="_blank"><img src="https://www.gravatar.com/avatar/b006b7109755113859883927bdbc29c0"><span class="name">سامان سلطانی</span></a></li>
+        <li><span class="gifticon">&#xe900;</span><span class="name">kia</span></li>
+        <li><span class="gifticon">&#xe900;</span><span class="name">پوریا</span></li>
+        <li><img src="https://www.gravatar.com/avatar/0c52e0146b14c77a996316b812e2852b"><span class="name">یوسف شیری</span></li>
+        <li><a href="http://masoudltf.ir" target="_blank"><span class="gifticon">&#xe900;</span><span class="name">مسعود لطفی</span></a></li>
+        <li><a href="http://mirzaproject.ir" target="_blank"><img src="https://www.gravatar.com/avatar/f699b478c6be8a0fd7d986feadee57f2"><span class="name">mirzaproject.ir</span></a></li>
+        <li><span class="gifticon">&#xe900;</span><span class="name">محراب پرویزی</li>
+        <li><a href="http://www.boghche.ir" target="_blank"><span class="gifticon">&#xe900;</span><span class="name">boghche.ir</span></a></li>
+        <li><a href="http://0web.ir" target="_blank"><span class="gifticon">&#xe900;</span><span class="name">0web.ir</span></a></li>
+        <li><span class="gifticon">&#xe900;</span><span class="name">آرمان پساینده</span></li>
+        <li><span class="gifticon">&#xe900;</span><span class="name">سعید سرپوشان</span></li>
+        <li><img src="https://www.gravatar.com/avatar/e8a2da11eecace8c58f20b53a3616edb"><span class="name">حسین شرفی</span></li>
+        <li><img src="https://www.gravatar.com/avatar/23baf50ab105ff872dc428a75ab49854"><span class="name">میلاد دهقان</span></li>
+        <li><a href="http://mmnaderi.ir" target="_blank"><img src="https://www.gravatar.com/avatar/e7f884524b9fe2b2f36713c01b067f26"><span class="name">محمّد مهدی نادری</span></a></li>
+        <li><span class="gifticon">&#xe900;</span><span class="name">دوست</span></li>
+        <li><span class="gifticon">&#xe900;</span><span class="name">مرتضی خدادادی</span></li>
+        <li><span class="gifticon">&#xe900;</span><span class="name"><span class="name">نوید میرزاآقازاده</span></li>
+        <li><span class="gifticon">&#xe900;</span><span class="name">hadi akbariejdi</span></li>
       </ul>
 
       <br>
@@ -274,7 +322,7 @@
   <footer>
     <p>این فونت باز طراحی فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.
     </p>
-    صفحه وبلاگ برای ثبت دیدگاه پیرامون فونت وزیر۲:
+    صفحه وبلاگ برای ثبت دیدگاه پیرامون فونت وزیر:
     <a href="http://rastikerdar.blog.ir/post/16" target="_blank">rastikerdar.blog.ir</a>
     <br>
     توسط صابر راستی کردار
