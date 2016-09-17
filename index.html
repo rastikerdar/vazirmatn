@@ -159,18 +159,27 @@
       color: #700077;
     }
 
+    .sort  a{
+        display: inline-block;
+        min-width: 3em;
+    }
+
+    .sort  a.selected{
+        border-bottom: 1px dotted #bbb;
+    }
+
     .donors li {
          display: inline-block;
-         margin: 0 2px 5px;
+         margin: 0 0 5px;
          min-height: 100px;
          text-align: center;
          vertical-align: top;
-         width: 85px;
+         width: 90px;
          font-size: 13px;
     }
 
     .donors li a {
-        display: block;
+        /*display: block;*/
     }
 
     .donors li .name {
@@ -188,7 +197,7 @@
 
     .donors li img {
         width: 50px;
-        border-radius: 5px;
+        border-radius: 50%;
     }
 
     footer {
@@ -289,44 +298,24 @@
     </header>
 
     <section class="sample test2">
-      <p>به هر طریقی که فکر می‌کنید از جمله گزارش اشکالات، اصلاح قلم، پیشنهاد، انتقاد، معرفی به دیگران، ساخت قلم جدید از روی آن و ... مشارکت نمایید مایه دلگرمیست.
+      <p>به هر طریقی که می‌‌اندیشید از جمله گزارش اشکالات، اصلاح قلم، پیشنهاد، انتقاد، معرفی به دیگران، ساخت قلم جدید از روی آن و ... مشارکت نمایید مایه دلگرمیست.
       </p>
       <p>در صورتی که علاقه‌مندید مبلغی هدیه فرمایید می توانید از طریق <a href="https://www.payping.ir/saber">این صفحه</a> اقدام نمایید.
       </p>
-      <p><a href="https://www.payping.ir/saber">پرداخت وجه</a></p>
-      <a href="https://rastikerdar.github.io/sahel-font/">مشاهده حامیان در صفحه فونت ساحل</a>
+      <p><a href="https://www.payping.ir/saber">پرداخت وجه</a><br>آدرس وب و ایمیل را نیز درج بفرمایید.</p>
+
       <br>
-      <b>کمک های مالی (جمعا ۷۸۷ هزار تومان)</b>
-      <ul class="donors">
-        <li><a href="https://github.com/msm1365" target="_blank"><span class="gifticon">&#xe900;</span><span class="name">Muhamad Moghadam</span></a></li>
-        <li><a href="https://github.com/behdad222" target="_blank"><img src="https://www.gravatar.com/avatar/fefa2b212779849e419b80d876f24142"><span class="name">Behdad Abedi</span></a></li>
-        <li><a href="https://github.com/aziz" target="_blank"><img src="https://www.gravatar.com/avatar/33bfc61845ba1e6eaf9a67f4d16c51e4"><span class="name">Allen Bargi</span></a></li>
-        <li><a href="http://piratepay.ir" target="_blank"><span class="gifticon">&#xe900;</span><span class="name">piratepay.ir</span></a></li>
-        <li><a href="https://peygir.net" target="_blank"><img src="donors-img/peygir.ir.png"><span class="name">peygir.net</span></a></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">عابد ارجمند</span></li>
-        <li><a href="https://camva.ir" target="_blank"><img src="https://www.gravatar.com/avatar/724e0e3fbcf0529c94708e36525825b3"><span class="name">camva.ir</span></a></li>
-        <li><a href="https://github.com/bluetec" target="_blank"><img src="https://www.gravatar.com/avatar/b2f5bf3c958222a58dd0a5dbc95819ed"><span class="name">هادی مصطفی پور</span></a></li>
-        <li><a href="http://ghadamyari.com" target="_blank"><img src="https://www.gravatar.com/avatar/0580f6105f11d6cfe68cc125373e2cf5"><span class="name">مهدی قدمیاری</span></a></li>
-        <li><a href="http://samansoltani.com/" target="_blank"><img src="https://www.gravatar.com/avatar/b006b7109755113859883927bdbc29c0"><span class="name">سامان سلطانی</span></a></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">kia</span></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">پوریا</span></li>
-        <li><img src="https://www.gravatar.com/avatar/0c52e0146b14c77a996316b812e2852b"><span class="name">یوسف شیری</span></li>
-        <li><a href="http://masoudltf.ir" target="_blank"><span class="gifticon">&#xe900;</span><span class="name">مسعود لطفی</span></a></li>
-        <li><a href="http://mirzaproject.ir" target="_blank"><img src="https://www.gravatar.com/avatar/f699b478c6be8a0fd7d986feadee57f2"><span class="name">mirzaproject.ir</span></a></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">محراب پرویزی</li>
-        <li><a href="http://www.boghche.ir" target="_blank"><span class="gifticon">&#xe900;</span><span class="name">boghche.ir</span></a></li>
-        <li><a href="http://0web.ir" target="_blank"><span class="gifticon">&#xe900;</span><span class="name">0web.ir</span></a></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">آرمان پساینده</span></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">سعید سرپوشان</span></li>
-        <li><img src="https://www.gravatar.com/avatar/e8a2da11eecace8c58f20b53a3616edb"><span class="name">حسین شرفی</span></li>
-        <li><img src="https://www.gravatar.com/avatar/23baf50ab105ff872dc428a75ab49854"><span class="name">میلاد دهقان</span></li>
-        <li><a href="http://mmnaderi.ir" target="_blank"><img src="https://www.gravatar.com/avatar/e7f884524b9fe2b2f36713c01b067f26"><span class="name">محمّد مهدی نادری</span></a></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">دوست</span></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">مرتضی خدادادی</span></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name"><span class="name">نوید میرزاآقازاده</span></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">hadi akbariejdi</span></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">xdelta</span></li>
-        <li><span class="gifticon">&#xe900;</span><span class="name">امیر کیخا</span></li>
+      <b>کمک های مالی (جمعا <span id="amount-sum"></span> تومان)</b>
+      <br>
+      <div class="sort">
+          نمایش به ترتیب:
+          <a id="sort-by-date" class="selected" href="#" onclick="sortBy('date'); return false;">زمان</a>
+          |
+          <a id="sort-by-amount" href="#" onclick="sortBy('amount'); return false;">مبلغ</a>
+      </div>
+      <br>
+      <ul id="donors" class="donors">
+        <li>در حال دریافت اطلاعات</li>
       </ul>
 
       <br>
@@ -349,5 +338,82 @@
     <br>
 سپاس از اعضای <a href="http://tehlug.org">تهلاگ</a> و همه کسانی که با معرفی این قلم به دیگران، گزارش اشکالات آن و پیشنهاداتشان یاری رساندند.
   </footer>
+
+<script>
+var donations = null;
+
+function formatNumber(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
+function createNodes(donations) {
+    var html = "";
+    var amountSum = 0
+
+    for (var i=0; i<donations.length; i++) {
+        var dnt = donations[i];
+        li = "<li title='"+formatNumber(dnt.amount)+" تومان'>";
+        if (dnt.web) {
+            li += '<a href="'+dnt.web+'" target="_blank">';
+        }
+        if (!dnt.img) {
+            dnt.img = "https://s.gravatar.com/avatar/"+i+"?noemail&s=80&d=wavatar";
+        }
+        li += '<img src="'+dnt.img+'">';
+        li += '<span class="name">'+dnt.name+'</span>';
+        if (dnt.web) {
+            li += '</a>';
+        }
+        li += '</li>';
+        html += li;
+        amountSum += dnt["amount"]
+    }
+    document.getElementById("donors").innerHTML = html;
+    document.getElementById("amount-sum").innerHTML = formatNumber(amountSum);
+}
+
+function loadDoc() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      donations = JSON.parse(this.responseText);
+      createNodes(donations);
+    }
+  };
+  xhttp.open("GET", "donations.txt", true);
+  xhttp.send();
+}
+
+function sortBy(key) {
+    var swapped = true;
+    while (swapped) {
+        swapped = false
+        for (var i=1; i<donations.length; i++) {
+            var condition = (key == 'date') ?
+                donations[i-1][key] > donations[i][key] :
+                donations[i-1][key] < donations[i][key];
+
+            if (condition) {
+                var t = donations[i-1];
+                donations[i-1] = donations[i];
+                donations[i] = t;
+                swapped = true;
+            }
+        }
+    }
+
+    if (key == "date") {
+        document.getElementById("sort-by-date").className = "selected";
+        document.getElementById("sort-by-amount").className = "";
+    }else {
+        document.getElementById("sort-by-date").className = "";
+        document.getElementById("sort-by-amount").className = "selected";
+    }
+
+    createNodes(donations);
+}
+loadDoc();
+
+</script>
 </body>
 </html>
