@@ -1,0 +1,177 @@
+<html>
+  <head>
+    <title>مقایسه قلم های فارسی</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <meta name="description" content="مقایسه قلم های فارسی">   
+    <meta name="keywords" content="فونت,فارسی,مقایسه,fonts,persian,farsi,compare">
+    <style>
+
+      @font-face {
+        font-family: Vazir5;
+        src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v5.1.1/dist/Vazir.woff') format('woff');
+      }    
+            
+      @font-face {
+        font-family: Vazir1;
+        src: url('vazirs/Vazir1.woff') format('woff');
+      }    
+            
+      @font-face {
+        font-family: Vazir2;
+        src: url('vazirs/Vazir2.woff') format('woff');
+      }    
+
+      @font-face {
+        font-family: Vazir3;
+        src: url('vazirs/Vazir3.woff') format('woff');
+      }    
+
+      @font-face {
+        font-family: Vazir4;
+        src: url('vazirs/Vazir4.woff') format('woff');
+      }    
+
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      a {
+        text-decoration: none;
+        color: #007fba;
+      }
+      
+      hr {
+        border: none;
+        background-color: #ccc;
+        height: 1px;
+      }
+      
+      body {
+        background-color: #4F5945;
+        color: #000;
+        direction: rtl;
+        line-height: 30px;
+        font: 15px/30px vazir5, Roboto, Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif;
+      }
+      
+      h1 {
+        font-size: 1.5em;
+      }
+      
+      header, .test-text, footer {
+        margin: auto;
+        padding: 50px 20%;
+      }
+
+      header {
+        text-align: center;
+        background-color: #eee;
+        color: #444;
+      }
+
+      header .description {
+        color: #888;
+        font-size: 12px;
+      }
+                  
+      .font-selection li {
+        display: inline-block;
+        margin: 0 10px;
+      }
+      
+      .test-text {
+        background-color: #f5f5f5;
+        color: #484848;
+      }
+      .test-text p {
+        margin-bottom: 35px;
+      }
+
+      .test-text a { color: #0b6db3; }
+
+      .vazir1-font {
+        font: 15px/30px vazir1, sans-serif;
+      }
+
+      .vazir2-font {
+        font: 15px/30px vazir2, sans-serif;
+      }
+
+      .vazir3-font {
+        font: 15px/30px vazir3, sans-serif;
+      }
+
+      .vazir4-font {
+        font: 15px/30px vazir4, sans-serif;
+      }
+
+      .vazir5-font {
+        font: 15px/30px vazir5, sans-serif;
+      }
+
+      
+      footer {
+        color: #eee;
+        text-align: center;
+        font-family: samim;
+      }
+      
+      footer a {
+        color: #D7DD77;
+      }
+
+      @media all and (max-width: 700px){
+        header, .test-text, footer {
+          padding: 30px 30px;
+        }
+      }
+    </style>
+  </head>
+  
+  <body>
+    <header>
+      <h1>مقایسه نسخه‌های مختلف قلم وزیر</h1>
+      <div class="description">ممکن است نمایش هر نسخه با تاخیر همراه باشد. برای تغییر متن بر روی آن کلیک کنید.</div>
+      <ul class="font-selection">
+        <li><a href="#" id="vazir1" onclick="changeFont('vazir1', this); return false;">وزیر۱</a></li>
+        <li><a href="#" id="vazir2" onclick="changeFont('vazir2', this); return false;">وزیر۲</a></li>
+        <li><a href="#" id="vazir3" onclick="changeFont('vazir3', this); return false;">وزیر۳</a></li>
+        <li><a href="#" id="vazir4" onclick="changeFont('vazir4', this); return false;">وزیر۴</a></li>
+        <hr>
+        <li><a href="#" id="vazir5" onclick="changeFont('vazir5', this); return false;">وزیر۵</a></li>
+      </ul>
+    </header>
+
+    <section class="test-text" contenteditable="true">
+      <p>خانه مدرسه از ساختمان‌های اعیانی قدیم بود. یک نارنجستان بود. اطاق‌های آن بیشتر آیینه‌کاری داشت. کلاس ما از بهترین اطاق‌های خانه بود. پنجره نداشت. مثل ارسی‌های قدیم درک داشت، پر از شیشه‌های رنگارنگ. آفتاب عصر به این کلاس می‌تابید. چهره معصوم همکلاسی‌ها مثل نگین‌های خوشگل و شفاف یک انگشتر پربها به این ترتیب به چشم می‌خورد. درس ساعت اول تجزیه و ترکیب عربی بود. معلم عربی پیرمرد شوخ و نکته‌گویی بود که نزدیک به یک قرن از عمرش می‌گذشت. همه همسالان من که در شیراز تحصیل کرده‌اند او را می‌شناسند. من که دیگر به چشمم اطمینان داشتم، برای نشستن بر نیمکت اول کوشش نکردم. رفتم و در ردیف آخر نشستم. می‌خواستم چشمم را با عینک امتحان کنم.
+      </p>
+    </section>
+        
+    <footer>
+      صفحه وبلاگ برای ثبت دیدگاه یا گفتگو پیرامون این صفحه:
+      <a href="http://rastikerdar.blog.ir/1394/09/29/%D9%82%D9%84%D9%85-%D9%88%D8%B2%DB%8C%D8%B1-2" target="_blank">rastikerdar.blog.ir</a>
+      <br>
+      تماس: saber.rastikerdar بر روی جی‌میل
+      <br>
+      <div class="other-fonts">قلم‌های آزاد:
+        <a href="http://rastikerdar.github.io/sahel-font/" target="_blank">ساحل</a>،
+        <a href="http://rastikerdar.github.io/vazir-font/" target="_blank">وزیر</a>،
+        <a href="http://rastikerdar.github.io/samim-font/" target="_blank">صمیم</a>،
+        <a href="http://rastikerdar.github.io/parastoo-font/" target="_blank">پرستو</a>،
+        <a href="http://rastikerdar.github.io/shabnam-font/" target="_blank">شبنم</a>،
+        <a href="http://rastikerdar.github.io/gandom-font/" target="_blank">گندم</a>،
+        <a href="http://rastikerdar.github.io/tanha-font/" target="_blank">تنها</a>
+      </div>
+    </footer>
+    
+    <script>
+      "use strict";
+      function changeFont(name, event) {
+        var testText = document.getElementsByClassName('test-text')[0];
+        testText.className = 'test-text ' + name + '-font';
+      }
+    </script>
+  </body>
+</html>
