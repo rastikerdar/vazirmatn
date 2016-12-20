@@ -83,3 +83,11 @@ You can install the font on macOS machines by tapping the caskroom/fonts repo:
 brew tap caskroom/fonts
 brew install font-vazir
 ```
+
+#### Arch Linux
+Arch user's could use [ttf-vazir](https://aur.archlinux.org/packages/ttf-vazir/) package from [AUR](https://aur.archlinux.org/) repository to install vazir font.
+Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
+
+```shell
+pacaur -S ttf-vazir
+```
