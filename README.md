@@ -70,7 +70,7 @@ Link fonts from the [RawGit](https://rawgit.com) CDN:
 <link href="https://cdn.rawgit.com/rastikerdar/vazir-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-Replace [X.Y.Z] with the latest version (e.g. 6.3.3) and integrate the font into your CSS:
+Replace [X.Y.Z] with the latest version (e.g. 6.3.4) and integrate the font into your CSS:
 
 ```
 font-family: 'Vazir', sans-serif;
@@ -91,3 +91,4 @@ Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers
 ```shell
 pacaur -S ttf-vazir
 ```
+
