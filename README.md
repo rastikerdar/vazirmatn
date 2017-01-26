@@ -85,10 +85,10 @@ brew install font-vazir
 ```
 
 #### Arch Linux
-Arch user's could use [ttf-vazir](https://aur.archlinux.org/packages/ttf-vazir/) package from [AUR](https://aur.archlinux.org/) repository to install vazir font.
+Arch user's could use [vazir-fonts](https://aur.archlinux.org/packages/vazir-fonts/) package from [AUR](https://aur.archlinux.org/) repository to install vazir font.
 Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
 
 ```shell
-pacaur -S ttf-vazir
+pacaur -S vazir-fonts
 ```
 
