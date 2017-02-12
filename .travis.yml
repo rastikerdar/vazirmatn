@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- '6'
+deploy:
+  provider: npm
+  email: bhnd003@gmail.com
+  on:
+    tags: true
+    repo: rastikerdar/vazir-font
+  api_key:
+    secure: eAcrX14AcJ4djNwjLkaZmEeBWchG1HXiHefJxsvtnTkW53EEcazgQmGRUTZ59NbMMrrNay48RNPqlw7hZKaK6vVjgE1deQlQ9YQanqcnGUCX0IdGUV0HBmC/8LdrLT8lstaN5RpgORNNfeZUd/5gaGh1xYBT0I3q8IaA/CmNEKwqBE8BkP6VLFY7nyhsSFTtxEU2PvxPRaPrCVfJqDtQflbP8yPm4GkRX5QOkJPAdIdUCfpd0AtPyvjI3BT4EHKbURLGG4I9gBffuo3GGtA0x/FRqpklXjGRptGqwoHJ1wwoLV8+E5UJD0k0OKK4DHME3fzF9DQ4356mcJQ4yFSVYalcVTAB2ihVwG/bG299QpK4l9e38K7WlHRLoTOUgvdfB7gn77dTbw57d7ciqBmsrg1EpK0IvRufhGWnUKQR6urgAU56mag3N8IrP9EKZSv79DeGt/r+wq1ypj944qGXFWMjC67Q8iHLGJLsRvf/4g6fil2+fb0ArZTLP3+zdqh/4X52zi7//t4IDLrOEWT8MOZEKZEGjoVsCLKCDf68kSi4exTG6ZnLepaCQK/wvccA0l4+Nevte6TeB55ydjpptGTzotJDMNR11rWGY+9BgW1nLwdSinO3DB36tVVDAeR0qm7dKVDL9fBCyiW+tIeULrKZ1M+/UgDn5zidI1PXgUI=
