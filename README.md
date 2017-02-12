@@ -63,6 +63,12 @@ Grab the [latest release](https://github.com/rastikerdar/vazir-font/releases/lat
 bower install vazir-font --save
 ```
 
+#### npm
+```
+npm install vazir-font
+```
+Fonts will be copied to `npm_modules/vazir-font/dist` directory
+
 #### CDN
 Link fonts from the [RawGit](https://rawgit.com) CDN:
 
