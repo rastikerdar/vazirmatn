@@ -1,6 +1,10 @@
 # Vazir-Font
 A Persian (Farsi) Font
 
+[![Build Status](https://travis-ci.org/rastikerdar/vazir-font.svg?branch=master)](https://travis-ci.org/rastikerdar/vazir-font)
+[![npm version](https://badge.fury.io/js/vazir-font.svg)](https://badge.fury.io/js/vazir-font)
+
+
 <p dir="rtl">
 فونت فارسی وزیر <br />
 
