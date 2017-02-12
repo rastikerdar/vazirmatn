@@ -1,6 +1,10 @@
 # Vazir-Font
 A Persian (Farsi) Font
 
+[![Build Status](https://travis-ci.org/rastikerdar/vazir-font.svg?branch=master)](https://travis-ci.org/rastikerdar/vazir-font)
+[![npm version](https://badge.fury.io/js/vazir-font.svg)](https://badge.fury.io/js/vazir-font)
+
+
 <p dir="rtl">
 فونت فارسی وزیر <br />
 
@@ -62,6 +66,12 @@ Grab the [latest release](https://github.com/rastikerdar/vazir-font/releases/lat
 ```
 bower install vazir-font --save
 ```
+
+#### npm
+```
+npm install vazir-font
+```
+Fonts will be copied to `npm_modules/vazir-font/dist` directory
 
 #### CDN
 Link fonts from the [RawGit](https://rawgit.com) CDN:
