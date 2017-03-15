@@ -44,7 +44,12 @@
 
       @font-face {
         font-family: Vazir8;
-        src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v8.2.1/dist/Vazir.woff') format('woff');
+        src: url('vazirs/Vazir8.woff') format('woff');
+      }  
+      
+      @font-face {
+        font-family: Vazir9;
+        src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v9.0.0-alpha/dist/Vazir.woff') format('woff');
       }    
           
       * {
@@ -68,7 +73,7 @@
         color: #000;
         direction: rtl;
         line-height: 30px;
-        font:15px/30px Vazir8, Roboto, Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif;
+        font:15px/30px Vazir9, Roboto, Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif;
       }
       
       h1 {
@@ -139,6 +144,10 @@
         font: 15px/30px vazir8, sans-serif;
       }
 
+      .vazir9-font {
+        font: 15px/30px vazir9, sans-serif;
+      }
+      
       footer {
         color: #eee;
         text-align: center;
@@ -168,8 +177,9 @@
         <li><a href="#" id="vazir5" onclick="changeFont('vazir5', this); return false;">وزیر۵</a></li>
         <li><a href="#" id="vazir6" onclick="changeFont('vazir6', this); return false;">وزیر۶</a></li>
         <li><a href="#" id="vazir7" onclick="changeFont('vazir7', this); return false;">وزیر۷</a></li>
-        <hr>
         <li><a href="#" id="vazir8" onclick="changeFont('vazir8', this); return false;">وزیر۸</a></li>
+        <hr>
+        <li><a href="#" id="vazir9" onclick="changeFont('vazir9', this); return false;">وزیر۹</a></li>
       </ul>
     </header>
 
