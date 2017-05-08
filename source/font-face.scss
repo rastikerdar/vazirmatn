@@ -1,0 +1,21 @@
+$vazir-font-base-path:'../fonts/' !default;
+@font-face {
+    font-family: Vazir;
+    src: url($vazir-font-base-path + 'Vazir.eot');
+    src: url($vazir-font-base-path + 'Vazir.eot?#iefix') format('embedded-opentype'), url($vazir-font-base-path + 'Vazir.woff') format('woff'), url($vazir-font-base-path + 'Vazir.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Vazir;
+    src: url($vazir-font-base-path + 'Vazir-Bold.eot');
+    src: url($vazir-font-base-path + 'Vazir-Bold.eot?#iefix') format('embedded-opentype'), url($vazir-font-base-path + 'Vazir-Bold.woff') format('woff'), url($vazir-font-base-path + 'Vazir-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Vazir;
+    src: url($vazir-font-base-path + 'Vazir-Light.eot');
+    src: url($vazir-font-base-path + 'Vazir-Light.eot?#iefix') format('embedded-opentype'), url($vazir-font-base-path + 'Vazir-Light.woff') format('woff'), url($vazir-font-base-path + 'Vazir-Light.ttf') format('truetype');
+    font-weight: 300;
+}
