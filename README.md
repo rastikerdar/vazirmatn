@@ -11,6 +11,14 @@ A Persian (Farsi) Font
 <p dir="rtl"><a href="http://rastikerdar.github.io/vazir-font/">نمایش فونت</a></p>
 <p dir="rtl"><a href="https://github.com/rastikerdar/vazir-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a></p> <br />
 
+<p dir="rtl">متن نمونه:</p>
+
+<p align="center">
+    <img src="./sample.png">
+</p>
+
+<br>
+
 <p dir="rtl"> با تشکر از برنامه  <a href="https://fontforge.github.io">FontForge</a></p>
 <p dir="rtl"> بر مبنای فونت <a href="http://dejavu-fonts.org">DejaVu Sans 2.35</a></p>
 
