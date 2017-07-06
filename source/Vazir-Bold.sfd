@@ -4,7 +4,7 @@ FullName: Vazir Bold
 FamilyName: Vazir
 Weight: Bold
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.\nNon-Arabic(Latin) glyphs and data in extended version are imported from Roboto font under the Apache License, Version 2.0.
-Version: 13.0.0
+Version: 13.0.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1499293048
+ModificationTime: 1499329785
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -1915,7 +1915,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Vazir Bold" "" "Version 13.0.0" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Bold"
+LangName: 1033 "" "" "" "Vazir Bold" "" "Version 13.0.1" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Bold"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -2401,8 +2401,8 @@ Width: 497
 VWidth: 2703
 GlyphClass: 3
 Flags: W
+AnchorPoint: "Anchor-7" 247.479 -748.741 basechar 0
 AnchorPoint: "Anchor-10" 251.465 1632.79 basechar 0
-AnchorPoint: "Anchor-7" 246.324 -762.007 basechar 0
 LayerCount: 2
 Fore
 Refer: 56 1621 N 1 0 0 1 -403.085 -184.689 2
@@ -2478,12 +2478,12 @@ Width: 942
 VWidth: 2703
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 450.727 1634.77 basechar 0
+AnchorPoint: "Anchor-10" 450.727 1614.77 basechar 0
 AnchorPoint: "Anchor-7" 450.721 -233.725 basechar 0
 LayerCount: 2
 Fore
 Refer: 42 1607 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 189.229 1239.81 2
+Refer: 265 -1 S 1.07 0 0 1.07 189.229 1219.81 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE94
 EndChar
 
@@ -6420,7 +6420,7 @@ EndChar
 StartChar: uniFE82
 Encoding: 65154 65154 141
 GlifName: uniF_E_82
-Width: 662
+Width: 571
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -6449,7 +6449,7 @@ EndChar
 StartChar: uniFE84
 Encoding: 65156 65156 143
 GlifName: uniF_E_84
-Width: 619
+Width: 571
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -6497,11 +6497,11 @@ Width: 497
 VWidth: 2703
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 284.609 2016.22 basechar 0
-AnchorPoint: "Anchor-7" 247.479 -818.741 basechar 0
+AnchorPoint: "Anchor-10" 246.609 1618.22 basechar 0
+AnchorPoint: "Anchor-7" 247.479 -748.741 basechar 0
 LayerCount: 2
 Fore
-Refer: 13 1573 S 1 0 0 1 0 0 2
+Refer: 13 1573 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniFE88
@@ -6512,7 +6512,7 @@ VWidth: 2703
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 258.986 1634.87 basechar 0
-AnchorPoint: "Anchor-7" 310.011 -780.616 basechar 0
+AnchorPoint: "Anchor-7" 310.011 -760.616 basechar 0
 LayerCount: 2
 Fore
 Refer: 153 65166 N 1 0 0 1 0 0 2
@@ -6700,11 +6700,11 @@ VWidth: 2703
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-7" 484.642 -234.09 basechar 0
-AnchorPoint: "Anchor-10" 566.721 1630.92 basechar 0
+AnchorPoint: "Anchor-10" 566.721 1610.92 basechar 0
 LayerCount: 2
 Fore
 Refer: 245 65258 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 317.662 1204.29 2
+Refer: 265 -1 S 1.07 0 0 1.07 317.662 1184.29 2
 EndChar
 
 StartChar: uniFE95
@@ -10946,39 +10946,38 @@ EndChar
 StartChar: NameMe.65564
 Encoding: 65564 -1 297
 GlifName: N_ameM_e.65564
-Width: 619
+Width: 571
 VWidth: 2992
 Flags: W
-AnchorPoint: "Anchor-10" 277.989 1503.27 basechar 0
-AnchorPoint: "Anchor-7" 320.869 -306.293 basechar 0
+AnchorPoint: "Anchor-10" 256.697 1473.11 basechar 0
+AnchorPoint: "Anchor-7" 316.078 -199.903 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-626.794921875 0 m 2,0,-1
- 605.918945312 0 l 2,1,2
- 379 0 379 0 260.385742188 122.743164062 c 128,-1,3
- 141.573242188 245.44071236 141.573242188 245.44071236 141.573242188 478.395507812 c 2,4,-1
- 141.573242188 1303.3046875 l 1,5,-1
- 141.573242188 1343.3046875 l 1,6,-1
- 181.573242188 1343.3046875 l 1,7,-1
- 360.889648438 1343.3046875 l 1,8,-1
- 400.889648438 1343.3046875 l 1,9,-1
- 400.889648438 1303.3046875 l 1,10,-1
- 400.889648438 480.467773438 l 2,11,12
- 401 372 401 372 451.58203125 320.141601562 c 0,13,14
- 502.006739212 268.993164062 502.006739212 268.993164062 608.970703125 268.993164062 c 2,15,-1
- 626.770507812 268.993164062 l 2,16,17
- 643 269 643 269 653.583984375 260.836914062 c 0,18,19
- 664.402254799 252.697347201 664.402254799 252.697347201 670.565429688 242.561523438 c 2,20,-1
- 671.213867188 241.495117188 l 1,21,-1
- 671.794921875 240.389648438 l 2,22,23
- 679 226 679 226 683.405273438 201.762695312 c 0,24,25
- 685 191 685 191 686.17578125 178.639648438 c 0,26,27
- 686.875976562 167.90193762 686.875976562 167.90193762 686.875976562 147.174804688 c 2,28,-1
- 686.875976562 128.387695312 l 2,29,30
- 687 92 687 92 683.713867188 71.736328125 c 0,31,32
- 680 47 680 47 673.634765625 32.5849609375 c 0,33,34
- 659 0 659 0 626.794921875 0 c 2,0,-1
+638.618164062 128.623046875 m 1,0,1
+ 640 64 640 64 633.637695312 43.2001953125 c 0,2,3
+ 619 0 619 0 578.537109375 -0 c 2,4,-1
+ 557.658203125 0 l 2,5,6
+ 345 0 345 0 234.83203125 123.221679688 c 0,7,8
+ 124.283203125 245.686271165 124.283203125 245.686271165 124.283203125 478.395507812 c 2,9,-1
+ 124.283203125 1308.171875 l 5,10,-1
+ 124.283203125 1348.171875 l 5,11,-1
+ 164.283203125 1348.171875 l 5,12,-1
+ 343.598632812 1348.171875 l 5,13,-1
+ 383.598632812 1348.171875 l 5,14,-1
+ 383.598632812 1308.171875 l 5,15,-1
+ 383.598632812 480.65625 l 2,16,17
+ 384 367 384 367 426.127929688 318.016601562 c 0,18,19
+ 468.005839549 268.993164062 468.005839549 268.993164062 560.712890625 268.993164062 c 2,20,-1
+ 578.524414062 268.993164062 l 2,21,22
+ 593 269 593 269 603.567382812 264.747070312 c 0,23,24
+ 614 260 614 260 620.684570312 250.430664062 c 0,25,26
+ 627 240 627 240 631.140625 232.864257812 c 0,27,28
+ 635 225 635 225 636.75390625 209.3984375 c 0,29,30
+ 638 193 638 193 638.750976562 187.483398438 c 0,31,32
+ 639 182 639 182 638.951171875 164.46875 c 128,-1,33
+ 639 147 639 147 638.618164062 147.174804688 c 2,34,-1
+ 638.618164062 128.623046875 l 1,0,1
 EndSplineSet
 EndChar
 
