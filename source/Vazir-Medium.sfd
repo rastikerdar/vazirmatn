@@ -4,7 +4,7 @@ FullName: Vazir Medium
 FamilyName: Vazir
 Weight: Medium
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.\nNon-Arabic(Latin) glyphs and data in extended version are imported from Roboto font under the Apache License, Version 2.0.
-Version: 16.0.0
+Version: 16.0.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1507378161
+ModificationTime: 1507382382
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -1915,7 +1915,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Vazir Medium" "" "Version 16.0.0" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Medium"
+LangName: 1033 "" "" "" "Vazir Medium" "" "Version 16.0.1" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Medium"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -2900,18 +2900,11 @@ SplineSet
  2348.20117188 739.287109375 l 1,61,-1
  2366.69335938 744.235351562 l 1,62,-1
  2372.44628906 725.9765625 l 2,63,64
- 2437.26855469 520.223632812 2437.26855469 520.223632812 2422.25878906 423.1484375 c 1,65,-1
- 2422.44726562 422.03515625 l 1,66,-1
- 2422.43652344 420.29296875 l 2,67,68
- 2422.06738281 361.9921875 2422.06738281 361.9921875 2414.0078125 311.139648438 c 128,-1,69
- 2405.94726562 260.288085938 2405.94726562 260.288085938 2390.06738281 216.5546875 c 128,-1,70
- 2374.1875 172.8203125 2374.1875 172.8203125 2350.11230469 136.588867188 c 128,-1,71
- 2326.03613281 100.357421875 2326.03613281 100.357421875 2293.94628906 72.1064453125 c 0,72,73
- 2266.65039062 48.275390625 2266.65039062 48.275390625 2233.54199219 32.400390625 c 128,-1,74
- 2200.43359375 16.5263671875 2200.43359375 16.5263671875 2162.41796875 8.734375 c 128,-1,75
- 2124.40332031 0.9423828125 2124.40332031 0.9423828125 2081.15234375 0.912109375 c 0,76,77
- 1993.91699219 0.953125 1993.91699219 0.953125 1931.33691406 31.6005859375 c 128,-1,78
- 1868.75683594 62.248046875 1868.75683594 62.248046875 1833.33105469 123.55078125 c 1,79,80
+ 2422.71679688 566.412109375 2422.71679688 566.412109375 2422.43652344 420.380859375 c 0,65,66
+ 2421.98242188 183.896484375 2421.98242188 183.896484375 2293.91503906 72.080078125 c 0,67,68
+ 2211.67675781 1.3359375 2211.67675781 1.3359375 2081.15234375 0.912109375 c 0,69,70
+ 1993.91699219 0.953125 1993.91699219 0.953125 1931.33691406 31.6005859375 c 128,-1,71
+ 1868.75683594 62.248046875 1868.75683594 62.248046875 1833.33105469 123.55078125 c 1,72,73
  1728.44921875 -0.0810546875 1728.44921875 -0.0810546875 1552.80371094 -0.0810546875 c 0,0,1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEB2
@@ -7526,7 +7519,7 @@ EndChar
 StartChar: uniFEB3
 Encoding: 65203 65203 190
 GlifName: uniF_E_B_3
-Width: 1603
+Width: 1599
 VWidth: 2972
 GlyphClass: 2
 Flags: W
@@ -7719,7 +7712,7 @@ EndChar
 StartChar: uniFEB7
 Encoding: 65207 65207 194
 GlifName: uniF_E_B_7
-Width: 1603
+Width: 1599
 VWidth: 2703
 GlyphClass: 2
 Flags: W
