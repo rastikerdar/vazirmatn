@@ -27,8 +27,8 @@
         color: #404040;
         direction: rtl;
         font-family: vazir,sans-serif;
-        font-size: 14px;
-        line-height: 25px;
+        font-size: 20px;
+        line-height: 1.8;
       }
       
       .sample {
@@ -79,16 +79,16 @@
       .font-buttons {
         position: fixed;
         top: -2px;
-        background-color: #D6D6C6;
+        background-color: #bc286d;
         width: 100%;
         padding: 10px;
         text-align: center;
       }
       
       .font-buttons a {
-        font-size: 15px;
+        font-size: 19px;
         display: inline-block;
-        color: #4E4E4E;
+        color: #f4f4f4;
         border-top: 1px dotted #aaa;
       } 
 
@@ -98,6 +98,17 @@
       }
       
       @media all and (max-width: 700px){
+	body {
+	  font-size: 14px;
+	}
+
+      .font-buttons a {
+        font-size: 14px;
+        display: inline-block;
+        color: #f4f4f4;
+        border-top: 1px dotted #aaa;
+      } 
+
         .sample {
           padding: 30px 30px;
         }
