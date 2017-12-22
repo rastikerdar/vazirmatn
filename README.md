@@ -78,7 +78,7 @@ bower install vazir-font --save
 ```
 npm install vazir-font
 ```
-Fonts will be copied to `npm_modules/vazir-font/dist` directory
+Fonts will be copied to `node_modules/vazir-font/dist` directory
 
 #### CDN
 Link fonts from the [RawGit](https://rawgit.com) CDN:
