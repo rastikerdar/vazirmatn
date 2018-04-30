@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -39,7 +40,7 @@
     .main {
       padding: 50px;
       margin: 20px auto;
-      max-width: 1000;
+      max-width: 1000px;
     }
 
     header,
@@ -200,6 +201,11 @@
       margin-top: 3px;
       display: block;
       line-height: 1.3;
+    }
+
+    .donors li .amount {
+      font-size: 0.85em;
+      color: #aaa;
     }
 
     .donors li .gifticon {
@@ -392,7 +398,12 @@
     var donations = null;
 
     function formatNumber(x) {
-      return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+      return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, "٬");
+    }
+
+    function convertNumberToPersian(x) {
+      var nums={0:'۰',1:'۱',2:'۲',3:'۳',4:'۴',5:'۵',6:'۶',7:'۷',8:'۸',9:'۹'};
+      return x.toString().replace(/[0-9]/gi, m => nums[m]);
     }
 
     function createNodes(donations) {
@@ -401,7 +412,7 @@
 
       for (var i = 0; i < donations.length; i++) {
         var dnt = donations[i];
-        li = "<li title='" + formatNumber(dnt.amount) + " تومان'>";
+        li = "<li title='" + dnt.date.split(' ')[0] + "'>";
         if (dnt.web) {
           li += '<a href="' + dnt.web + '" target="_blank">';
         }
@@ -410,6 +421,7 @@
         }
         li += '<img src="' + dnt.img + '">';
         li += '<span class="name">' + dnt.name + '</span>';
+        li += '<span class="amount">' + convertNumberToPersian(formatNumber(dnt.amount)) + '</span>';
         if (dnt.web) {
           li += '</a>';
         }
@@ -418,7 +430,7 @@
         amountSum += dnt["amount"]
       }
       document.getElementById("donors").innerHTML = html;
-      document.getElementById("amount-sum").innerHTML = formatNumber(amountSum);
+      document.getElementById("amount-sum").innerHTML = convertNumberToPersian(formatNumber(amountSum));
     }
 
     function loadDoc() {
