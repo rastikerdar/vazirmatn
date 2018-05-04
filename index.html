@@ -270,10 +270,10 @@
   </style>
   <script>
     (function (i, s, o, g, r, a, m) {
-    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-      (i[r].q = i[r].q || []).push(arguments)
-    }, i[r].l = 1 * new Date(); a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-67139606-2', 'auto');
@@ -374,8 +374,7 @@
 
       <br>
       <p>جهت مشاهده یا تغییر اطلاعات این فهرست به
-        <a href="https://github.com/rastikerdar/vazir-font/blob/gh-pages/donations.txt"
-          target="_blank">این فایل</a> مراجعه نمایید.</p>
+        <a href="https://github.com/rastikerdar/vazir-font/blob/gh-pages/donations.txt" target="_blank">این فایل</a> مراجعه نمایید.</p>
       <p>سپاس</p>
     </section>
     <div class="clear"></div>
@@ -402,8 +401,8 @@
     }
 
     function convertNumberToPersian(x) {
-      var nums={0:'۰',1:'۱',2:'۲',3:'۳',4:'۴',5:'۵',6:'۶',7:'۷',8:'۸',9:'۹'};
-      return x.toString().replace(/[0-9]/gi, m => nums[m]);
+      var nums = { 0: '۰', 1: '۱', 2: '۲', 3: '۳', 4: '۴', 5: '۵', 6: '۶', 7: '۷', 8: '۸', 9: '۹' };
+      return x.toString().replace(/[0-9]/gi, function (m) { return nums[m] });
     }
 
     function createNodes(donations) {
