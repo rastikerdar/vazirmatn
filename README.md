@@ -20,7 +20,7 @@ A Persian (Farsi) Font
 <br>
 
 <p dir="rtl"> با تشکر از برنامه  <a href="https://fontforge.github.io">FontForge</a></p>
-<p dir="rtl"> بر مبنای فونت <a href="http://dejavu-fonts.org">DejaVu Sans 2.35</a></p>
+<p dir="rtl"> بر مبنای فونت <a href="https://dejavu-fonts.github.io/">DejaVu Sans 2.35</a></p>
 
 </p>
 <p lang="fa" dir="rtl" align="right">
