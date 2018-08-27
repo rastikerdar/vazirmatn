@@ -44,7 +44,7 @@ A Persian (Farsi) Font
     url('../fonts/Vazir-Black-FD.woff') format('woff'),
     url('../fonts/Vazir-Black-FD.ttf') format('truetype');
     font-weight: 900;
-	font-style: normal;
+    font-style: normal;
 }
 @font-face {
     font-family: Vazir;
@@ -54,7 +54,7 @@ A Persian (Farsi) Font
     url('../fonts/Vazir-Bold-FD.woff') format('woff'),
     url('../fonts/Vazir-Bold-FD.ttf') format('truetype');
     font-weight: bold;
-	font-style: normal;
+    font-style: normal;
 }
 @font-face {
     font-family: Vazir;
@@ -64,7 +64,7 @@ A Persian (Farsi) Font
     url('../fonts/Vazir-Medium-FD.woff') format('woff'),
     url('../fonts/Vazir-Medium-FD.ttf') format('truetype');
     font-weight: 500;
-	font-style: normal;
+    font-style: normal;
 }
 @font-face {
     font-family: Vazir;
@@ -74,7 +74,7 @@ A Persian (Farsi) Font
     url('../fonts/Vazir-Light-FD.woff') format('woff'),
     url('../fonts/Vazir-Light-FD.ttf') format('truetype');
     font-weight: 300;
-	font-style: normal;
+    font-style: normal;
 }
 @font-face {
     font-family: Vazir;
@@ -84,7 +84,7 @@ A Persian (Farsi) Font
     url('../fonts/Vazir-Thin-FD.woff') format('woff'),
     url('../fonts/Vazir-Thin-FD.ttf') format('truetype');
     font-weight: 200;
-	font-style: normal;
+    font-style: normal;
 }
 @font-face {
     font-family: Vazir;
@@ -94,7 +94,7 @@ A Persian (Farsi) Font
     url('../fonts/Vazir-FD.woff') format('woff'),
     url('../fonts/Vazir-FD.ttf') format('truetype');
     font-weight: normal;
-	font-style: normal;
+    font-style: normal;
 }
 ```
 
