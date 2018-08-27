@@ -37,30 +37,64 @@ A Persian (Farsi) Font
 
 ```css
 @font-face {
-  font-family: Vazir;
-  src: url('Vazir.eot');
-  src: url('Vazir.eot?#iefix') format('embedded-opentype'),
-       url('Vazir.woff') format('woff'),
-       url('Vazir.ttf') format('truetype');
-  font-weight: normal;
+    font-family: Vazir;
+    src: url('../fonts/Vazir-Black-FD.eot');
+    src: url('../fonts/Vazir-Black-FD.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Vazir-Black-FD.woff2') format('woff2'),
+    url('../fonts/Vazir-Black-FD.woff') format('woff'),
+    url('../fonts/Vazir-Black-FD.ttf') format('truetype');
+    font-weight: 900;
+	font-style: normal;
 }
-      
 @font-face {
-  font-family: Vazir;
-  src: url('Vazir-Bold.eot');
-  src: url('Vazir-Bold.eot?#iefix') format('embedded-opentype'),
-       url('Vazir-Bold.woff') format('woff'),
-       url('Vazir-Bold.ttf') format('truetype');
-  font-weight: bold;
+    font-family: Vazir;
+    src: url('../fonts/Vazir-Bold-FD.eot');
+    src: url('../fonts/Vazir-Bold-FD.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Vazir-Bold-FD.woff2') format('woff2'),
+    url('../fonts/Vazir-Bold-FD.woff') format('woff'),
+    url('../fonts/Vazir-Bold-FD.ttf') format('truetype');
+    font-weight: bold;
+	font-style: normal;
 }
-
 @font-face {
-  font-family: Vazir;
-  src: url('Vazir-Light.eot');
-  src: url('Vazir-Light.eot?#iefix') format('embedded-opentype'),
-       url('Vazir-Light.woff') format('woff'),
-       url('Vazir-Light.ttf') format('truetype');
-  font-weight: 300;
+    font-family: Vazir;
+    src: url('../fonts/Vazir-Medium-FD.eot');
+    src: url('../fonts/Vazir-Medium-FD.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Vazir-Medium-FD.woff2') format('woff2'),
+    url('../fonts/Vazir-Medium-FD.woff') format('woff'),
+    url('../fonts/Vazir-Medium-FD.ttf') format('truetype');
+    font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/Vazir-Light-FD.eot');
+    src: url('../fonts/Vazir-Light-FD.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Vazir-Light-FD.woff2') format('woff2'),
+    url('../fonts/Vazir-Light-FD.woff') format('woff'),
+    url('../fonts/Vazir-Light-FD.ttf') format('truetype');
+    font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/Vazir-Thin-FD.eot');
+    src: url('../fonts/Vazir-Thin-FD.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Vazir-Thin-FD.woff2') format('woff2'),
+    url('../fonts/Vazir-Thin-FD.woff') format('woff'),
+    url('../fonts/Vazir-Thin-FD.ttf') format('truetype');
+    font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/Vazir-FD.eot');
+    src: url('../fonts/Vazir-FD.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Vazir-FD.woff2') format('woff2'),
+    url('../fonts/Vazir-FD.woff') format('woff'),
+    url('../fonts/Vazir-FD.ttf') format('truetype');
+    font-weight: normal;
+	font-style: normal;
 }
 ```
 
@@ -94,7 +128,7 @@ font-family: 'Vazir', sans-serif;
 ```
 
 #### Homebrew
-You can install the font on macOS machines by tapping the caskroom/fonts repo:  
+You can install the font on macOS machines by tapping the caskroom/fonts repo:
 
 ```shell
 brew tap caskroom/fonts
