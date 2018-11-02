@@ -1,0 +1,9 @@
+@import "mixins";
+
+@include font-face(vazir, 'Vazir-Thin', 100, CF FD FDWL WL);
+@include font-face(vazir, 'Vazir-Light', 300, CF FD FDWL WL);
+@include font-face(vazir, 'Vazir-Regular', 400, CF FD FDWL WL);
+@include font-face(vazir, 'Vazir-Medium', 500, CF FD FDWL WL);
+@include font-face(vazir, 'Vazir-Bold', 700, CF FD FDWL WL);
+@include font-face(vazir, 'Vazir-Black', 900, CF FD FDWL WL);
+ 

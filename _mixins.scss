@@ -1,0 +1,30 @@
+@mixin font-face($font-family, $font-name: null, $weight: 400, $types: CF, $path: 'dist/') {
+	$formats: 'eot', 'woff2', 'woff', 'ttf';
+
+	@each $type in $types {
+		$src: null;
+		$type-path: null;
+
+		@if $type == CF {
+			$type-path: 'Complete-Font/';
+		} @else if $type == FD {
+			$type-path: 'Farsi-Digits/';
+		} @else if $type == FDWL {
+			$type-path: 'Farsi-Digits-Without-Latin/';
+		} @else if $type == WL {
+			$type-path: 'Without-Latin/';
+		}
+
+		@each $format in $formats {
+			$src: append($src, url(quote($path + $type-path + $font-name + '.' + $format)) format(quote($format)), comma);
+		}
+
+		@font-face {
+			font-family: quote($font-family + '-' + $type);
+			font-weight: $weight;
+			src: $src;
+			font-style: normal;
+			font-display: swap;
+		}
+	}
+}
