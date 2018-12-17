@@ -184,6 +184,14 @@
       font-size: 15px;
     }
 
+    .payment {
+      border: 1px solid #dfdfdf;
+      display: inline-block;
+      padding: 5px 10px;
+      box-shadow: 0 0 5px #e9e9e9;
+      border-radius: 3px;
+    }
+
     .sort a {
       display: inline-block;
       min-width: 3em;
@@ -350,7 +358,7 @@
         <a href="https://www.payping.ir/saber">این صفحه</a> اقدام نمایید.
       </p>
       <p>
-        <a href="https://www.payping.ir/saber">پرداخت وجه</a>
+        <a class="payment" href="https://www.payping.ir/saber">پرداخت وجه</a>
         <br>آدرس وب و ایمیل را نیز درج بفرمایید.</p>
 
       <br>
@@ -358,10 +366,10 @@
         <span id="amount-sum"></span> تومان)</b>
       <br>
       <div class="sort">
-        نمایش به ترتیب:
-        <a id="sort-by-date" class="selected" href="#" onclick="sortBy('date'); return false;">زمان</a>
+        ترتیب نمایش بر مبنای:
+        <a id="sort-by-date" href="#" onclick="sortBy('date'); return false;">زمان</a>
         |
-        <a id="sort-by-amount" href="#" onclick="sortBy('amount'); return false;">مبلغ</a>
+        <a id="sort-by-amount" class="selected" href="#" onclick="sortBy('amount'); return false;">مبلغ</a>
       </div>
       <br>
       <ul id="donors" class="donors">
@@ -434,6 +442,7 @@
         if (this.readyState == 4 && this.status == 200) {
           donations = JSON.parse(this.responseText);
           createNodes(donations);
+          sortBy('amount');
         }
       };
       xhttp.open("GET", "donations.txt", true);
