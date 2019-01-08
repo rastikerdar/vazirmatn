@@ -4,31 +4,18 @@ A Persian (Farsi) Font
 [![Build Status](https://travis-ci.org/rastikerdar/vazir-font.svg?branch=master)](https://travis-ci.org/rastikerdar/vazir-font)
 [![npm version](https://badge.fury.io/js/vazir-font.svg)](https://badge.fury.io/js/vazir-font)
 
+فونت فارسی وزیر  
+[نمایش فونت - صفحه رسمی پروژه](https://rastikerdar.github.io/vazir-font/)  
+[صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/vazir-font/releases)  
 
-<p dir="rtl">
-فونت فارسی وزیر <br />
+## نمونه متن Sample:
+![نمونه متن فونت وزیر](./sample.png)
 
-<p dir="rtl"><a href="http://rastikerdar.github.io/vazir-font/">نمایش فونت</a></p>
-<p dir="rtl"><a href="https://github.com/rastikerdar/vazir-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a></p> <br />
+با تشکر از برنامه [FontForge](https://fontforge.github.io)  
+بر مبنای فونت [DejaVu Sans 2.35](https://dejavu-fonts.github.io)  
+نسخه های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.  
 
-<p dir="rtl">متن نمونه:</p>
-
-<p align="center">
-    <img src="./sample.png">
-</p>
-
-<br>
-
-<p dir="rtl"> با تشکر از برنامه  <a href="https://fontforge.github.io">FontForge</a></p>
-<p dir="rtl"> بر مبنای فونت <a href="https://dejavu-fonts.github.io/">DejaVu Sans 2.35</a></p>
-
-</p>
-<p lang="fa" dir="rtl" align="right">
-نسخه های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.
-</p>
-<h1 dir="rtl">
-طریقه استفاده در صفحات وب:
-</h1>
+## طریقه استفاده در صفحات وب:
 
 <p dir="rtl">
 کد زیر را در قسمت style یا فایل css وارد نمایید:
@@ -121,7 +108,7 @@ Link fonts from the [RawGit](https://rawgit.com) CDN:
 <link href="https://cdn.rawgit.com/rastikerdar/vazir-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-Replace [X.Y.Z] with the latest version (e.g. 19.0.0) and integrate the font into your CSS:
+Replace [X.Y.Z] with the latest version (e.g. 19.1.0) and integrate the font into your CSS:
 
 ```
 font-family: 'Vazir', sans-serif;
@@ -148,3 +135,6 @@ An unofficial PPA is available for installing Vazir and other free Persian fonts
 sudo add-apt-repository ppa:blacksuited/fonts
 sudo apt install fonts-vazir
 ```
+
+## License
+2015 Saber Rastikerdar ([@rastikerdar](https://github.com/rastikerdar)). See the `LICENSE` file.

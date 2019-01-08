@@ -4,7 +4,7 @@ FullName: Vazir Light
 FamilyName: Vazir
 Weight: Light
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.\nNon-Arabic(Latin) glyphs and data in extended version are imported from Roboto font under the Apache License, Version 2.0.
-Version: 19.0.0
+Version: 19.1.0
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1533189240
+ModificationTime: 1546954805
 PfmFamily: 33
 TTFWeight: 300
 TTFWidth: 5
@@ -1915,7 +1915,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Vazir Light" "" "Version 19.0.0" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Light"
+LangName: 1033 "" "" "" "Vazir Light" "" "Version 19.1.0" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Light"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -4398,9 +4398,9 @@ SplineSet
  86.1164082327 -243.229682638 l 1,3,-1
  540.565346023 798.395049186 l 1,0,-1
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-110 dy=0 dh=-110 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-130 dy=0 dh=-130 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-130 dy=0 dh=-130 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-110 dy=0 dh=-110 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-130 dy=0 dh=-130 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-130 dy=0 dh=-130 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni066C
@@ -4430,9 +4430,9 @@ SplineSet
  268.162109375 6.529296875 268.162109375 6.529296875 249.838867188 10.736328125 c 0,21,22
  134.052734375 34.1142578125 134.052734375 34.1142578125 135.967773438 140.48046875 c 0,0,1
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-130 dy=0 dh=-130 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-150 dy=0 dh=-150 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-130 dy=0 dh=-130 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-130 dy=0 dh=-130 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-130 dy=0 dh=-130 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: afii63167
@@ -4645,8 +4645,8 @@ Width: 1807
 VWidth: 2703
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-7" 937.158 -862.082 basechar 0
-AnchorPoint: "Anchor-10" 919.021 1068.3 basechar 0
+AnchorPoint: "Anchor-10" 924.559 1014.91 basechar 0
+AnchorPoint: "Anchor-7" 933.158 -826.082 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 2
@@ -4890,22 +4890,21 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1280.40728597 -140.367775283 m 0,0,1
+1280.3992916 -140.384047417 m 0,0,1
  1135.6598983 -434.993847403 1135.6598983 -434.993847403 727.323482786 -434.724610825 c 0,2,3
- 419.097128209 -434.860134651 419.097128209 -434.860134651 267.740469038 -294.339786151 c 0,4,5
- 116.383809868 -153.819437651 116.383809868 -153.819437651 116.752919202 131.026209277 c 0,6,7
- 116.988254042 330.057162438 116.988254042 330.057162438 201.238126157 540.516943863 c 1,8,-1
- 332.330812648 486.484063639 l 1,9,10
- 263.005853294 301.260153631 263.005853294 301.260153631 263.268557971 132.870276945 c 0,11,12
- 263.130378226 -75.9575053314 263.130378226 -75.9575053314 382.288926276 -182.028473988 c 0,13,14
- 501.447474326 -288.099442644 501.447474326 -288.099442644 734.4072437 -288.203123435 c 0,15,16
- 961.995572513 -288.099144757 961.995572513 -288.099144757 1078.37718327 -171.982395505 c 0,17,18
- 1194.75879403 -55.8656462519 1194.75879403 -55.8656462519 1195.5546436 171.897304304 c 0,19,20
- 1195.98974953 351.74490237 1195.98974953 351.74490237 1111.19590491 533.128897421 c 1,21,-1
- 1254.02102315 583.029021462 l 1,22,23
- 1336.00482806 352.282714149 1336.00482806 352.282714149 1336.1142667 131.983671736 c 0,24,25
- 1336.20098124 52.3231878815 1336.20098124 52.3231878815 1322.23571187 -15.7317270881 c 0,26,27
- 1308.2704425 -83.7866420577 1308.2704425 -83.7866420577 1280.40728597 -140.367775283 c 0,0,1
+ 419.097128209 -434.860134651 419.097128209 -434.860134651 267.740469038 -294.339786151 c 128,-1,4
+ 116.383809868 -153.819437651 116.383809868 -153.819437651 116.752919202 131.026209276 c 0,5,6
+ 116.988254042 330.057162438 116.988254042 330.057162438 201.238126156 540.516943863 c 1,7,-1
+ 332.330812648 486.484063639 l 1,8,9
+ 263.005853294 301.260153631 263.005853294 301.260153631 263.268557972 132.870276945 c 0,10,11
+ 263.130378227 -75.9575053317 263.130378227 -75.9575053317 382.288926276 -182.028473988 c 128,-1,12
+ 501.447474326 -288.099442644 501.447474326 -288.099442644 734.4072437 -288.203123435 c 0,13,14
+ 961.995572513 -288.099144757 961.995572513 -288.099144757 1078.37718327 -171.982395505 c 128,-1,15
+ 1194.75879403 -55.8656462519 1194.75879403 -55.8656462519 1195.5546436 171.897304304 c 0,16,17
+ 1195.98974953 351.74490237 1195.98974953 351.74490237 1111.1959049 533.128897422 c 1,18,-1
+ 1254.3626707 583.148386006 l 1,19,20
+ 1342.00480179 354.688386602 1342.00480179 354.688386602 1342.11426164 142.010711667 c 0,21,22
+ 1342.00248058 -14.5209795127 1342.00248058 -14.5209795127 1280.3992916 -140.384047417 c 0,0,1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB9F
 EndChar
@@ -4953,12 +4952,12 @@ LayerCount: 2
 Fore
 Refer: 59 1632 N 1 0 0 1 0 0 2
 Kerns2: 87 0 "'kern' Horizontal Kerning lookup 15-4" 95 0 "'kern' Horizontal Kerning lookup 15-4"
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-46 dy=0 dh=-46 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-36 dy=0 dh=-36 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-10 dy=0 dh=-10 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-46 dy=0 dh=-46 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-36 dy=0 dh=-36 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-10 dy=0 dh=-10 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F1
@@ -4972,9 +4971,9 @@ LayerCount: 2
 Fore
 Refer: 60 1633 N 1 0 0 1 0 0 2
 Kerns2: 86 0 "'kern' Horizontal Kerning lookup 15-4"
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-64 dy=0 dh=-64 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F2
@@ -4988,9 +4987,9 @@ LayerCount: 2
 Fore
 Refer: 61 1634 N 1 0 0 1 0 0 2
 Kerns2: 86 0 "'kern' Horizontal Kerning lookup 15-4" 92 0 "'kern' Horizontal Kerning lookup 15-4" 95 0 "'kern' Horizontal Kerning lookup 15-4"
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-64 dy=0 dh=-64 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F3
@@ -5004,11 +5003,11 @@ LayerCount: 2
 Fore
 Refer: 62 1635 N 1 0 0 1 0 0 2
 Kerns2: 86 0 "'kern' Horizontal Kerning lookup 15-4" 95 0 "'kern' Horizontal Kerning lookup 15-4"
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-64 dy=0 dh=-64 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-46 dy=0 dh=-46 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-46 dy=0 dh=-46 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F4
@@ -5047,10 +5046,10 @@ SplineSet
  950 1369 950 1369 1045.7265625 1326.80859375 c 1,0,-1
 EndSplineSet
 Kerns2: 86 0 "'kern' Horizontal Kerning lookup 15-4" 90 0 "'kern' Horizontal Kerning lookup 15-4" 95 0 "'kern' Horizontal Kerning lookup 15-4"
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-64 dy=0 dh=-64 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F5
@@ -5095,13 +5094,13 @@ SplineSet
  731 27 731 27 651.794921875 248.918945312 c 5,40,41
  577 27 577 27 363.447182638 26.9833984748 c 0,20,21
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-35 dy=0 dh=-35 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-38 dy=0 dh=-38 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-42 dy=0 dh=-42 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-42 dy=0 dh=-42 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-35 dy=0 dh=-35 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-38 dy=0 dh=-38 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-42 dy=0 dh=-42 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-42 dy=0 dh=-42 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F6
@@ -5146,9 +5145,9 @@ SplineSet
  719.704856535 1201.13280711 l 1,0,1
 EndSplineSet
 Kerns2: 86 0 "'kern' Horizontal Kerning lookup 15-4" 87 0 "'kern' Horizontal Kerning lookup 15-4" 90 0 "'kern' Horizontal Kerning lookup 15-4" 95 0 "'kern' Horizontal Kerning lookup 15-4"
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F7
@@ -5162,12 +5161,12 @@ LayerCount: 2
 Fore
 Refer: 66 1639 N 1 0 0 1 0 0 2
 Kerns2: 87 0 "'kern' Horizontal Kerning lookup 15-4"
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F0 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-160 dy=0 dh=-160 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F0 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-160 dy=0 dh=-160 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F8
@@ -5181,12 +5180,12 @@ LayerCount: 2
 Fore
 Refer: 67 1640 S 1 0 0 1 0 0 2
 Kerns2: 86 0 "'kern' Horizontal Kerning lookup 15-4" 87 0 "'kern' Horizontal Kerning lookup 15-4" 91 0 "'kern' Horizontal Kerning lookup 15-4"
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-160 dy=0 dh=-160 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-110 dy=0 dh=-110 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-100 dy=0 dh=-100 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-150 dy=0 dh=-150 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-150 dy=0 dh=-150 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-160 dy=0 dh=-160 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-110 dy=0 dh=-110 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F9
@@ -5200,10 +5199,10 @@ LayerCount: 2
 Fore
 Refer: 68 1641 N 1 0 0 1 0 0 2
 Kerns2: 86 0 "'kern' Horizontal Kerning lookup 15-4" 87 0 "'kern' Horizontal Kerning lookup 15-4"
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-150 dy=0 dh=-150 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-43 dy=0 dh=-43 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uniFB56
@@ -5213,8 +5212,8 @@ Width: 1807
 VWidth: 2703
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-7" 919.158 -928.082 basechar 0
-AnchorPoint: "Anchor-10" 943.021 1374.3 basechar 0
+AnchorPoint: "Anchor-10" 924.559 1014.91 basechar 0
+AnchorPoint: "Anchor-7" 931.158 -856.082 basechar 0
 LayerCount: 2
 Fore
 Refer: 77 1662 N 1 0 0 1 0 0 2
@@ -5227,11 +5226,11 @@ Width: 1901
 VWidth: 2703
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 943.021 1050.3 basechar 0
-AnchorPoint: "Anchor-7" 917.158 -868.082 basechar 0
+AnchorPoint: "Anchor-10" 924.559 1014.91 basechar 0
+AnchorPoint: "Anchor-7" 921.158 -832.082 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 S 1.07 0 0 1.07 635.972 -425.637 2
+Refer: 267 -1 N 1.07 0 0 1.07 635.972 -425.637 2
 Refer: 268 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5242,12 +5241,12 @@ Width: 673
 VWidth: 2703
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-7" 275.388 -960.356 basechar 0
-AnchorPoint: "Anchor-10" 351.001 1294.73 basechar 0
+AnchorPoint: "Anchor-10" 349.28 1102.77 basechar 0
+AnchorPoint: "Anchor-7" 285.388 -850.356 basechar 0
 LayerCount: 2
 Fore
 Refer: 118 64488 N 1 0 0 1 0 0 2
-Refer: 267 -1 S 1.07 0 0 1.07 3.46925 -425.637 2
+Refer: 267 -1 N 1.07 0 0 1.07 3.46925 -425.637 2
 EndChar
 
 StartChar: uniFB59
@@ -5257,11 +5256,11 @@ Width: 717
 VWidth: 2703
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 339.044 1140.54 basechar 0
-AnchorPoint: "Anchor-7" 305.261 -955.229 basechar 0
+AnchorPoint: "Anchor-10" 373.28 1042.77 basechar 0
+AnchorPoint: "Anchor-7" 277.261 -871.229 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 S 1.07 0 0 1.07 3.46925 -425.637 2
+Refer: 267 -1 N 1.07 0 0 1.07 3.46925 -425.637 2
 Refer: 119 64489 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8140,10 +8139,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
-AnchorPoint: "Anchor-10" 1492.47 1564.31 basechar 0
+AnchorPoint: "Anchor-10" 1492.47 1554.31 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 1397.49 1122.26 2
+Refer: 264 -1 S 1.07 0 0 1.07 1397.49 1112.26 2
 Refer: 269 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8169,12 +8168,12 @@ Width: 1022
 VWidth: 2703
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 528.671 1623.52 basechar 0
+AnchorPoint: "Anchor-10" 528.671 1613.52 basechar 0
 AnchorPoint: "Anchor-7" 471.873 -233.871 basechar 0
 LayerCount: 2
 Fore
 Refer: 271 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 428.507 1120.13 2
+Refer: 264 -1 S 1.07 0 0 1.07 428.507 1110.13 2
 EndChar
 
 StartChar: uniFED5
@@ -8229,11 +8228,11 @@ VWidth: 2703
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-7" 471.873 -233.871 basechar 0
-AnchorPoint: "Anchor-10" 528.671 1603.52 basechar 0
+AnchorPoint: "Anchor-10" 528.671 1593.52 basechar 0
 LayerCount: 2
 Fore
 Refer: 271 -1 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 247.391 1111.17 2
+Refer: 265 -1 S 1.07 0 0 1.07 247.391 1101.17 2
 EndChar
 
 StartChar: uniFED9
@@ -8845,59 +8844,58 @@ Fore
 SplineSet
 95.4453125 15 m 2,0,-1
  -6.9384765625 15 l 2,1,2
- -28.2515010718 15 -28.2515010718 15 -39.0149106922 31.4010674225 c 0,3,4
- -49.7783203125 47.802134845 -49.7783203125 47.802134845 -49.7783203125 88.3134765625 c 2,5,-1
- -49.7783827773 107.229812475 l 2,6,7
- -49.877393988 141.537851241 -49.877393988 141.537851241 -39.5241502531 155.265507651 c 0,8,9
- -29.1709065182 168.993164062 -29.1709065182 168.993164062 -6.9384765625 168.993164062 c 2,10,-1
- 258 168.993164062 l 1,11,-1
- 307.547851562 168.993164062 l 1,12,-1
- 355.236374905 168.993164062 l 1,13,-1
- 316.134549792 196.292294661 l 2,14,15
- 296.015448713 210.33854356 296.015448713 210.33854356 279.98452133 224.522513178 c 0,16,17
- 263.953593947 238.706482796 263.953593947 238.706482796 251.719862703 253.224408676 c 0,18,19
- 178.032610628 337.591013102 178.032610628 337.591013102 178.629814191 440.59427645 c 0,20,21
- 178.806980449 499.165254275 178.806980449 499.165254275 199.130395091 551.624454657 c 0,22,23
- 219.453809732 604.08365504 219.453809732 604.08365504 260.418289355 651.351773453 c 0,24,25
- 359.895162465 767.013298044 359.895162465 767.013298044 515.119095998 767.31057952 c 0,26,27
- 658.022556335 767.012438173 658.022556335 767.012438173 752.868411712 677.417625848 c 0,28,29
- 833.051975219 602.441326341 833.051975219 602.441326341 833.99316633 484.76004644 c 0,30,31
- 833.99968317 312.380313999 833.99968317 312.380313999 683.178689094 219.537413083 c 2,32,-1
- 647.761788831 197.735357063 l 1,33,-1
- 688.941502213 191.911468609 l 2,34,35
- 850.891100839 169.007559859 850.891100839 169.007559859 899.417582699 168.65988598 c 0,36,37
- 934.65531284 168.837123797 934.65531284 168.837123797 961.777025542 172.620016878 c 0,38,39
- 988.898738244 176.402909959 988.898738244 176.402909959 1009.1398701 184.251105117 c 0,40,41
- 1067.55583477 207.109775633 1067.55583477 207.109775633 1097.9393374 250.578576215 c 0,42,43
- 1128.32284004 294.047376798 1128.32284004 294.047376798 1128.696583 355.494593249 c 0,44,45
- 1129.90305538 481.951624534 1129.90305538 481.951624534 987.871783125 612.03286211 c 0,46,47
- 845.840510875 742.114099685 845.840510875 742.114099685 564.069940558 879.329108942 c 1,48,-1
- 636.305804888 1006.62203124 l 1,49,50
- 1283.79133013 688.145364847 1283.79133013 688.145364847 1278.43757757 355.24681255 c 0,51,52
- 1277.25907474 283.63315596 1277.25907474 283.63315596 1255.53320036 225.083850437 c 0,53,54
- 1233.80732597 166.534544913 1233.80732597 166.534544913 1191.3759182 119.99564838 c 0,55,56
- 1098.28120835 15.9847080767 1098.28120835 15.9847080767 898.535885303 15.5292100769 c 0,57,58
- 745.296064694 15.0078978659 745.296064694 15.0078978659 520.436731578 86.3004908927 c 2,59,-1
- 516.051250015 87.6909261838 l 1,60,-1
- 511.640329947 86.3834312531 l 2,61,62
- 270.823633815 15 270.823633815 15 95.4453125 15 c 2,0,-1
-631.121459071 321.532963908 m 0,63,64
- 703.790734709 391.412947431 703.790734709 391.412947431 706.60945324 476.804096296 c 0,65,66
- 707.047735797 534.657393748 707.047735797 534.657393748 673.824626145 571.130378092 c 0,67,68
- 615.648486281 634.974322593 615.648486281 634.974322593 523.661895582 635.331149433 c 0,69,70
- 496.450597389 635.242533717 496.450597389 635.242533717 472.199302453 629.19150831 c 0,71,72
- 447.948007517 623.140482903 447.948007517 623.140482903 426.994290939 611.272458177 c 0,73,74
- 406.040574361 599.404433451 406.040574361 599.404433451 388.389982213 581.715429771 c 0,75,76
- 370.739390066 564.02642609 370.739390066 564.02642609 356.69757076 540.735277098 c 0,77,78
- 331.059024899 497.187968086 331.059024899 497.187968086 330.187823741 436.975612078 c 0,79,80
- 329.980053579 367.336897329 329.980053579 367.336897329 396.400184406 307.56744014 c 0,81,82
- 425.645218737 281.344434103 425.645218737 281.344434103 460.562768857 265.07588133 c 0,83,84
- 473.120797856 258.993159588 473.120797856 258.993159588 486.553018621 254.172730047 c 0,85,86
- 499.985239386 249.352300506 499.985239386 249.352300506 513.903209816 245.939417638 c 2,87,-1
- 518.899862155 244.714167934 l 1,88,-1
- 523.596695418 246.813579453 l 2,89,90
- 539.035600953 253.714530438 539.035600953 253.714530438 554.911009714 263.52945509 c 0,91,92
- 598.410308736 290.531699933 598.410308736 290.531699933 631.121459071 321.532963908 c 0,63,64
+ -28.2515010718 15 -28.2515010718 15 -39.0149106922 31.4010674225 c 128,-1,3
+ -49.7783203125 47.802134845 -49.7783203125 47.802134845 -49.7783203125 88.3134765625 c 2,4,-1
+ -49.7783827773 107.229812475 l 2,5,6
+ -49.877393988 141.53785124 -49.877393988 141.53785124 -39.5241502531 155.265507651 c 128,-1,7
+ -29.1709065182 168.993164062 -29.1709065182 168.993164062 -6.93847656247 168.993164062 c 2,8,-1
+ 248 168.993164062 l 1,9,-1
+ 297.547851562 168.993164062 l 1,10,-1
+ 345.254528345 168.993164062 l 1,11,-1
+ 306.131870396 196.294164862 l 2,12,13
+ 185.02907178 280.803443505 185.02907178 280.803443505 185.629824169 442.597704335 c 0,14,15
+ 185.984240066 569.343001063 185.984240066 569.343001063 260.371666606 654.297632567 c 0,16,17
+ 310.905921291 712.975353582 310.905921291 712.975353582 374.263615539 742.068298632 c 128,-1,18
+ 437.621309788 771.161243681 437.621309788 771.161243681 515.117318529 771.310583334 c 0,19,20
+ 650.002593547 771.013186693 650.002593547 771.013186693 752.833228205 673.450461085 c 0,21,22
+ 845.952437713 586.526750282 845.952437713 586.526750282 845.009047047 457.087974277 c 4,23,24
+ 844 273 844 273 691.281335812 178.554509333 c 5,25,-1
+ 728.156652738 173.882627047 l 2,26,27
+ 768.575130619 168.761847443 768.575130619 168.761847443 807.033608251 166.199840543 c 128,-1,28
+ 845.492085884 163.637833644 845.492085884 163.637833644 882.001148954 163.640630126 c 0,29,30
+ 1001.61156651 163.649791919 1001.61156651 163.649791919 1064.96532256 212.026465928 c 128,-1,31
+ 1128.31907861 260.403139936 1128.31907861 260.403139936 1128.696583 355.494593249 c 0,32,33
+ 1129.30431849 419.194705975 1129.30431849 419.194705975 1093.44658886 483.889793546 c 128,-1,34
+ 1057.58885923 548.584881117 1057.58885923 548.584881117 985.735888715 613.969127509 c 128,-1,35
+ 913.882918194 679.353373901 913.882918194 679.353373901 809.003829782 745.239701349 c 128,-1,36
+ 704.12474137 811.126028797 704.12474137 811.126028797 564.069940558 879.329108942 c 1,37,-1
+ 636.305804888 1006.62203124 l 1,38,39
+ 1283.79133013 688.145364847 1283.79133013 688.145364847 1278.43757757 355.24681255 c 0,40,41
+ 1277.25907474 283.63315596 1277.25907474 283.63315596 1255.53320036 225.083850437 c 128,-1,42
+ 1233.80732597 166.534544913 1233.80732597 166.534544913 1191.3759182 119.99564838 c 0,43,44
+ 1172.92089444 99.3765994841 1172.92089444 99.3765994841 1150.35278575 82.8409348551 c 128,-1,45
+ 1127.78467705 66.3052702261 1127.78467705 66.3052702261 1100.73883068 53.7162443082 c 128,-1,46
+ 1073.6929843 41.1272183902 1073.6929843 41.1272183902 1042.36943091 32.693136753 c 128,-1,47
+ 1011.04587753 24.2590551158 1011.04587753 24.2590551158 975.027522261 19.9402845264 c 128,-1,48
+ 939.009166993 15.6215139369 939.009166993 15.6215139369 898.548482649 15.5292476425 c 0,49,50
+ 796.394324322 15.2675182052 796.394324322 15.2675182052 696.888337459 30.4578481779 c 128,-1,51
+ 597.382350596 45.6481781507 597.382350596 45.6481781507 500.425376384 76.3040861437 c 2,52,-1
+ 496.042307055 77.6899273497 l 1,53,-1
+ 491.635372085 76.3819607023 l 2,54,55
+ 284.820993638 15 284.820993638 15 95.4453125 15 c 2,0,-1
+523.660056394 632.331203051 m 0,56,57
+ 440.068597458 631.974850583 440.068597458 631.974850583 389.727272513 585.076964602 c 0,58,59
+ 329.984429638 528.433706012 329.984429638 528.433706012 330.187514288 444.865430328 c 0,60,61
+ 329.985536651 298.531579954 329.985536651 298.531579954 518.308209623 229.425972349 c 2,62,-1
+ 523.643812004 227.468055978 l 1,63,-1
+ 528.937175681 229.537449675 l 2,64,65
+ 586.615918014 252.086443675 586.615918014 252.086443675 625.98787314 282.758033621 c 128,-1,66
+ 665.359828267 313.429623567 665.359828267 313.429623567 686.167930409 353.013921052 c 128,-1,67
+ 706.976032551 392.598218537 706.976032551 392.598218537 707.528099864 439.918677111 c 0,68,69
+ 707.777587469 485.935968525 707.777587469 485.935968525 694.76684213 521.752913632 c 128,-1,70
+ 681.756096791 557.569858739 681.756096791 557.569858739 655.178669587 581.826519392 c 0,71,72
+ 628.185410947 606.763650909 628.185410947 606.763650909 595.053413037 619.458654133 c 128,-1,73
+ 561.921415127 632.153657358 561.921415127 632.153657358 523.660056394 632.331203051 c 0,56,57
 EndSplineSet
 EndChar
 
@@ -10171,16 +10169,16 @@ EndChar
 StartChar: uniFDFC
 Encoding: 65020 65020 296
 GlifName: uniF_D_F_C_
-Width: 3546
+Width: 3216
 VWidth: 2957
 Flags: W
 LayerCount: 2
 Fore
 Refer: 39 1604 N 1 0 0 1 0 0 2
-Refer: 25 1585 N 1 0 0 1 2544.78 -58.9384 2
-Refer: 118 64488 N 1 0 0 1 2023.93 0 2
-Refer: 265 -1 N 1.07 0 0 1.07 1875.81 -392.413 2
-Refer: 153 65166 N 1 0 0 1 1442.8 0 2
+Refer: 25 1585 N 1 0 0 1 2414.78 -58.9384 2
+Refer: 118 64488 N 1 0 0 1 1893.93 0 2
+Refer: 265 -1 N 1.07 0 0 1.07 1745.81 -392.413 2
+Refer: 153 65166 N 1 0 0 1 1362.8 0 2
 EndChar
 
 StartChar: NameMe.65564
