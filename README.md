@@ -34,7 +34,7 @@ A Persian (Farsi) Font
     font-style: normal;
 }
 @font-face {
-    font-family: Vazir;
+    font-family: 'Vazir Bold';
     src: url('Vazir-Bold.eot');
     src: url('Vazir-Bold.eot?#iefix') format('embedded-opentype'),
          url('Vazir-Bold.woff2') format('woff2'),
@@ -44,7 +44,7 @@ A Persian (Farsi) Font
     font-style: normal;
 }
 @font-face {
-    font-family: Vazir;
+    font-family: 'Vazir Black';
     src: url('Vazir-Black.eot');
     src: url('Vazir-Black.eot?#iefix') format('embedded-opentype'),
          url('Vazir-Black.woff2') format('woff2'),
@@ -54,7 +54,7 @@ A Persian (Farsi) Font
     font-style: normal;
 }
 @font-face {
-    font-family: Vazir;
+    font-family: 'Vazir Medium';
     src: url('Vazir-Medium.eot');
     src: url('Vazir-Medium.eot?#iefix') format('embedded-opentype'),
          url('Vazir-Medium.woff2') format('woff2'),
@@ -64,7 +64,7 @@ A Persian (Farsi) Font
     font-style: normal;
 }
 @font-face {
-    font-family: Vazir;
+    font-family: 'Vazir Light';
     src: url('Vazir-Light.eot');
     src: url('Vazir-Light.eot?#iefix') format('embedded-opentype'),
          url('Vazir-Light.woff2') format('woff2'),
@@ -74,7 +74,7 @@ A Persian (Farsi) Font
     font-style: normal;
 }
 @font-face {
-    font-family: Vazir;
+    font-family: 'Vazir Thin';
     src: url('Vazir-Thin.eot');
     src: url('Vazir-Thin.eot?#iefix') format('embedded-opentype'),
          url('Vazir-Thin.woff2') format('woff2'),
@@ -111,7 +111,7 @@ Link fonts from the [RawGit](https://rawgit.com) CDN:
 Replace [X.Y.Z] with the latest version (e.g. 19.1.0) and integrate the font into your CSS:
 
 ```
-font-family: 'Vazir', sans-serif;
+font-family: 'Vazir', 'Vazir Bold', sans-serif;
 ```
 
 #### Homebrew
