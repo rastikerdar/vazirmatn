@@ -9,7 +9,7 @@
 }
 
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir Bold';
   src: url('Vazir-Bold.eot');
   src: url('Vazir-Bold.eot?#iefix') format('embedded-opentype'),
        url('Vazir-Bold.woff2') format('woff2'),
@@ -19,7 +19,7 @@
 }
 
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir Light';
   src: url('Vazir-Light.eot');
   src: url('Vazir-Light.eot?#iefix') format('embedded-opentype'),
        url('Vazir-Light.woff2') format('woff2'),
@@ -29,7 +29,7 @@
 }
 
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir Medium';
   src: url('Vazir-Medium.eot');
   src: url('Vazir-Medium.eot?#iefix') format('embedded-opentype'),
        url('Vazir-Medium.woff2') format('woff2'),
@@ -39,7 +39,7 @@
 }
 
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir Thin';
   src: url('Vazir-Thin.eot');
   src: url('Vazir-Thin.eot?#iefix') format('embedded-opentype'),
        url('Vazir-Thin.woff2') format('woff2'),
@@ -49,7 +49,7 @@
 }
 
 @font-face {
-  font-family: Vazir;
+  font-family: 'Vazir Black';
   src: url('Vazir-Black.eot');
   src: url('Vazir-Black.eot?#iefix') format('embedded-opentype'),
        url('Vazir-Black.woff2') format('woff2'),
