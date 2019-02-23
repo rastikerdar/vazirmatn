@@ -7,13 +7,12 @@ A Persian (Farsi) Font
 فونت فارسی وزیر  
 [نمایش فونت - صفحه رسمی پروژه](https://rastikerdar.github.io/vazir-font/)  
 [صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/vazir-font/releases)  
-
-## نمونه متن Sample:
-![نمونه متن فونت وزیر](./sample.png)
-
 با تشکر از برنامه [FontForge](https://fontforge.github.io)  
 بر مبنای فونت [DejaVu Sans 2.35](https://dejavu-fonts.github.io)  
 نسخه های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.  
+
+## نمونه متن Sample:
+![نمونه متن فونت وزیر](./sample.png)
 
 ## طریقه استفاده در صفحات وب:
 
@@ -108,7 +107,7 @@ Link fonts from the [RawGit](https://rawgit.com) CDN:
 <link href="https://cdn.rawgit.com/rastikerdar/vazir-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-Replace [X.Y.Z] with the latest version (e.g. 19.1.0) and integrate the font into your CSS:
+Replace [X.Y.Z] with the latest version (e.g. 19.2.0) and integrate the font into your CSS:
 
 ```
 font-family: 'Vazir', sans-serif;
