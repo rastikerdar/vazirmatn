@@ -4,7 +4,7 @@ FullName: Vazir Light
 FamilyName: Vazir Light
 Weight: Light
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.\nNon-Arabic(Latin) glyphs and data in extended version are imported from Roboto font under the Apache License, Version 2.0.
-Version: 21.0.1
+Version: 21.1.0
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1567178715
+ModificationTime: 1570540141
 PfmFamily: 33
 TTFWeight: 300
 TTFWidth: 5
@@ -97,7 +97,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 1 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 1"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Light" "" "Version 21.0.1" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Light"
+LangName: 1033 "" "" "" "Vazir Light" "" "Version 21.1.0" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Light"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -163,7 +163,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 25 25 13
+WinInfo: 0 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -355,20 +355,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-407 134 m 0
- 407 198.788609851 460.469954012 253 525 253 c 0
- 589.530740424 253 643 198.789824438 643 134 c 0
- 643 69.3185362818 589.68084141 16 525 16 c 0
- 459.036409126 16 407 66.2787681142 407 134 c 0
-114 1031 m 4
- 114 1235.7662888 280.00573017 1371 469 1371 c 0
- 707.328091963 1371 805.777610042 1251.88482439 810.823365057 1006 c 1
- 684.690650516 1006 l 1
- 679.782188808 1140.06582601 621.24845717 1221 480 1221 c 0
- 353.814167987 1221 265 1148.9084095 265 1022 c 0
- 265 822.680359741 590.383917977 781.82165489 602.679441667 447 c 1
- 447.701082266 447 l 1
- 435.293716333 776.214782517 114 740.631358286 114 1031 c 4
+407 119 m 0
+ 407 183.7890625 460.469726562 238 525 238 c 0
+ 589.530273438 238 643 183.790039062 643 119 c 0
+ 643 54.318359375 589.680664062 1 525 1 c 0
+ 459.036132812 1 407 51.2783203125 407 119 c 0
+114 1016 m 0
+ 114 1220.76660156 280.005859375 1356 469 1356 c 0
+ 707.328125 1356 805.77734375 1236.88476562 810.823242188 991 c 1
+ 684.690429688 991 l 1
+ 679.782226562 1125.06542969 621.248046875 1206 480 1206 c 0
+ 353.814453125 1206 265 1133.90820312 265 1007 c 0
+ 265 807.680664062 590.383789062 766.821289062 602.6796875 432 c 1
+ 447.701171875 432 l 1
+ 435.293945312 761.21484375 114 725.631835938 114 1016 c 0
 EndSplineSet
 EndChar
 
@@ -878,8 +878,8 @@ GlifName: uni0633
 Width: 2456
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-2" 1762 900 basechar 0
-AnchorPoint: "Anchor-0" 710 -731 basechar 0
+AnchorPoint: "Anchor-10" 1761.53 903.1 basechar 0
+AnchorPoint: "Anchor-7" 710.902 -731.086 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -909,9 +909,9 @@ SplineSet
  2299.90820312 677.768554688 l 1
  2328.85253906 581.34765625 2343 490.1875 2343 402 c 0
  2343 175.186523438 2263.61621094 0.9462890625 2048 0 c 0
- 1938.00976562 0 1864.29492188 44.318359375 1819.43554688 134.670898438 c 6
- 1808.37011719 156.956054688 l 5
- 1793.82910156 136.766601562 l 6
+ 1938.00976562 0 1864.29492188 44.318359375 1819.43554688 134.670898438 c 2
+ 1808.37011719 156.956054688 l 1
+ 1793.82910156 136.766601562 l 2
  1727.67285156 44.919921875 1641.10644531 0 1531 0 c 0
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEB2
@@ -1879,38 +1879,38 @@ EndChar
 StartChar: uni0663
 Encoding: 1635 1635 62
 GlifName: afii57395
-Width: 1416
+Width: 1411
 VWidth: 2950
 GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-327 253 m 2
- 327 672.310546875 266.008789062 1002.11816406 143.740234375 1259.54394531 c 1
- 268.936523438 1304.77636719 l 1
- 304.041992188 1206.63574219 338.474609375 1113.46484375 372.877929688 1016.94433594 c 0
- 404.041015625 929.903320312 472.9765625 886.052734375 570.918945312 885 c 0
- 675.03515625 885 717.004882812 990.924804688 718 1166 c 0
- 718 1192.93164062 718.743164062 1222.89550781 718.9453125 1249.20800781 c 1
- 843.534179688 1259.72558594 l 1
- 844.624023438 1230.13964844 846.162109375 1201.25585938 847.008789062 1172.49121094 c 0
- 853.974609375 991.374023438 900.313476562 885 1004 885 c 0
- 1121.24511719 885 1148 997.2890625 1148 1099 c 0
- 1148 1186.00195312 1137.78710938 1253.15429688 1129.46582031 1301.96191406 c 1
- 1267.99316406 1318.35644531 l 1
- 1274.75683594 1264.77148438 1283 1193.60644531 1283 1105 c 0
- 1283 888.642578125 1193.92480469 742 1000 742 c 0
- 921.497070312 742 852.091796875 773.44140625 788.388671875 847.76171875 c 2
- 776.823242188 861.254882812 l 1
- 765.46484375 847.587890625 l 2
- 703.678710938 773.252929688 633.711914062 742 573 742 c 0
- 518.575893465 742 469.094493315 763.114651131 425.892578125 788.829101562 c 5
- 430.139648438 757.956054688 l 2
- 456.071289062 569.453125 467 418.340820312 467 250 c 2
- 467 0 l 1
- 327 0 l 1
- 327 253 l 2
+322 253 m 6
+ 322 672.310546875 261.008789062 1002.11816406 138.740234375 1259.54394531 c 5
+ 263.936523438 1304.77636719 l 5
+ 299.041992188 1206.63574219 333.474609375 1113.46484375 367.877929688 1016.94433594 c 4
+ 399.041015625 929.903320312 467.9765625 886.052734375 565.918945312 885 c 4
+ 670.03515625 885 712.004882812 990.924804688 713 1166 c 4
+ 713 1192.93164062 713.743164062 1222.89550781 713.9453125 1249.20800781 c 5
+ 838.534179688 1259.72558594 l 5
+ 839.624023438 1230.13964844 841.162109375 1201.25585938 842.008789062 1172.49121094 c 4
+ 848.974609375 991.374023438 895.313476562 885 999 885 c 4
+ 1116.24511719 885 1143 997.2890625 1143 1099 c 4
+ 1143 1186.00195312 1132.78710938 1253.15429688 1124.46582031 1301.96191406 c 5
+ 1262.99316406 1318.35644531 l 5
+ 1269.75683594 1264.77148438 1278 1193.60644531 1278 1105 c 4
+ 1278 888.642578125 1188.92480469 742 995 742 c 4
+ 916.497070312 742 847.091796875 773.44140625 783.388671875 847.76171875 c 6
+ 771.823242188 861.254882812 l 5
+ 760.46484375 847.587890625 l 6
+ 698.678710938 773.252929688 628.711914062 742 568 742 c 4
+ 513.576171875 742 464.094726562 763.114257812 420.892578125 788.829101562 c 5
+ 425.139648438 757.956054688 l 6
+ 451.071289062 569.453125 462 418.340820312 462 250 c 6
+ 462 0 l 5
+ 322 0 l 5
+ 322 253 l 6
 EndSplineSet
 EndChar
 
@@ -2054,7 +2054,7 @@ LayerCount: 2
 Fore
 SplineSet
 122 932 m 0
- 122 1126.77148438 270.303710938 1303 462 1303 c 0
+ 122 1116.84960938 270.640625 1303 462 1303 c 0
  716.018554688 1303 784.459960938 1112.34375 799.018554688 831.255859375 c 0
  814.029296875 529.077148438 824.947265625 250.005859375 831.599609375 -0 c 1
  693.611328125 0 l 1
@@ -2618,7 +2618,7 @@ EndChar
 StartChar: uni06F3
 Encoding: 1779 1779 89
 GlifName: uni06F_3
-Width: 1416
+Width: 1411
 VWidth: 2950
 GlyphClass: 2
 Flags: HW
@@ -4590,8 +4590,8 @@ GlifName: uniF_E_B_2
 Width: 2553
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-2" 1762 900 basechar 0
-AnchorPoint: "Anchor-0" 665 -773 basechar 0
+AnchorPoint: "Anchor-7" 710.902 -731.086 basechar 0
+AnchorPoint: "Anchor-10" 1761.53 903.1 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4641,8 +4641,8 @@ GlifName: uniF_E_B_3
 Width: 1562
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-2" 852 900 basechar 0
-AnchorPoint: "Anchor-0" 759 -253 basechar 0
+AnchorPoint: "Anchor-7" 770.902 -247.086 basechar 0
+AnchorPoint: "Anchor-10" 857.53 895.1 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4682,8 +4682,8 @@ GlifName: uniF_E_B_4
 Width: 1658
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-2" 852 900 basechar 0
-AnchorPoint: "Anchor-0" 759 -253 basechar 0
+AnchorPoint: "Anchor-10" 857.53 895.1 basechar 0
+AnchorPoint: "Anchor-7" 770.902 -247.086 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7471,7 +7471,7 @@ EndChar
 
 StartChar: uniFBFD.compact
 Encoding: 65575 -1 321
-Width: 1397
+Width: 1407
 VWidth: 2688
 Flags: HW
 AnchorPoint: "Anchor-6" 716.021 -703.333 baselig 1
@@ -7489,8 +7489,8 @@ SplineSet
  844.588867188 142.48828125 l 2
  843.741210938 146.032226562 843.911132812 148.177734375 843.987304688 148.6484375 c 0
  845.21484375 149.237304688 847.94921875 150 853 150 c 2
- 1416 150 l 5
- 1416 0 l 5
+ 1426 150 l 5
+ 1426 0 l 5
  1328 0 l 1
  1296.6328125 0 l 1
  1316.32421875 -24.416015625 l 2
@@ -7504,7 +7504,7 @@ EndChar
 
 StartChar: uniFE8A.compact
 Encoding: 65576 -1 322
-Width: 1377
+Width: 1407
 VWidth: 2703
 Flags: HW
 AnchorPoint: "Anchor-7" 699.902 -656.086 basechar 0
@@ -7517,7 +7517,7 @@ EndChar
 
 StartChar: uniFEF2.compact
 Encoding: 65577 -1 323
-Width: 1377
+Width: 1407
 VWidth: 2703
 Flags: HW
 AnchorPoint: "Anchor-10" 681.6 653.22 basechar 0
@@ -7584,12 +7584,12 @@ EndChar
 
 StartChar: uni06CE.fina.compact
 Encoding: 65578 -1 326
-Width: 1377
+Width: 1407
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 321 -1 N 1 0 0 1 0 0 2
-Refer: 58 1626 S 1 0 0 1 51 -909 2
+Refer: 58 1626 N 1 0 0 1 51 -909 2
 EndChar
 EndChars
 EndSplineFont
