@@ -6,6 +6,7 @@
        url('Vazir.woff') format('woff'),
        url('Vazir.ttf') format('truetype');
   font-weight: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -16,6 +17,7 @@
        url('Vazir-Bold.woff') format('woff'),
        url('Vazir-Bold.ttf') format('truetype');
   font-weight: bold;
+  font-display: swap;
 }
 
 @font-face {
@@ -26,6 +28,7 @@
        url('Vazir-Thin.woff') format('woff'),
        url('Vazir-Thin.ttf') format('truetype');
   font-weight: 100;
+  font-display: swap;
 }
 
 @font-face {
@@ -36,6 +39,7 @@
        url('Vazir-Light.woff') format('woff'),
        url('Vazir-Light.ttf') format('truetype');
   font-weight: 300;
+  font-display: swap;
 }
 
 @font-face {
@@ -46,6 +50,7 @@
        url('Vazir-Medium.woff') format('woff'),
        url('Vazir-Medium.ttf') format('truetype');
   font-weight: 500;
+  font-display: swap;
 }
 
 @font-face {
@@ -56,4 +61,5 @@
        url('Vazir-Black.woff') format('woff'),
        url('Vazir-Black.ttf') format('truetype');
   font-weight: 900;
+  font-display: swap;
 }
