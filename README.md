@@ -5,23 +5,20 @@ A Persian (Farsi) Font
 [![npm version](https://badge.fury.io/js/vazir-font.svg)](https://badge.fury.io/js/vazir-font)
 
 
-فونت فارسی وزیر  
-[نمایش فونت - صفحه رسمی پروژه](https://rastikerdar.github.io/vazir-font/)  
-[صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/vazir-font/releases)  
-با تشکر از برنامه [FontForge](https://fontforge.github.io)  
-بر مبنای فونت [DejaVu Sans 2.35](https://dejavu-fonts.github.io)  
-نسخه‌های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.  
-فرآیند تولید بسته نهایی شامل انواع نسخه‌ها و فرمت‌ها توسط ابزار [fontbuilder](https://github.com/rastikerdar/fontbuilder) انجام می‌شود.
+<div dir="rtl">
+    <p>فونت فارسی وزیر</p>
+    <a href="https://rastikerdar.github.io/vazir-font/">نمایش فونت - صفحه رسمی پروژه</a><br>
+    <a href="https://github.com/rastikerdar/vazir-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a><br>
+    <p>با تشکر از برنامه<a href="https://fontforge.github.io">FontForge</a></p>
+    <p>بر مبنای فونت<a href="https://dejavu-fonts.github.io">DejaVu Sans 2.35</a></p>
+    <p>نسخه‌های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.</p>
+    <p>فرآیند تولید بسته نهایی شامل انواع نسخه‌ها و فرمت‌ها توسط ابزار<a href="https://github.com/rastikerdar/fontbuilder">fontbuilder</a>  انجام می‌شود. </p>
 
-## نمونه متن Sample:
-![نمونه متن فونت وزیر](./sample.png)
-
-## طریقه استفاده در صفحات وب:
-
-<p dir="rtl">
-کد زیر را در قسمت style یا فایل css وارد نمایید:
-</p>
-
+<h2>نمونه متن Sample:</h2><hr>
+<img src="./sample.png" alt="نمونه متن فونت وزیر">
+<h2> طریقه استفاده در صفحات وب: </h2><hr>
+<p>کد زیر را در قسمت style یا فایل css وارد نمایید:</p>
+</div>
 
 ```css
 @font-face {
