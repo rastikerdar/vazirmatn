@@ -7,8 +7,10 @@ A Persian (Farsi) Font
 
 <div dir="rtl">
     <p>فونت فارسی وزیر</p>
-    <a href="https://rastikerdar.github.io/vazir-font/">نمایش فونت - صفحه رسمی پروژه</a><br><br>
-    <a href="https://github.com/rastikerdar/vazir-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a><br><br>
+    <p>
+        <a href="https://rastikerdar.github.io/vazir-font/">نمایش فونت - صفحه رسمی پروژه</a> |
+        <a href="https://github.com/rastikerdar/vazir-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a>
+    </p>
     <p> با تشکر از برنامه <a href="https://fontforge.github.io"> FontForge </a></p>
     <p> بر مبنای فونت <a href="https://dejavu-fonts.github.io"> DejaVu Sans 2.35 </a></p>
     <p>نسخه‌های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.</p>
