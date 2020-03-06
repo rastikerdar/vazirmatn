@@ -9,15 +9,15 @@ A Persian (Farsi) Font
     <p>فونت فارسی وزیر</p>
     <a href="https://rastikerdar.github.io/vazir-font/">نمایش فونت - صفحه رسمی پروژه</a><br>
     <a href="https://github.com/rastikerdar/vazir-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a><br>
-    <p>با تشکر از برنامه<a href="https://fontforge.github.io">FontForge</a></p>
-    <p>بر مبنای فونت<a href="https://dejavu-fonts.github.io">DejaVu Sans 2.35</a></p>
+    <p> با تشکر از برنامه <a href="https://fontforge.github.io"> FontForge </a></p>
+    <p> بر مبنای فونت <a href="https://dejavu-fonts.github.io"> DejaVu Sans 2.35 </a></p>
     <p>نسخه‌های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.</p>
     <p>فرآیند تولید بسته نهایی شامل انواع نسخه‌ها و فرمت‌ها توسط ابزار<a href="https://github.com/rastikerdar/fontbuilder">fontbuilder</a>  انجام می‌شود. </p>
 
-<h2>نمونه متن Sample:</h2><hr>
-<img src="./sample.png" alt="نمونه متن فونت وزیر">
-<h2> طریقه استفاده در صفحات وب: </h2><hr>
-<p>کد زیر را در قسمت style یا فایل css وارد نمایید:</p>
+<h2>نمونه متن Sample:</h2>
+    <img src="./sample.png" alt="نمونه متن فونت وزیر">
+    <h2> طریقه استفاده در صفحات وب: </h2>
+    <p>کد زیر را در قسمت style یا فایل css وارد نمایید:</p>
 </div>
 
 ```css
