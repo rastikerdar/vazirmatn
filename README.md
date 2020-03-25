@@ -138,5 +138,27 @@ sudo apt update
 sudo apt install fonts-vazir
 ```
 
+
+#### Linux
+gnu/inux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install vazir font.
+
+ubuntu users must install this dependensies too:
+```
+sudo apt install openssl libssl-dev
+````
+
+##### install kateb
+```
+sudo cpan kateb
+```
+and
+```
+kateb install vazir
+```
+or
+```
+kateb update vazir
+```
+
 ## License
 2015 Saber Rastikerdar ([@rastikerdar](https://github.com/rastikerdar)). See the `LICENSE` file.
