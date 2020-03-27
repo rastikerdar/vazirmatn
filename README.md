@@ -139,7 +139,7 @@ sudo apt install fonts-vazir
 ```
 
 
-#### Linux
+#### GNU/Linux
 gnu/inux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install vazir font.
 
 ```
