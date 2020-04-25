@@ -103,10 +103,10 @@ npm install vazir-font
 Fonts will be copied to `node_modules/vazir-font/dist` directory
 
 #### CDN
-Link fonts from the [RawGit](https://rawgit.com) CDN:
+Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
-<link href="https://cdn.rawgit.com/rastikerdar/vazir-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
 Replace [X.Y.Z] with the latest version (e.g. 24.2.0) and integrate the font into your CSS:
