@@ -110,14 +110,6 @@ Replace [X.Y.Z] with the latest version (e.g. 24.2.0) and integrate the font int
 font-family: 'Vazir', sans-serif;
 ```
 
-#### Homebrew
-You can install the font on macOS machines by tapping the caskroom/fonts repo:
-
-```shell
-brew tap caskroom/fonts
-brew install font-vazir
-```
-
 #### Arch Linux
 Arch user's could use [vazir-fonts](https://aur.archlinux.org/packages/vazir-fonts/) package from [AUR](https://aur.archlinux.org/) repository to install vazir font.
 Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
