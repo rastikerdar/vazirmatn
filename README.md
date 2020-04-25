@@ -91,11 +91,6 @@ A Persian (Farsi) Font
 #### Download
 Grab the [latest release](https://github.com/rastikerdar/vazir-font/releases/latest) file.
 
-#### Bower
-```
-bower install vazir-font --save
-```
-
 #### npm
 ```
 npm install vazir-font
@@ -130,14 +125,6 @@ Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers
 ```shell
 pacaur -S vazir-fonts
 ```
-#### Ubuntu/Debian
-An unofficial PPA is available for installing Vazir and other free Persian fonts. It only works on Ubuntu 18.04 and higher. Open a Terminal and enter these commands:
-```shell
-sudo add-apt-repository ppa:blacksuited/fonts
-sudo apt update
-sudo apt install fonts-vazir
-```
-
 
 #### GNU/Linux
 gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install vazir font.
