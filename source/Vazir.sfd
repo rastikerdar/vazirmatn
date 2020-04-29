@@ -3,8 +3,8 @@ FontName: Vazir
 FullName: Vazir
 FamilyName: Vazir
 Weight: Regular
-Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.\nNon-Arabic(Latin) glyphs and data in extended version are imported from Roboto font under the Apache License, Version 2.0.
-Version: 24.2.0
+Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.
+Version: 25.0.0
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1587109379
+ModificationTime: 1588104363
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -58,45 +58,78 @@ OS2XHeight: 1082
 OS2Vendor: '    '
 OS2CodePages: 00000041.20080000
 OS2UnicodeRanges: 80002003.80000000.00000008.00000000
-Lookup: 1 9 0 "Single Substitution 1" { "Single Substitution 1 subtable"  } []
-Lookup: 1 9 0 "'fina' Terminal Forms in Arabic lookup 9" { "'fina' Terminal Forms in Arabic lookup 9 subtable"  } ['fina' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 11" { "'medi' Medial Forms in Arabic lookup 11 subtable"  } ['medi' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 13" { "'init' Initial Forms in Arabic lookup 13 subtable"  } ['init' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 15" { "'rlig' Required Ligatures in Arabic lookup 15 subtable"  } ['rlig' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 16" { "'rlig' Required Ligatures in Arabic lookup 16 subtable"  } ['rlig' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 14" { "'rlig' Required Ligatures in Arabic lookup 14 subtable"  } ['rlig' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 6 9 0 "'calt' Contextual Alternates lookup 1" { "'calt' Contextual Alternates lookup 1 subtable 1"  "'calt' Contextual Alternates lookup 1 subtable 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 4 9 1 "'liga' Standard Ligatures in Arabic lookup 17" { "'liga' Standard Ligatures in Arabic lookup 17 subtable"  } ['liga' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 19" { "'liga' Standard Ligatures in Arabic lookup 19 subtable"  } ['liga' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 258 9 0 "'kern' Horizontal Kerning lookup 15" { "'kern' Horizontal Kerning lookup 15-6" [307,30,2] "'kern' Horizontal Kerning lookup 15-5" [307,30,2] "'kern' Horizontal Kerning lookup 15-4" [307,30,2] "'kern' Horizontal Kerning lookup 15-2" [307,30,2] "'kern' Horizontal Kerning lookup 15-1" [307,30,2] "'kern' Horizontal Kerning lookup 15-3" [307,30,2] } ['kern' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 1 9 0 "Single Substitution 0" { "Single Substitution 0 subtable"  } []
+Lookup: 1 9 0 "'fina' Terminal Forms in Arabic lookup 1" { "'fina' Terminal Forms in Arabic lookup 1 subtable"  } ['fina' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 2" { "'medi' Medial Forms in Arabic lookup 2 subtable"  } ['medi' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 3" { "'init' Initial Forms in Arabic lookup 3 subtable"  } ['init' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 4" { "'rlig' Required Ligatures in Arabic lookup 4 subtable"  } ['rlig' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 5" { "'rlig' Required Ligatures in Arabic lookup 5 subtable"  } ['rlig' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 6" { "'rlig' Required Ligatures in Arabic lookup 6 subtable"  } ['rlig' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 6 9 0 "'calt' Contextual Alternates lookup 7" { "'calt' Contextual Alternates lookup 7 subtable 1"  "'calt' Contextual Alternates lookup 7 subtable 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 4 9 1 "'liga' Standard Ligatures in Arabic lookup 8" { "'liga' Standard Ligatures in Arabic lookup 8 subtable"  } ['liga' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 9" { "'liga' Standard Ligatures in Arabic lookup 9 subtable"  } ['liga' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 257 0 0 "Single Positioning lookup 0" { "Single Positioning lookup 0 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 1" { "Single Positioning lookup 1 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 2" { "Single Positioning lookup 2 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 3" { "Single Positioning lookup 3 subtable"  } []
+Lookup: 258 9 0 "'kern' Horizontal Kerning lookup 4" { "'kern' Horizontal Kerning lookup 4 subtable 0" [307,30,2] "'kern' Horizontal Kerning lookup 4 subtable 1" [307,30,2] } ['kern' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 264 0 0 "'kern' Horizontal Kerning lookup 5" { "'kern' Horizontal Kerning lookup 5 subtable 0"  "'kern' Horizontal Kerning lookup 5 subtable 1"  "'kern' Horizontal Kerning lookup 5 subtable 2"  "'kern' Horizontal Kerning lookup 5 subtable 3"  } ['kern' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning lookup 6" { "'mark' Mark Positioning lookup 6 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 7" { "'mark' Mark Positioning lookup 7 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 261 1 0 "'mark' Mark Positioning lookup 8" { "'mark' Mark Positioning lookup 8 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 9" { "'mark' Mark Positioning lookup 9 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 261 1 0 "'mark' Mark Positioning lookup 5" { "'mark' Mark Positioning lookup 5 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning lookup 6" { "'mark' Mark Positioning lookup 6 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 1" { "'mkmk' Mark to Mark in Arabic lookup 1 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 0" { "'mkmk' Mark to Mark in Arabic lookup 0 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 261 1 0 "'mark' Mark Positioning lookup 10" { "'mark' Mark Positioning lookup 10 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 11" { "'mkmk' Mark to Mark in Arabic lookup 11 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 12" { "'mkmk' Mark to Mark in Arabic lookup 12 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 MarkAttachClasses: 5
 "MarkClass-1" 307 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0315 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0351 uni0352 uni0357
 "MarkClass-2" 300 uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0321 uni0322 dotbelowcomb uni0324 uni0325 uni0326 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353
 "MarkClass-3" 7 uni0327
 "MarkClass-4" 7 uni0328
 DEI: 91125
-ChainSub2: coverage "'calt' Contextual Alternates lookup 1 subtable 2" 0 0 0 1
+ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 3" 0 0 0 1
+ 1 1 0
+  Coverage: 5 space
+  BCoverage: 68 uni0631 uni0632 uniFEAE uniFEB0 uni0698 uniFB8B uni0695 uni0695.fina
+ 1
+  SeqLookup: 0 "Single Positioning lookup 3"
+EndFPST
+ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 2" 0 0 0 1
+ 1 1 0
+  Coverage: 503 uniFE8B uni0640 uni067E uni06AF uniFB92 uniFB94 uni0621 uni0622 uni0623 uni0627 uni0628 uni0629 uni062A uniFE97 uni062B uniFE9B uniFE9F uniFEA3 uniFEA7 uni062F uni0630 uni0633 uniFEB3 uni0634 uniFEB7 uni0635 uniFEBB uni0636 uniFEBF uni0637 uniFEC3 uni0638 uniFEC7 uniFECB uniFECF uni0641 uniFED3 uniFED7 uni0643 uniFEDB uniFEDF uniFEFB uni0645 uniFEE3 uni0647 uniFEEB uni06A9 uniFB8E uniFB90 uni06C0 uniFEE7 uni0642 uni0644 uni0646 uni0649 uni0626 uni064A uni0631 uni0632 uni0624 uni0648 uni0698 uniFBFE
+  BCoverage: 52 uni0631 uni0632 uniFEAE uniFEB0 uni0695 uni0695.fina
+ 1
+  SeqLookup: 0 "Single Positioning lookup 2"
+EndFPST
+ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 1" 0 0 0 1
+ 1 1 0
+  Coverage: 503 uniFE8B uni0640 uni067E uni06AF uniFB92 uniFB94 uni0621 uni0622 uni0623 uni0627 uni0628 uni0629 uni062A uniFE97 uni062B uniFE9B uniFE9F uniFEA3 uniFEA7 uni062F uni0630 uni0633 uniFEB3 uni0634 uniFEB7 uni0635 uniFEBB uni0636 uniFEBF uni0637 uniFEC3 uni0638 uniFEC7 uniFECB uniFECF uni0641 uniFED3 uniFED7 uni0643 uniFEDB uniFEDF uniFEFB uni0645 uniFEE3 uni0647 uniFEEB uni06A9 uniFB8E uniFB90 uni06C0 uniFEE7 uni0642 uni0644 uni0646 uni0649 uni0626 uni064A uni0631 uni0632 uni0624 uni0648 uni0698 uniFBFE
+  BCoverage: 15 uni0698 uniFB8B
+ 1
+  SeqLookup: 0 "Single Positioning lookup 1"
+EndFPST
+ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 0" 0 0 0 1
+ 1 1 0
+  Coverage: 119 uniFEDB uniFB94 uni06AF uni06A9 uniFB90 uni0622 uni0627 uniFEDF uniFEFB uni0643 uni0644 uniFE8B uniFED7 uniFE97 uniFE9B
+  BCoverage: 7 uni0622
+ 1
+  SeqLookup: 0 "Single Positioning lookup 0"
+EndFPST
+ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 2" 0 0 0 1
  1 1 0
   Coverage: 15 uniFECC uniFED0
   BCoverage: 95 uniFBFE uniFBFF uniFE91 uniFE92 uniFE97 uniFE98 uniFE9B uniFE9C uniFEE7 uniFEE8 uniFEF3 uniFEF4
  1
-  SeqLookup: 0 "Single Substitution 1"
+  SeqLookup: 0 "Single Substitution 0"
 EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates lookup 1 subtable 1" 0 0 0 1
+ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1 1 0
   Coverage: 60 uniFBFD uniFE8A uniFEF0 uniFEF2 uni06CE.fina uniFEEE uniFED6
   BCoverage: 407 uniFB7C uniFB7D uniFB90 uniFB91 uniFB94 uniFB95 uniFE8B uniFE8C uniFE97 uniFE98 uniFE9B uniFE9C uniFE9F uniFEA0 uniFEA3 uniFEA4 uniFEA7 uniFEA8 uniFEB3 uniFEB4 uniFEB7 uniFEB8 uniFEBB uniFEBC uniFEBF uniFEC0 uniFEC3 uniFEC4 uniFEC7 uniFECB uniFECC uniFECF uniFED0 uniFED3 uniFED4 uniFED7 uniFED8 uniFEDB uniFEDC uniFEDF uniFEE0 uniFEE3 uniFEE4 uniFEE7 uniFEE8 uniFEEB uniFEEC uniFECC.compact uniFED0.compact
  1
-  SeqLookup: 0 "Single Substitution 1"
+  SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Regular" "" "Version 24.2.0" "" "" "Based on Dejavu fonts, by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "https://dejavu-fonts.github.io/License.html+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Regular"
+LangName: 1033 "" "" "" "Vazir Regular" "" "Version 25.0.0" "" "" "Based on Dejavu fonts, by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "https://dejavu-fonts.github.io/License.html+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Regular"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -174,8 +207,8 @@ Grid
  4096 961.700012207 l 1024
 EndSplineSet
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Anchor-0" "'mkmk' Mark to Mark in Arabic lookup 0 subtable" "Anchor-1" "'mkmk' Mark to Mark in Arabic lookup 1 subtable" "Anchor-2"""  "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor-6" "'mark' Mark Positioning lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8" "'mark' Mark Positioning lookup 7 subtable" "Anchor-9" "'mark' Mark Positioning lookup 8 subtable" "Anchor-10" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"""  "Anchor-12"""  "Anchor-13"""  "Anchor-14"""  "Anchor-15"""  "Anchor-16"""  "Anchor-17"""  "Anchor-18"""  "Anchor-19""" 
-BeginChars: 65583 329
+AnchorClass2: "Anchor-0" "'mkmk' Mark to Mark in Arabic lookup 12 subtable" "Anchor-1" "'mkmk' Mark to Mark in Arabic lookup 11 subtable" "Anchor-2"""  "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor-6" "'mark' Mark Positioning lookup 10 subtable" "Anchor-7" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8" "'mark' Mark Positioning lookup 7 subtable" "Anchor-9" "'mark' Mark Positioning lookup 8 subtable" "Anchor-10" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"""  "Anchor-12"""  "Anchor-13"""  "Anchor-14"""  "Anchor-15"""  "Anchor-16"""  "Anchor-17"""  "Anchor-18"""  "Anchor-19""" 
+BeginChars: 65584 342
 
 StartChar: space
 Encoding: 32 32 0
@@ -183,8 +216,9 @@ GlifName: space
 Width: 560
 VWidth: 2532
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 LayerCount: 2
+Position2: "Single Positioning lookup 3 subtable" dx=0 dy=0 dh=-140 dv=0
 EndChar
 
 StartChar: exclam
@@ -391,6 +425,8 @@ SplineSet
  360 701 280 640 280 535 c 0
  280 472 340 415 454 363 c 1
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-120 dv=0
 EndChar
 
 StartChar: uni0622
@@ -406,24 +442,12 @@ LayerCount: 2
 Fore
 Refer: 54 1619 N 1 0 0 1 -244.5 -237.736 2
 Refer: 15 1575 N 1 0 0 0.89919 -0.00019375 -0.359573 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFEDB dx=180 dy=0 dh=180 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFB94 dx=180 dy=0 dh=180 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uni06AF dx=180 dy=0 dh=180 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uni06A9 dx=180 dy=0 dh=180 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFB90 dx=180 dy=0 dh=180 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFED7 dx=70 dy=0 dh=70 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFE97 dx=60 dy=0 dh=60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFE9B dx=60 dy=0 dh=60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uni0622 dx=320 dy=0 dh=320 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uni0627 dx=130 dy=0 dh=130 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFEDF dx=130 dy=0 dh=130 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFEFB dx=130 dy=0 dh=130 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uni0643 dx=130 dy=0 dh=130 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFE8B dx=80 dy=0 dh=80 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uni0644 dx=130 dy=0 dh=130 dv=0 dx=0 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-143 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=320 dv=0
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uni0653
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE82
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0627 uni0653
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE82
 EndChar
 
 StartChar: uni0623
@@ -439,9 +463,11 @@ LayerCount: 2
 Fore
 Refer: 55 1620 S 1 0 0 1 -328.135 -442.782 2
 Refer: 15 1575 N 1 0 0 0.854231 -6.5e-05 1.98658 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-143 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uni0654
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE84
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0627 uni0654
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE84
 EndChar
 
 StartChar: uni0624
@@ -457,9 +483,11 @@ LayerCount: 2
 Fore
 Refer: 55 1620 S 1 0 0 1 -140.36 -846.291 2
 Refer: 43 1608 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-30 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0648 uni0654
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE86
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0648 uni0654
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE86
 EndChar
 
 StartChar: uni0625
@@ -476,8 +504,8 @@ Fore
 Refer: 56 1621 S 1 0 0 1 -343.085 -164.689 2
 Refer: 15 1575 N 1 0 0 1 1 0 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uni0655
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE88
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0627 uni0655
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE88
 EndChar
 
 StartChar: uni0626
@@ -493,11 +521,13 @@ LayerCount: 2
 Fore
 Refer: 55 1620 N 1 0 0 1 33.706 -1037.54 2
 Refer: 44 1609 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-58 dv=0
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni064A uni0654
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE8A
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE8C
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE8B
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni064A uni0654
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE8A
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE8C
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE8B
 EndChar
 
 StartChar: uni0627
@@ -512,13 +542,16 @@ AnchorPoint: "Anchor-7" 228.587 -238.365 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-148 1366 m 5
- 317 1366 l 5
+148 1366 m 1
+ 317 1366 l 1
  317 1 l 1
  148 1 l 1
- 148 1366 l 5
+ 148 1366 l 1
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE8E
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-143 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-127 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=130 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE8E
 EndChar
 
 StartChar: uni0628
@@ -534,9 +567,11 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 834.95 -400.716 2
 Refer: 73 1646 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE90
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE92
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE91
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE90
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE92
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE91
 EndChar
 
 StartChar: uni0629
@@ -552,7 +587,9 @@ LayerCount: 2
 Fore
 Refer: 42 1607 N 1 0 0 1 0 0 2
 Refer: 265 -1 N 1 0 0 1 189.229 1129.81 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE94
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE94
 EndChar
 
 StartChar: uni062A
@@ -568,9 +605,11 @@ LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 2
 Refer: 265 -1 S 1 0 0 1 649.562 761.85 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE96
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE98
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE97
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE96
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE98
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE97
 EndChar
 
 StartChar: uni062B
@@ -586,9 +625,11 @@ LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 2
 Refer: 266 -1 S 1 0 0 1 650.562 722.477 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE9A
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE9C
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE9B
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE9A
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE9C
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE9B
 EndChar
 
 StartChar: uni062C
@@ -604,9 +645,9 @@ LayerCount: 2
 Fore
 Refer: 21 1581 N 1 0 0 1 0 0 2
 Refer: 264 -1 N 1 0 0 1 711.95 -175.716 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE9E
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA0
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE9F
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE9E
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEA0
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE9F
 EndChar
 
 StartChar: uni062D
@@ -640,9 +681,9 @@ SplineSet
  379 -677 99 -512 99 -151 c 4
  99 171 354 442 836 550 c 5
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEA2
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA4
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEA3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEA2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEA4
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEA3
 EndChar
 
 StartChar: uni062E
@@ -658,9 +699,9 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 473.894 1086.26 2
 Refer: 21 1581 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEA6
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA8
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEA7
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEA6
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEA8
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEA7
 EndChar
 
 StartChar: uni062F
@@ -685,7 +726,9 @@ SplineSet
  246 2 168 11 98 26 c 1
  98 207 l 5
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEAA
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEAA
 EndChar
 
 StartChar: uni0630
@@ -701,7 +744,9 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 255.95 1182.28 2
 Refer: 23 1583 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEAC
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEAC
 EndChar
 
 StartChar: uni0631
@@ -724,70 +769,9 @@ SplineSet
  515 221 489 349 438 469 c 5
  600 527 l 5
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEE7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE8B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0640 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni067E dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06AF dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB92 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB94 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0621 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0622 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0623 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0627 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0628 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0629 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062A dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE97 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9F dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062F dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0630 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0633 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0634 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0635 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0636 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBF dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0637 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0638 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECF dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0641 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0642 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0643 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDB dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0644 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDF dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEFB dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0645 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEE3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0646 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0647 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEEB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0649 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0626 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni064A dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06A9 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB8E dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB90 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=30 dy=0 dh=30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0631 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0632 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0624 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0648 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0698 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-5" uni06C0 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEAE
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-30 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEAE
 EndChar
 
 StartChar: uni0632
@@ -803,70 +787,9 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 367.95 794.284 2
 Refer: 25 1585 N 1 0 0 1 0 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEE7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE8B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0640 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni067E dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06AF dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB92 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB94 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0621 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0622 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0623 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0627 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0628 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0629 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062A dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE97 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9F dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062F dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0630 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0633 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0634 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0635 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0636 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBF dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0637 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0638 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECF dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0641 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0642 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0643 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDB dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0644 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDF dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEFB dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0645 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEE3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0646 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0647 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEEB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0649 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0626 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni064A dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06A9 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB8E dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB90 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=30 dy=0 dh=30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0631 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0632 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0624 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0648 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0698 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-5" uni06C0 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEB0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-30 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEB0
 EndChar
 
 StartChar: uni0633
@@ -907,9 +830,11 @@ SplineSet
  1933.33300781 0 1853.33300781 47.6669921875 1806 143 c 1
  1737.33300781 47.6669921875 1645.66699219 0 1531 0 c 0
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEB2
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEB4
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEB3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEB2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEB4
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEB3
 EndChar
 
 StartChar: uni0634
@@ -925,9 +850,11 @@ LayerCount: 2
 Fore
 Refer: 266 -1 N 1 0 0 1 1501 859 2
 Refer: 27 1587 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEB6
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEB8
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEB7
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEB6
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEB8
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEB7
 EndChar
 
 StartChar: uni0635
@@ -942,21 +869,21 @@ AnchorPoint: "Anchor-10" 2052.53 1128.1 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1753 181 m 2
- 2115 181 2299 257 2299 413 c 0
- 2299 522 2220 605 2104 605 c 0
- 1950 605 1783 457 1605 180 c 1
- 1753 181 l 2
+1753 181 m 6
+ 2115 181 2299 257 2299 413 c 4
+ 2299 522 2220 605 2104 605 c 4
+ 1950 605 1783 457 1605 180 c 5
+ 1753 181 l 6
 1177 100 m 0
  1177 223 1146 346 1087 469 c 1
  1256 527 l 1
  1315 344 l 2
- 1343 258 1376 214 1419 209 c 1
- 1646 595 1869 787 2098 787 c 0
- 2317 787 2477 628 2477 422 c 0
- 2476 141 2237 0 1757 0 c 2
- 1706 0 l 2
- 1537 0 1419 20 1342 57 c 1
+ 1343 258 1376 214 1419 209 c 5
+ 1646 595 1869 787 2098 787 c 4
+ 2317 787 2477 628 2477 422 c 4
+ 2476 141 2237 0 1757 0 c 6
+ 1706 0 l 6
+ 1537 0 1419 20 1342 57 c 5
  1337 -329 1096 -520 721 -520 c 0
  305 -520 98 -328 98 56 c 0
  98 196 128 339 188 485 c 1
@@ -965,9 +892,11 @@ SplineSet
  270 -211 423 -347 728 -347 c 0
  1025 -347 1176 -198 1177 100 c 0
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEBA
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEBC
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEBB
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEBA
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEBC
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEBB
 EndChar
 
 StartChar: uni0636
@@ -983,9 +912,11 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 1966.95 1046.28 2
 Refer: 29 1589 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEBE
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC0
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEBF
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEBE
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEC0
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEBF
 EndChar
 
 StartChar: uni0637
@@ -1017,9 +948,11 @@ SplineSet
  98 180 l 1
  320 180 l 1
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEC2
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC4
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEC3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEC2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEC4
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEC3
 EndChar
 
 StartChar: uni0638
@@ -1035,9 +968,11 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 878.95 1046.28 2
 Refer: 31 1591 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEC6
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC8
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEC7
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEC6
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEC8
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEC7
 EndChar
 
 StartChar: uni0639
@@ -1072,9 +1007,9 @@ SplineSet
  806 1049 917 1009 1034 929 c 1
  968 783 l 1
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFECA
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFECC
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFECB
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFECA
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFECC
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFECB
 EndChar
 
 StartChar: uni063A
@@ -1090,9 +1025,9 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 588.95 1264.28 2
 Refer: 33 1593 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFECE
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED0
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFECF
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFECE
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFED0
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFECF
 EndChar
 
 StartChar: uni0640
@@ -1113,6 +1048,8 @@ SplineSet
  306 0 l 1
  -20 0 l 5
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uni0641
@@ -1128,9 +1065,11 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 1210.95 1246.28 2
 Refer: 80 1697 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFED2
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED4
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFED3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFED2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFED4
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFED3
 EndChar
 
 StartChar: uni0642
@@ -1146,9 +1085,11 @@ LayerCount: 2
 Fore
 Refer: 265 -1 S 1 0 0 1 712 962 2
 Refer: 74 1647 S 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFED6
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED8
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFED7
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-58 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFED6
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFED8
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFED7
 EndChar
 
 StartChar: uni0643
@@ -1192,9 +1133,12 @@ SplineSet
  274 289 462 180 830 180 c 2
  978 180 l 2
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEDA
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEDC
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEDB
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-143 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-104 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=130 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEDA
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEDC
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEDB
 EndChar
 
 StartChar: uni0644
@@ -1221,9 +1165,12 @@ SplineSet
  98 172 125 288 180 421 c 1
  335 358 l 1
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEDE
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE0
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEDF
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-58 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=130 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEDE
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEE0
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEDF
 EndChar
 
 StartChar: uni0645
@@ -1256,9 +1203,11 @@ SplineSet
  274 -436 279 -548 288 -655 c 5
  112 -655 l 5
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEE3
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE4
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEE2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEE3
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEE4
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEE2
 EndChar
 
 StartChar: uni0646
@@ -1274,9 +1223,11 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 614.95 584.284 2
 Refer: 83 1722 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEE6
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE8
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEE7
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-58 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEE6
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEE8
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEE7
 EndChar
 
 StartChar: uni0647
@@ -1304,9 +1255,11 @@ SplineSet
  272 802 l 1
  369 932 l 1
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEEA
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEEC
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEEB
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEEA
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEEC
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEEB
 EndChar
 
 StartChar: uni0648
@@ -1335,7 +1288,9 @@ SplineSet
  263 219 329 172 458 172 c 0
  510 172 563 183 616 199 c 1
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEEE
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-30 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEEE
 EndChar
 
 StartChar: uni0649
@@ -1370,9 +1325,11 @@ SplineSet
  98 221 134 368 206 538 c 1
  361 475 l 1
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEF0
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFBE9
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFBE8
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-58 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEF0
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFBE9
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFBE8
 EndChar
 
 StartChar: uni064A
@@ -1388,9 +1345,11 @@ LayerCount: 2
 Fore
 Refer: 265 -1 S 1 0 0 1 474 -887 2
 Refer: 44 1609 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEF2
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEF4
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEF3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-58 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEF2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEF4
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEF3
 EndChar
 
 StartChar: uni064B
@@ -1469,16 +1428,16 @@ AnchorPoint: "Anchor-0" 542.278 32.7109 mark 0
 LayerCount: 2
 Fore
 SplineSet
-332 -446 m 5
- 332 -342 l 5
- 788 -156 l 5
- 788 -260 l 5
- 332 -446 l 5
-332 -234 m 5
- 332 -130 l 5
- 788 56 l 5
- 788 -48 l 5
- 332 -234 l 5
+332 -446 m 1
+ 332 -342 l 1
+ 788 -156 l 1
+ 788 -260 l 1
+ 332 -446 l 1
+332 -234 m 1
+ 332 -130 l 1
+ 788 56 l 1
+ 788 -48 l 1
+ 332 -234 l 1
 EndSplineSet
 EndChar
 
@@ -1551,11 +1510,11 @@ AnchorPoint: "Anchor-0" 571.144 -44.8242 mark 0
 LayerCount: 2
 Fore
 SplineSet
-343 -346 m 5
- 343 -242 l 5
- 798 -56 l 5
- 798 -159 l 5
- 343 -346 l 5
+343 -346 m 1
+ 343 -242 l 1
+ 798 -56 l 1
+ 798 -159 l 1
+ 343 -346 l 1
 EndSplineSet
 EndChar
 
@@ -2033,9 +1992,9 @@ SplineSet
  69 -352 l 5
  534 713 l 5
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-130 dy=0 dh=-130 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-130 dy=0 dh=-130 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-110 dy=0 dh=-110 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F2 dx=-130 dy=0 dh=-130 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F3 dx=-130 dy=0 dh=-130 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F4 dx=-110 dy=0 dh=-110 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni066C
@@ -2107,7 +2066,7 @@ SplineSet
  1663 638 1679 543 1679 463 c 4
  1679 59 1386 -0 975 0 c 6
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni066E.fina
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni066E.fina
 EndChar
 
 StartChar: uni066F
@@ -2140,7 +2099,7 @@ SplineSet
  98 256 128 399 188 545 c 5
  343 482 l 5
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni066F.fina
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni066F.fina
 EndChar
 
 StartChar: uni0670
@@ -2158,8 +2117,8 @@ LayerCount: 2
 Fore
 SplineSet
 593 1568 m 1
- 593 1930 l 5
- 681 1930 l 5
+ 593 1930 l 1
+ 681 1930 l 1
  681 1568 l 1
  593 1568 l 1
 EndSplineSet
@@ -2206,9 +2165,11 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 662 -396 2
 Refer: 73 1646 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB57
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB59
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB58
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB57
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB59
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB58
 EndChar
 
 StartChar: uni0686
@@ -2224,9 +2185,9 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 568 -106 2
 Refer: 21 1581 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB7B
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB7D
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB7C
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB7B
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB7D
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB7C
 EndChar
 
 StartChar: uni0698
@@ -2242,69 +2203,9 @@ LayerCount: 2
 Fore
 Refer: 266 -1 S 1 0 0 1 206 771 2
 Refer: 25 1585 N 1 0 0 1 0 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEE7 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=30 dy=0 dh=30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB90 dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB8E dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06A9 dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni064A dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0626 dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0649 dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEEB dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0647 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0646 dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEE3 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0645 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEFB dx=-104 dy=0 dh=-104 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDF dx=-104 dy=0 dh=-104 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0644 dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDB dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0643 dx=-104 dy=0 dh=-104 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED7 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0642 dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED3 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0641 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECF dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECB dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC7 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0638 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC3 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0637 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBF dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0636 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBB dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0635 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB7 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0634 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB3 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0633 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0630 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062F dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA7 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA3 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9F dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9B dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062B dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE97 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062A dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0629 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0628 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0627 dx=-116 dy=0 dh=-127 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0623 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0622 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0621 dx=-120 dy=0 dh=-120 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB94 dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB92 dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06AF dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni067E dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0640 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE8B dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0631 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0632 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0624 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0648 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-5" uni06C0 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB8B
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-40 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-40 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB8B
 EndChar
 
 StartChar: uni06A1
@@ -2339,9 +2240,9 @@ SplineSet
  1162 573 1222 531 1339 531 c 4
  1397 531 1455 541 1514 558 c 5
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uni06A1.init
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uni06A1.medi
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni06A1.fina
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06A1.init
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06A1.medi
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06A1.fina
 EndChar
 
 StartChar: uni06A9
@@ -2376,9 +2277,12 @@ SplineSet
  98 573 118 659 152 738 c 1
  305 681 l 1
 EndSplineSet
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB90
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB91
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB8F
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-226 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-219 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=180 dv=0
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB90
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB91
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB8F
 EndChar
 
 StartChar: uni06AF
@@ -2394,9 +2298,12 @@ LayerCount: 2
 Fore
 Refer: 273 -1 S 1.07 0 0 1.07 1009.56 -424.991 2
 Refer: 81 1705 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB93
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB95
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB94
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-226 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-219 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=180 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB93
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB95
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB94
 EndChar
 
 StartChar: uni06BA
@@ -2421,7 +2328,7 @@ SplineSet
  1025 -277 1176 -127 1177 170 c 0
  1177 293 1146 416 1087 539 c 1
 EndSplineSet
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB9F
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB9F
 EndChar
 
 StartChar: uni06CC
@@ -2436,9 +2343,9 @@ AnchorPoint: "Anchor-7" 716.902 -676.086 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 1609 N 1 0 0 1 0 0 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFBFE
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFBFF
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFBFD
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFBFE
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFBFF
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBFD
 EndChar
 
 StartChar: uni06D5
@@ -2453,7 +2360,7 @@ AnchorPoint: "Anchor-7" 534.688 -251.254 basechar 0
 LayerCount: 2
 Fore
 Refer: 42 1607 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni06D5.fina
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06D5.fina
 EndChar
 
 StartChar: uni06F0
@@ -2466,12 +2373,12 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 59 1632 S 1 0 0 1 0 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-10 dy=0 dh=-10 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-46 dy=0 dh=-46 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-20 dy=0 dh=-20 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F2 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F3 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F4 dx=-10 dy=0 dh=-10 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F7 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-46 dy=0 dh=-46 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F6 dx=-20 dy=0 dh=-20 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F1
@@ -2484,11 +2391,11 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 60 1633 N 1 0 0 1 0 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F0 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F5 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F0 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F2
@@ -2501,11 +2408,11 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 61 1634 N 1 0 0 1 0 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F0 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F0 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F5 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F3
@@ -2518,11 +2425,11 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 62 1635 N 1 0 0 1 0 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F0 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F5 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F0 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F4
@@ -2556,11 +2463,11 @@ SplineSet
  891 827 973 852 1053 884 c 1
  1076 713 l 5xe8
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F0 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F0 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F5 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F5
@@ -2591,12 +2498,12 @@ SplineSet
  430 1190 l 5
  535 1333 l 5
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-42 dy=0 dh=-42 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-42 dy=0 dh=-42 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-38 dy=0 dh=-38 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F2 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F3 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F4 dx=-42 dy=0 dh=-42 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F6 dx=-42 dy=0 dh=-42 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F7 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-38 dy=0 dh=-38 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F6
@@ -2624,9 +2531,9 @@ SplineSet
  722 798 763 823 860 871 c 5
  907 709 l 5
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F7 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F9 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F7
@@ -2639,13 +2546,13 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 66 1639 N 1 0 0 1 0 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-160 dy=0 dh=-160 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F0 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F5 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-160 dy=0 dh=-160 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F0 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F6 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F4 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F8
@@ -2658,11 +2565,11 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 67 1640 N 1 0 0 1 0 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F2 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F3 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F4 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-110 dy=0 dh=-110 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-160 dy=0 dh=-160 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F2 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F3 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F4 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F6 dx=-110 dy=0 dh=-110 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F7 dx=-160 dy=0 dh=-160 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uni06F9
@@ -2674,11 +2581,11 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 68 1641 N 1 0 0 1 0 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F5 dx=-80 dy=0 dh=-80 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F5 dx=-80 dy=0 dh=-80 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-150 dy=0 dh=-150 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F9 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F1 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F7 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uniFB56
@@ -2826,66 +2733,6 @@ LayerCount: 2
 Fore
 Refer: 266 -1 N 1 0 0 1 206 771 2
 Refer: 185 65198 N 1 0 0 1 0 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEE7 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=30 dy=0 dh=30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB90 dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB8E dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06A9 dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni064A dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0626 dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0649 dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEEB dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0647 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0646 dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEE3 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0645 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEFB dx=-104 dy=0 dh=-104 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDF dx=-104 dy=0 dh=-104 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0644 dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDB dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0643 dx=-104 dy=0 dh=-104 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED7 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0642 dx=-58 dy=0 dh=-58 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED3 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0641 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECF dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECB dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC7 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0638 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC3 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0637 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBF dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0636 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBB dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0635 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB7 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0634 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB3 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0633 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0630 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062F dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA7 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA3 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9F dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9B dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062B dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE97 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062A dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0629 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0628 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0627 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0623 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0622 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0621 dx=-120 dy=0 dh=-120 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB94 dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB92 dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06AF dx=-219 dy=0 dh=-219 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni067E dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0640 dx=-185 dy=0 dh=-185 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE8B dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0631 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0632 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-5" uni06C0 dx=-173 dy=0 dh=-173 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uniFB8E
@@ -2900,6 +2747,8 @@ AnchorPoint: "Anchor-7" 900.268 -226.468 basechar 0
 LayerCount: 2
 Fore
 Refer: 81 1705 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-226 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-219 dv=0
 EndChar
 
 StartChar: uniFB8F
@@ -2953,6 +2802,9 @@ AnchorPoint: "Anchor-7" 350.991 -231.935 basechar 0
 LayerCount: 2
 Fore
 Refer: 230 65243 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-226 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-219 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=180 dv=0
 EndChar
 
 StartChar: uniFB91
@@ -2981,6 +2833,8 @@ AnchorPoint: "Anchor-7" 900.268 -226.468 basechar 0
 LayerCount: 2
 Fore
 Refer: 82 1711 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-226 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-219 dv=0
 EndChar
 
 StartChar: uniFB93
@@ -3011,6 +2865,9 @@ LayerCount: 2
 Fore
 Refer: 108 64400 N 1 0 0 1 0 0 2
 Refer: 273 -1 S 1.07 0 0 1.07 94.686 -422.257 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-226 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-219 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=180 dv=0
 EndChar
 
 StartChar: uniFB95
@@ -3180,7 +3037,7 @@ AnchorPoint: "Anchor-7" 718.902 -698.086 basechar 0
 LayerCount: 2
 Fore
 Refer: 251 65264 N 1 0 0 1 0 0 2
-Substitution2: "Single Substitution 1 subtable" uniFBFD.compact
+Substitution2: "Single Substitution 0 subtable" uniFBFD.compact
 EndChar
 
 StartChar: uniFBFE
@@ -3196,6 +3053,8 @@ LayerCount: 2
 Fore
 Refer: 265 -1 S 1 0 0 1 -4 -401 2
 Refer: 118 64488 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=30 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=30 dv=0
 EndChar
 
 StartChar: uniFBFF
@@ -3226,7 +3085,7 @@ LayerCount: 2
 Fore
 Refer: 46 1611 N 1 0 0 1 -160.76 0 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" space uni064B
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" space uni064B
 EndChar
 
 StartChar: uniFE71
@@ -3245,7 +3104,7 @@ Refer: 35 1600 N 1 0 0 1 247.541 0 2
 Refer: 35 1600 N 1 0 0 1 0 0 2
 Refer: 46 1611 N 1 0 0 1 -136.76 27 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0640 uni064B
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0640 uni064B
 EndChar
 
 StartChar: uniFE72
@@ -3261,7 +3120,7 @@ LayerCount: 2
 Fore
 Refer: 47 1612 N 1 0 0 1 -169.76 -132 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" space uni064C
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" space uni064C
 EndChar
 
 StartChar: uniFE73
@@ -3309,7 +3168,7 @@ LayerCount: 2
 Fore
 Refer: 48 1613 S 1 0 0 1 -157.76 6 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" space uni064D
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" space uni064D
 EndChar
 
 StartChar: uniFE76
@@ -3325,7 +3184,7 @@ LayerCount: 2
 Fore
 Refer: 49 1614 N 1 0 0 1 -139.76 -6 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" space uni064E
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" space uni064E
 EndChar
 
 StartChar: uniFE77
@@ -3344,7 +3203,7 @@ Refer: 35 1600 N 1 0 0 1 247.541 0 2
 Refer: 35 1600 N 1 0 0 1 0 0 2
 Refer: 49 1614 S 1 0 0 1 -130.76 0 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0640 uni064E
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0640 uni064E
 EndChar
 
 StartChar: uniFE78
@@ -3360,7 +3219,7 @@ LayerCount: 2
 Fore
 Refer: 50 1615 N 1 0 0 1 -127.76 -165 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" space uni064F
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" space uni064F
 EndChar
 
 StartChar: uniFE79
@@ -3379,7 +3238,7 @@ Refer: 35 1600 N 1 0 0 1 247.541 0 2
 Refer: 35 1600 N 1 0 0 1 0 0 2
 Refer: 50 1615 N 1 0 0 1 -127.76 -246 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0640 uni064F
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0640 uni064F
 EndChar
 
 StartChar: uniFE7A
@@ -3395,7 +3254,7 @@ LayerCount: 2
 Fore
 Refer: 51 1616 S 1 0 0 1 -166.76 12 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" space uni0650
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" space uni0650
 EndChar
 
 StartChar: uniFE7B
@@ -3414,7 +3273,7 @@ Refer: 35 1600 N 1 0 0 1 247.541 0 2
 Refer: 35 1600 N 1 0 0 1 0 0 2
 Refer: 51 1616 S 1 0 0 1 -160.76 -106.089 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0640 uni0650
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0640 uni0650
 EndChar
 
 StartChar: uniFE7C
@@ -3430,7 +3289,7 @@ LayerCount: 2
 Fore
 Refer: 52 1617 N 1 0 0 1 -181.76 -189 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" space uni0651
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" space uni0651
 EndChar
 
 StartChar: uniFE7D
@@ -3449,7 +3308,7 @@ Refer: 35 1600 N 1 0 0 1 247.541 0 2
 Refer: 35 1600 N 1 0 0 1 0 0 2
 Refer: 52 1617 N 1 0 0 1 -170.76 -190 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0640 uni0651
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0640 uni0651
 EndChar
 
 StartChar: uniFE7E
@@ -3465,7 +3324,7 @@ LayerCount: 2
 Fore
 Refer: 53 1618 N 1 0 0 1 -180.76 -10 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" space uni0652
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" space uni0652
 EndChar
 
 StartChar: uniFE7F
@@ -3484,7 +3343,7 @@ Refer: 35 1600 N 1 0 0 1 247.541 0 2
 Refer: 35 1600 N 1 0 0 1 0 0 2
 Refer: 53 1618 N 1 0 0 1 -190.76 0 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0640 uni0652
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0640 uni0652
 EndChar
 
 StartChar: uniFE80
@@ -3644,7 +3503,7 @@ LayerCount: 2
 Fore
 Refer: 251 65264 S 1 0 0 1 0 0 2
 Refer: 55 1620 N 1 0 0 1 62.9298 -1231.34 2
-Substitution2: "Single Substitution 1 subtable" uniFE8A.compact
+Substitution2: "Single Substitution 0 subtable" uniFE8A.compact
 EndChar
 
 StartChar: uniFE8B
@@ -3660,6 +3519,9 @@ LayerCount: 2
 Fore
 Refer: 300 -1 N 1 0 0 1 0 0 2
 Refer: 55 1620 S 1 0 0 1 -269.493 -863.793 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=80 dv=0
 EndChar
 
 StartChar: uniFE8C
@@ -3845,6 +3707,9 @@ LayerCount: 2
 Fore
 Refer: 265 -1 N 1 0 0 1 64 942 2
 Refer: 118 64488 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=60 dv=0
 EndChar
 
 StartChar: uniFE98
@@ -3904,6 +3769,9 @@ LayerCount: 2
 Fore
 Refer: 266 -1 N 1 0 0 1 56 947 2
 Refer: 118 64488 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=60 dv=0
 EndChar
 
 StartChar: uniFE9C
@@ -3963,6 +3831,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 542.95 -400.716 2
 Refer: 174 65187 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEA0
@@ -4064,6 +3934,8 @@ SplineSet
  617.014957483 95.3229570285 410.334960938 0 140 0 c 6
  -20 0 l 1
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEA4
@@ -4146,6 +4018,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 482.95 1034.28 2
 Refer: 174 65187 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEA8
@@ -4275,69 +4149,6 @@ SplineSet
  -10.2529296875 -373.524414062 l 1
  338.19140625 -307.140625 512.992409503 -140.087645236 515 130 c 0
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEE7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE8B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0640 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni067E dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06AF dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB92 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB94 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0621 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0622 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0623 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0627 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0628 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0629 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062A dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE97 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9F dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062F dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0630 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0633 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0634 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0635 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0636 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBF dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0637 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0638 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECF dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0641 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0642 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0643 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDB dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0644 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDF dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEFB dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0645 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEE3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0646 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0647 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEEB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0649 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0626 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni064A dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06A9 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB8E dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB90 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=30 dy=0 dh=30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0631 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0632 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0624 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0648 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0698 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-5" uni06C0 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uniFEAF
@@ -4367,67 +4178,6 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 368.95 792.284 2
 Refer: 185 65198 N 1 0 0 1 0.618851 0 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEE7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE8B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0640 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni067E dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06AF dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB92 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB94 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0621 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0622 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0623 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0627 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0628 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0629 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062A dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE97 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9B dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFE9F dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEA7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni062F dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0630 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0633 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0634 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEB7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0635 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0636 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEBF dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0637 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0638 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEC7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFECF dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0641 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0642 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFED7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0643 dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDB dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0644 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEDF dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEFB dx=-143 dy=0 dh=-143 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0645 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEE3 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0646 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0647 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFEEB dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0649 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0626 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni064A dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni06A9 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB8E dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFB90 dx=-226 dy=0 dh=-226 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=30 dy=0 dh=30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0631 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0632 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-2" uni0698 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-5" uni06C0 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: uniFEB1
@@ -4524,6 +4274,8 @@ SplineSet
  994 361 l 2
  1001 259 1049 180 1153 180 c 0
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEB4
@@ -4610,6 +4362,8 @@ LayerCount: 2
 Fore
 Refer: 266 -1 N 1 0 0 1 607 859 2
 Refer: 190 65203 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEB8
@@ -4696,27 +4450,29 @@ AnchorPoint: "Anchor-7" 679.209 -242.348 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-832 181 m 2
- 1194 181 1378 257 1378 413 c 0
- 1378 522 1299 605 1183 605 c 0
- 1029 605 862 457 684 180 c 1
- 832 181 l 2
-498 209 m 1
- 726 593 951 787 1175 787 c 0
- 1400 787 1556 632 1556 422 c 0
- 1555 141 1316 0 836 0 c 2
- 785 0 l 2
- 534 0 389 45 328 143 c 1
+832 181 m 6
+ 1194 181 1378 257 1378 413 c 4
+ 1378 522 1299 605 1183 605 c 4
+ 1029 605 862 457 684 180 c 5
+ 832 181 l 6
+498 209 m 5
+ 726 593 951 787 1175 787 c 4
+ 1400 787 1556 632 1556 422 c 4
+ 1555 141 1316 0 836 0 c 6
+ 785 0 l 6
+ 534 0 389 45 328 143 c 5
  256 46 177 0 20 0 c 2
- -20 0 l 5
- -19 180 l 5
+ -20 0 l 1
+ -19 180 l 1
  20 180 l 2
  197 180 243 245 243 388 c 0
  243 448 238 527 235 588 c 1
- 399 608 l 1
- 417 361 l 2
- 424 271 449 222 498 209 c 1
+ 399 608 l 5
+ 417 361 l 6
+ 424 271 449 222 498 209 c 5
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEBC
@@ -4802,6 +4558,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 1045.95 1046.28 2
 Refer: 198 65211 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEC0
@@ -4899,6 +4657,8 @@ SplineSet
  384 1366 l 5
  384 536 l 1
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEC4
@@ -4980,6 +4740,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 702.95 1046.28 2
 Refer: 206 65219 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEC8
@@ -5076,6 +4838,8 @@ SplineSet
  959 327 l 1
  959 147 l 1
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFECC
@@ -5091,7 +4855,7 @@ LayerCount: 2
 Fore
 Refer: 324 -1 N 1 0 0 1 0 0 2
 Refer: 35 1600 N 0.280881 0 0 1 1075.33 0 2
-Substitution2: "Single Substitution 1 subtable" uniFECC.compact
+Substitution2: "Single Substitution 0 subtable" uniFECC.compact
 EndChar
 
 StartChar: uniFECD
@@ -5136,6 +4900,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 473.95 1118.28 2
 Refer: 214 65227 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFED0
@@ -5151,7 +4917,7 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 507.95 1031.28 2
 Refer: 215 65228 S 1 0 0 1 0 0 2
-Substitution2: "Single Substitution 1 subtable" uniFED0.compact
+Substitution2: "Single Substitution 0 subtable" uniFED0.compact
 EndChar
 
 StartChar: uniFED1
@@ -5196,6 +4962,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 342.95 1246.28 2
 Refer: 270 -1 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
 EndChar
 
 StartChar: uniFED4
@@ -5241,7 +5009,7 @@ Fore
 Refer: 35 1600 S 0.30675 0 0 1 1456.13 0 2
 Refer: 265 -1 N 1 0 0 1 708 913 2
 Refer: 272 -1 N 1 0 0 1 0 0 2
-Substitution2: "Single Substitution 1 subtable" uniFED6.compact
+Substitution2: "Single Substitution 0 subtable" uniFED6.compact
 EndChar
 
 StartChar: uniFED7
@@ -5257,6 +5025,9 @@ LayerCount: 2
 Fore
 Refer: 265 -1 S 1 0 0 1 181 1243 2
 Refer: 270 -1 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=70 dv=0
 EndChar
 
 StartChar: uniFED8
@@ -5364,6 +5135,9 @@ SplineSet
  889 1238 l 1
  215 988 l 1
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-226 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-219 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=180 dv=0
 EndChar
 
 StartChar: uniFEDC
@@ -5469,6 +5243,9 @@ SplineSet
  460 139 356 0 60 0 c 2
  -20 0 l 1
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-143 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-104 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=130 dv=0
 EndChar
 
 StartChar: uniFEE0
@@ -5579,6 +5356,8 @@ SplineSet
  950 99 847 -22 655 -22 c 0
  525 -22 417 35 303 144 c 1
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEE4
@@ -5658,6 +5437,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 179.95 942.284 2
 Refer: 300 -1 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-10 dv=0
 EndChar
 
 StartChar: uniFEE8
@@ -5760,6 +5541,8 @@ SplineSet
  1015 175 1096 230 1096 350 c 4
  1096 445 971 562 728 699 c 5
 EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 EndChar
 
 StartChar: uniFEEC
@@ -5824,7 +5607,7 @@ LayerCount: 2
 Fore
 Refer: 35 1600 S 0.256136 0 0 1 879.623 0 2
 Refer: 327 -1 N 1 0 0 1 0 0 2
-Substitution2: "Single Substitution 1 subtable" uniFEEE.compact
+Substitution2: "Single Substitution 0 subtable" uniFEEE.compact
 EndChar
 
 StartChar: uniFEEF
@@ -5854,7 +5637,7 @@ LayerCount: 2
 Fore
 Refer: 321 -1 N 1 0 0 1 0 0 2
 Refer: 35 1600 S 0.444787 0 0 1 1442.9 0 2
-Substitution2: "Single Substitution 1 subtable" uniFBFD.compact
+Substitution2: "Single Substitution 0 subtable" uniFBFD.compact
 EndChar
 
 StartChar: uniFEF1
@@ -5884,7 +5667,7 @@ LayerCount: 2
 Fore
 Refer: 265 -1 S 1 0 0 1 466 -903 2
 Refer: 251 65264 N 1 0 0 1 0 0 2
-Substitution2: "Single Substitution 1 subtable" uniFEF2.compact
+Substitution2: "Single Substitution 0 subtable" uniFEF2.compact
 EndChar
 
 StartChar: uniFEF3
@@ -5931,7 +5714,7 @@ Fore
 Refer: 54 1619 N 1 0 0 1 -147.933 -187.736 2
 Refer: 262 65275 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEDF uniFE82
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFE82
 EndChar
 
 StartChar: uniFEF6
@@ -5950,7 +5733,7 @@ Fore
 Refer: 54 1619 N 1 0 0 1 -147.933 -187.736 2
 Refer: 263 65276 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEE0 uniFE82
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEE0 uniFE82
 EndChar
 
 StartChar: uniFEF7
@@ -5969,7 +5752,7 @@ Fore
 Refer: 55 1620 N 1 0 0 1 -365.429 -326.992 2
 Refer: 262 65275 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEDF uniFE84
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFE84
 EndChar
 
 StartChar: uniFEF8
@@ -5988,7 +5771,7 @@ Fore
 Refer: 263 65276 N 1 0 0 1 0 0 2
 Refer: 55 1620 N 1 0 0 1 -365.429 -326.992 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEE0 uniFE84
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEE0 uniFE84
 EndChar
 
 StartChar: uniFEF9
@@ -6007,7 +5790,7 @@ Fore
 Refer: 56 1621 N 1 0 0 1 -273.221 -176.513 2
 Refer: 262 65275 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEDF uniFE88
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFE88
 EndChar
 
 StartChar: uniFEFA
@@ -6026,7 +5809,7 @@ Fore
 Refer: 56 1621 N 1 0 0 1 -273.221 -176.513 2
 Refer: 263 65276 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEE0 uniFE88
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEE0 uniFE88
 EndChar
 
 StartChar: uniFEFB
@@ -6057,10 +5840,13 @@ SplineSet
  305 3 232 9 175 19 c 1
  175 196 l 1
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-6" uni0639 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-6" uni063A dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-143 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-104 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=130 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 0" uni0639 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 0" uni063A dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 16 subtable" uniFEDF uniFE8E
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uniFEDF uniFE8E
 EndChar
 
 StartChar: uniFEFC
@@ -6096,10 +5882,10 @@ SplineSet
  434 417 312 756 110 1224 c 1
  259 1305 l 1
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 15-6" uni0639 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-6" uni063A dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 0" uni0639 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 0" uni063A dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 16 subtable" uniFEE0 uniFE8E
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uniFEE0 uniFE8E
 EndChar
 
 StartChar: arabic_dot
@@ -6420,8 +6206,8 @@ Fore
 Refer: 46 1611 N 1 0 0 1 6.71076 182.177 2
 Refer: 52 1617 N 1 0 0 1 6.71076 -541.274 2
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0651 uni064B
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064B uni0651
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni0651 uni064B
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni064B uni0651
 EndChar
 
 StartChar: uni0651064C
@@ -6440,8 +6226,8 @@ Fore
 Refer: 47 1612 N 1 0 0 1 -5.5923 72.3031 2
 Refer: 52 1617 N 1 0 0 1 24.4077 -546.801 2
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0651 uni064C
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064C uni0651
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni0651 uni064C
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni064C uni0651
 EndChar
 
 StartChar: uni064B0651
@@ -6460,8 +6246,8 @@ Fore
 Refer: 52 1617 N 1 0 0 1 -74.6199 -75.1185 2
 Refer: 46 1611 N 1 0 0 1 -43.6199 -206.789 2
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni0651 uni064D
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni064D uni0651
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni0651 uni064D
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni064D uni0651
 EndChar
 
 StartChar: uni0651064E
@@ -6480,8 +6266,8 @@ Fore
 Refer: 49 1614 N 1 0 0 1 22.3031 108.226 2
 Refer: 52 1617 N 1 0 0 1 12.3031 -333.307 2
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0651 uni064E
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064E uni0651
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni0651 uni064E
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni064E uni0651
 EndChar
 
 StartChar: uni0651064F
@@ -6500,8 +6286,8 @@ Fore
 Refer: 50 1615 S 1 0 0 1 35.5262 -13.4215 2
 Refer: 52 1617 N 1 0 0 1 8.52616 -540.247 2
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0651 uni064F
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064F uni0651
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni0651 uni064F
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni064F uni0651
 EndChar
 
 StartChar: uni064E0651
@@ -6520,8 +6306,8 @@ Fore
 Refer: 52 1617 N 1 0 0 1 -3.35538 -128.16 2
 Refer: 49 1614 N 1 0 0 1 58.2261 -350.343 2
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni0651 uni0650
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni0650 uni0651
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni0651 uni0650
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni0650 uni0651
 EndChar
 
 StartChar: uni0654064E
@@ -6540,8 +6326,8 @@ Fore
 Refer: 49 1614 N 1 0 0 1 27.512 325.926 2
 Refer: 55 1620 N 1 0 0 1 7.82922 -506.662 2
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0654 uni064E
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064E uni0654
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni0654 uni064E
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni064E uni0654
 EndChar
 
 StartChar: uni0654064F
@@ -6560,8 +6346,8 @@ Fore
 Refer: 50 1615 N 1 0 0 1 -26.4077 211.421 2
 Refer: 55 1620 N 1 0 0 1 1.11846 -724.762 2
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni0654 uni064F
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064F uni0654
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni0654 uni064F
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 4 subtable" uni064F uni0654
 EndChar
 
 StartChar: guillemotleft
@@ -6628,7 +6414,7 @@ LayerCount: 2
 Fore
 Refer: 265 -1 N 1 0 0 1 172.097 932.816 2
 Refer: 43 1608 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni06CA.fina
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06CA.fina
 EndChar
 
 StartChar: uni06CA.fina
@@ -6694,9 +6480,11 @@ LayerCount: 2
 Fore
 Refer: 298 -1 S 1 0 0 1 54.0367 1524.8 2
 Refer: 42 1607 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0647 uni0654
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFBA5.fina
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0647 uni0654
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBA5.fina
 EndChar
 
 StartChar: uniFBA5.fina
@@ -6712,7 +6500,7 @@ Fore
 Refer: 298 -1 S 1 0 0 1 197.631 1455.52 2
 Refer: 245 65258 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uniFEEA uni0654
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uniFEEA uni0654
 EndChar
 
 StartChar: NameMe.302
@@ -6779,7 +6567,7 @@ Refer: 293 -1 N 1 0 0 1 1039.14 0 2
 Refer: 294 -1 N 1 0 0 1 1565.36 0 2
 Refer: 15 1575 N 1 0 0 1 2046.75 0 2
 LCarets2: 3 0 0 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uniFEDF uniFEE0 uniFEEA
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0627 uniFEDF uniFEE0 uniFEEA
 EndChar
 
 StartChar: uniFDFC
@@ -6922,7 +6710,7 @@ LayerCount: 2
 Fore
 Refer: 58 1626 S 1 0 0 1 -249 -2369 2
 Refer: 25 1585 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni0695.fina
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni0695.fina
 EndChar
 
 StartChar: uni06A4
@@ -6933,9 +6721,9 @@ LayerCount: 2
 Fore
 Refer: 266 -1 S 1 0 0 1 1057 1244 2
 Refer: 80 1697 N 1 0 0 1 0 0 2
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB6D
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB6C
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB6B
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB6D
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB6C
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB6B
 EndChar
 
 StartChar: uni06B5
@@ -6947,9 +6735,9 @@ LayerCount: 2
 Fore
 Refer: 58 1626 S 1 0 0 1 25 -390 2
 Refer: 39 1604 N 1 0 0 1 0 0 2
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uni06B5.init
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uni06B5.medi
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni06B5.fina
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06B5.init
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06B5.medi
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06B5.fina
 EndChar
 
 StartChar: uni06C6
@@ -6961,7 +6749,7 @@ LayerCount: 2
 Fore
 Refer: 58 1626 S 1 0 0 1 -150 -505 2
 Refer: 43 1608 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFBDA
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBDA
 EndChar
 
 StartChar: uni06CE
@@ -6973,9 +6761,9 @@ LayerCount: 2
 Fore
 Refer: 58 1626 N 1 0 0 1 78 -697 2
 Refer: 44 1609 N 1 0 0 1 0 0 2
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uni06CE.medi
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uni06CE.init
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni06CE.fina
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06CE.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06CE.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06CE.fina
 EndChar
 
 StartChar: uniFB6B
@@ -7037,7 +6825,7 @@ LayerCount: 2
 Fore
 Refer: 58 1626 S 1 0 0 1 51 -909 2
 Refer: 251 65264 N 1 0 0 1 0 0 2
-Substitution2: "Single Substitution 1 subtable" uni06CE.fina.compact
+Substitution2: "Single Substitution 0 subtable" uni06CE.fina.compact
 EndChar
 
 StartChar: uni06CE.init
@@ -7104,9 +6892,9 @@ AnchorPoint: "Anchor-10" 609.134 1222.79 basechar 0
 LayerCount: 2
 Fore
 Refer: 246 65259 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEEC
-Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEEC
-Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEEB
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEEC
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEEC
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEEB
 EndChar
 
 StartChar: lamVabove_alef.isol
@@ -7119,7 +6907,7 @@ Fore
 Refer: 58 1626 S 1 0 0 1 399 57 2
 Refer: 262 65275 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 16 subtable" uni06B5.init uniFE8E
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uni06B5.init uniFE8E
 EndChar
 
 StartChar: NameMe.65574
@@ -7132,7 +6920,7 @@ Fore
 Refer: 58 1626 S 1 0 0 1 399 57 2
 Refer: 263 65276 N 1 0 0 1 0 0 2
 LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 16 subtable" uni06B5.medi uniFE8E
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uni06B5.medi uniFE8E
 EndChar
 
 StartChar: uniFBFD.compact
@@ -7287,6 +7075,148 @@ LayerCount: 2
 Fore
 Refer: 265 -1 N 1 0 0 1 708 913 2
 Refer: 272 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: figuredash
+Encoding: 8210 8210 329
+Width: 1170
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1003 651 m 1
+ 168 651 l 1
+ 168 782 l 5
+ 1003 782 l 5
+ 1003 651 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni200E
+Encoding: 8206 8206 330
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni200F
+Encoding: 8207 8207 331
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni202A
+Encoding: 8234 8234 332
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni202B
+Encoding: 8235 8235 333
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni202C
+Encoding: 8236 8236 334
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni202D
+Encoding: 8237 8237 335
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni202E
+Encoding: 8238 8238 336
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni0671
+Encoding: 1649 1649 337
+Width: 465
+VWidth: 2703
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 340 -1 S 1 0 0 1 0 40 2
+Refer: 15 1575 N 1 0 0 0.854231 -6.5e-05 1.98658 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB51
+EndChar
+
+StartChar: uniFB50
+Encoding: 64336 64336 338
+Width: 465
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 337 1649 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB51
+Encoding: 64337 64337 339
+Width: 527
+VWidth: 2950
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 340 -1 S 1 0 0 1 0 40 2
+Refer: 297 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: NameMe.65583
+Encoding: 65583 -1 340
+Width: 465
+VWidth: 2703
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+202.120117188 1333.0703125 m 6
+ 372.259765625 1333.0703125 428.740234375 1348.79003906 428.740234375 1422.11035156 c 4
+ 428.740234375 1473.34082031 391.610351562 1512.35058594 337.08984375 1512.35058594 c 4
+ 264.709960938 1512.35058594 216.219726562 1462.79003906 132.559570312 1332.60058594 c 5
+ 202.120117188 1333.0703125 l 6
+-44.759765625 1315.20996094 m 5
+ -27.83984375 1396.52050781 l 29
+ -27.83984375 1396.52050781 14.1201171875 1357.98046875 45.1396484375 1346.23046875 c 5
+ 152.299804688 1526.70996094 228.049804688 1597.890625 333.330078125 1597.890625 c 4
+ 439.080078125 1597.890625 512.400390625 1525.04003906 512.400390625 1426.34082031 c 4
+ 511.9296875 1294.27050781 429.599609375 1248 204 1248 c 6
+ 180.030273438 1248 l 6
+ 62.0595703125 1248 -16.08984375 1269.15039062 -44.759765625 1315.20996094 c 5
+EndSplineSet
+EndChar
+
+StartChar: uni0656
+Encoding: 1622 1622 341
+Width: -29
+VWidth: 2574
+Flags: HW
+AnchorPoint: "Anchor-0" 628.278 2.7109 mark 0
+AnchorPoint: "Anchor-0" 636.022 -429.025 basemark 0
+AnchorPoint: "Anchor-6" 628.278 2.7109 mark 0
+AnchorPoint: "Anchor-7" 628.278 2.7109 mark 0
+LayerCount: 2
+Fore
+Refer: 75 1648 N 1 0 0 1 0 -1961 2
 EndChar
 EndChars
 EndSplineFont

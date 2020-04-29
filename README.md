@@ -104,7 +104,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-Replace [X.Y.Z] with the latest version (e.g. 24.2.0) and integrate the font into your CSS:
+Replace [X.Y.Z] with the latest version (e.g. 25.0.0) and integrate the font into your CSS:
 
 ```
 font-family: 'Vazir', sans-serif;
