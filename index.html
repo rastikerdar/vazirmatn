@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
   <meta name="description" content="فونت فارسی وزیر از نوع سانس سریف">
   <meta name="keywords" content="فونت,فارسی,وزیر,سانس سریف,font,farsi,Vazir,sans-serif">
-  <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vazir-font@25.0.0/dist/font-face.css">
+  <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vazir-font@v25.0.0/dist/font-face.css">
   <style>
     * {
       margin: 0;
@@ -134,33 +134,7 @@
       margin-bottom: 10px;
     }
 
-    header .weights h1 {
-      font-weight: 900;
-      font-size: 15px;
-    }
-
-    header .weights h2 {
-      font-weight: bold;
-      font-size: 15px;
-    }
-
-    header .weights h3 {
-      font-weight: 500;
-      font-size: 15px;
-    }
-
-    header .weights h4 {
-      font-weight: normal;
-      font-size: 15px;
-    }
-
-    header .weights h5 {
-      font-weight: 300;
-      font-size: 15px;
-    }
-
-    header .weights h6 {
-      font-weight: 100;
+    header .weights {
       font-size: 15px;
     }
 
@@ -278,6 +252,23 @@
       }
     }
 
+    .singlefile {
+      margin-bottom: 10px;
+    }
+
+    .singlefile a {
+      display: inline-block;
+      border-bottom: 1px solid #d5d5d5;
+      color: #007fba;
+      margin: 5px 10px 0;
+      font-size: 1.3em;
+    }
+
+    .singlefile select {
+      font-family: vazir;
+      min-width: 80px;
+    }
+
     .clear {
       clear: both;
     }
@@ -292,8 +283,23 @@
       </h1>
       <div class="description">فونتی برای استفاده در صفحات وب، رابط کاربری برنامه‌ها و ...</div>
       <div class="get">
-        <a href="https://github.com/rastikerdar/vazir-font/releases/download/v25.0.0/vazir-font-v25.0.0.zip" class="download">دریافت (دانلود)</a>
+        <a href="https://github.com/rastikerdar/vazir-font/releases/download/v25.0.0/vazir-font-v25.0.0.zip" class="download">دانلود بسته کامل</a>
         <a href="https://github.com/rastikerdar/vazir-font" class="github">GitHub</a>
+      </div>
+      <div class="singlefile">
+        دانلود فایل نسخه
+        <span>
+        <select onchange="setSingleFileDownload(this.value, 'Vazir', 'v25.0.0')">
+          <option value="Thin">نازک</option>
+          <option value="Light">سبک</option>
+          <option value="Regular" selected="selected">معمولی</option>
+          <option value="Medium">متوسط</option>
+          <option value="Bold">ضخیم</option>
+          <option value="Black">سیاه</option>
+        </select>
+        <!-- <br> -->
+        <a id="singlefiledownload" href="https://cdn.jsdelivr.net/npm/vazir-font@v25.0.0/dist/Vazir.ttf">Vazir.ttf</a>
+      </span>
       </div>
       <div class="info">
         <div>آخرین نسخه:
@@ -344,12 +350,12 @@
       </div>
 
       <div class="weights">
-        <h1>ای نسیم سحر آرامگه یار کجاست</h1>
-        <h2>ای نسیم سحر آرامگه یار کجاست</h2>
-        <h3>ای نسیم سحر آرامگه یار کجاست</h3>
-        <h4>ای نسیم سحر آرامگه یار کجاست</h4>
-        <h5>ای نسیم سحر آرامگه یار کجاست</h5>
-        <h6>ای نسیم سحر آرامگه یار کجاست</h6>
+        <div style="font-weight: 900">ای نسیم سحر آرامگه یار کجاست</div>
+        <div style="font-weight: 700">ای نسیم سحر آرامگه یار کجاست</div>
+        <div style="font-weight: 500">ای نسیم سحر آرامگه یار کجاست</div>
+        <div style="font-weight: 400">ای نسیم سحر آرامگه یار کجاست</div>
+        <div style="font-weight: 300">ای نسیم سحر آرامگه یار کجاست</div>
+        <div style="font-weight: 100">ای نسیم سحر آرامگه یار کجاست</div>
       </div>
     </header>
 
@@ -403,6 +409,13 @@
 
   <script>
     var donations = null;
+
+    function setSingleFileDownload(weight, font, version) {
+      var filename = font + (weight != "Regular" ? "-"+weight : '') +".ttf";
+      var singlefiledownloadEl = document.getElementById("singlefiledownload");
+      singlefiledownloadEl.text = filename;
+      singlefiledownloadEl.href = "https://cdn.jsdelivr.net/npm/"+font.toLowerCase()+"-font@"+version+"/dist/"+filename;
+    }
 
     function formatNumber(x) {
       return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, "٬");
