@@ -4,7 +4,7 @@ FullName: Vazir Bold
 FamilyName: Vazir
 Weight: Bold
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.
-Version: 25.0.0
+Version: 26.0.0
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -15,15 +15,15 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 PreferredKerning: 4
-XUID: [1021 502 1027637223 15946183]
-UniqueID: 4069375
+XUID: [1021 502 1027637223 14131625]
+UniqueID: 4207614
 UseUniqueID: 1
 FSType: 0
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1588104397
+ModificationTime: 1589379706
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -62,12 +62,13 @@ Lookup: 1 9 0 "Single Substitution 0" { "Single Substitution 0 subtable"  } []
 Lookup: 1 9 0 "'fina' Terminal Forms in Arabic lookup 1" { "'fina' Terminal Forms in Arabic lookup 1 subtable"  } ['fina' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 2" { "'medi' Medial Forms in Arabic lookup 2 subtable"  } ['medi' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 3" { "'init' Initial Forms in Arabic lookup 3 subtable"  } ['init' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 4" { "'rlig' Required Ligatures in Arabic lookup 4 subtable"  } ['rlig' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 5" { "'rlig' Required Ligatures in Arabic lookup 5 subtable"  } ['rlig' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 6" { "'rlig' Required Ligatures in Arabic lookup 6 subtable"  } ['rlig' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 6 9 0 "'calt' Contextual Alternates lookup 7" { "'calt' Contextual Alternates lookup 7 subtable 1"  "'calt' Contextual Alternates lookup 7 subtable 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 4" { "'rlig' Required Ligatures in Arabic lookup 4 subtable"  } ['rlig' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 6 9 0 "'calt' Contextual Alternates lookup 7" { "'calt' Contextual Alternates lookup 7 subtable 1"  "'calt' Contextual Alternates lookup 7 subtable 2"  "'calt' Contextual Alternates lookup 7 subtable 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 4 9 1 "'liga' Standard Ligatures in Arabic lookup 8" { "'liga' Standard Ligatures in Arabic lookup 8 subtable"  } ['liga' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 9" { "'liga' Standard Ligatures in Arabic lookup 9 subtable"  } ['liga' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Arabic lookup 10" { "'locl' Localized Forms in Arabic lookup 10 subtable"  } ['locl' ('arab' <'URD ' > ) ]
 Lookup: 257 0 0 "Single Positioning lookup 0" { "Single Positioning lookup 0 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 1" { "Single Positioning lookup 1 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 2" { "Single Positioning lookup 2 subtable"  } []
@@ -87,6 +88,13 @@ MarkAttachClasses: 5
 "MarkClass-3" 7 uni0327
 "MarkClass-4" 7 uni0328
 DEI: 91125
+ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 3" 0 0 0 1
+ 1 1 0
+  Coverage: 15 uniFBB1 uniFBAF
+  BCoverage: 367 uniFB90 uniFB91 uniFB94 uniFB95 uniFE8B uniFE8C uniFE97 uniFE98 uniFE9B uniFE9C uniFEA3 uniFEA4 uniFEA7 uniFEA8 uniFEB3 uniFEB4 uniFEB7 uniFEB8 uniFEBB uniFEBC uniFEBF uniFEC0 uniFEC3 uniFEC4 uniFEC7 uniFECB uniFECC uniFECF uniFED0 uniFED3 uniFED4 uniFED7 uniFED8 uniFEDB uniFEDC uniFEDF uniFEE0 uniFEE3 uniFEE4 uniFEE7 uniFEE8 uniFEEB uniFECC.compact uniFED0.compact
+ 1
+  SeqLookup: 0 "Single Substitution 0"
+EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 3" 0 0 0 1
  1 1 0
   Coverage: 5 space
@@ -96,15 +104,15 @@ ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 3" 0 0 0 1
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 2" 0 0 0 1
  1 1 0
-  Coverage: 503 uniFE8B uni0640 uni067E uni06AF uniFB92 uniFB94 uni0621 uni0622 uni0623 uni0627 uni0628 uni0629 uni062A uniFE97 uni062B uniFE9B uniFE9F uniFEA3 uniFEA7 uni062F uni0630 uni0633 uniFEB3 uni0634 uniFEB7 uni0635 uniFEBB uni0636 uniFEBF uni0637 uniFEC3 uni0638 uniFEC7 uniFECB uniFECF uni0641 uniFED3 uniFED7 uni0643 uniFEDB uniFEDF uniFEFB uni0645 uniFEE3 uni0647 uniFEEB uni06A9 uniFB8E uniFB90 uni06C0 uniFEE7 uni0642 uni0644 uni0646 uni0649 uni0626 uni064A uni0631 uni0632 uni0624 uni0648 uni0698 uniFBFE
-  BCoverage: 52 uni0631 uni0632 uniFEAE uniFEB0 uni0695 uni0695.fina
+  Coverage: 559 uniFE8B uni0640 uni067E uni06AF uniFB92 uniFB94 uni0621 uni0622 uni0623 uni0627 uni0628 uni0629 uni062A uniFE97 uni062B uniFE9B uniFE9F uniFEA3 uniFEA7 uni062F uni0630 uni0633 uniFEB3 uni0634 uniFEB7 uni0635 uniFEBB uni0636 uniFEBF uni0637 uniFEC3 uni0638 uniFEC7 uniFECB uniFECF uni0641 uniFED3 uniFED7 uni0643 uniFEDB uniFEDF uniFEFB uni0645 uniFEE3 uni0647 uniFEEB uni06A9 uniFB8E uniFB90 uni06C0 uniFEE7 uni0642 uni0644 uni0646 uni0649 uni0626 uni064A uni0631 uni0632 uni0624 uni0648 uni0698 uniFBFE uni06D2 uni06D3 uni0688 uni0691 uni0679 uniFB68 uni06C1
+  BCoverage: 73 uni0631 uni0632 uniFEAE uniFEB0 uni0695 uni0695.fina uni0693 uni0693.fina
  1
   SeqLookup: 0 "Single Positioning lookup 2"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 1" 0 0 0 1
  1 1 0
-  Coverage: 503 uniFE8B uni0640 uni067E uni06AF uniFB92 uniFB94 uni0621 uni0622 uni0623 uni0627 uni0628 uni0629 uni062A uniFE97 uni062B uniFE9B uniFE9F uniFEA3 uniFEA7 uni062F uni0630 uni0633 uniFEB3 uni0634 uniFEB7 uni0635 uniFEBB uni0636 uniFEBF uni0637 uniFEC3 uni0638 uniFEC7 uniFECB uniFECF uni0641 uniFED3 uniFED7 uni0643 uniFEDB uniFEDF uniFEFB uni0645 uniFEE3 uni0647 uniFEEB uni06A9 uniFB8E uniFB90 uni06C0 uniFEE7 uni0642 uni0644 uni0646 uni0649 uni0626 uni064A uni0631 uni0632 uni0624 uni0648 uni0698 uniFBFE
-  BCoverage: 15 uni0698 uniFB8B
+  Coverage: 559 uniFE8B uni0640 uni067E uni06AF uniFB92 uniFB94 uni0621 uni0622 uni0623 uni0627 uni0628 uni0629 uni062A uniFE97 uni062B uniFE9B uniFE9F uniFEA3 uniFEA7 uni062F uni0630 uni0633 uniFEB3 uni0634 uniFEB7 uni0635 uniFEBB uni0636 uniFEBF uni0637 uniFEC3 uni0638 uniFEC7 uniFECB uniFECF uni0641 uniFED3 uniFED7 uni0643 uniFEDB uniFEDF uniFEFB uni0645 uniFEE3 uni0647 uniFEEB uni06A9 uniFB8E uniFB90 uni06C0 uniFEE7 uni0642 uni0644 uni0646 uni0649 uni0626 uni064A uni0631 uni0632 uni0624 uni0648 uni0698 uniFBFE uni06D2 uni06D3 uni0688 uni0691 uni0679 uniFB68 uni06C1
+  BCoverage: 31 uni0698 uniFB8B uni0691 uniFB8D
  1
   SeqLookup: 0 "Single Positioning lookup 1"
 EndFPST
@@ -124,12 +132,12 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 2" 0 0 0 1
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1 1 0
-  Coverage: 60 uniFBFD uniFE8A uniFEF0 uniFEF2 uni06CE.fina uniFEEE uniFED6
+  Coverage: 86 uniFBFD uniFE8A uniFEF0 uniFEF2 uni06CE.fina uniFEEE uniFED6 uni06D0.fina uni06CD.fina
   BCoverage: 407 uniFB7C uniFB7D uniFB90 uniFB91 uniFB94 uniFB95 uniFE8B uniFE8C uniFE97 uniFE98 uniFE9B uniFE9C uniFE9F uniFEA0 uniFEA3 uniFEA4 uniFEA7 uniFEA8 uniFEB3 uniFEB4 uniFEB7 uniFEB8 uniFEBB uniFEBC uniFEBF uniFEC0 uniFEC3 uniFEC4 uniFEC7 uniFECB uniFECC uniFECF uniFED0 uniFED3 uniFED4 uniFED7 uniFED8 uniFEDB uniFEDC uniFEDF uniFEE0 uniFEE3 uniFEE4 uniFEE7 uniFEE8 uniFEEB uniFEEC uniFECC.compact uniFED0.compact
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Bold" "" "Version 25.0.0" "" "" "Based on Dejavu fonts, by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "https://dejavu-fonts.github.io/License.html+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Bold"
+LangName: 1033 "" "" "" "Vazir Bold" "" "Version 26.0.0" "" "" "Based on Dejavu fonts, by Saber Rastikerdar" "" "" "" "" "Changes by Saber Rastikerdar are in public domain.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "https://dejavu-fonts.github.io/License.html+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Vazir" "Bold"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -195,20 +203,12 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 25 25 13
+WinInfo: 0 25 13
 BeginPrivate: 0
 EndPrivate
-Grid
--2048 740.200012207 m 0
- 4096 740.200012207 l 1024
--2048 1367.40002441 m 0
- 4096 1367.40002441 l 1024
--2048 961.700012207 m 0
- 4096 961.700012207 l 1024
-EndSplineSet
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mkmk' Mark to Mark in Arabic lookup 12 subtable" "Anchor-1" "'mkmk' Mark to Mark in Arabic lookup 11 subtable" "Anchor-2"""  "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor-6" "'mark' Mark Positioning lookup 10 subtable" "Anchor-7" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8" "'mark' Mark Positioning lookup 7 subtable" "Anchor-9" "'mark' Mark Positioning lookup 8 subtable" "Anchor-10" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"""  "Anchor-12"""  "Anchor-13"""  "Anchor-14"""  "Anchor-15"""  "Anchor-16"""  "Anchor-17"""  "Anchor-18"""  "Anchor-19""" 
-BeginChars: 65584 342
+BeginChars: 65623 430
 
 StartChar: space
 Encoding: 32 32 0
@@ -305,57 +305,58 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-529.991210938 591.478515625 m 2
- 443.06640625 512.005859375 393.975585938 449.438476562 383.189453125 362.194335938 c 1
- 478.735351562 348.37890625 516 277.266601562 516 191 c 0
- 516 86.7138671875 451.302734375 9 341 9 c 0
- 204.7109375 9 143 103.30859375 143 223 c 0
- 143 431.127929688 252.057617188 593.6328125 404.517578125 711.6328125 c 2
- 429.3671875 730.865234375 l 1
- 453.936523438 711.276367188 l 1
- 527.936523438 652.276367188 l 1
- 564.5546875 623.080078125 l 1
- 529.991210938 591.478515625 l 2
+529.991210938 583.478515625 m 2
+ 443.06640625 504.005859375 393.975585938 441.438476562 383.189453125 354.194335938 c 1
+ 478.735351562 340.37890625 516 269.266601562 516 183 c 0
+ 516 78.7138671875 451.302734375 1 341 1 c 4
+ 204.7109375 1 143 95.30859375 143 215 c 0
+ 143 423.127929688 252.057617188 585.6328125 404.517578125 703.6328125 c 2
+ 429.3671875 722.865234375 l 1
+ 453.936523438 703.276367188 l 1
+ 527.936523438 644.276367188 l 1
+ 564.5546875 615.080078125 l 1
+ 529.991210938 583.478515625 l 2
 EndSplineSet
 EndChar
 
 StartChar: uni0615
 Encoding: 1557 1557 6
 GlifName: uni0615
-Width: -29
+Width: 0
 VWidth: 2712
 GlyphClass: 4
 Flags: HW
-AnchorPoint: "Anchor-10" 658.199 1622.46 mark 0
-AnchorPoint: "Anchor-9" 658.199 1622.46 mark 0
-AnchorPoint: "Anchor-1" 672.366 2445.86 basemark 0
-AnchorPoint: "Anchor-1" 658.199 1622.46 mark 0
+AnchorPoint: "Anchor-10" 438.449 1190.96 mark 0
+AnchorPoint: "Anchor-9" 438.449 1190.96 mark 0
+AnchorPoint: "Anchor-1" 436.616 1958.36 basemark 0
+AnchorPoint: "Anchor-1" 438.449 1190.96 mark 0
 LayerCount: 2
 Fore
 SplineSet
-905 1918 m 0
- 905 1964.13353137 884.248475671 1985 837 1985 c 0
- 772.86163642 1985 677.439530989 1921.11558502 559.40754714 1796 c 1
- 678 1796 l 2
- 788.757141645 1796 905 1831.73062097 905 1918 c 0
-547.048626149 1912.82937032 m 1
- 650.770920072 2025.43261318 748.701833546 2086 841 2086 c 0
- 944.761796734 2086 999 2031.70047023 999 1927 c 0
- 999 1777.75537718 884.263105449 1704 668 1704 c 2
- 357 1704 l 1
- 347 1704 l 1
- 347 1714 l 1
- 347 1786 l 1
- 347 1796 l 1
- 357 1796 l 1
- 455 1796 l 1
- 455 2317.97363281 l 1
- 455 2328.10424414 l 1
- 465.129758432 2327.97279091 l 1
- 538.125852182 2327.02552529 l 1
- 548.019259714 2326.89713918 l 1
- 547.996066275 2317.00292584 l 1
- 547.048626149 1912.82937032 l 1
+400.474662451 1372.5 m 2
+ 582.75022145 1372.5 666 1411.21288572 666 1481 c 0
+ 666 1531.52828551 630.000179385 1569.5 576 1569.5 c 0
+ 505.807846743 1569.5 426.332802528 1502.49952015 340.382024957 1372.09396867 c 1
+ 400.474662451 1372.5 l 2
+231.814221009 1371.5 m 1
+ 243.697174967 1390.6981373 254.139372545 1406.99620743 265 1424.17089236 c 1
+ 265 1897 l 1
+ 265 1904.5 l 1
+ 272.5 1904.5 l 1
+ 357 1904.5 l 1
+ 364.5 1904.5 l 1
+ 364.5 1897 l 1
+ 364.5 1562.58341118 l 1
+ 428.274966206 1635.67804946 496.236695459 1675 571.5 1675 c 0
+ 688.742007086 1675 770 1594.69989378 770 1484.97330995 c 0
+ 768.953499248 1337.93995434 642.52150262 1266.5 402.5 1266.5 c 2
+ 125 1266.5 l 1
+ 117.5 1266.5 l 1
+ 117.5 1274 l 1
+ 117.5 1364 l 1
+ 117.5 1371.5 l 1
+ 125 1371.5 l 1
+ 231.814221009 1371.5 l 1
 EndSplineSet
 EndChar
 
@@ -430,36 +431,36 @@ Width: 830
 VWidth: 2950
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-7" 445.326 34.3535 basechar 0
-AnchorPoint: "Anchor-10" 441.848 1139.06 basechar 0
+AnchorPoint: "Anchor-7" 445.326 -65.6465 basechar 0
+AnchorPoint: "Anchor-10" 401.848 1039.06 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-458.462890625 445.05078125 m 1
- 537.838867188 463.154296875 618.6484375 481.038085938 697.07421875 498.991210938 c 2
- 738.995117188 508.587890625 l 1
- 745.53515625 466.08203125 l 1
- 771.53515625 297.08203125 l 1
- 777.795898438 256.3828125 l 1
- 736.932617188 251.305664062 l 2
- 576.181640625 231.330078125 368.865234375 152.631835938 117.202148438 14.91015625 c 2
- 58 -17.4873046875 l 1
- 58 50 l 1
- 58 223 l 1
- 58 243.995117188 l 1
- 75.2802734375 255.920898438 l 2
- 121.450195312 287.78515625 165.264648438 313.583984375 207.0703125 334.104492188 c 1
- 124.811523438 393.86328125 78 473.811523438 78 574 c 0
- 78 801.321289062 245.18359375 948 453 948 c 0
- 571.048828125 948 666.9765625 915.438476562 736.045898438 847.520507812 c 2
- 755.209960938 828.67578125 l 1
- 745.00390625 803.811523438 l 1
- 690.00390625 669.811523438 l 1
- 671.044921875 623.620117188 l 1
- 630.103515625 652.202148438 l 2
- 583.892578125 684.461914062 531.923828125 701 466 701 c 0
- 375.53515625 701 320 654.23046875 320 575 c 0
- 320 541.3671875 355.041992188 494.458007812 458.462890625 445.05078125 c 1
+458.462890625 345.05078125 m 1
+ 537.838867188 363.154296875 618.6484375 381.038085938 697.07421875 398.991210938 c 2
+ 738.995117188 408.587890625 l 1
+ 745.53515625 366.08203125 l 1
+ 771.53515625 197.08203125 l 1
+ 777.795898438 156.3828125 l 1
+ 736.932617188 151.305664062 l 2
+ 576.181640625 131.330078125 368.865234375 52.6318359375 117.202148438 -85.08984375 c 2
+ 58 -117.487304688 l 1
+ 58 -50 l 1
+ 58 123 l 1
+ 58 143.995117188 l 1
+ 75.2802734375 155.920898438 l 2
+ 121.450195312 187.78515625 165.264648438 213.583984375 207.0703125 234.104492188 c 1
+ 124.811523438 293.86328125 78 373.811523438 78 474 c 0
+ 78 699.708984375 234.045898438 848 443 848 c 0
+ 543.196289062 848 628.719726562 813.725585938 696.045898438 747.520507812 c 2
+ 715.209960938 728.67578125 l 1
+ 705.00390625 703.811523438 l 1
+ 650.00390625 569.811523438 l 1
+ 631.044921875 523.620117188 l 1
+ 590.103515625 552.202148438 l 2
+ 541.599609375 586.0625 499.001953125 601 456 601 c 0
+ 367.64453125 601 320 557.202148438 320 475 c 0
+ 320 441.3671875 355.041992188 394.458007812 458.462890625 345.05078125 c 1
 EndSplineSet
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-120 dv=0
@@ -552,10 +553,10 @@ VWidth: 2703
 GlyphClass: 3
 Flags: HW
 AnchorPoint: "Anchor-7" 699.902 -668.086 basechar 0
-AnchorPoint: "Anchor-10" 631.99 1348.16 basechar 0
+AnchorPoint: "Anchor-10" 631.99 1368.16 basechar 0
 LayerCount: 2
 Fore
-Refer: 55 1620 S 1 0 0 1 33.706 -997.54 2
+Refer: 55 1620 S 1 0 0 1 33.706 -977.54 2
 Refer: 44 1609 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-58 dv=0
@@ -625,12 +626,12 @@ Width: 922
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 418.727 1562.77 basechar 0
+AnchorPoint: "Anchor-10" 418.727 1582.77 basechar 0
 AnchorPoint: "Anchor-7" 450.721 -233.725 basechar 0
 LayerCount: 2
 Fore
 Refer: 42 1607 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1 0 0 1 189.229 1169.81 2
+Refer: 265 -1 S 1 0 0 1 189.229 1189.81 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE94
@@ -644,11 +645,11 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 900.268 -226.468 basechar 0
-AnchorPoint: "Anchor-10" 878.559 1302.29 basechar 0
+AnchorPoint: "Anchor-10" 884.559 1238.29 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1 0 0 1 649.562 801.85 2
+Refer: 265 -1 N 1 0 0 1 649.562 801.85 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE96
@@ -747,10 +748,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 690.833 -830.619 basechar 0
-AnchorPoint: "Anchor-10" 560.122 1494.84 basechar 0
+AnchorPoint: "Anchor-10" 560.122 1514.84 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 473.894 1126.26 2
+Refer: 264 -1 S 1 0 0 1 473.894 1146.26 2
 Refer: 21 1581 N 1 0 0 1 0 0 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEA6
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEA8
@@ -800,10 +801,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 437.24 -239.316 basechar 0
-AnchorPoint: "Anchor-10" 341.56 1595.42 basechar 0
+AnchorPoint: "Anchor-10" 341.56 1615.42 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 255.95 1222.28 2
+Refer: 264 -1 S 1 0 0 1 255.95 1242.28 2
 Refer: 23 1583 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
@@ -851,10 +852,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 322.969 -599.998 basechar 0
-AnchorPoint: "Anchor-10" 448.256 1207.2 basechar 0
+AnchorPoint: "Anchor-10" 448.256 1227.2 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 367.95 834.284 2
+Refer: 264 -1 S 1 0 0 1 367.95 854.284 2
 Refer: 25 1585 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-30 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
@@ -930,10 +931,10 @@ VWidth: 2957
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 716.902 -714.086 basechar 0
-AnchorPoint: "Anchor-10" 1740.73 1506.82 basechar 0
+AnchorPoint: "Anchor-10" 1740.73 1526.82 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 1501 899 2
+Refer: 266 -1 S 1 0 0 1 1501 919 2
 Refer: 27 1587 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
@@ -1000,10 +1001,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 710.902 -716.086 basechar 0
-AnchorPoint: "Anchor-10" 2044.53 1452.1 basechar 0
+AnchorPoint: "Anchor-10" 2044.53 1472.1 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 1966.95 1086.28 2
+Refer: 264 -1 N 1 0 0 1 1966.95 1106.28 2
 Refer: 29 1589 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
@@ -1067,7 +1068,7 @@ AnchorPoint: "Anchor-10" 476.36 1498.58 basechar 0
 AnchorPoint: "Anchor-7" 641.602 -236.453 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 878.95 1086.28 2
+Refer: 264 -1 S 1 0 0 1 878.95 1106.28 2
 Refer: 31 1591 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
@@ -1131,10 +1132,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 690.833 -830.619 basechar 0
-AnchorPoint: "Anchor-10" 674.017 1647.35 basechar 0
+AnchorPoint: "Anchor-10" 674.017 1667.35 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 588.95 1304.28 2
+Refer: 264 -1 S 1 0 0 1 588.95 1324.28 2
 Refer: 33 1593 N 1 0 0 1 0 0 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFECE
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFED0
@@ -1171,10 +1172,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 900.268 -226.468 basechar 0
-AnchorPoint: "Anchor-10" 1294.45 1665.99 basechar 0
+AnchorPoint: "Anchor-10" 1294.45 1685.99 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 1210.95 1286.28 2
+Refer: 264 -1 S 1 0 0 1 1210.95 1306.28 2
 Refer: 80 1697 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
@@ -1191,10 +1192,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 737.902 -656.086 basechar 0
-AnchorPoint: "Anchor-10" 932.87 1398.76 basechar 0
+AnchorPoint: "Anchor-10" 932.87 1418.76 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 712 1002 2
+Refer: 265 -1 S 1 0 0 1 712 1022 2
 Refer: 74 1647 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-58 dv=0
@@ -1357,10 +1358,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 714.902 -661.086 basechar 0
-AnchorPoint: "Anchor-10" 694.458 1108.61 basechar 0
+AnchorPoint: "Anchor-10" 694.458 1128.61 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 614.95 624.284 2
+Refer: 264 -1 S 1 0 0 1 614.95 644.284 2
 Refer: 83 1722 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-58 dv=0
@@ -1453,10 +1454,10 @@ LayerCount: 2
 Fore
 SplineSet
 937 316 m 4
- 937 275.744140625 942.012695312 272 984 272 c 2
- 1164.08300781 272 l 2
- 1323.91308594 271.333984375 1419 171.860351562 1419 38 c 0
- 1419 -311.319335938 1120.96777344 -499 719 -499 c 0
+ 937 275.744140625 942.012695312 272 984 272 c 6
+ 1164.08300781 272 l 6
+ 1323.91308594 271.333984375 1419 171.860351562 1419 38 c 4
+ 1419 -311.319335938 1120.96777344 -499 719 -499 c 4
  288.452148438 -499 58 -288.056640625 58 119 c 0
  58 267.784179688 95.6103515625 419.923828125 169.166992188 593.599609375 c 2
  184.541015625 629.899414062 l 1
@@ -1465,10 +1466,10 @@ SplineSet
  413.2109375 536.956054688 l 1
  398.017578125 499.844726562 l 2
  338.346679688 354.090820312 309 236.116210938 309 122 c 0
- 309 -127.860351562 436.658203125 -247.051757812 724.06640625 -248 c 0
- 957.73046875 -248 1177 -143.649414062 1177 -2 c 0
- 1177 11.626953125 1166.22460938 16 1118 16 c 2
- 974 16 l 2
+ 309 -127.860351562 436.658203125 -247.051757812 724.06640625 -248 c 4
+ 957.73046875 -248 1177 -143.649414062 1177 -2 c 4
+ 1177 11.626953125 1166.22460938 16 1118 16 c 6
+ 974 16 l 6
  793.969726562 16 688 120.90625 688 303 c 4
  688 598.701171875 931.416992188 786.53515625 1191.55859375 786.53515625 c 4
  1230.984375 786.53515625 1307.41503906 785.244140625 1387.38476562 751.922851562 c 6
@@ -1510,7 +1511,7 @@ EndChar
 StartChar: uni064B
 Encoding: 1611 1611 46
 GlifName: uni064B_
-Width: -26
+Width: 0
 VWidth: 2316
 GlyphClass: 4
 Flags: HW
@@ -1521,39 +1522,39 @@ AnchorPoint: "Anchor-1" 583.551 1123.65 mark 0
 LayerCount: 2
 Fore
 SplineSet
-317 1076 m 1
- 317 1180 l 1
- 317 1186.71537562 l 1
- 323.216048115 1189.25644144 l 1
- 778.216048115 1375.25644144 l 1
- 792 1380.89119979 l 1
- 792 1366 l 1
- 792 1263 l 1
- 792 1256.29826689 l 1
- 785.801362686 1253.75069507 l 1
- 330.801362686 1066.75069507 l 1
- 317 1061.07848667 l 1
- 317 1076 l 1
-317 1288 m 1
- 317 1392 l 1
- 317 1398.71537562 l 1
- 323.216048115 1401.25644144 l 1
- 778.216048115 1587.25644144 l 1
- 792 1592.89119979 l 1
- 792 1578 l 1
- 792 1475 l 1
- 792 1468.29826689 l 1
- 785.801362686 1465.75069507 l 1
- 330.801362686 1278.75069507 l 1
- 317 1273.07848667 l 1
- 317 1288 l 1
+319.5 1076 m 1
+ 319.5 1180 l 1
+ 319.5 1185.03653171 l 1
+ 324.162036086 1186.94233108 l 1
+ 779.162036086 1372.94233108 l 1
+ 789.5 1377.16839984 l 1
+ 789.5 1366 l 1
+ 789.5 1263 l 1
+ 789.5 1257.97370017 l 1
+ 784.851022015 1256.0630213 l 1
+ 329.851022015 1069.0630213 l 1
+ 319.5 1064.808865 l 1
+ 319.5 1076 l 1
+319.5 1288 m 1
+ 319.5 1392 l 1
+ 319.5 1397.03653171 l 1
+ 324.162036086 1398.94233108 l 1
+ 779.162036086 1584.94233108 l 1
+ 789.5 1589.16839984 l 1
+ 789.5 1578 l 1
+ 789.5 1475 l 1
+ 789.5 1469.97370017 l 1
+ 784.851022015 1468.0630213 l 1
+ 329.851022015 1281.0630213 l 1
+ 319.5 1276.808865 l 1
+ 319.5 1288 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni064C
 Encoding: 1612 1612 47
 GlifName: uni064C_
-Width: -26
+Width: 0
 VWidth: 2316
 GlyphClass: 4
 Flags: HW
@@ -1564,39 +1565,39 @@ AnchorPoint: "Anchor-1" 680.906 1278.67 mark 0
 LayerCount: 2
 Fore
 SplineSet
-479 1629 m 0
- 479 1731.76552225 552.4963966 1801 652 1801 c 0
- 752.064112453 1801 824 1732.53591765 824 1628 c 0
- 824 1591.16085925 815.378868534 1552.27469286 801.031294994 1514.97279472 c 1
- 814.093104284 1513.34371792 821.9010554 1513 830 1513 c 2
- 840 1513 l 1
- 840 1503 l 1
- 840 1427 l 1
- 840 1416.4875078 l 1
- 829.500623831 1417.01247661 l 2
- 810.968118627 1417.93910187 788.159123035 1419.87699272 760.066529146 1424.73856031 c 1
- 695.878207041 1276.81129477 600.310607473 1200.99202128 471.867219481 1200.99202128 c 0
- 332.0720901 1200.99202128 261.019531073 1301.70235437 258.001286606 1489.83959283 c 2
- 257.864600947 1498.35966558 l 1
- 266.255036765 1499.84657825 l 1
- 345.255036765 1513.84657825 l 1
- 356.754576749 1515.88447142 l 1
- 356.997830567 1504.20828814 l 2
- 359.988700673 1360.64652305 400.817629911 1299 473 1299 c 0
- 539.4246915 1299 601.936332407 1346.48802742 658.376739308 1442.60817591 c 1
- 557.781001019 1479.37677148 479 1530.42799523 479 1629 c 0
-703.160444539 1534.93682037 m 1
- 715.662442249 1565.48638565 726 1599.53496259 726 1627 c 0
- 726 1669.85117324 693.892850854 1701 656 1701 c 0
- 610.735108636 1701 579 1671.60733904 579 1625 c 0
- 579 1579.55048991 639.93500653 1552.41557778 703.160444539 1534.93682037 c 1
+481.5 1629 m 0
+ 481.5 1730.41015071 553.766977595 1798.5 652 1798.5 c 0
+ 750.783386164 1798.5 821.5 1731.21728053 821.5 1628 c 0
+ 821.5 1590.57272646 812.518328868 1550.93933172 797.5412277 1512.91996944 c 1
+ 811.912968785 1510.94719739 821.094040773 1510.5 830 1510.5 c 2
+ 837.5 1510.5 l 1
+ 837.5 1503 l 1
+ 837.5 1427 l 1
+ 837.5 1419.11563085 l 1
+ 829.625467873 1419.50935746 l 2
+ 810.808090161 1420.45022634 786.74252555 1422.54925702 758.555629789 1427.54372682 c 1
+ 693.996661335 1278.0672037 599.530382584 1203.49202128 471.867219481 1203.49202128 c 0
+ 332.81693156 1203.49202128 263.498872087 1333.03140483 260.500965174 1519.87968094 c 2
+ 260.398439082 1526.26974712 l 1
+ 266.691277574 1527.38493369 l 1
+ 345.691277574 1541.38493369 l 1
+ 354.315932562 1542.91335356 l 1
+ 354.498372925 1534.1562161 l 2
+ 357.511336243 1389.53397684 399.899344998 1296.5 473 1296.5 c 0
+ 541.318034468 1296.5 604.606226353 1345.24071762 662.044900829 1443.93481016 c 1
+ 559.12238515 1481.24892116 481.5 1531.38646524 481.5 1629 c 0
+704.630074949 1531.94062203 m 1
+ 717.715135241 1563.57152748 728.5 1598.26296409 728.5 1627 c 0
+ 728.5 1671.15153237 695.33002255 1703.5 656 1703.5 c 0
+ 609.489129977 1703.5 576.5 1672.9892247 576.5 1625 c 0
+ 576.5 1576.66056442 640.827973575 1549.39968853 704.630074949 1531.94062203 c 1
 EndSplineSet
 EndChar
 
 StartChar: uni064D
 Encoding: 1613 1613 48
 GlifName: uni064D_
-Width: -26
+Width: 0
 VWidth: 2316
 GlyphClass: 4
 Flags: HW
@@ -1607,39 +1608,39 @@ AnchorPoint: "Anchor-0" 542.278 32.7109 mark 0
 LayerCount: 2
 Fore
 SplineSet
-322 -446 m 1
- 322 -342 l 1
- 322 -335.279048682 l 1
- 328.223161451 -332.74065388 l 1
- 784.223161451 -146.74065388 l 1
- 798 -141.121153945 l 1
- 798 -156 l 1
- 798 -260 l 1
- 798 -266.720951318 l 1
- 791.776838549 -269.25934612 l 1
- 335.776838549 -455.25934612 l 1
- 322 -460.878846055 l 1
- 322 -446 l 1
-322 -234 m 1
- 322 -130 l 1
- 322 -123.279048682 l 1
- 328.223161451 -120.74065388 l 1
- 784.223161451 65.2593461202 l 1
- 798 70.8788460547 l 1
- 798 56 l 1
- 798 -48 l 1
- 798 -54.7209513179 l 1
- 791.776838549 -57.2593461202 l 1
- 335.776838549 -243.25934612 l 1
- 322 -248.878846055 l 1
- 322 -234 l 1
+324.5 -446 m 1
+ 324.5 -342 l 1
+ 324.5 -336.959286512 l 1
+ 329.167371088 -335.05549041 l 1
+ 785.167371088 -149.05549041 l 1
+ 795.5 -144.840865459 l 1
+ 795.5 -156 l 1
+ 795.5 -260 l 1
+ 795.5 -265.040713488 l 1
+ 790.832628912 -266.94450959 l 1
+ 334.832628912 -452.94450959 l 1
+ 324.5 -457.159134541 l 1
+ 324.5 -446 l 1
+324.5 -234 m 1
+ 324.5 -130 l 1
+ 324.5 -124.959286512 l 1
+ 329.167371088 -123.05549041 l 1
+ 785.167371088 62.9445095902 l 1
+ 795.5 67.159134541 l 1
+ 795.5 56 l 1
+ 795.5 -48 l 1
+ 795.5 -53.0407134884 l 1
+ 790.832628912 -54.9445095902 l 1
+ 334.832628912 -240.94450959 l 1
+ 324.5 -245.159134541 l 1
+ 324.5 -234 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni064E
 Encoding: 1614 1614 49
 GlifName: uni064E_
-Width: -26
+Width: 0
 VWidth: 2316
 GlyphClass: 4
 Flags: HW
@@ -1650,26 +1651,26 @@ AnchorPoint: "Anchor-1" 545.66 1397.63 mark 0
 LayerCount: 2
 Fore
 SplineSet
-286 1349 m 1
- 286 1453 l 1
- 286 1459.72095132 l 1
- 292.223161451 1462.25934612 l 1
- 748.223161451 1648.25934612 l 1
- 762 1653.87884605 l 1
- 762 1639 l 1
- 762 1535 l 1
- 762 1528.27904868 l 1
- 755.776838549 1525.74065388 l 1
- 299.776838549 1339.74065388 l 1
- 286 1334.12115395 l 1
- 286 1349 l 1
+288.5 1349 m 1
+ 288.5 1453 l 1
+ 288.5 1458.04071349 l 1
+ 293.167371088 1459.94450959 l 1
+ 749.167371088 1645.94450959 l 1
+ 759.5 1650.15913454 l 1
+ 759.5 1639 l 1
+ 759.5 1535 l 1
+ 759.5 1529.95928651 l 1
+ 754.832628912 1528.05549041 l 1
+ 298.832628912 1342.05549041 l 1
+ 288.5 1337.84086546 l 1
+ 288.5 1349 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni064F
 Encoding: 1615 1615 50
 GlifName: uni064F_
-Width: -26
+Width: 0
 VWidth: 2316
 GlyphClass: 4
 Flags: HW
@@ -1680,37 +1681,37 @@ AnchorPoint: "Anchor-1" 591.295 1339.37 mark 0
 LayerCount: 2
 Fore
 SplineSet
-723 1417 m 2
- 696.672586134 1417 671.922819741 1418.79781391 647.515202101 1422.22225113 c 1
- 578.69926327 1330.31071922 443.04296875 1281.93261719 280.547851562 1273.01464844 c 2
- 270 1272.43652344 l 1
- 270 1283 l 1
- 270 1361 l 1
- 270 1370.12597656 l 1
- 279.087890625 1370.95800781 l 2
- 397.268554688 1381.78417969 498.640466132 1409.42316493 545.393098832 1449.17847415 c 1
- 457.136834754 1471.05216959 370 1531.72501055 370 1626 c 0
- 370 1729.20445185 443.731478569 1798 543 1798 c 0
- 642.596896992 1798 716 1728.67335246 716 1625 c 0
- 716 1588.31930976 707.86260554 1550.64768392 693.984631457 1514.10436758 c 1
- 704.474070047 1512.77330843 713.132445597 1512 723 1512 c 2
- 733 1512 l 1
- 733 1502 l 1
- 733 1427 l 1
- 733 1417 l 1
- 723 1417 l 2
-594.160444539 1531.93682037 m 1
- 606.662442249 1562.48638565 617 1596.53496259 617 1624 c 0
- 617 1667.28374682 585.872275552 1697 547 1697 c 0
- 501.150271426 1697 470 1668.84130925 470 1622 c 0
- 470 1576.55048991 530.93500653 1549.41557778 594.160444539 1531.93682037 c 1
+723 1419.5 m 2
+ 696.220979458 1419.5 670.437542826 1421.44271101 646.385077107 1424.91077456 c 1
+ 577.957394798 1333.0814329 443.159218252 1284.44257453 280.410966997 1275.51126806 c 2
+ 272.5 1275.07712962 l 1
+ 272.5 1283 l 1
+ 272.5 1361 l 1
+ 272.5 1367.84437806 l 1
+ 279.315841531 1368.46872996 l 2
+ 400.949047822 1379.61070305 501.944308236 1408.9424443 550.462824734 1450.54324496 c 1
+ 461.317841578 1471.22581491 372.5 1531.89068924 372.5 1626 c 0
+ 372.5 1727.8449726 444.995463154 1795.5 543 1795.5 c 0
+ 641.318487564 1795.5 713.5 1727.33053868 713.5 1625 c 0
+ 713.5 1587.68788251 705.008877408 1549.34555439 690.51208418 1512.04247145 c 1
+ 702.564765457 1510.42087039 711.798213914 1509.5 723 1509.5 c 2
+ 730.5 1509.5 l 1
+ 730.5 1502 l 1
+ 730.5 1427 l 1
+ 730.5 1419.5 l 1
+ 723 1419.5 l 2
+595.630074949 1528.94062203 m 1
+ 608.715135241 1560.57152748 619.5 1595.26296409 619.5 1624 c 0
+ 619.5 1668.59454452 587.25938608 1699.5 547 1699.5 c 0
+ 499.950970863 1699.5 467.5 1670.24283065 467.5 1622 c 0
+ 467.5 1573.66056442 531.827973575 1546.39968853 595.630074949 1528.94062203 c 1
 EndSplineSet
 EndChar
 
 StartChar: uni0650
 Encoding: 1616 1616 51
 GlifName: uni0650
-Width: -26
+Width: 0
 VWidth: 2316
 GlyphClass: 4
 Flags: HW
@@ -1721,26 +1722,26 @@ AnchorPoint: "Anchor-0" 571.144 -44.8242 mark 0
 LayerCount: 2
 Fore
 SplineSet
-333 -346 m 1
- 333 -242 l 1
- 333 -235.284624383 l 1
- 339.216048115 -232.74355856 l 1
- 794.216048115 -46.7435585601 l 1
- 808 -41.108800207 l 1
- 808 -56 l 1
- 808 -159 l 1
- 808 -165.701733113 l 1
- 801.801362686 -168.249304932 l 1
- 346.801362686 -355.249304932 l 1
- 333 -360.921513333 l 1
- 333 -346 l 1
+335.5 -346 m 1
+ 335.5 -242 l 1
+ 335.5 -236.963468287 l 1
+ 340.162036086 -235.05766892 l 1
+ 795.162036086 -49.0576689201 l 1
+ 805.5 -44.8316001553 l 1
+ 805.5 -56 l 1
+ 805.5 -159 l 1
+ 805.5 -164.026299835 l 1
+ 800.851022015 -165.936978699 l 1
+ 345.851022015 -352.936978699 l 1
+ 335.5 -357.191135 l 1
+ 335.5 -346 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni0651
 Encoding: 1617 1617 52
 GlifName: uni0651
-Width: -26
+Width: 0
 VWidth: 2393
 GlyphClass: 4
 Flags: HW
@@ -1751,71 +1752,70 @@ AnchorPoint: "Anchor-1" 598.801 1453.71 mark 0
 LayerCount: 2
 Fore
 SplineSet
-617.993628543 1758.35691531 m 2
- 619.001942224 1730.12413226 619.009174284 1703.24601087 620.972681039 1676.73866968 c 0
- 625.43563725 1616.48489178 645.692717839 1584 681 1584 c 0
- 720.10630762 1584 738 1609.27219198 738 1675 c 0
- 738 1698.52444509 732.143521803 1738.28169094 721.208661625 1790.96783543 c 2
- 719.078938974 1801.22922639 l 1
- 729.428849513 1802.87580306 l 1
- 817.428849513 1816.87580306 l 1
- 826.124156558 1818.25914737 l 1
- 828.59737407 1809.80898753 l 2
- 840.849630812 1767.94711033 847 1726.00080397 847 1685 c 0
- 847 1547.71619231 795.184775075 1473.07279343 690.05101908 1472 c 0
- 650.90853806 1472 608.452011917 1488.24920552 584.138732222 1516.4690507 c 1
- 556.145491191 1447.7049043 489.548898937 1428 432 1428 c 0
- 331.587669416 1428 283.873817788 1496.27833027 283.873817788 1616.0779836 c 0
- 283.873817788 1653.12839481 288.882749168 1687.57592779 297.352361788 1718.63117406 c 2
- 299.730110448 1727.34958581 l 1
- 308.643989873 1725.86393924 l 1
- 386.643989873 1712.86393924 l 1
- 397.086130606 1711.12358245 l 1
- 394.754410021 1700.79739129 l 2
- 387.949485082 1670.66129513 386 1643.4433728 386 1620 c 0
- 386 1567.1092627 405.337258194 1546 444 1546 c 0
- 518.825537249 1546 521.4140625 1594.56261462 521.4140625 1719.33203125 c 0
- 521.4140625 1731.58877154 521.293624535 1744.38847208 521.002363481 1757.78259706 c 2
- 520.780181625 1768 l 1
- 531 1768 l 1
- 608 1768 l 1
- 617.649232662 1768 l 1
- 617.993628543 1758.35691531 l 2
+615.495221408 1758.26768648 m 2
+ 616.501456668 1730.0930992 616.506880713 1703.18450815 618.479510779 1676.55400226 c 0
+ 622.953192781 1616.15541688 643.51953838 1581.5 681 1581.5 c 0
+ 722.079730715 1581.5 740.5 1608.95414398 740.5 1675 c 0
+ 740.5 1698.89333382 734.607641352 1738.7112682 723.656496219 1791.47587657 c 2
+ 722.059204231 1799.17191979 l 1
+ 729.821637134 1800.4068523 l 1
+ 817.821637134 1814.4068523 l 1
+ 824.343117418 1815.44436052 l 1
+ 826.198030553 1809.10674065 l 2
+ 838.387223109 1767.46033275 844.5 1725.75060297 844.5 1685 c 0
+ 844.5 1548.28714424 793.388581306 1475.55459507 690.03826431 1474.5 c 0
+ 650.16905291 1474.5 607.02551744 1491.44577507 583.354116273 1521.36842338 c 1
+ 557.052331298 1450.90180245 490.23628128 1430.5 432 1430.5 c 0
+ 333.279114705 1430.5 286.373817788 1496.93250824 286.373817788 1616.0779836 c 0
+ 286.373817788 1652.90284676 291.352240994 1687.12926928 299.764271341 1717.97338054 c 2
+ 301.547582836 1724.51218936 l 1
+ 308.232992405 1723.39795443 l 1
+ 386.232992405 1710.39795443 l 1
+ 394.064597955 1709.09268684 l 1
+ 392.315807516 1701.34804346 l 2
+ 385.462113812 1670.99597135 383.5 1643.5825296 383.5 1620 c 0
+ 383.5 1566.33194702 403.752943645 1543.5 444 1543.5 c 0
+ 521.349272019 1543.5 523.9140625 1595.25863088 523.9140625 1719.33203125 c 0
+ 523.9140625 1731.60515287 523.793460589 1744.42318999 523.501772611 1757.8369478 c 2
+ 523.335136219 1765.5 l 1
+ 531 1765.5 l 1
+ 608 1765.5 l 1
+ 615.236924496 1765.5 l 1
+ 615.495221408 1758.26768648 l 2
 EndSplineSet
 EndChar
 
 StartChar: uni0652
 Encoding: 1618 1618 53
 GlifName: uni0652
-Width: -26
+Width: 0
 VWidth: 2316
 GlyphClass: 4
 Flags: HW
-AnchorPoint: "Anchor-10" 595.219 1271.43 mark 0
-AnchorPoint: "Anchor-9" 595.219 1271.43 mark 0
+AnchorPoint: "Anchor-10" 593.219 1239.43 mark 0
+AnchorPoint: "Anchor-9" 593.219 1239.43 mark 0
 AnchorPoint: "Anchor-1" 589.537 1682.66 basemark 0
-AnchorPoint: "Anchor-1" 595.219 1271.43 mark 0
+AnchorPoint: "Anchor-1" 593.219 1239.43 mark 0
 LayerCount: 2
 Fore
 SplineSet
-411.07421875 1461.82128906 m 0
- 411.07421875 1563.51160247 492.714265489 1645.14941406 594.40234375 1645.14941406 c 0
- 696.091760807 1645.14941406 777.731445312 1563.50896161 777.731445312 1461.82128906 c 0
- 777.731445312 1410.94672565 759.824452385 1367.08661364 724.48115545 1331.7433167 c 0
- 689.137372158 1296.40021929 645.276883757 1278.49316406 594.40234375 1278.49316406 c 0
- 492.713027067 1278.49316406 411.07421875 1360.1341316 411.07421875 1461.82128906 c 0
-512.667473694 1461.02255928 m 0
- 511.878032554 1414.7684852 550.003592534 1377.01256091 596.758670814 1376.92872723 c 0
- 643.256461851 1377.01319924 681.027914865 1414.642493 680.851490069 1461.02248286 c 0
- 681.028073381 1507.3907048 643.251391912 1544.97884388 596.758599542 1545.11421597 c 0
- 550.000874211 1544.97984479 511.88184158 1507.00046918 512.667473694 1461.02255928 c 0
+507.5 1462 m 0
+ 507.5 1414.2124203 546.028078836 1376.5 594 1376.5 c 0
+ 641.89553369 1376.5 679.5 1414.10451199 679.5 1462 c 0
+ 679.5 1509.97190239 641.787619576 1548.5 594 1548.5 c 0
+ 546.136212317 1548.5 507.5 1509.86380866 507.5 1462 c 0
+413.5 1462 m 0
+ 413.5 1561.15787058 494.842039268 1642.5 594 1642.5 c 0
+ 693.157870583 1642.5 774.5 1561.15796073 774.5 1462 c 0
+ 774.5 1362.84212942 693.157960732 1281.5 594 1281.5 c 0
+ 494.842129417 1281.5 413.5 1362.84203927 413.5 1462 c 0
 EndSplineSet
 EndChar
 
 StartChar: uni0653
 Encoding: 1619 1619 54
 GlifName: uni0653
-Width: -30
+Width: 0
 VWidth: 2673
 GlyphClass: 4
 Flags: HW
@@ -1830,14 +1830,14 @@ SplineSet
  317.84765625 1635.82714844 273.09375 1594.02441406 220.8125 1531.45800781 c 2
  208.190429688 1516.35351562 l 1
  194.272460938 1530.27246094 l 1
- 93.2724609375 1621.27246094 l 5
- 82.599609375 1631.94433594 l 5
- 91.248046875 1644.31347656 l 6
- 161.051757812 1744.16015625 236.762695312 1813.68457031 338.674804688 1813.68457031 c 4
- 428.803710938 1813.68457031 496.763671875 1762.62207031 574.038085938 1762.62207031 c 4
- 624.560546875 1762.62207031 671.194335938 1783.33496094 733.87109375 1815.05957031 c 6
- 750.009765625 1823.22851562 l 5
- 758.099609375 1807.04980469 l 5
+ 93.2724609375 1621.27246094 l 1
+ 82.599609375 1631.94433594 l 1
+ 91.248046875 1644.31347656 l 2
+ 161.051757812 1744.16015625 236.762695312 1813.68457031 338.674804688 1813.68457031 c 0
+ 428.803710938 1813.68457031 496.763671875 1762.62207031 574.038085938 1762.62207031 c 0
+ 624.560546875 1762.62207031 671.194335938 1783.33496094 733.87109375 1815.05957031 c 2
+ 750.009765625 1823.22851562 l 1
+ 758.099609375 1807.04980469 l 1
  824.099609375 1685.04980469 l 1
  831.465820312 1670.31738281 l 1
  817.443359375 1661.67675781 l 2
@@ -1881,7 +1881,7 @@ EndChar
 StartChar: uni0657
 Encoding: 1623 1623 57
 GlifName: uni0657
-Width: -26
+Width: 0
 VWidth: 2316
 GlyphClass: 4
 Flags: HW
@@ -1892,37 +1892,37 @@ AnchorPoint: "Anchor-1" 513.285 1400.55 mark 0
 LayerCount: 2
 Fore
 SplineSet
-265.249921912 1814.99687646 m 2
- 303.937053169 1814.02969818 345.68248625 1811.15593714 390.496059094 1806.52841897 c 1
- 492.274757705 1948.91988621 622.556743554 2027.81479388 784.066592913 2042.95634226 c 2
- 795 2043.98134917 l 1
- 795 2033 l 1
- 795 1955 l 1
- 795 1946.49468225 l 1
- 786.604937966 1945.12963151 l 2
- 670.536380848 1926.25669539 575.665779254 1871.67253031 502.93786593 1783.19564627 c 1
- 586.746937685 1755.38953044 668 1698.64701459 668 1599 c 0
- 668 1502.6830679 598.72271107 1428 501 1428 c 0
- 403.846001283 1428 322 1496.68663051 322 1603 c 0
- 322 1630.90288887 328.628189847 1669.41098266 341.715037007 1712.93824855 c 1
- 317.995583066 1714.60971679 293.531610965 1716 265 1716 c 2
- 255 1716 l 1
- 255 1726 l 1
- 255 1805 l 1
- 255 1815.25312451 l 1
- 265.249921912 1814.99687646 l 2
-501 1526 m 0
- 543.217778735 1526 567 1553.25868907 567 1597 c 0
- 567 1647.10826499 506.848893173 1680.36737559 442.966076713 1697.20648817 c 1
- 427.349024452 1658.40288448 420 1628.27331069 420 1605 c 0
- 420 1558.66289921 456.303816724 1526 501 1526 c 0
+265.187441434 1812.49765735 m 2
+ 303.943084872 1811.52876626 347.752635337 1808.47349463 391.687478449 1803.89071633 c 1
+ 492.523366606 1945.80609352 623.036931976 2025.34884925 784.299944685 2040.4672567 c 2
+ 792.5 2041.23601188 l 1
+ 792.5 2033 l 1
+ 792.5 1955 l 1
+ 792.5 1948.62101169 l 1
+ 786.203703474 1947.59722363 l 2
+ 668.393232504 1928.44104949 572.922546079 1873.31067929 498.695398936 1781.9493537 c 1
+ 583.238394782 1754.75091035 665.5 1698.38889186 665.5 1599 c 0
+ 665.5 1503.94074662 597.306947851 1430.5 501 1430.5 c 0
+ 405.045170285 1430.5 324.5 1498.15529328 324.5 1603 c 0
+ 324.5 1631.29352949 331.112436887 1669.56106387 345.016128259 1715.2097029 c 1
+ 319.539620415 1717.03262749 295.103420132 1718.5 265 1718.5 c 2
+ 257.5 1718.5 l 1
+ 257.5 1726 l 1
+ 257.5 1805 l 1
+ 257.5 1812.68984338 l 1
+ 265.187441434 1812.49765735 l 2
+501 1523.5 m 0
+ 544.672412162 1523.5 569.5 1552.16971794 569.5 1597 c 0
+ 569.5 1650.01397879 504.961991208 1683.93274639 441.469159019 1700.17375377 c 1
+ 424.68354608 1658.71074978 417.5 1629.52830237 417.5 1605 c 0
+ 417.5 1557.20764412 455.049266621 1523.5 501 1523.5 c 0
 EndSplineSet
 EndChar
 
 StartChar: uni065A
 Encoding: 1626 1626 58
 GlifName: uni065A_
-Width: 1135
+Width: 0
 VWidth: 2316
 GlyphClass: 4
 Flags: HW
@@ -1933,49 +1933,52 @@ AnchorPoint: "Anchor-1" 573.285 1350.55 mark 0
 LayerCount: 2
 Fore
 SplineSet
-493.408736507 1438.88236465 m 1
- 300.408736507 1762.88236465 l 1
- 291.403478412 1778 l 1
- 309 1778 l 1
- 433 1778 l 1
- 438.743703325 1778 l 1
- 441.637789009 1773.03871026 l 1
- 573.030711641 1547.79370003 l 1
- 705.377888534 1773.06549049 l 1
- 708.276912873 1778 l 1
- 714 1778 l 1
- 838 1778 l 1
- 855.643211119 1778 l 1
- 846.579598704 1762.86283287 l 1
- 652.579598704 1438.86283287 l 1
- 649.667902477 1434 l 1
- 644 1434 l 1
- 502 1434 l 1
- 496.317058659 1434 l 1
- 493.408736507 1438.88236465 l 1
+495.55655238 1440.16177349 m 1
+ 302.55655238 1764.16177349 l 1
+ 295.802608809 1775.5 l 1
+ 309 1775.5 l 1
+ 433 1775.5 l 1
+ 437.307777493 1775.5 l 1
+ 439.478341757 1771.77903269 l 1
+ 573.02303373 1542.84527502 l 1
+ 707.5334164 1771.79911786 l 1
+ 709.707684655 1775.5 l 1
+ 714 1775.5 l 1
+ 838 1775.5 l 1
+ 851.232408339 1775.5 l 1
+ 844.434699028 1764.14712466 l 1
+ 650.434699028 1440.14712466 l 1
+ 648.250926858 1436.5 l 1
+ 644 1436.5 l 1
+ 502 1436.5 l 1
+ 497.737793994 1436.5 l 1
+ 495.55655238 1440.16177349 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni0660
 Encoding: 1632 1632 59
 GlifName: afii57392
-Width: 902
+Width: 799
 VWidth: 2655
 GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-95 493 m 4
- 95 689 255 849 451 849 c 4
- 647 849 807 689 807 493 c 4
- 807 297 647 137 451 137 c 4
- 255 137 95 297 95 493 c 4
-317 493 m 4
- 317 418 377 358 451 358 c 4
- 525 358 585 418 585 493 c 4
- 585 567 526 626 451 626 c 4
- 376 626 317 567 317 493 c 4
+146.609108382 517.177536519 m 1
+ 369.809303695 741.277145895 l 1
+ 398.037098017 769.618687766 l 1
+ 426.378186766 741.390438503 l 1
+ 652.277600829 516.390438503 l 1
+ 680.674822402 488.106279907 l 1
+ 652.334075935 459.765533441 l 1
+ 428.234466559 235.665924065 l 1
+ 399.950195312 207.381652817 l 1
+ 371.665924065 235.665924065 l 1
+ 146.665924065 460.665924065 l 1
+ 118.438468615 488.893379514 l 1
+ 146.609108382 517.177536519 l 1
 EndSplineSet
 EndChar
 
@@ -2171,32 +2174,32 @@ EndChar
 StartChar: uni0666
 Encoding: 1638 1638 65
 GlifName: afii57398
-Width: 1215
+Width: 1175
 VWidth: 2950
 GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-837.1328125 30.5458984375 m 2
- 758.879882812 352.254882812 714.779296875 589.302734375 704.204101562 974.407226562 c 5
- 611.750976562 951.208984375 532.780273438 939 434 939 c 4
- 297.265625 939 199.735351562 967.545898438 76.4482421875 1023.58496094 c 6
- 53 1034.24316406 l 5
- 53 1060 l 5
+797.1328125 30.5458984375 m 2
+ 718.827148438 352.471679688 674.845703125 598.732421875 664.193359375 984.854492188 c 5
+ 571.081054688 963.268554688 500.721679688 959 404 959 c 4
+ 269.467773438 959 199.022460938 977.869140625 76.4482421875 1033.58496094 c 6
+ 53 1044.24316406 l 5
+ 53 1070 l 5
  53 1267 l 5
  53 1329.51660156 l 5
  109.762695312 1303.31835938 l 6
- 237.169921875 1244.51464844 332.765625 1216 480 1216 c 4
- 620.860351562 1216 737.42578125 1246.04296875 889.26953125 1306.18847656 c 6
- 943.189453125 1327.546875 l 5
- 943.99609375 1269.55664062 l 6
- 951.967773438 696.594726562 1002.99316406 369.8828125 1098.31933594 51.47265625 c 2
- 1113.72949219 0 l 1
- 1060 0 l 1
- 876 0 l 1
- 844.563476562 0 l 1
- 837.1328125 30.5458984375 l 2
+ 237.786132812 1244.23046875 300.888671875 1226 450 1226 c 4
+ 592.784179688 1226 698.41796875 1246.43652344 849.26953125 1306.18847656 c 6
+ 903.189453125 1327.546875 l 5
+ 903.99609375 1269.55664062 l 6
+ 911.967773438 696.568359375 962.89453125 370.211914062 1058.31933594 51.47265625 c 2
+ 1073.72949219 -0 l 1
+ 1020 0 l 1
+ 836 0 l 1
+ 804.563476562 0 l 1
+ 797.1328125 30.5458984375 l 2
 EndSplineSet
 EndChar
 
@@ -2495,7 +2498,7 @@ EndChar
 StartChar: uni0670
 Encoding: 1648 1648 75
 GlifName: uni0670
-Width: -29
+Width: 0
 VWidth: 2574
 GlyphClass: 4
 Flags: HW
@@ -2506,19 +2509,19 @@ AnchorPoint: "Anchor-1" 636.984 1500.61 mark 0
 LayerCount: 2
 Fore
 SplineSet
-583 1568 m 5
- 583 1930 l 5
- 583 1940 l 5
- 593 1940 l 5
- 681 1940 l 5
- 691 1940 l 5
- 691 1930 l 5
- 691 1568 l 5
- 691 1558 l 5
- 681 1558 l 5
- 593 1558 l 5
- 583 1558 l 5
- 583 1568 l 5
+585.5 1568 m 1
+ 585.5 1930 l 1
+ 585.5 1937.5 l 1
+ 593 1937.5 l 1
+ 681 1937.5 l 1
+ 688.5 1937.5 l 1
+ 688.5 1930 l 1
+ 688.5 1568 l 1
+ 688.5 1560.5 l 1
+ 681 1560.5 l 1
+ 593 1560.5 l 1
+ 585.5 1560.5 l 1
+ 585.5 1568 l 1
 EndSplineSet
 EndChar
 
@@ -2532,33 +2535,33 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-164.812134069 1974.81670084 m 1
- 123.146650992 2014.91475013 106 2064.13137366 106 2133 c 0
- 106 2266.94935017 216.854492188 2351 317 2351 c 4
- 367.270507812 2351 415.168945312 2335.59472656 458.309570312 2308.71582031 c 6
- 462.979492188 2305.80664062 l 5
- 463.021484375 2300.3046875 l 5
- 463.930664062 2181.12695312 l 5
- 464.06640625 2163.30273438 l 5
- 448.784179688 2172.4765625 l 6
- 408.637695312 2196.57714844 370.518554688 2208 331 2208 c 4
- 292.83203125 2208 241 2183.28000797 241 2120.06253124 c 0
- 241.954472021 2081.89915625 262.341443189 2053.09350193 322.660463124 2030.71686043 c 0
- 328.970420774 2028.61321838 334.361266972 2027.1953125 338.90234375 2027.1953125 c 0
- 341.480321442 2027.1953125 340.243230486 2027.03579181 345.351718766 2028.15796749 c 0
- 389.183666235 2036.56471042 434.715630664 2046.18232965 478.064614884 2054.73371126 c 2
- 490 2057.08818472 l 1
- 490 2044.92278447 l 1
- 490 1928.93916352 l 1
- 490 1921.06122011 l 1
- 482.340956508 1919.21702782 l 1
- 85.3409565083 1823.62489023 l 1
- 73 1820.6533577 l 1
- 73 1833.34702593 l 1
- 73 1946.00679526 l 1
- 73 1953.99267371 l 1
- 80.7880683723 1955.75909542 l 1
- 164.812134069 1974.81670084 l 1
+169.944399235 1973.41725864 m 1
+ 125.693815952 2014.49838316 108.5 2062.75780096 108.5 2133 c 0
+ 108.5 2265.1411114 207.440912061 2348.5 317 2348.5 c 0
+ 366.752814302 2348.5 414.185404357 2333.26226371 456.987580024 2306.59405451 c 2
+ 460.489787935 2304.4119782 l 1
+ 460.521266141 2300.28572974 l 1
+ 461.430445828 2181.10799537 l 1
+ 461.532428086 2167.73988497 l 1
+ 450.070539219 2174.62042852 l 2
+ 409.621515577 2198.90187741 371.02144361 2210.5 331 2210.5 c 0
+ 283.144371469 2210.5 238.5 2185.60790511 238.5 2120.03127343 c 0
+ 239.486361828 2080.59282422 260.922058803 2050.95357153 321.830129269 2028.35840903 c 0
+ 328.2690282 2026.21177995 333.866387638 2024.6953125 338.90234375 2024.6953125 c 0
+ 341.584820005 2024.6953125 340.885501822 2024.61727142 345.855452496 2025.7090147 c 0
+ 389.642042811 2034.10705836 435.243919398 2043.73836505 478.548461163 2052.28097956 c 2
+ 487.5 2054.04683465 l 1
+ 487.5 2044.92278447 l 1
+ 487.5 1928.93916352 l 1
+ 487.5 1923.03070596 l 1
+ 481.755717381 1921.64756174 l 1
+ 84.7557173812 1826.05542415 l 1
+ 75.5 1823.82677476 l 1
+ 75.5 1833.34702593 l 1
+ 75.5 1946.00679526 l 1
+ 75.5 1951.9962041 l 1
+ 81.3410512792 1953.32102038 l 1
+ 169.944399235 1973.41725864 l 1
 EndSplineSet
 EndChar
 
@@ -2608,10 +2611,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 322.969 -669.998 basechar 0
-AnchorPoint: "Anchor-10" 449.986 1431.94 basechar 0
+AnchorPoint: "Anchor-10" 449.986 1451.94 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 N 1 0 0 1 206 811 2
+Refer: 266 -1 S 1 0 0 1 206 831 2
 Refer: 25 1585 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-40 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-40 dv=0
@@ -2798,7 +2801,18 @@ GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 59 1632 N 1 0 0 1 0 0 2
+SplineSet
+95 493 m 4
+ 95 689 255 849 451 849 c 4
+ 647 849 807 689 807 493 c 4
+ 807 297 647 137 451 137 c 4
+ 255 137 95 297 95 493 c 4
+317 493 m 4
+ 317 418 377 358 451 358 c 4
+ 525 358 585 418 585 493 c 4
+ 585 567 526 626 451 626 c 4
+ 376 626 317 567 317 493 c 4
+EndSplineSet
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F2 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F3 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F4 dx=-10 dy=0 dh=-10 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -2868,43 +2882,43 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-1092.12402344 616.393554688 m 6
- 1004.95214844 577.997070312 918.58984375 554 820 554 c 4
- 680.846679688 554 570.037109375 586.962890625 484.62890625 639.2890625 c 5
- 502.768554688 474.088867188 512 333.74609375 512 205 c 6
- 512 40 l 1
- 512 0 l 1
- 472 0 l 1
- 302 0 l 1
- 262 0 l 1
- 262 40 l 1
- 262 208 l 6
- 262 630.224609375 199.370117188 955.965820312 77.083984375 1205.39160156 c 6
- 57.400390625 1245.54003906 l 5
- 99.4853515625 1260.64746094 l 5
- 255.485351562 1316.64746094 l 5
- 293.451171875 1330.27636719 l 5
- 306.759765625 1292.19726562 l 5
- 378.759765625 1086.19726562 l 6
- 392.0703125 1048.11621094 403.596679688 1017.15234375 412.401367188 995.013671875 c 5
- 455.5078125 1163.24707031 584.453125 1327 796 1327 c 4
- 952.827148438 1327 1045.31445312 1258.01464844 1060 1247 c 6
- 1083.72753906 1229.20410156 l 5
- 1073.59179688 1201.33007812 l 5
- 1017.59179688 1047.33007812 l 5
- 1002.25390625 1005.15136719 l 5
- 942.603515625 1034.9765625 917.892578125 1066.40722656 807.034179688 1066.40722656 c 4
- 703.318359375 1066.40722656 638.84765625 981.083984375 628.67578125 877.10546875 c 4
- 626.323242188 853.053710938 628.123046875 841.3359375 628.729492188 839.5234375 c 4
- 630.4609375 838.172851562 640.353515625 833.348632812 659.100585938 826.850585938 c 4
- 694.143554688 814.703125 739.274414062 807 799 807 c 4
- 883.603515625 807 960.10546875 829.923828125 1038.14453125 861.138671875 c 6
- 1085.80078125 880.202148438 l 5
- 1092.64257812 829.33203125 l 5
- 1115.64257812 658.33203125 l 5
- 1119.65332031 628.51953125 l 5
- 1092.12402344 616.393554688 l 6
+311.759765625 1292.19726562 m 1
+ 383.75 1086.22558594 l 2
+ 397.068359375 1048.30273438 408.74609375 1017.03417969 417.447265625 995.192382812 c 1
+ 460.46875 1163.09667969 589.466796875 1327 801 1327 c 4
+ 954.057213156 1327 1052.38646406 1256.46028174 1088.72753906 1229.20410156 c 5
+ 1078.59179688 1201.33007812 l 1
+ 1022.59179688 1047.33007812 l 1
+ 1007.25390625 1005.15136719 l 1
+ 947.775301956 1037.89066933 912.848554374 1066 812 1066 c 4
+ 703.623046875 1066 632 967.4296875 632 854 c 0
+ 632 844.84375 633.23828125 840.47265625 633.461914062 839.862304688 c 0
+ 634.877929688 838.704101562 645.12890625 833.571289062 664.333984375 826.711914062 c 0
+ 698.71484375 814.678710938 744.4140625 807 804 807 c 0
+ 888.603515625 807 965.10546875 829.923828125 1043.14453125 861.138671875 c 2
+ 1090.80078125 880.202148438 l 1
+ 1097.64257812 829.33203125 l 1
+ 1120.64257812 658.33203125 l 1
+ 1124.65332031 628.51953125 l 1
+ 1097.12402344 616.393554688 l 2
+ 1009.95214844 577.997070312 923.58984375 554 825 554 c 0
+ 685.763671875 554 573.569335938 587.6484375 489.548828125 639.338867188 c 1
+ 507.694335938 472.107421875 517 324.657226562 517 205 c 2
+ 517 40 l 1
+ 517 0 l 1
+ 477 0 l 1
+ 307 0 l 1
+ 267 0 l 1
+ 267 40 l 1
+ 267 208 l 2
+ 267 630.224609375 204.370117188 955.965820312 82.083984375 1205.39160156 c 2
+ 62.400390625 1245.54003906 l 1
+ 104.485351562 1260.64746094 l 1
+ 260.485351562 1316.64746094 l 1
+ 298.451171875 1330.27636719 l 1
+ 311.759765625 1292.19726562 l 1
 EndSplineSet
+Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni06F4.urdu
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F0 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F5 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-64 dy=0 dh=-64 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -2989,6 +3003,7 @@ SplineSet
  703.61328125 793.630859375 747 820 842.258789062 866.850585938 c 6
  885.09765625 888.048828125 l 5
 EndSplineSet
+Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni0666
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F7 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F9 dx=-30 dy=0 dh=-30 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -3004,6 +3019,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 66 1639 N 1 0 0 1 0 0 2
+Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni06F7.urdu
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F5 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F8 dx=-160 dy=0 dh=-160 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F0 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -3186,10 +3202,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 322.969 -669.998 basechar 0
-AnchorPoint: "Anchor-10" 447.986 1443.94 basechar 0
+AnchorPoint: "Anchor-10" 447.986 1463.94 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 N 1 0 0 1 205 811 2
+Refer: 266 -1 S 1 0 0 1 205 831 2
 Refer: 185 65198 N 1 0 0 1 0 0 2
 EndChar
 
@@ -3994,11 +4010,11 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 699.902 -656.086 basechar 0
-AnchorPoint: "Anchor-10" 657.667 1131.17 basechar 0
+AnchorPoint: "Anchor-10" 657.667 1151.17 basechar 0
 LayerCount: 2
 Fore
 Refer: 251 65264 N 1 0 0 1 0 0 2
-Refer: 55 1620 S 1 0 0 1 62.9298 -1191.34 2
+Refer: 55 1620 S 1 0 0 1 62.9298 -1171.34 2
 Substitution2: "Single Substitution 0 subtable" uniFE8A.compact
 EndChar
 
@@ -4010,11 +4026,11 @@ VWidth: 2952
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 237.891 -233.585 basechar 0
-AnchorPoint: "Anchor-10" 308.509 1476.71 basechar 0
+AnchorPoint: "Anchor-10" 308.509 1496.71 basechar 0
 LayerCount: 2
 Fore
 Refer: 300 -1 N 1 0 0 1 0 0 2
-Refer: 55 1620 S 1 0 0 1 -269.493 -823.793 2
+Refer: 55 1620 S 1 0 0 1 -269.493 -803.793 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=80 dv=0
@@ -4027,12 +4043,12 @@ Width: 687
 VWidth: 2952
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 336.509 1394.71 basechar 0
+AnchorPoint: "Anchor-10" 336.509 1414.71 basechar 0
 AnchorPoint: "Anchor-7" 307.891 -233.585 basechar 0
 LayerCount: 2
 Fore
 Refer: 301 -1 N 1 0 0 1 0 0 2
-Refer: 55 1620 S 1 0 0 1 -241.516 -930.309 2
+Refer: 55 1620 S 1 0 0 1 -241.516 -910.309 2
 EndChar
 
 StartChar: uniFE8D
@@ -4160,10 +4176,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 484.642 -234.09 basechar 0
-AnchorPoint: "Anchor-10" 578.721 1554.92 basechar 0
+AnchorPoint: "Anchor-10" 578.721 1574.92 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 334 1163 2
+Refer: 265 -1 S 1 0 0 1 334 1183 2
 Refer: 245 65258 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4204,10 +4220,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
-AnchorPoint: "Anchor-10" 333.28 1382.77 basechar 0
+AnchorPoint: "Anchor-10" 333.28 1402.77 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 64 982 2
+Refer: 265 -1 S 1 0 0 1 64 1002 2
 Refer: 118 64488 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
@@ -4221,11 +4237,11 @@ Width: 767
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 329.28 1310.77 basechar 0
+AnchorPoint: "Anchor-10" 329.28 1330.77 basechar 0
 AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 66 899 2
+Refer: 265 -1 S 1 0 0 1 66 919 2
 Refer: 119 64489 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4265,11 +4281,11 @@ Width: 678
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 315.084 1594.48 basechar 0
+AnchorPoint: "Anchor-10" 315.084 1614.48 basechar 0
 AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 56 987 2
+Refer: 266 -1 S 1 0 0 1 56 1007 2
 Refer: 118 64488 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
@@ -4284,10 +4300,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
-AnchorPoint: "Anchor-10" 311.084 1510.48 basechar 0
+AnchorPoint: "Anchor-10" 311.084 1530.48 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 57 889 2
+Refer: 266 -1 S 1 0 0 1 57 909 2
 Refer: 119 64489 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4532,11 +4548,11 @@ Width: 1378
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 560.122 1494.84 basechar 0
+AnchorPoint: "Anchor-10" 560.122 1514.84 basechar 0
 AnchorPoint: "Anchor-7" 690.833 -830.619 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 473.894 1126.26 2
+Refer: 264 -1 S 1 0 0 1 473.894 1146.26 2
 Refer: 173 65186 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4548,10 +4564,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 533.524 -234.745 basechar 0
-AnchorPoint: "Anchor-10" 536.905 1474.97 basechar 0
+AnchorPoint: "Anchor-10" 536.905 1494.97 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 482.95 1074.28 2
+Refer: 264 -1 S 1 0 0 1 482.95 1094.28 2
 Refer: 174 65187 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
@@ -4564,11 +4580,11 @@ Width: 1351
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 536.905 1474.97 basechar 0
+AnchorPoint: "Anchor-10" 536.905 1494.97 basechar 0
 AnchorPoint: "Anchor-7" 533.524 -234.745 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 482.95 1074.28 2
+Refer: 264 -1 S 1 0 0 1 482.95 1094.28 2
 Refer: 175 65188 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4648,10 +4664,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 437.24 -239.316 basechar 0
-AnchorPoint: "Anchor-10" 489.193 1615.66 basechar 0
+AnchorPoint: "Anchor-10" 489.193 1635.66 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 404.95 1216.28 2
+Refer: 264 -1 S 1 0 0 1 404.95 1236.28 2
 Refer: 181 65194 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4728,10 +4744,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 322.969 -599.998 basechar 0
-AnchorPoint: "Anchor-10" 447.256 1260.2 basechar 0
+AnchorPoint: "Anchor-10" 447.256 1280.2 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 368.95 832.284 2
+Refer: 264 -1 S 1 0 0 1 368.95 852.284 2
 Refer: 185 65198 N 1 0 0 1 0.618851 0 2
 EndChar
 
@@ -4944,11 +4960,11 @@ Width: 2553
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 1740.73 1506.82 basechar 0
+AnchorPoint: "Anchor-10" 1740.73 1526.82 basechar 0
 AnchorPoint: "Anchor-7" 681.902 -756.086 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 1501 899 2
+Refer: 266 -1 S 1 0 0 1 1501 919 2
 Refer: 189 65202 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4959,11 +4975,11 @@ Width: 1562
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 840.73 1506.82 basechar 0
+AnchorPoint: "Anchor-10" 840.73 1526.82 basechar 0
 AnchorPoint: "Anchor-7" 749.534 -236.974 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 607 899 2
+Refer: 266 -1 S 1 0 0 1 607 919 2
 Refer: 190 65203 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
@@ -4976,11 +4992,11 @@ Width: 1658
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 840.73 1506.82 basechar 0
+AnchorPoint: "Anchor-10" 840.73 1526.82 basechar 0
 AnchorPoint: "Anchor-7" 749.534 -236.974 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 607 899 2
+Refer: 266 -1 S 1 0 0 1 607 919 2
 Refer: 191 65204 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5165,10 +5181,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 716.902 -714.086 basechar 0
-AnchorPoint: "Anchor-10" 2044.53 1485.1 basechar 0
+AnchorPoint: "Anchor-10" 2044.53 1505.1 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 1966.95 1086.28 2
+Refer: 264 -1 S 1 0 0 1 1966.95 1106.28 2
 Refer: 197 65210 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5180,10 +5196,10 @@ VWidth: 2849
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 719.209 -240.348 basechar 0
-AnchorPoint: "Anchor-10" 1126.52 1500.64 basechar 0
+AnchorPoint: "Anchor-10" 1126.52 1520.64 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 1045.95 1086.28 2
+Refer: 264 -1 S 1 0 0 1 1045.95 1106.28 2
 Refer: 198 65211 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
@@ -5196,11 +5212,11 @@ Width: 1689
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 1126.52 1500.64 basechar 0
+AnchorPoint: "Anchor-10" 1126.52 1520.64 basechar 0
 AnchorPoint: "Anchor-7" 719.209 -240.348 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 1045.95 1086.28 2
+Refer: 264 -1 S 1 0 0 1 1045.95 1106.28 2
 Refer: 199 65212 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5374,7 +5390,7 @@ AnchorPoint: "Anchor-7" 641.602 -236.453 basechar 0
 AnchorPoint: "Anchor-10" 476.36 1498.58 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 877.95 1086.28 2
+Refer: 264 -1 S 1 0 0 1 877.95 1106.28 2
 Refer: 205 65218 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5389,7 +5405,7 @@ AnchorPoint: "Anchor-10" 296.36 1498.58 basechar 0
 AnchorPoint: "Anchor-7" 461.602 -236.453 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 702.95 1086.28 2
+Refer: 264 -1 S 1 0 0 1 702.95 1106.28 2
 Refer: 206 65219 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
@@ -5406,7 +5422,7 @@ AnchorPoint: "Anchor-10" 296.36 1498.58 basechar 0
 AnchorPoint: "Anchor-7" 461.602 -236.453 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 702.95 1086.28 2
+Refer: 264 -1 S 1 0 0 1 702.95 1106.28 2
 Refer: 207 65220 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5444,15 +5460,15 @@ SplineSet
  816.030273438 926 1094 881.725585938 1094 673 c 0
  1094 564.517578125 991.646484375 458.5625 823.434570312 345.54296875 c 1
  922.14453125 288.561523438 1018.50292969 260 1159 260 c 2
- 1219 260 l 5
- 1219 220 l 5
- 1219 40 l 5
- 1219 0 l 5
+ 1219 260 l 1
+ 1219 220 l 1
+ 1219 40 l 1
+ 1219 0 l 1
  1159 0 l 2
  962.458984375 0 790.530273438 71.51171875 599.977539062 201.752929688 c 1
  411.944335938 91.9443359375 305 -28.6083984375 305 -158 c 0
- 305 -302.873046875 427.047855643 -411.03208908 691.146484375 -412 c 0
- 812.879200831 -412.446145541 924.79296875 -381.192382812 1040.77636719 -333.200195312 c 1
+ 305 -303.380248765 428.550553431 -412.004714527 693.719212923 -412.004714527 c 0
+ 814.457105402 -412.004714527 925.610505709 -380.854098303 1040.77636719 -333.200195312 c 1
  1050.53515625 -380.596679688 l 1
  1085.53515625 -550.596679688 l 1
  1092 -582 l 1
@@ -5545,10 +5561,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 610.833 -830.619 basechar 0
-AnchorPoint: "Anchor-10" 589.2 1500.06 basechar 0
+AnchorPoint: "Anchor-10" 589.2 1520.06 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 510.95 1113.28 2
+Refer: 264 -1 S 1 0 0 1 510.95 1133.28 2
 Refer: 213 65226 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5560,10 +5576,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 484.511 -235.021 basechar 0
-AnchorPoint: "Anchor-10" 553.137 1517.38 basechar 0
+AnchorPoint: "Anchor-10" 553.137 1537.38 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 473.95 1158.28 2
+Refer: 264 -1 S 1 0 0 1 473.95 1178.28 2
 Refer: 214 65227 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
@@ -5576,11 +5592,11 @@ Width: 1141
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 591.107 1396.07 basechar 0
+AnchorPoint: "Anchor-10" 591.107 1416.07 basechar 0
 AnchorPoint: "Anchor-7" 554.511 -235.021 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 507.95 1071.28 2
+Refer: 264 -1 S 1 0 0 1 507.95 1091.28 2
 Refer: 215 65228 N 1 0 0 1 0 0 2
 Substitution2: "Single Substitution 0 subtable" uniFED0.compact
 EndChar
@@ -5607,10 +5623,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 900.268 -226.468 basechar 0
-AnchorPoint: "Anchor-10" 1482.47 1469.31 basechar 0
+AnchorPoint: "Anchor-10" 1482.47 1489.31 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 1400.95 1109.28 2
+Refer: 264 -1 S 1 0 0 1 1400.95 1129.28 2
 Refer: 269 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5621,11 +5637,11 @@ Width: 918
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 429.82 1614.93 basechar 0
+AnchorPoint: "Anchor-10" 429.82 1634.93 basechar 0
 AnchorPoint: "Anchor-7" 359.018 -238.276 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 342.95 1286.28 2
+Refer: 264 -1 S 1 0 0 1 342.95 1306.28 2
 Refer: 270 -1 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
@@ -5638,11 +5654,11 @@ Width: 972
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 484.671 1446.52 basechar 0
+AnchorPoint: "Anchor-10" 484.671 1466.52 basechar 0
 AnchorPoint: "Anchor-7" 471.873 -233.871 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 405.95 1109.28 2
+Refer: 264 -1 S 1 0 0 1 405.95 1129.28 2
 Refer: 271 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5668,10 +5684,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 727.902 -696.086 basechar 0
-AnchorPoint: "Anchor-10" 932.87 1328.96 basechar 0
+AnchorPoint: "Anchor-10" 932.87 1348.96 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 N 1 0 0 1 708 953 2
+Refer: 265 -1 S 1 0 0 1 708 973 2
 Refer: 35 1600 N 0.30675 0 0 1 1456.13 0 2
 Refer: 272 -1 N 1 0 0 1 0 0 2
 Substitution2: "Single Substitution 0 subtable" uniFED6.compact
@@ -5685,10 +5701,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 359.018 -238.276 basechar 0
-AnchorPoint: "Anchor-10" 421.82 1616.93 basechar 0
+AnchorPoint: "Anchor-10" 421.82 1636.93 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 181 1283 2
+Refer: 265 -1 S 1 0 0 1 181 1303 2
 Refer: 270 -1 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
@@ -5703,10 +5719,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 471.873 -233.871 basechar 0
-AnchorPoint: "Anchor-10" 498.671 1459.52 basechar 0
+AnchorPoint: "Anchor-10" 498.671 1479.52 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 256 1101 2
+Refer: 265 -1 S 1 0 0 1 256 1121 2
 Refer: 271 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6141,11 +6157,11 @@ Width: 1528
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 697.458 986.61 basechar 0
+AnchorPoint: "Anchor-10" 697.458 1006.61 basechar 0
 AnchorPoint: "Anchor-7" 716.902 -714.086 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 615.95 551.284 2
+Refer: 264 -1 S 1 0 0 1 615.95 571.284 2
 Refer: 115 64415 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6156,11 +6172,11 @@ Width: 592
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 263.28 1362.77 basechar 0
+AnchorPoint: "Anchor-10" 263.28 1382.77 basechar 0
 AnchorPoint: "Anchor-7" 217.891 -233.585 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 179.95 982.284 2
+Refer: 264 -1 S 1 0 0 1 179.95 1002.28 2
 Refer: 300 -1 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-10 dv=0
@@ -6174,10 +6190,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 257.891 -233.585 basechar 0
-AnchorPoint: "Anchor-10" 313.28 1286.77 basechar 0
+AnchorPoint: "Anchor-10" 313.28 1306.77 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 234.95 897.284 2
+Refer: 264 -1 S 1 0 0 1 234.95 917.284 2
 Refer: 301 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -7061,7 +7077,7 @@ EndChar
 StartChar: uni0651064B
 Encoding: 65552 -1 275
 GlifName: uni0651064B_
-Width: -26
+Width: 0
 VWidth: 2444
 GlyphClass: 4
 Flags: HW
@@ -7081,7 +7097,7 @@ EndChar
 StartChar: uni0651064C
 Encoding: 65553 -1 276
 GlifName: uni0651064C_
-Width: -26
+Width: 0
 VWidth: 2444
 GlyphClass: 4
 Flags: HW
@@ -7101,7 +7117,7 @@ EndChar
 StartChar: uni064B0651
 Encoding: 65554 -1 277
 GlifName: uni064B_0651
-Width: -26
+Width: 0
 VWidth: 2444
 GlyphClass: 4
 Flags: HW
@@ -7121,7 +7137,7 @@ EndChar
 StartChar: uni0651064E
 Encoding: 65555 -1 278
 GlifName: uni0651064E_
-Width: -26
+Width: 0
 VWidth: 2444
 GlyphClass: 4
 Flags: HW
@@ -7141,7 +7157,7 @@ EndChar
 StartChar: uni0651064F
 Encoding: 65556 -1 279
 GlifName: uni0651064F_
-Width: -26
+Width: 0
 VWidth: 2444
 GlyphClass: 4
 Flags: HW
@@ -7161,7 +7177,7 @@ EndChar
 StartChar: uni064E0651
 Encoding: 65557 -1 280
 GlifName: uni064E_0651
-Width: -26
+Width: 0
 VWidth: 2444
 GlyphClass: 4
 Flags: HW
@@ -7181,7 +7197,7 @@ EndChar
 StartChar: uni0654064E
 Encoding: 65558 -1 281
 GlifName: uni0654064E_
-Width: -26
+Width: 0
 VWidth: 2444
 GlyphClass: 4
 Flags: HW
@@ -7201,7 +7217,7 @@ EndChar
 StartChar: uni0654064F
 Encoding: 65559 -1 282
 GlifName: uni0654064F_
-Width: -26
+Width: 0
 VWidth: 2444
 GlyphClass: 4
 Flags: HW
@@ -7221,84 +7237,82 @@ EndChar
 StartChar: guillemotleft
 Encoding: 171 171 283
 GlifName: guillemotleft
-Width: 1079
-VWidth: 2316
+Width: 946
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-743.817382812 18.6630859375 m 2
- 534.086914062 330.234375 496.430664062 465.693359375 495 521.487304688 c 0
- 495 585.598632812 536.16015625 704.965820312 745.671875 968.87109375 c 2
- 757.682617188 984 l 1
- 777 984 l 1
- 954 984 l 1
- 1036.62109375 984 l 1
- 985.376953125 919.190429688 l 2
- 782.293945312 662.350585938 745 548.612304688 745 521 c 0
- 745 500.647460938 784.55859375 363.280273438 985.248046875 63.2392578125 c 2
- 1026.87792969 1 l 1
- 952 1 l 1
- 777 1 l 1
- 755.70703125 1 l 1
- 743.817382812 18.6630859375 l 2
-333.817382812 18.6630859375 m 2
- 124.086914062 330.234375 86.4306640625 465.693359375 85 521.487304688 c 0
- 85 585.598632812 126.16015625 704.965820312 335.671875 968.87109375 c 2
- 347.682617188 984 l 1
- 367 984 l 1
- 544 984 l 1
- 626.62109375 984 l 1
- 575.376953125 919.190429688 l 2
- 372.293945312 662.350585938 335 548.612304688 335 521 c 0
- 335 500.647460938 374.55859375 363.280273438 575.248046875 63.2392578125 c 2
- 616.877929688 1 l 1
- 542 1 l 1
- 367 1 l 1
- 345.70703125 1 l 1
- 333.817382812 18.6630859375 l 2
+448 495 m 0
+ 448 598.520507812 499.07421875 782.991210938 694.275390625 999.766601562 c 2
+ 721.2265625 1029.69726562 l 1
+ 750.970703125 1002.5390625 l 1
+ 842.970703125 918.5390625 l 1
+ 870.255859375 893.626953125 l 1
+ 847.583007812 864.454101562 l 2
+ 701.7734375 676.845703125 685 557.88671875 685 496 c 0
+ 685 426.5390625 699.416015625 317.578125 847.668945312 125.434570312 c 2
+ 870.16015625 96.28515625 l 1
+ 842.970703125 71.4609375 l 1
+ 750.970703125 -12.5390625 l 1
+ 721.1484375 -39.7685546875 l 1
+ 694.205078125 -9.6884765625 l 2
+ 500.102539062 207.0078125 448 391.299804688 448 495 c 0
+70 495 m 0
+ 70 598.520507812 121.07421875 782.991210938 316.275390625 999.766601562 c 2
+ 343.2265625 1029.69726562 l 1
+ 372.970703125 1002.5390625 l 1
+ 464.970703125 918.5390625 l 1
+ 492.255859375 893.626953125 l 1
+ 469.583007812 864.454101562 l 2
+ 323.7734375 676.845703125 307 557.88671875 307 496 c 0
+ 307 426.5390625 321.416015625 317.578125 469.668945312 125.434570312 c 2
+ 492.16015625 96.28515625 l 1
+ 464.970703125 71.4609375 l 1
+ 372.970703125 -12.5390625 l 1
+ 343.1484375 -39.7685546875 l 1
+ 316.205078125 -9.6884765625 l 2
+ 122.102539062 207.0078125 70 391.299804688 70 495 c 0
 EndSplineSet
 EndChar
 
 StartChar: guillemotright
 Encoding: 187 187 284
 GlifName: guillemotright
-Width: 1079
-VWidth: 2316
+Width: 946
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-302 1 m 1
- 127 1 l 1
- 52.1220703125 1 l 1
- 93.751953125 63.2392578125 l 2
- 294.443359375 363.282226562 334 500.641601562 334 521 c 0
- 334 548.612304688 296.706054688 662.350585938 93.623046875 919.190429688 c 2
- 42.37890625 984 l 1
- 125 984 l 1
- 302 984 l 1
- 321.317382812 984 l 1
- 333.328125 968.87109375 l 2
- 542.837890625 704.96875 584 585.592773438 584 521.487304688 c 0
- 582.569335938 465.68359375 544.916015625 330.239257812 335.182617188 18.6630859375 c 2
- 323.29296875 1 l 1
- 302 1 l 1
-712 1 m 1
- 537 1 l 1
- 462.122070312 1 l 1
- 503.751953125 63.2392578125 l 2
- 704.443359375 363.282226562 744 500.641601562 744 521 c 0
- 744 548.612304688 706.706054688 662.350585938 503.623046875 919.190429688 c 2
- 452.37890625 984 l 1
- 535 984 l 1
- 712 984 l 1
- 731.317382812 984 l 1
- 743.328125 968.87109375 l 2
- 952.837890625 704.96875 994 585.592773438 994 521.487304688 c 0
- 992.569335938 465.68359375 954.916015625 330.239257812 745.182617188 18.6630859375 c 2
- 733.29296875 1 l 1
- 712 1 l 1
+498 495 m 0
+ 498 391.296875 445.897460938 207.008789062 251.794921875 -9.6884765625 c 2
+ 224.8515625 -39.7685546875 l 1
+ 195.029296875 -12.5390625 l 1
+ 103.029296875 71.4609375 l 1
+ 75.83984375 96.28515625 l 1
+ 98.3310546875 125.434570312 l 2
+ 246.583984375 317.578125 261 426.5390625 261 496 c 0
+ 261 557.88671875 244.2265625 676.844726562 98.4169921875 864.454101562 c 2
+ 75.744140625 893.626953125 l 1
+ 103.029296875 918.5390625 l 1
+ 195.029296875 1002.5390625 l 1
+ 224.7734375 1029.69726562 l 1
+ 251.724609375 999.766601562 l 2
+ 446.924804688 782.9921875 498 598.517578125 498 495 c 0
+876 495 m 0
+ 876 391.296875 823.897460938 207.008789062 629.794921875 -9.6884765625 c 2
+ 602.8515625 -39.7685546875 l 1
+ 573.029296875 -12.5390625 l 1
+ 481.029296875 71.4609375 l 1
+ 453.83984375 96.28515625 l 1
+ 476.331054688 125.434570312 l 2
+ 624.583984375 317.578125 639 426.5390625 639 496 c 0
+ 639 557.88671875 622.2265625 676.844726562 476.416992188 864.454101562 c 2
+ 453.744140625 893.626953125 l 1
+ 481.029296875 918.5390625 l 1
+ 573.029296875 1002.5390625 l 1
+ 602.7734375 1029.69726562 l 1
+ 629.724609375 999.766601562 l 2
+ 824.924804688 782.9921875 876 598.517578125 876 495 c 0
 EndSplineSet
 EndChar
 
@@ -7309,10 +7323,10 @@ Width: 880
 VWidth: 2703
 Flags: HW
 AnchorPoint: "Anchor-7" 392.969 -647.998 basechar 0
-AnchorPoint: "Anchor-10" 415.479 1311.01 basechar 0
+AnchorPoint: "Anchor-10" 415.479 1331.01 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 N 1 0 0 1 172.097 932.816 2
+Refer: 265 -1 S 1 0 0 1 172.097 952.816 2
 Refer: 43 1608 N 1 0 0 1 0 0 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06CA.fina
 EndChar
@@ -7325,10 +7339,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 392.969 -647.998 basechar 0
-AnchorPoint: "Anchor-10" 403.479 1335.01 basechar 0
+AnchorPoint: "Anchor-10" 403.479 1355.01 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 N 1 0 0 1 152.097 932.816 2
+Refer: 265 -1 S 1 0 0 1 152.097 952.816 2
 Refer: 249 65262 N 1 0 0 1 0 0 2
 EndChar
 
@@ -7375,10 +7389,10 @@ Width: 922
 VWidth: 2959
 Flags: HW
 AnchorPoint: "Anchor-7" 458.59 -231.677 basechar 0
-AnchorPoint: "Anchor-10" 471.183 1934.9 basechar 0
+AnchorPoint: "Anchor-10" 471.183 1954.9 basechar 0
 LayerCount: 2
 Fore
-Refer: 298 -1 S 1 0 0 1 54.0367 1564.8 2
+Refer: 298 -1 S 1 0 0 1 54.0367 1584.8 2
 Refer: 42 1607 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
@@ -7394,10 +7408,10 @@ Width: 1038
 VWidth: 2959
 Flags: HW
 AnchorPoint: "Anchor-7" 484.642 -234.09 basechar 0
-AnchorPoint: "Anchor-10" 640.954 1893.59 basechar 0
+AnchorPoint: "Anchor-10" 640.954 1913.59 basechar 0
 LayerCount: 2
 Fore
-Refer: 298 -1 S 1 0 0 1 197.631 1495.52 2
+Refer: 298 -1 S 1 0 0 1 197.631 1515.52 2
 Refer: 245 65258 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uniFEEA uni0654
@@ -7661,7 +7675,7 @@ Width: 1781
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 1057 1284 2
+Refer: 266 -1 S 1 0 0 1 1057 1304 2
 Refer: 80 1697 N 1 0 0 1 0 0 2
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB6D
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB6C
@@ -7714,7 +7728,7 @@ Width: 1962
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 266 -1 N 1 0 0 1 1237 1104 2
+Refer: 266 -1 S 1 0 0 1 1237 1124 2
 Refer: 269 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -7725,7 +7739,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 270 -1 N 1 0 0 1 0 0 2
-Refer: 266 -1 S 1 0 0 1 177 1284 2
+Refer: 266 -1 S 1 0 0 1 177 1304 2
 EndChar
 
 StartChar: uniFB6D
@@ -7734,7 +7748,7 @@ Width: 972
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 266 -1 N 1 0 0 1 261 1104 2
+Refer: 266 -1 S 1 0 0 1 261 1124 2
 Refer: 271 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -7834,8 +7848,9 @@ AnchorPoint: "Anchor-10" 609.134 1222.79 basechar 0
 LayerCount: 2
 Fore
 Refer: 246 65259 N 1 0 0 1 0 0 2
-Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEEC
-Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEEC
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFBAD
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFBAC
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBAB
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEEB
 EndChar
 
@@ -7970,11 +7985,11 @@ Width: 1071
 VWidth: 2950
 Flags: HW
 AnchorPoint: "Anchor-7" 584.511 -235.021 basechar 0
-AnchorPoint: "Anchor-10" 591.107 1436.07 basechar 0
+AnchorPoint: "Anchor-10" 591.107 1456.07 basechar 0
 LayerCount: 2
 Fore
 Refer: 324 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1 0 0 1 507.95 1071.28 2
+Refer: 264 -1 S 1 0 0 1 507.95 1091.28 2
 EndChar
 
 StartChar: uni06CE.fina.compact
@@ -8028,10 +8043,10 @@ Width: 1450
 VWidth: 2703
 Flags: HW
 AnchorPoint: "Anchor-7" 727.902 -696.086 basechar 0
-AnchorPoint: "Anchor-10" 932.87 1368.96 basechar 0
+AnchorPoint: "Anchor-10" 932.87 1388.96 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 N 1 0 0 1 708 953 2
+Refer: 265 -1 S 1 0 0 1 708 973 2
 Refer: 272 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8042,11 +8057,19 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-1003 651 m 1
- 168 651 l 1
- 168 782 l 5
- 1003 782 l 5
- 1003 651 l 1
+1003 611 m 1
+ 168 611 l 1
+ 128 611 l 1
+ 128 651 l 1
+ 128 782 l 1
+ 128 822 l 1
+ 168 822 l 1
+ 1003 822 l 1
+ 1043 822 l 1
+ 1043 782 l 1
+ 1043 651 l 1
+ 1043 611 l 1
+ 1003 611 l 1
 EndSplineSet
 EndChar
 
@@ -8111,6 +8134,8 @@ Encoding: 1649 1649 337
 Width: 465
 VWidth: 2703
 Flags: HW
+AnchorPoint: "Anchor-10" 251.896 1726.68 basechar 0
+AnchorPoint: "Anchor-7" 230.917 -238.029 basechar 0
 LayerCount: 2
 Fore
 Refer: 340 -1 S 1 0 0 1 0 40 2
@@ -8123,6 +8148,8 @@ Encoding: 64336 64336 338
 Width: 465
 VWidth: 0
 Flags: HW
+AnchorPoint: "Anchor-7" 230.917 -238.029 basechar 0
+AnchorPoint: "Anchor-10" 251.896 1726.68 basechar 0
 LayerCount: 2
 Fore
 Refer: 337 1649 N 1 0 0 1 0 0 2
@@ -8133,6 +8160,8 @@ Encoding: 64337 64337 339
 Width: 527
 VWidth: 2950
 Flags: HW
+AnchorPoint: "Anchor-10" 251.896 1726.68 basechar 0
+AnchorPoint: "Anchor-7" 230.917 -238.029 basechar 0
 LayerCount: 2
 Fore
 Refer: 340 -1 S 1 0 0 1 0 40 2
@@ -8169,7 +8198,7 @@ EndChar
 
 StartChar: uni0656
 Encoding: 1622 1622 341
-Width: -29
+Width: 0
 VWidth: 2574
 Flags: HW
 AnchorPoint: "Anchor-0" 628.278 2.7109 mark 0
@@ -8179,6 +8208,2024 @@ AnchorPoint: "Anchor-7" 628.278 2.7109 mark 0
 LayerCount: 2
 Fore
 Refer: 75 1648 N 1 0 0 1 0 -1961 2
+EndChar
+
+StartChar: uni067C
+Encoding: 1660 1660 342
+Width: 1777
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 896.268 -379.468 basechar 0
+AnchorPoint: "Anchor-10" 878.559 1262.29 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 N 1 0 0 1 688 -482 2
+Refer: 73 1646 N 1 0 0 1 0 0 2
+Refer: 265 -1 S 1 0 0 1 649.562 761.85 2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni067C.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni067C.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni067C.fina
+EndChar
+
+StartChar: uni0681
+Encoding: 1665 1665 343
+Width: 1347
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-7" 690.833 -830.619 basechar 0
+AnchorPoint: "Anchor-10" 631.478 1701.07 basechar 0
+LayerCount: 2
+Fore
+Refer: 21 1581 N 1 0 0 1 0 0 2
+Refer: 55 1620 S 1 0 0 1 72 -626.3 2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni0681.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni0681.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni0681.fina
+EndChar
+
+StartChar: uni0685
+Encoding: 1669 1669 344
+Width: 1347
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-7" 690.833 -830.619 basechar 0
+AnchorPoint: "Anchor-10" 628.478 1714.07 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 -1 S 1 0 0 1 393 1120 2
+Refer: 21 1581 N 1 0 0 1 0 0 2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni0685.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni0685.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni0685.fina
+EndChar
+
+StartChar: uni0689
+Encoding: 1673 1673 345
+Width: 963
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 371.137 1169.03 basechar 0
+AnchorPoint: "Anchor-7" 437.24 -361.316 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 220 -478 2
+Refer: 23 1583 S 1 0 0 1 0 0 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni0689.fina
+EndChar
+
+StartChar: uni0693
+Encoding: 1683 1683 346
+Width: 780
+VWidth: 2142
+Flags: HW
+AnchorPoint: "Anchor-7" 326.969 -719.998 basechar 0
+AnchorPoint: "Anchor-10" 493.256 848.2 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 304 -825 2
+Refer: 25 1585 N 1 0 0 1 0 0 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni0693.fina
+EndChar
+
+StartChar: uni0696
+Encoding: 1686 1686 347
+Width: 780
+VWidth: 2142
+Flags: HW
+AnchorPoint: "Anchor-10" 493.256 848.2 basechar 0
+AnchorPoint: "Anchor-7" 294.969 -827.998 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 N 1 0 0 1 446 -714 2
+Refer: 264 -1 N 1 0 0 1 108 -26 2
+Refer: 25 1585 N 1 0 0 1 0 0 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni0696.fina
+EndChar
+
+StartChar: uni069A
+Encoding: 1690 1690 348
+Width: 2456
+Flags: HW
+AnchorPoint: "Anchor-10" 1737.53 1314.1 basechar 0
+AnchorPoint: "Anchor-7" 710.902 -716.086 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 N 1 0 0 1 1716 -396 2
+Refer: 264 -1 S 1 0 0 1 1656 907.7 2
+Refer: 27 1587 N 1 0 0 1 0 0 2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni069A.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni069A.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni069A.fina
+EndChar
+
+StartChar: uni06AB
+Encoding: 1707 1707 349
+Width: 1865
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-7" 900.268 -226.468 basechar 0
+AnchorPoint: "Anchor-10" 1193.88 1344.67 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 1394 674 2
+Refer: 81 1705 N 1 0 0 1 0 0 2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06AB.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06AB.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06AB.fina
+EndChar
+
+StartChar: uni06BC
+Encoding: 1724 1724 350
+Width: 1447
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 735.902 -852.086 basechar 0
+AnchorPoint: "Anchor-10" 694.458 1068.61 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 N 1 0 0 1 524 -934 2
+Refer: 41 1606 N 1 0 0 1 0 0 2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06BC.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06BC.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06BC.fina
+EndChar
+
+StartChar: uni06D0
+Encoding: 1744 1744 351
+Width: 1477
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-7" 740.902 -1164.09 basechar 0
+AnchorPoint: "Anchor-10" 644.6 936.22 basechar 0
+LayerCount: 2
+Fore
+Refer: 355 -1 N 1 0 0 1 496 -924 2
+Refer: 44 1609 N 1 0 0 1 0 0 2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06D0.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06D0.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06D0.fina
+EndChar
+
+StartChar: uni06CD
+Encoding: 1741 1741 352
+Width: 1681
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-7" 920.902 -636.086 basechar 0
+AnchorPoint: "Anchor-10" 848.6 976.22 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+923 -499 m 4
+ 491.452148438 -499 262 -288.056640625 262 119 c 0
+ 262 198.43359375 271.046875 260.909179688 291.184570312 333.634765625 c 1
+ 72.9208984375 245.88671875 l 1
+ 3.228515625 217.869140625 l 1
+ 18.8779296875 291.333984375 l 1
+ 54.8779296875 460.333984375 l 1
+ 59.3310546875 481.239257812 l 1
+ 79.1845703125 489.155273438 l 1
+ 395.184570312 615.155273438 l 1
+ 410.143554688 621.120117188 l 1
+ 425.061523438 615.055664062 l 1
+ 580.061523438 552.055664062 l 1
+ 617.2109375 536.956054688 l 1
+ 602.017578125 499.844726562 l 2
+ 542.079101562 353.4375 513 235.950195312 513 122 c 0
+ 513 -127.860351562 639.658203125 -247.051757812 928.06640625 -248 c 4
+ 1161.73046875 -248 1381 -143.649414062 1381 -2 c 4
+ 1381 11.626953125 1370.22460938 16 1322 16 c 6
+ 1178 16 l 6
+ 997.969726562 16 892 120.90625 892 303 c 4
+ 892 598.701171875 1135.41699219 786.53515625 1395.55859375 786.53515625 c 4
+ 1434.984375 786.53515625 1511.41503906 785.244140625 1591.38476562 751.922851562 c 6
+ 1621.47460938 739.385742188 l 5
+ 1615.26855469 707.384765625 l 5
+ 1583.26855469 542.384765625 l 5
+ 1574.77050781 498.568359375 l 5
+ 1532.14355469 511.797851562 l 6
+ 1479.19726562 528.229492188 1432.76855469 531.233398438 1395.96875 531.233398438 c 4
+ 1238.125 531.233398438 1141 413.5703125 1141 316 c 4
+ 1141 275.744140625 1146.01269531 272 1188 272 c 6
+ 1368.08300781 272 l 6
+ 1527.91308594 271.333984375 1623 171.860351562 1623 38 c 4
+ 1623 -311.319335938 1324.96777344 -499 923 -499 c 4
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06CD.fina
+EndChar
+
+StartChar: uni06CD.compact
+Encoding: 65585 -1 353
+Width: 1677
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 958.902 -658.086 basechar 0
+AnchorPoint: "Anchor-10" 921.6 693.22 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+18.8779296875 181.333984375 m 1
+ 54.8779296875 350.333984375 l 1
+ 59.3310546875 371.239257812 l 1
+ 79.1845703125 379.155273438 l 1
+ 395.184570312 505.155273438 l 1
+ 410.192382812 511.138671875 l 1
+ 425.145507812 505.021484375 l 1
+ 579.145507812 442.021484375 l 1
+ 614.6171875 427.510742188 l 1
+ 601.635742188 391.451171875 l 2
+ 567.107421875 295.541015625 550 199.359375 550 100 c 0
+ 550 -148.127929688 675.879882812 -267 959 -267 c 0
+ 1199.33398438 -267 1404 -155.583007812 1404 -67 c 0
+ 1404 -39.9384765625 1378.98730469 0 1280 0 c 2
+ 1157 0 l 2
+ 1092.85839844 0 1062.61230469 51.0556640625 1053.04980469 92.8916015625 c 2
+ 1031.02246094 185.009765625 l 2
+ 1027.81542969 199.438476562 1026.67480469 219.798828125 1040.82226562 237.758789062 c 0
+ 1056.46777344 257.620117188 1078.63574219 260 1093 260 c 2
+ 1697 260 l 1
+ 1737 260 l 1
+ 1737 220 l 1
+ 1737 40 l 1
+ 1737 0 l 1
+ 1697 0 l 1
+ 1636.6640625 0 l 1
+ 1645.81152344 -32.578125 1646 -54.828125 1646 -74 c 0
+ 1646 -342.643554688 1353.23144531 -519 960 -519 c 0
+ 527.291992188 -519 299 -306.821289062 299 101 c 0
+ 299 146.359375 303.435546875 188.290039062 311.06640625 231.263671875 c 1
+ 72.87109375 135.8671875 l 1
+ 3.2529296875 107.985351562 l 1
+ 18.8779296875 181.333984375 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni06D0.compact
+Encoding: 65586 -1 354
+Width: 1437
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 681.6 653.22 basechar 0
+AnchorPoint: "Anchor-7" 729.902 -1223.09 basechar 0
+LayerCount: 2
+Fore
+Refer: 355 -1 N 1 0 0 1 484 -936 2
+Refer: 321 -1 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: NameMe.65587
+Encoding: 65587 -1 355
+Width: 504
+VWidth: 2682
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+231.7265625 109.63671875 m 5
+ 91.7265625 249.63671875 l 5
+ 79.0439453125 262.319335938 l 5
+ 91.681640625 275.046875 l 5
+ 231.681640625 416.046875 l 5
+ 244.364257812 428.8203125 l 5
+ 257.13671875 416.13671875 l 5
+ 399.13671875 275.13671875 l 5
+ 412.046875 262.318359375 l 5
+ 399.091796875 249.545898438 l 5
+ 257.091796875 109.545898438 l 5
+ 244.364257812 96.998046875 l 5
+ 231.7265625 109.63671875 l 5
+231.7265625 -222.36328125 m 5
+ 91.7265625 -82.36328125 l 5
+ 79.0439453125 -69.6806640625 l 5
+ 91.681640625 -56.953125 l 5
+ 231.681640625 84.046875 l 5
+ 244.364257812 96.8203125 l 5
+ 257.13671875 84.13671875 l 5
+ 399.13671875 -56.86328125 l 5
+ 412.046875 -69.681640625 l 5
+ 399.091796875 -82.4541015625 l 5
+ 257.091796875 -222.454101562 l 5
+ 244.364257812 -235.001953125 l 5
+ 231.7265625 -222.36328125 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni06CD.fina
+Encoding: 65588 -1 356
+Width: 1798
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 901.6 653.22 basechar 0
+AnchorPoint: "Anchor-7" 938.902 -698.086 basechar 0
+LayerCount: 2
+Fore
+Refer: 353 -1 N 1 0 0 1 0 0 2
+Refer: 35 1600 N 0.444787 0 0 1 1681.9 0 2
+Substitution2: "Single Substitution 0 subtable" uni06CD.compact
+EndChar
+
+StartChar: uni06D0.fina
+Encoding: 65589 -1 357
+Width: 1559
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 681.6 653.22 basechar 0
+AnchorPoint: "Anchor-7" 730.902 -1188.09 basechar 0
+LayerCount: 2
+Fore
+Refer: 354 -1 N 1 0 0 1 0 0 2
+Refer: 35 1600 N 0.444787 0 0 1 1442.9 0 2
+Substitution2: "Single Substitution 0 subtable" uni06D0.compact
+EndChar
+
+StartChar: uni067C.fina
+Encoding: 65590 -1 358
+Width: 1878
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 896.268 -379.468 basechar 0
+AnchorPoint: "Anchor-10" 919.559 1192.98 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 N 1 0 0 1 688 -482 2
+Refer: 161 65174 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni067C.init
+Encoding: 65591 -1 359
+Width: 695
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 289.891 -379.585 basechar 0
+AnchorPoint: "Anchor-10" 333.28 1342.77 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 78 -470 2
+Refer: 162 65175 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni067C.medi
+Encoding: 65592 -1 360
+Width: 767
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 289.891 -379.585 basechar 0
+AnchorPoint: "Anchor-10" 328.28 1270.77 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 78 -470 2
+Refer: 163 65176 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0681.fina
+Encoding: 65593 -1 361
+Width: 1378
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 631.478 1701.07 basechar 0
+AnchorPoint: "Anchor-7" 690.833 -830.619 basechar 0
+LayerCount: 2
+Fore
+Refer: 55 1620 S 1 0 0 1 72 -626.3 2
+Refer: 173 65186 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0681.init
+Encoding: 65594 -1 362
+Width: 1334
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 631.478 1681.07 basechar 0
+AnchorPoint: "Anchor-7" 553.524 -236.745 basechar 0
+LayerCount: 2
+Fore
+Refer: 55 1620 S 1 0 0 1 72 -646.3 2
+Refer: 174 65187 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0681.medi
+Encoding: 65595 -1 363
+Width: 1351
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 631.478 1681.07 basechar 0
+AnchorPoint: "Anchor-7" 553.524 -236.745 basechar 0
+LayerCount: 2
+Fore
+Refer: 55 1620 S 1 0 0 1 72 -646.3 2
+Refer: 175 65188 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0685.fina
+Encoding: 65596 -1 364
+Width: 1378
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 628.478 1714.07 basechar 0
+AnchorPoint: "Anchor-7" 690.833 -830.619 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 -1 S 1 0 0 1 393 1120 2
+Refer: 173 65186 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0685.init
+Encoding: 65597 -1 365
+Width: 1334
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 598.478 1674.07 basechar 0
+AnchorPoint: "Anchor-7" 553.524 -236.745 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 -1 S 1 0 0 1 363 1080 2
+Refer: 174 65187 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0685.medi
+Encoding: 65598 -1 366
+Width: 1351
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 598.478 1674.07 basechar 0
+AnchorPoint: "Anchor-7" 553.524 -236.745 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 -1 S 1 0 0 1 363 1080 2
+Refer: 175 65188 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0689.fina
+Encoding: 65599 -1 367
+Width: 1055
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 506.848 1153.53 basechar 0
+AnchorPoint: "Anchor-7" 437.24 -361.316 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 220 -478 2
+Refer: 181 65194 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0693.fina
+Encoding: 65600 -1 368
+Width: 860
+VWidth: 2142
+Flags: HW
+AnchorPoint: "Anchor-10" 493.256 848.2 basechar 0
+AnchorPoint: "Anchor-7" 326.969 -719.998 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 304 -825 2
+Refer: 185 65198 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0696.fina
+Encoding: 65601 -1 369
+Width: 860
+VWidth: 2142
+Flags: HW
+AnchorPoint: "Anchor-7" 294.969 -827.998 basechar 0
+AnchorPoint: "Anchor-10" 493.256 848.2 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 N 1 0 0 1 446 -714 2
+Refer: 264 -1 S 1 0 0 1 108 -26 2
+Refer: 185 65198 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni069A.fina
+Encoding: 65602 -1 370
+Width: 2553
+Flags: HW
+AnchorPoint: "Anchor-10" 1737.53 1314.1 basechar 0
+AnchorPoint: "Anchor-7" 710.902 -716.086 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 N 1 0 0 1 1716 -396 2
+Refer: 264 -1 S 1 0 0 1 1656 907.7 2
+Refer: 189 65202 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni069A.init
+Encoding: 65603 -1 371
+Width: 1562
+Flags: HW
+AnchorPoint: "Anchor-10" 847.53 1314.1 basechar 0
+AnchorPoint: "Anchor-7" 915.902 -605.086 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 N 1 0 0 1 826 -396 2
+Refer: 264 -1 S 1 0 0 1 766 907.7 2
+Refer: 190 65203 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni069A.medi
+Encoding: 65604 -1 372
+Width: 1658
+Flags: HW
+AnchorPoint: "Anchor-7" 915.902 -605.086 basechar 0
+AnchorPoint: "Anchor-10" 847.53 1314.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 N 1 0 0 1 826 -396 2
+Refer: 264 -1 S 1 0 0 1 766 907.7 2
+Refer: 191 65204 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06AB.fina
+Encoding: 65605 -1 373
+Width: 1941
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 1193.88 1344.67 basechar 0
+AnchorPoint: "Anchor-7" 900.268 -226.468 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 1394 674 2
+Refer: 107 64399 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06AB.init
+Encoding: 65606 -1 374
+Width: 950
+VWidth: 2957
+Flags: HW
+AnchorPoint: "Anchor-7" 350.991 -231.935 basechar 0
+AnchorPoint: "Anchor-10" 327.533 1370.15 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 479 674 2
+Refer: 108 64400 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06AB.medi
+Encoding: 65607 -1 375
+Width: 1027
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 350.991 -231.935 basechar 0
+AnchorPoint: "Anchor-10" 327.533 1370.15 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 479 674 2
+Refer: 109 64401 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06BC.fina
+Encoding: 65608 -1 376
+Width: 1528
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 697.458 986.61 basechar 0
+AnchorPoint: "Anchor-7" 735.902 -922.086 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 N 1 0 0 1 525 -1003 2
+Refer: 241 65254 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06BC.init
+Encoding: 65609 -1 377
+Width: 592
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 263.28 1322.77 basechar 0
+AnchorPoint: "Anchor-7" 239.891 -379.585 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 28 -470 2
+Refer: 242 65255 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06BC.medi
+Encoding: 65610 -1 378
+Width: 687
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 313.28 1246.77 basechar 0
+AnchorPoint: "Anchor-7" 249.891 -379.585 basechar 0
+LayerCount: 2
+Fore
+Refer: 403 64447 S 1 0 0 1 28 -470 2
+Refer: 243 65256 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06D0.init
+Encoding: 65611 -1 379
+Width: 592
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 206.251 -760.396 basechar 0
+AnchorPoint: "Anchor-10" 321.28 1050.77 basechar 0
+LayerCount: 2
+Fore
+Refer: 355 -1 S 1 0 0 1 -40 -508 2
+Refer: 300 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06D0.medi
+Encoding: 65612 -1 380
+Width: 687
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 206.251 -760.396 basechar 0
+AnchorPoint: "Anchor-10" 357.28 920.77 basechar 0
+LayerCount: 2
+Fore
+Refer: 355 -1 N 1 0 0 1 -40 -508 2
+Refer: 301 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0679
+Encoding: 1657 1657 381
+Width: 1777
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 946.137 1419.03 basechar 0
+AnchorPoint: "Anchor-7" 900.268 -226.468 basechar 0
+LayerCount: 2
+Fore
+Refer: 398 64448 N 1 0 0 1 221 -1002 2
+Refer: 73 1646 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB69
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB68
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB67
+EndChar
+
+StartChar: uni0688
+Encoding: 1672 1672 382
+Width: 963
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-7" 432.24 -241.316 basechar 0
+AnchorPoint: "Anchor-10" 461.137 1921.03 basechar 0
+LayerCount: 2
+Fore
+Refer: 398 64448 S 1 0 0 1 -264 -500 2
+Refer: 23 1583 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB89
+EndChar
+
+StartChar: uni0691
+Encoding: 1681 1681 383
+Width: 810
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 495.137 1474.03 basechar 0
+AnchorPoint: "Anchor-7" 322.969 -619.998 basechar 0
+LayerCount: 2
+Fore
+Refer: 398 64448 S 1 0 0 1 -230 -947 2
+Refer: 25 1585 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-30 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB8D
+EndChar
+
+StartChar: uni06C1
+Encoding: 1729 1729 384
+Width: 922
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 409.775 1209.01 basechar 0
+AnchorPoint: "Anchor-7" 450.63 -240.576 basechar 0
+LayerCount: 2
+Fore
+Refer: 42 1607 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-173 dv=0
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFBA9
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFBA8
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBA7
+EndChar
+
+StartChar: uni06D2
+Encoding: 1746 1746 385
+Width: 1744
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-7" 881.902 -140.086 basechar 0
+AnchorPoint: "Anchor-10" 585.53 1140.1 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+759.212890625 468.71875 m 2
+ 711.752929688 530.848632812 656.231445312 612.2890625 597.396484375 673.969726562 c 1
+ 554.53125 608.805664062 534.645507812 570.780273438 473.778320312 497.452148438 c 0
+ 386.995117188 392.90234375 332.67578125 353.578125 313.70703125 336.400390625 c 1
+ 351.083007812 296.411132812 568.188476562 250.009765625 807.669921875 250.009765625 c 0
+ 1230.390625 250.009765625 1633.49902344 316.467773438 1633.49902344 316.467773438 c 1
+ 1678.44238281 323.87109375 l 1
+ 1679.97753906 278.34765625 l 1
+ 1685.97753906 100.34765625 l 1
+ 1687.1875 64.44140625 l 1
+ 1651.61621094 59.396484375 l 2
+ 1649.62011719 59.11328125 1238.05859375 0.67578125 810.045898438 0.67578125 c 0
+ 510.203125 0.67578125 58 27.18359375 58 323 c 0
+ 58 488.80078125 201.51171875 531.4609375 308.37109375 669.487304688 c 0
+ 439.92578125 839.411132812 456.178710938 952 584 952 c 0
+ 740.534179688 952 907.322265625 680.936523438 943.135742188 615.118164062 c 2
+ 958.395507812 587.073242188 l 1
+ 934.430664062 565.9765625 l 1
+ 817.430664062 462.9765625 l 1
+ 785.244140625 434.641601562 l 1
+ 759.212890625 468.71875 l 2
+EndSplineSet
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-120 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-120 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBAF
+EndChar
+
+StartChar: uni06D3
+Encoding: 1747 1747 386
+Width: 1744
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-10" 660.53 1633.1 basechar 0
+AnchorPoint: "Anchor-7" 881.902 -200.086 basechar 0
+LayerCount: 2
+Fore
+Refer: 76 1652 N 1 0 0 1 352 -796 2
+Refer: 385 1746 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-120 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-120 dv=0
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBB1
+EndChar
+
+StartChar: uni06D4
+Encoding: 1748 1748 387
+Width: 632
+VWidth: 2950
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+58 40 m 1
+ 58 220 l 1
+ 58 260 l 1
+ 98 260 l 1
+ 534 260 l 1
+ 574 260 l 1
+ 574 220 l 1
+ 574 40 l 1
+ 574 0 l 1
+ 534 0 l 1
+ 98 0 l 1
+ 58 0 l 1
+ 58 40 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFBA7
+Encoding: 64423 64423 388
+Width: 919
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 465.28 934.77 basechar 0
+AnchorPoint: "Anchor-7" 442.251 -166.396 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+234.423828125 -18.8369140625 m 1
+ 88.423828125 17.1630859375 l 1
+ 54.869140625 25.4375 l 1
+ 58.1845703125 59.837890625 l 2
+ 90.650390625 396.66796875 282.986328125 685 479 685 c 0
+ 784.364257812 685 732.567382812 260 906 260 c 2
+ 939 260 l 5
+ 939 220 l 5
+ 939 40 l 5
+ 939 0 l 5
+ 907 0 l 2
+ 579.6328125 0 509.619140625 383.975585938 481.193359375 401.984375 c 1
+ 440.08984375 400.19140625 317.166992188 269.0546875 283.657226562 14.7734375 c 2
+ 277.817382812 -29.537109375 l 1
+ 234.423828125 -18.8369140625 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFBA8
+Encoding: 64424 64424 389
+Width: 592
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-7" 265.251 -665.396 basechar 0
+AnchorPoint: "Anchor-10" 321.28 1050.77 basechar 0
+LayerCount: 2
+Fore
+Refer: 5 1548 N 0.72 0 0 0.72 24.04 -542.78 2
+Refer: 300 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFBA9
+Encoding: 64425 64425 390
+Width: 1002
+Flags: HW
+AnchorPoint: "Anchor-7" 604.251 -667.396 basechar 0
+AnchorPoint: "Anchor-10" 483.28 874.77 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+184.870117188 29.3349609375 m 1
+ 138.528320312 9.9228515625 97.353515625 0 43 0 c 2
+ -20 0 l 1
+ -20 40 l 1
+ -20 220 l 1
+ -20 260 l 1
+ 45 260 l 2
+ 200.391601562 260 230.45703125 302.466796875 348.653320312 413.192382812 c 2
+ 378.407226562 441.064453125 l 1
+ 405.708007812 410.78515625 l 1
+ 515.708007812 288.78515625 l 1
+ 542.763671875 258.77734375 l 1
+ 512.485351562 232.024414062 l 1
+ 487.5859375 210.024414062 l 2
+ 481.272460938 204.446289062 475.479492188 198.770507812 470.16796875 193.013671875 c 0
+ 366.13671875 80.2568359375 432.071289062 -96.4921875 547.80859375 -203.197265625 c 1
+ 569.305664062 80.025390625 716.9140625 260 988 260 c 2
+ 1022 260 l 5
+ 1022 220 l 5
+ 1022 40 l 5
+ 1022 0 l 5
+ 986 0 l 2
+ 844.016601562 0 773 -80.5546875 773 -290 c 0
+ 773 -317.038085938 773.9921875 -348.987304688 776.814453125 -378.147460938 c 2
+ 778.662109375 -397.2421875 l 1
+ 764.926757812 -410.63671875 l 1
+ 643.926757812 -528.63671875 l 1
+ 623.977539062 -548.091796875 l 1
+ 598.815429688 -536.120117188 l 2
+ 376.934570312 -430.556640625 212.733398438 -240.704101562 184.870117188 29.3349609375 c 1
+EndSplineSet
+EndChar
+
+StartChar: uniFBAA
+Encoding: 64426 64426 391
+Width: 1487
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 727.134 1222.79 basechar 0
+AnchorPoint: "Anchor-7" 628.852 -239.953 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+47 260 m 5
+ 119 260 l 5
+ 119 0 l 1
+ 95 0 l 1
+ 47 260 l 5
+EndSplineSet
+Refer: 246 65259 N 1 0 0 1 118 0 2
+EndChar
+
+StartChar: uniFBAB
+Encoding: 64427 64427 392
+Width: 1120
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 659.648 1135.04 basechar 0
+AnchorPoint: "Anchor-7" 705.16 -709.603 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+47 260 m 5
+ 119 260 l 5
+ 119 0 l 1
+ 95 0 l 1
+ 47 260 l 5
+EndSplineSet
+Refer: 247 65260 N 1 0 0 1 118 0 2
+EndChar
+
+StartChar: uniFBAE
+Encoding: 64430 64430 393
+Width: 1744
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-10" 585.53 1160.1 basechar 0
+AnchorPoint: "Anchor-7" 941.902 -200.086 basechar 0
+LayerCount: 2
+Fore
+Refer: 385 1746 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFBAF
+Encoding: 64431 64431 394
+Width: 1576
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-7" 902.902 -632.086 basechar 0
+AnchorPoint: "Anchor-10" 870.53 517.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 35 1600 N 1.21167 0 0 1 1225.23 0 2
+Refer: 408 -1 N 1 0 0 1 0 0 2
+Substitution2: "Single Substitution 0 subtable" uniFBAF.compact
+EndChar
+
+StartChar: uniFBB1
+Encoding: 64433 64433 395
+Width: 1576
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 643.53 978.1 basechar 0
+AnchorPoint: "Anchor-7" 902.902 -632.086 basechar 0
+LayerCount: 2
+Fore
+Refer: 35 1600 N 1.21167 0 0 1 1225.23 0 2
+Refer: 409 -1 S 1 0 0 1 0 0 2
+Substitution2: "Single Substitution 0 subtable" uniFBB1.compact
+EndChar
+
+StartChar: uniFBB0
+Encoding: 64432 64432 396
+Width: 1744
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-10" 660.53 1633.1 basechar 0
+AnchorPoint: "Anchor-7" 881.902 -200.086 basechar 0
+LayerCount: 2
+Fore
+Refer: 386 1747 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0658
+Encoding: 1624 1624 397
+Width: 0
+VWidth: 2316
+Flags: HW
+AnchorPoint: "Anchor-7" 711.902 -612.086 basechar 0
+AnchorPoint: "Anchor-10" 603.219 1239.43 mark 0
+AnchorPoint: "Anchor-9" 603.219 1239.43 mark 0
+AnchorPoint: "Anchor-1" 598.537 1560.66 basemark 0
+AnchorPoint: "Anchor-1" 603.219 1239.43 mark 0
+LayerCount: 2
+Fore
+SplineSet
+844.949903641 1538.31239291 m 2
+ 831.091131769 1387.78597068 748.657347929 1264.6953125 591.306640625 1264.6953125 c 0
+ 433.348590729 1264.6953125 351.415598067 1388.95665742 337.664345686 1538.31237975 c 2
+ 336.910507596 1546.5 l 1
+ 345.132757726 1546.5 l 1
+ 445.584259067 1546.5 l 1
+ 452.135452355 1546.5 l 1
+ 453.016175136 1540.00827751 l 2
+ 465.98920802 1444.38530613 501.018675822 1381.5703125 591.306640625 1381.5703125 c 0
+ 682.21338447 1381.5703125 715.304651158 1445.76175477 727.843033035 1539.98926763 c 2
+ 728.709383491 1546.5 l 1
+ 735.277503396 1546.5 l 1
+ 837.48149039 1546.5 l 1
+ 845.703725975 1546.5 l 1
+ 844.949903641 1538.31239291 l 2
+EndSplineSet
+EndChar
+
+StartChar: uniFBC0
+Encoding: 64448 64448 398
+Width: 0
+VWidth: 2712
+Flags: HW
+AnchorPoint: "Anchor-10" 674.729 1661.91 mark 0
+AnchorPoint: "Anchor-9" 674.729 1661.91 mark 0
+AnchorPoint: "Anchor-1" 673.079 2352.57 basemark 0
+AnchorPoint: "Anchor-1" 674.729 1661.91 mark 0
+LayerCount: 2
+Fore
+SplineSet
+640.502701723 1840.04980469 m 2
+ 807.046931532 1840.04980469 864.775390625 1876.36273401 864.775390625 1922.95019531 c 0
+ 864.775390625 1960.68903631 839.330603421 1987.84960938 798.525390625 1987.84960938 c 0
+ 748.449642675 1987.84960938 683.871792128 1938.92080434 614.419338854 1839.87360371 c 1
+ 640.502701723 1840.04980469 l 2
+480.558115332 1839.15039062 m 1
+ 489.142065961 1852.90181013 497.441482333 1865.92537983 503.875 1876.07874261 c 1
+ 503.875 2297.34960938 l 1
+ 503.875 2306.34960938 l 1
+ 503.875 2311.34960938 l 1
+ 503.875 2318.84960938 l 1
+ 511.375 2318.84960938 l 1
+ 516.375 2318.84960938 l 1
+ 525.375 2318.84960938 l 1
+ 601.424804688 2318.84960938 l 1
+ 610.424804688 2318.84960938 l 1
+ 615.424804688 2318.84960938 l 1
+ 622.924804688 2318.84960938 l 1
+ 622.924804688 2311.34960938 l 1
+ 622.924804688 2306.34960938 l 1
+ 622.924804688 2297.34960938 l 1
+ 622.924804688 2033.42575074 l 1
+ 676.610981693 2085.41040817 731.690013204 2112.29980469 794.474609375 2112.29980469 c 0
+ 907.382061354 2112.29980469 987.875 2033.57471064 987.875 1926.47308289 c 0
+ 986.841021136 1781.23760228 859.432493127 1715.15039062 642.375 1715.15039062 c 2
+ 392.625 1715.15039062 l 1
+ 383.625 1715.15039062 l 1
+ 378.625 1715.15039062 l 1
+ 371.125 1715.15039062 l 1
+ 371.125 1722.65039062 l 1
+ 371.125 1727.65039062 l 1
+ 371.125 1736.65039062 l 1
+ 371.125 1817.65039062 l 1
+ 371.125 1826.65039062 l 1
+ 371.125 1831.65039062 l 1
+ 371.125 1839.15039062 l 1
+ 378.625 1839.15039062 l 1
+ 383.625 1839.15039062 l 1
+ 392.625 1839.15039062 l 1
+ 480.558115332 1839.15039062 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFB88
+Encoding: 64392 64392 399
+Width: 963
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 461.137 1911.03 basechar 0
+AnchorPoint: "Anchor-7" 432.24 -241.316 basechar 0
+LayerCount: 2
+Fore
+Refer: 382 1672 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB89
+Encoding: 64393 64393 400
+Width: 1055
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 511.137 1911.03 basechar 0
+AnchorPoint: "Anchor-7" 401.24 -241.316 basechar 0
+LayerCount: 2
+Fore
+Refer: 181 65194 N 1 0 0 1 0 0 2
+Refer: 398 64448 S 1 0 0 1 -214 -510 2
+EndChar
+
+StartChar: uniFB8C
+Encoding: 64396 64396 401
+Width: 810
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 322.969 -619.998 basechar 0
+AnchorPoint: "Anchor-10" 485.137 1374.03 basechar 0
+LayerCount: 2
+Fore
+Refer: 383 1681 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB8D
+Encoding: 64397 64397 402
+Width: 860
+VWidth: 2142
+Flags: HW
+AnchorPoint: "Anchor-10" 505.137 1474.03 basechar 0
+AnchorPoint: "Anchor-7" 322.969 -619.998 basechar 0
+LayerCount: 2
+Fore
+Refer: 185 65198 N 1 0 0 1 0 0 2
+Refer: 398 64448 S 1 0 0 1 -220 -947 2
+EndChar
+
+StartChar: uniFBBF
+Encoding: 64447 64447 403
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+123.5 387 m 0
+ 123.5 339.212420299 162.028078836 301.5 210 301.5 c 0
+ 257.89553369 301.5 295.5 339.104511985 295.5 387 c 0
+ 295.5 434.971902387 257.787619576 473.5 210 473.5 c 0
+ 162.136212317 473.5 123.5 434.863808663 123.5 387 c 0
+20.5 387 m 0
+ 20.5 491.156171874 105.843820003 576.5 210 576.5 c 0
+ 314.156171874 576.5 399.5 491.156179997 399.5 387 c 0
+ 399.5 282.843828126 314.156179997 197.5 210 197.5 c 0
+ 105.843828126 197.5 20.5 282.843820003 20.5 387 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniFB66
+Encoding: 64358 64358 404
+Width: 1777
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-7" 900.268 -226.468 basechar 0
+AnchorPoint: "Anchor-10" 946.137 1399.03 basechar 0
+LayerCount: 2
+Fore
+Refer: 381 1657 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB67
+Encoding: 64359 64359 405
+Width: 1878
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 956.137 1419.03 basechar 0
+AnchorPoint: "Anchor-7" 900.268 -226.468 basechar 0
+LayerCount: 2
+Fore
+Refer: 398 64448 S 1 0 0 1 231 -1002 2
+Refer: 268 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB68
+Encoding: 64360 64360 406
+Width: 678
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 336.137 1629.03 basechar 0
+AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
+LayerCount: 2
+Fore
+Refer: 398 64448 S 1 0 0 1 -389 -792 2
+Refer: 118 64488 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-178 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-116 dv=0
+EndChar
+
+StartChar: uniFB69
+Encoding: 64361 64361 407
+Width: 767
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 366.137 1539.03 basechar 0
+AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
+LayerCount: 2
+Fore
+Refer: 398 64448 S 1 0 0 1 -359 -882 2
+Refer: 119 64489 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFBAF.compact
+Encoding: 65613 -1 408
+Width: 1207
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-7" 802.902 -592.086 basechar 0
+AnchorPoint: "Anchor-10" 756.53 559.1 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+656 0 m 2
+ 494.330078125 0 353.330078125 -94.4150390625 315.151367188 -135.073242188 c 1
+ 356.999023438 -175.669921875 572.596679688 -219.990234375 807.669921875 -219.990234375 c 0
+ 1164.04296875 -219.990234375 1345.69726562 -154.635742188 1346.34960938 -154.401367188 c 2
+ 1388.88378906 -138.919921875 l 1
+ 1398.99121094 -183.07421875 l 1
+ 1436.99121094 -349.07421875 l 1
+ 1445.39550781 -385.786132812 l 1
+ 1409.25390625 -396.383789062 l 2
+ 1406.01269531 -397.334960938 1159.94921875 -469.32421875 810.045898438 -469.32421875 c 0
+ 510.203125 -469.32421875 58 -442.81640625 58 -147 c 0
+ 58 46.77734375 368.383789062 260 660 260 c 2
+ 1227 260 l 5
+ 1227 220 l 5
+ 1227 40 l 5
+ 1227 0 l 5
+ 656 0 l 2
+EndSplineSet
+EndChar
+
+StartChar: uniFBB1.compact
+Encoding: 65614 -1 409
+Width: 1207
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 643.53 1038.1 basechar 0
+AnchorPoint: "Anchor-7" 902.902 -632.086 basechar 0
+LayerCount: 2
+Fore
+Refer: 408 -1 N 1 0 0 1 0 0 2
+Refer: 76 1652 N 1 0 0 1 344 -1424 2
+EndChar
+
+StartChar: uni06C2
+Encoding: 1730 1730 410
+Width: 922
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 425.775 1715.01 basechar 0
+AnchorPoint: "Anchor-7" 450.63 -240.576 basechar 0
+LayerCount: 2
+Fore
+Refer: 76 1652 S 1 0 0 1 132 -710 2
+Refer: 42 1607 N 1 0 0 1 0 0 2
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06C2.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06C2.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C2.fina
+EndChar
+
+StartChar: uni06C3
+Encoding: 1731 1731 411
+Width: 922
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-10" 418.727 1572.77 basechar 0
+AnchorPoint: "Anchor-7" 450.721 -233.725 basechar 0
+LayerCount: 2
+Fore
+Refer: 42 1607 N 1 0 0 1 0 0 2
+Refer: 265 -1 S 1 0 0 1 189.229 1179.81 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C3.fina
+EndChar
+
+StartChar: uni06F4.urdu
+Encoding: 65615 -1 412
+Width: 1246
+VWidth: 2950
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+167 1071 m 4
+ 167 1213.99707031 256.06640625 1316.71191406 396.576171875 1316.71191406 c 4
+ 596.658203125 1316.71191406 753.37109375 1171.36816406 842.485351562 991.541992188 c 5
+ 871.036132812 1106.44335938 910.288085938 1213.32226562 955.958007812 1296.2890625 c 6
+ 975.12109375 1331.1015625 l 5
+ 1010.05859375 1312.16796875 l 5
+ 1165.05859375 1228.16796875 l 5
+ 1205.265625 1206.37792969 l 5
+ 1178.31835938 1169.4296875 l 6
+ 1085.70410156 1042.44433594 1027.85253906 894.861328125 988.4375 662.315429688 c 6
+ 982.791015625 629 l 5
+ 949 629 l 5
+ 866 629 l 5
+ 786 629 l 5
+ 758.098632812 629 l 5
+ 748.461914062 655.18359375 l 6
+ 647.577148438 929.28125 498.037109375 1061.33105469 437.58203125 1061.33105469 c 4
+ 428.546875 1061.33105469 422.618164062 1060.15136719 420.998046875 1059.6484375 c 4
+ 420.155273438 1057.05371094 418.9765625 1050.47265625 418.9765625 1039.87304688 c 4
+ 418.9765625 974.724609375 517 758.776367188 517 205 c 6
+ 517 40 l 1
+ 517 0 l 1
+ 477 0 l 1
+ 307 0 l 1
+ 267 0 l 1
+ 267 40 l 1
+ 267 208 l 6
+ 267 753.375976562 167 916.890625 167 1071 c 4
+EndSplineSet
+EndChar
+
+StartChar: uni06F7.urdu
+Encoding: 65616 -1 413
+Width: 1056
+VWidth: 2950
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+70 40 m 2
+ 70 410.584960938 432.615234375 938.896484375 762.88671875 1289.43066406 c 6
+ 790.262695312 1318.48632812 l 5
+ 819.373046875 1291.16796875 l 5
+ 949.373046875 1169.16796875 l 5
+ 980.486328125 1139.96777344 l 5
+ 949.340820312 1110.80273438 l 6
+ 635.295898438 816.725585938 404.986328125 474.485351562 349.296875 260 c 1
+ 956 260 l 1
+ 996 260 l 1
+ 996 220 l 1
+ 996 40 l 1
+ 996 0 l 1
+ 956 0 l 1
+ 110 0 l 1
+ 70 0 l 1
+ 70 40 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni06C2.fina
+Encoding: 65617 -1 414
+Width: 919
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 437.775 1361.01 basechar 0
+AnchorPoint: "Anchor-7" 430.251 -206.396 basechar 0
+LayerCount: 2
+Fore
+Refer: 76 1652 S 1 0 0 1 144 -1064 2
+Refer: 388 64423 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06C3.fina
+Encoding: 65618 -1 415
+Width: 919
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 418.727 1279.77 basechar 0
+AnchorPoint: "Anchor-7" 430.251 -206.396 basechar 0
+LayerCount: 2
+Fore
+Refer: 265 -1 S 1 0 0 1 189.229 886.81 2
+Refer: 388 64423 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06C2.init
+Encoding: 65619 -1 416
+Width: 592
+VWidth: 2950
+Flags: HW
+AnchorPoint: "Anchor-10" 308.509 1468.71 basechar 0
+AnchorPoint: "Anchor-7" 265.251 -665.396 basechar 0
+LayerCount: 2
+Fore
+Refer: 55 1620 S 1 0 0 1 -269.493 -803.793 2
+Refer: 389 64424 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06C2.medi
+Encoding: 65620 -1 417
+Width: 1002
+Flags: HW
+AnchorPoint: "Anchor-10" 526.509 1148.71 basechar 0
+AnchorPoint: "Anchor-7" 604.251 -707.396 basechar 0
+LayerCount: 2
+Fore
+Refer: 55 1620 S 1 0 0 1 -51.493 -1123.79 2
+Refer: 390 64425 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni06E9
+Encoding: 1769 1769 418
+Width: 1180
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+492.786585069 61.4027497894 m 1
+ 526.8203125 86.4273648858 l 1
+ 526.8203125 675.522304532 l 1
+ 388.347089766 813.995527266 l 1
+ 383.043788907 819.298828125 l 1
+ 388.347089766 824.602128984 l 1
+ 584.696699141 1020.95173836 l 1
+ 590 1026.25503922 l 1
+ 595.303300859 1020.95173836 l 1
+ 791.652910234 824.602128984 l 1
+ 796.956211093 819.298828125 l 1
+ 791.652910234 813.995527266 l 1
+ 653.1796875 675.522304532 l 1
+ 653.1796875 86.4273648858 l 1
+ 687.213414931 61.4027497894 l 1
+ 705.631212297 47.8603515625 l 1
+ 682.770507812 47.8603515625 l 1
+ 497.229492188 47.8603515625 l 1
+ 474.368787703 47.8603515625 l 1
+ 492.786585069 61.4027497894 l 1
+517.394656537 819.298859244 m 1
+ 590 746.69351578 l 1
+ 662.605343463 819.298859244 l 1
+ 590 891.905054793 l 1
+ 517.394656537 819.298859244 l 1
+234.551907144 819.298835199 m 1
+ 419.623613359 634.227128984 l 1
+ 421.8203125 632.030429843 l 1
+ 421.8203125 628.923828125 l 1
+ 421.8203125 143.345703125 l 1
+ 421.8203125 139.551181166 l 1
+ 418.763258653 137.3033336 l 1
+ 219.01953125 -9.56795945944 l 1
+ 219.01953125 -57.1396484375 l 1
+ 960.98046875 -57.1396484375 l 1
+ 960.98046875 -9.56795945944 l 1
+ 761.236741347 137.3033336 l 1
+ 758.1796875 139.551181166 l 1
+ 758.1796875 143.345703125 l 1
+ 758.1796875 628.923828125 l 1
+ 758.1796875 632.030429843 l 1
+ 760.376386641 634.227128984 l 1
+ 945.448092856 819.298835199 l 1
+ 590 1174.74787632 l 1
+ 234.551907144 819.298835199 l 1
+105.505287487 824.60212358 m 1
+ 584.696693737 1303.79450639 l 1
+ 590 1309.09782347 l 1
+ 595.303306263 1303.79450639 l 1
+ 1074.49471251 824.60212358 l 1
+ 1079.79800256 819.298822721 l 1
+ 1074.49470711 813.995527266 l 1
+ 853.1796875 592.680507657 l 1
+ 853.1796875 187.614834459 l 1
+ 1052.9234149 40.7435414002 l 1
+ 1055.98046875 38.4956938344 l 1
+ 1055.98046875 34.701171875 l 1
+ 1055.98046875 -144.639648438 l 1
+ 1055.98046875 -152.139648438 l 1
+ 1048.48046875 -152.139648438 l 1
+ 131.51953125 -152.139648438 l 1
+ 124.01953125 -152.139648438 l 1
+ 124.01953125 -144.639648438 l 1
+ 124.01953125 34.701171875 l 1
+ 124.01953125 38.4956938344 l 1
+ 127.076585097 40.7435414002 l 1
+ 326.8203125 187.614834459 l 1
+ 326.8203125 592.680507657 l 1
+ 105.505292891 813.995527266 l 1
+ 100.201997436 819.298822721 l 1
+ 105.505287487 824.60212358 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni06DE
+Encoding: 1758 1758 419
+Width: 1990
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+448.099609375 223.838867188 m 5
+ 448.099609375 27.640625 l 5
+ 644.297851562 27.640625 l 5
+ 448.099609375 223.838867188 l 5
+735.438476562 -63.5 m 5
+ 365 -63.5 l 5
+ 357.5 -63.5 l 5
+ 357.5 -56 l 5
+ 357.5 314.438476562 l 5
+ 95.5595703125 576.377929688 l 5
+ 90.2568359375 581.681640625 l 5
+ 95.5595703125 586.985351562 l 5
+ 357.5 848.924804688 l 5
+ 357.5 1213 l 5
+ 357.5 1220.5 l 5
+ 365 1220.5 l 5
+ 729.075195312 1220.5 l 5
+ 986.514648438 1477.94042969 l 5
+ 991.818359375 1483.24316406 l 5
+ 997.122070312 1477.94042969 l 5
+ 1254.56152344 1220.5 l 5
+ 1625 1220.5 l 5
+ 1632.5 1220.5 l 5
+ 1632.5 1213 l 5
+ 1632.5 842.561523438 l 5
+ 1894.44042969 580.622070312 l 5
+ 1899.74316406 575.318359375 l 5
+ 1894.44042969 570.014648438 l 5
+ 1632.5 308.075195312 l 5
+ 1632.5 -56 l 5
+ 1632.5 -63.5 l 5
+ 1625 -63.5 l 5
+ 1260.92480469 -63.5 l 5
+ 1003.48535156 -320.940429688 l 5
+ 998.181640625 -326.243164062 l 5
+ 992.877929688 -320.940429688 l 5
+ 735.438476562 -63.5 l 5
+1352.06542969 27.640625 m 5
+ 1541.90039062 27.640625 l 5
+ 1541.90039062 217.475585938 l 5
+ 1352.06542969 27.640625 l 5
+1541.90039062 933.161132812 m 5
+ 1541.90039062 1129.359375 l 5
+ 1345.70214844 1129.359375 l 5
+ 1541.90039062 933.161132812 l 5
+448.099609375 939.524414062 m 5
+ 637.934570312 1129.359375 l 5
+ 448.099609375 1129.359375 l 5
+ 448.099609375 939.524414062 l 5
+448.099609375 810.6328125 m 5
+ 448.099609375 351.966796875 l 5
+ 772.42578125 27.640625 l 5
+ 1223.17382812 27.640625 l 5
+ 1541.90039062 346.3671875 l 5
+ 1541.90039062 805.033203125 l 5
+ 1217.57421875 1129.359375 l 5
+ 766.826171875 1129.359375 l 5
+ 448.099609375 810.6328125 l 5
+857.966796875 1220.5 m 5
+ 1126.43359375 1220.5 l 5
+ 992.200195312 1354.73339844 l 5
+ 857.966796875 1220.5 l 5
+357.5 720.033203125 m 5
+ 218.766601562 581.299804688 l 5
+ 357.5 442.56640625 l 5
+ 357.5 720.033203125 l 5
+1632.5 714.43359375 m 5
+ 1632.5 436.966796875 l 5
+ 1771.23339844 575.700195312 l 5
+ 1632.5 714.43359375 l 5
+1132.03320312 -63.5 m 5
+ 863.56640625 -63.5 l 5
+ 997.799804688 -197.733398438 l 5
+ 1132.03320312 -63.5 l 5
+908.5 575 m 4
+ 908.5 527.212890625 947.028320312 489.5 995 489.5 c 4
+ 1042.89550781 489.5 1080.5 527.104492188 1080.5 575 c 4
+ 1080.5 622.971679688 1042.78808594 661.5 995 661.5 c 4
+ 947.135742188 661.5 908.5 622.864257812 908.5 575 c 4
+814.5 575 m 4
+ 814.5 674.158203125 895.841796875 755.5 995 755.5 c 4
+ 1094.15820312 755.5 1175.5 674.158203125 1175.5 575 c 4
+ 1175.5 475.841796875 1094.15820312 394.5 995 394.5 c 4
+ 895.841796875 394.5 814.5 475.841796875 814.5 575 c 4
+EndSplineSet
+EndChar
+
+StartChar: uni06DD
+Encoding: 1757 1757 420
+Width: 2440
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+276.5 1362 m 0
+ 276.5 1470.15183256 364.848128334 1558.5 473 1558.5 c 0
+ 510.109010003 1558.5 544.732384659 1547.95224455 574.344432418 1530.19441225 c 1
+ 757.794014993 1660.10167787 979.48072592 1735.5 1220 1735.5 c 0
+ 1459.82922476 1735.5 1681.87608482 1659.76758508 1863.82638768 1531.48854054 c 1
+ 1892.96799027 1548.63801008 1926.90011137 1558.5 1963 1558.5 c 0
+ 2071.15183256 1558.5 2159.5 1470.15187167 2159.5 1362 c 0
+ 2159.5 1325.88499514 2149.56997565 1292.27021337 2132.6226227 1263.05082751 c 1
+ 2262.33827513 1079.58727782 2337.5 858.255363264 2337.5 618 c 0
+ 2337.5 377.829515346 2261.56978661 155.525627661 2132.94146758 -26.6002797787 c 1
+ 2149.83152635 -55.6102530827 2159.5 -89.2171421866 2159.5 -125 c 0
+ 2159.5 -233.151832559 2071.15187167 -321.5 1963 -321.5 c 0
+ 1927.18430937 -321.5 1892.11907122 -310.963337018 1864.60027978 -294.941467582 c 1
+ 1681.17889469 -424.484731196 1460.05901482 -499.5 1220 -499.5 c 0
+ 979.03231872 -499.5 755.911257499 -422.989968783 573.582496479 -293.653310853 c 1
+ 542.62531526 -312.023780194 509.753154456 -321.5 473 -321.5 c 0
+ 364.848167441 -321.5 276.5 -233.151871666 276.5 -125 c 0
+ 276.5 -87.8332882448 287.059014986 -53.2054028006 304.887404395 -23.5200546553 c 1
+ 176.742831622 159.18979715 102.5 379.293671786 102.5 618 c 0
+ 102.5 857.018867013 177.795651274 1078.51044343 305.21384702 1259.98482568 c 1
+ 286.331597076 1291.18456462 276.5 1324.65709509 276.5 1362 c 0
+1857.09960938 -125 m 0
+ 1857.09960938 -183.248619804 1904.75144344 -230.900390625 1963 -230.900390625 c 0
+ 2021.2486198 -230.900390625 2068.90039062 -183.248556565 2068.90039062 -125 c 0
+ 2068.90039062 -66.7513801956 2021.24855656 -19.099609375 1963 -19.099609375 c 0
+ 1904.7513802 -19.099609375 1857.09960938 -66.7514434347 1857.09960938 -125 c 0
+367.099609375 -125 m 0
+ 367.099609375 -183.248619804 414.751443435 -230.900390625 473 -230.900390625 c 0
+ 531.248619804 -230.900390625 578.900390625 -183.248556565 578.900390625 -125 c 0
+ 578.900390625 -66.7513801958 531.248556565 -19.099609375 473 -19.099609375 c 0
+ 414.751380196 -19.099609375 367.099609375 -66.7514434349 367.099609375 -125 c 0
+1857.09960938 1362 m 0
+ 1857.09960938 1303.7513802 1904.75144344 1256.09960938 1963 1256.09960938 c 0
+ 2021.2486198 1256.09960938 2068.90039062 1303.75144344 2068.90039062 1362 c 0
+ 2068.90039062 1420.2486198 2021.24855656 1467.90039062 1963 1467.90039062 c 0
+ 1904.7513802 1467.90039062 1857.09960938 1420.24855656 1857.09960938 1362 c 0
+367.099609375 1362 m 0
+ 367.099609375 1303.7513802 414.751443435 1256.09960938 473 1256.09960938 c 0
+ 531.248619804 1256.09960938 578.900390625 1303.75144344 578.900390625 1362 c 0
+ 578.900390625 1420.2486198 531.248556565 1467.90039062 473 1467.90039062 c 0
+ 414.751380196 1467.90039062 367.099609375 1420.24855656 367.099609375 1362 c 0
+1767.03272783 1347.5 m 1
+ 668.967272165 1347.5 l 1
+ 661.262467662 1245.56294604 576.165095735 1165.5 473 1165.5 c 0
+ 448.018874284 1165.5 424.173271198 1170.32445849 402.202967267 1178.74718558 c 1
+ 292.106831471 1018.28338632 228.5 826.154055078 228.5 618 c 0
+ 228.5 410.090909856 292.805906457 217.018158768 401.661461584 58.0412656826 c 1
+ 425.576786486 67.2880440823 447.660321213 71.5 473 71.5 c 0
+ 575.420914674 71.5 659.041356075 -7.55101053009 668.631553772 -106.5 c 1
+ 1767.36844623 -106.5 l 1
+ 1777.08223522 -6.27582990801 1861.23459459 71.5 1963 71.5 c 0
+ 1989.40207509 71.5 2014.66249464 66.0776572401 2037.47171879 56.779859612 c 1
+ 2147.6620398 217.139267487 2211.5 409.644093683 2211.5 618 c 0
+ 2211.5 826.795695824 2146.58224925 1020.74664844 2036.9351836 1179.99958797 c 1
+ 2012.49111631 1170.12937084 1989.32363396 1165.5 1963 1165.5 c 0
+ 1859.16933831 1165.5 1774.63890566 1246.86780892 1767.03272783 1347.5 c 1
+1752.50391061 1454.5 m 1
+ 1597.78714515 1553.08052592 1416.02822742 1609.5 1220 1609.5 c 0
+ 1023.90168583 1609.5 840.86624484 1552.22250952 687.496089387 1454.5 c 1
+ 1752.50391061 1454.5 l 1
+679.738133878 -213.5 m 1
+ 836.635836543 -315.449964904 1020.65307137 -373.5 1220 -373.5 c 0
+ 1419.42302912 -373.5 1604.69817394 -314.583143274 1760.26186612 -213.5 c 1
+ 679.738133878 -213.5 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFD3E
+Encoding: 64830 64830 421
+Width: 1273
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+614.5 603 m 0
+ 614.5 570.379640396 642.995723682 542.5 677 542.5 c 0
+ 711.788317655 542.5 739.5 569.952581632 739.5 607 c 0
+ 739.5 639.280576033 709.276155684 666.5 676 666.5 c 0
+ 639.58120313 666.5 614.5 636.368633731 614.5 603 c 0
+637.301119332 203.718814862 m 0
+ 672.177809352 45.8559021428 747.479227633 -83.082202478 859.868652849 -182.843483879 c 1
+ 797.310644826 -58.3933496033 755.795542391 70.997984149 734.604218117 202.752739417 c 0
+ 731.201145556 222.03681726 737.39515509 238.001756808 750.696699141 251.303300859 c 2
+ 785.696699141 286.303300859 l 2
+ 795.863886623 296.470488341 809.773340389 303.5 826 303.5 c 2
+ 979.5 303.5 l 1
+ 979.5 908.5 l 1
+ 826 908.5 l 2
+ 809.773340389 908.5 795.863886623 915.529511659 785.696699141 925.696699141 c 2
+ 747.811933857 963.581464425 l 2
+ 733.991251995 976.250422799 729.262966299 994.432871749 732.608591336 1012.27620528 c 0
+ 757.610655059 1170.62260886 804.349089534 1316.05667893 871.214563312 1447.84888601 c 1
+ 746.991658648 1340.48606603 666.357377188 1192.01893041 629.359143899 1000.55307314 c 0
+ 627.015105492 988.83288111 621.066049201 979.459447484 613.303300859 971.696699141 c 2
+ 567.303300859 925.696699141 l 2
+ 557.319541795 915.712940077 544.309077296 908.5 528 908.5 c 2
+ 373.5 908.5 l 1
+ 373.5 755 l 2
+ 373.5 739.096183149 367.548561201 725.941959483 357.303300859 715.696699141 c 2
+ 247.606601718 606 l 1
+ 357.303300859 496.303300859 l 2
+ 367.548561201 486.058040517 373.5 472.903816851 373.5 457 c 2
+ 373.5 303.5 l 1
+ 528 303.5 l 2
+ 544.309077296 303.5 557.319541795 296.287059923 567.303300859 286.303300859 c 2
+ 622.303300859 231.303300859 l 2
+ 630.571380369 223.035221349 635.055541751 212.701125189 637.301119332 203.718814862 c 0
+840.5 599 m 0
+ 840.5 511.54853351 763.00594981 438.5 676 438.5 c 0
+ 582.600081871 438.5 511.5 515.196382124 511.5 609 c 0
+ 511.5 696.45146649 588.99405019 769.5 676 769.5 c 0
+ 769.399918129 769.5 840.5 692.803617876 840.5 599 c 0
+1098.05386589 1569.45848039 m 2
+ 975.389511562 1457.58858924 891.164167941 1274.36900904 847.052650272 1021.55395145 c 1
+ 848.106601718 1020.5 l 1
+ 1036 1020.5 l 2
+ 1071.9595904 1020.5 1091.5 997.425603167 1091.5 965 c 2
+ 1091.5 246.882841096 l 2
+ 1090.39066393 211.384086839 1070.64842928 191.5 1036 191.5 c 2
+ 850.486105632 191.5 l 1
+ 896.654781188 -49.7519972836 979.651636636 -213.605493037 1094.78513399 -309.224838293 c 0
+ 1101.22133418 -314.55768988 1106.1018938 -320.090352742 1109.33449786 -326.015719506 c 0
+ 1126.44135105 -357.372600027 1093.09063712 -384.132536749 1050.50340775 -406.631450381 c 2
+ 1047.80581111 -408.056595774 l 1
+ 1044.87939309 -407.193957626 l 2
+ 774.501429419 -327.492990724 603.6783301 -134.407768679 532.183667463 163.257180647 c 1
+ 504.823436214 191.5 l 1
+ 317 191.5 l 2
+ 291.336141273 191.5 261.5 213.194680572 261.5 247 c 2
+ 261.5 433.909717997 l 1
+ 129.696699141 566.696699141 l 2
+ 119.383529538 577.009868744 112.5 591.725753437 112.5 607 c 0
+ 112.5 621.215785252 118.645232309 634.251760738 129.677021049 645.283549478 c 2
+ 261.5 778.090282003 l 1
+ 261.5 965 l 2
+ 261.5 1000.07773837 293.537734493 1020.5 317 1020.5 c 2
+ 504.790745687 1020.5 l 1
+ 522.0714457 1038.60359049 l 1
+ 588.844353417 1371.59285206 764.871789891 1581.26086212 1044.56216156 1664.10055519 c 0
+ 1054.3986492 1667.63313658 1061.85645883 1667.95126077 1069.73258372 1665.87278538 c 0
+ 1100.58186871 1657.7317921 1111.65786413 1614.63578828 1100.23244611 1573.01462264 c 2
+ 1099.65779976 1570.92126808 l 1
+ 1098.05386589 1569.45848039 l 2
+EndSplineSet
+EndChar
+
+StartChar: uniFD3F
+Encoding: 64831 64831 422
+Width: 1273
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+658.5 603 m 0
+ 658.5 636.368568325 633.41861144 666.5 597 666.5 c 0
+ 563.72422098 666.5 533.5 639.280584912 533.5 607 c 0
+ 533.5 569.952631449 561.211614087 542.5 596 542.5 c 0
+ 630.004135869 542.5 658.5 570.379611282 658.5 603 c 0
+635.698880668 203.718814862 m 0
+ 637.989946296 212.883077374 642.397766192 223.00436791 650.696699141 231.303300859 c 2
+ 705.696699141 286.303300859 l 2
+ 715.680458205 296.287059923 728.690922704 303.5 745 303.5 c 2
+ 899.5 303.5 l 1
+ 899.5 457 l 2
+ 899.5 472.903816851 905.451438799 486.058040517 915.696699141 496.303300859 c 2
+ 1025.39339828 606 l 1
+ 915.696699141 715.696699141 l 2
+ 905.451438799 725.941959483 899.5 739.096183149 899.5 755 c 2
+ 899.5 908.5 l 1
+ 745 908.5 l 2
+ 728.690922704 908.5 715.680458205 915.712940077 705.696699141 925.696699141 c 2
+ 659.696699141 971.696699141 l 2
+ 651.933950799 979.459447484 645.984894508 988.83288111 643.640856101 1000.55307314 c 0
+ 606.603806145 1192.21980666 524.923855215 1341.42336089 401.785436688 1447.84888601 c 1
+ 469.472254844 1314.43780476 515.366421977 1170.76778763 540.391408664 1012.27620528 c 0
+ 543.736950742 994.4333142 539.009579505 976.251185007 525.188066143 963.581464425 c 2
+ 487.303300859 925.696699141 l 2
+ 477.136113377 915.529511659 463.226659611 908.5 447 908.5 c 2
+ 293.5 908.5 l 1
+ 293.5 303.5 l 1
+ 447 303.5 l 2
+ 463.226659611 303.5 477.136113377 296.470488341 487.303300859 286.303300859 c 2
+ 522.303300859 251.303300859 l 2
+ 535.605056073 238.001545645 541.798933656 222.03726613 538.395781883 202.752739417 c 0
+ 517.237152627 71.2012618711 474.840057004 -60.0829058179 413.131347151 -182.843483879 c 1
+ 526.61925 -82.1071504561 600.889496968 46.1605518017 635.698880668 203.718814862 c 0
+432.5 599 m 0
+ 432.5 692.803619839 503.6001122 769.5 597 769.5 c 0
+ 684.007982336 769.5 761.5 696.451031883 761.5 609 c 0
+ 761.5 515.196380161 690.3998878 438.5 597 438.5 c 0
+ 509.992017664 438.5 432.5 511.548968117 432.5 599 c 0
+172.767553891 1573.01462264 m 2
+ 166.577775249 1595.56310197 167.070993194 1617.25092046 173.049518727 1634.32993654 c 0
+ 181.546723779 1658.60413273 202.42125218 1673.4439013 228.437838442 1664.10055519 c 0
+ 509.672023327 1580.80361001 684.528000932 1369.73596123 750.9285543 1038.60359049 c 1
+ 768.209254313 1020.5 l 1
+ 956 1020.5 l 2
+ 979.46354155 1020.5 1011.5 1000.07857951 1011.5 965 c 2
+ 1011.5 778.090282003 l 1
+ 1143.30330086 645.303300859 l 2
+ 1154.37415735 634.232444372 1160.5 621.223688774 1160.5 607 c 0
+ 1160.5 591.733660987 1153.59707543 576.990546996 1143.32297895 566.716450522 c 2
+ 1011.5 433.909717997 l 1
+ 1011.5 247 l 2
+ 1011.5 213.195318058 981.66309102 191.5 956 191.5 c 2
+ 768.176563786 191.5 l 1
+ 740.816332537 163.257180647 l 1
+ 668.99309939 -135.775757852 498.15343609 -327.59472813 228.120606912 -407.193957626 c 2
+ 225.19418889 -408.056595774 l 1
+ 222.496592252 -406.631450381 l 2
+ 199.744174614 -394.611305214 181.636541232 -382.534861731 170.516900751 -369.29338917 c 0
+ 154.471400423 -350.186112036 155.413710417 -328.117230772 178.208242477 -309.230332779 c 0
+ 293.328133967 -213.622287304 376.681760097 -47.9934184158 422.513894368 191.5 c 1
+ 237 191.5 l 2
+ 202.351275971 191.5 182.60930994 211.384923001 181.5 246.882841096 c 2
+ 181.5 965 l 2
+ 181.5 997.425801416 201.040697254 1020.5 237 1020.5 c 2
+ 424.893398282 1020.5 l 1
+ 425.947349728 1021.55395145 l 1
+ 381.525501906 1276.14759521 297.648349551 1457.55405991 174.946134114 1569.45848039 c 2
+ 173.342200239 1570.92126808 l 1
+ 172.767553891 1573.01462264 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni0610
+Encoding: 1552 1552 423
+Width: 0
+VWidth: 2712
+Flags: HW
+AnchorPoint: "Anchor-10" 493.924 1223.86 mark 0
+AnchorPoint: "Anchor-9" 493.924 1223.86 mark 0
+AnchorPoint: "Anchor-1" 534.091 1760.26 basemark 0
+AnchorPoint: "Anchor-1" 493.924 1223.86 mark 0
+LayerCount: 2
+Fore
+SplineSet
+457.954160598 1374.90527344 m 2
+ 642.040254127 1374.90527344 726.209960938 1413.9982461 726.209960938 1484.56542969 c 0
+ 726.209960938 1535.63858101 689.814200575 1574.02539062 635.234375 1574.02539062 c 0
+ 564.27223662 1574.02539062 483.953784364 1506.27556243 397.120451078 1374.49433153 c 1
+ 457.954160598 1374.90527344 l 2
+130.225136976 1196.14394098 m 2
+ 149.403465172 1229.44963431 159.41917392 1272.83196935 159.599609375 1326.5 c 0
+ 159.599609375 1387.33953545 144.284189883 1448.31622678 114.887125366 1509.6020244 c 2
+ 111.241144523 1517.20301612 l 1
+ 119.214825557 1519.93955812 l 1
+ 204.55955212 1549.22959719 l 1
+ 211.787391469 1551.7101687 l 1
+ 214.132302823 1544.43718531 l 1
+ 243.921602243 1452.04251418 l 2
+ 256.847382577 1412.340309 271.705467689 1394.06326865 285.55571047 1389.93934887 c 1
+ 399.598857843 1582.35529488 512.934213606 1680.93554688 632.205078125 1680.93554688 c 0
+ 746.656967706 1680.93554688 831.099561906 1597.38634885 831.099561906 1489.08366758 c 0
+ 830.571501798 1340.66405 702.90303212 1268.5 460 1268.5 c 2
+ 434.244140625 1268.5 l 2
+ 355.298319354 1268.5 297.178190559 1277.34482939 257.642888398 1293.39163128 c 1
+ 255.430482073 1234.05099181 242.113048714 1183.95585416 218.798657595 1142.70979322 c 2
+ 214.986211109 1135.96510067 l 1
+ 208.368870518 1139.99454596 l 1
+ 132.823948643 1185.99552253 l 1
+ 126.573144798 1189.80177547 l 1
+ 130.225136976 1196.14394098 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni0611
+Encoding: 1553 1553 424
+Width: 0
+VWidth: 2712
+Flags: HW
+AnchorPoint: "Anchor-10" 496.924 1247.86 mark 0
+AnchorPoint: "Anchor-9" 496.924 1247.86 mark 0
+AnchorPoint: "Anchor-1" 534.091 1790.26 basemark 0
+AnchorPoint: "Anchor-1" 496.924 1247.86 mark 0
+LayerCount: 2
+Fore
+SplineSet
+261.130230272 1267.68554688 m 1
+ 258.127640583 1219.28593682 242.285225186 1174.44143351 218.922681033 1133.11018385 c 2
+ 215.110234547 1126.3654913 l 1
+ 208.492893956 1130.39493659 l 1
+ 132.94797208 1176.39591315 l 1
+ 126.697168234 1180.20216609 l 1
+ 130.349160413 1186.5443316 l 2
+ 149.527488609 1219.85002493 159.543197357 1263.23235998 159.723632812 1316.90039062 c 0
+ 159.723632812 1377.60991796 144.084789278 1439.09664324 115.237279568 1499.53098688 c 2
+ 111.36516797 1507.60340675 l 1
+ 119.338848996 1510.33994875 l 1
+ 204.683575558 1539.62998781 l 1
+ 211.911414906 1542.11055932 l 1
+ 214.25632626 1534.83757593 l 1
+ 244.052221648 1442.42254633 l 2
+ 258.074788351 1398.93031289 274.127128724 1381.58303708 289.88263694 1379.44657861 c 2
+ 368.797900717 1379.66407926 l 1
+ 342.066351916 1415.17917541 319.403320312 1455.09419608 319.403320312 1515.58007812 c 0
+ 319.403320312 1643.10949484 408.186463039 1751.07714844 550.048828125 1751.07714844 c 0
+ 627.758433813 1751.07714844 690.355528612 1725.46659711 740.259280791 1675.00829183 c 2
+ 743.874636699 1671.35276044 l 1
+ 741.768778028 1666.66244411 l 1
+ 706.194559278 1587.42904567 l 1
+ 702.210442163 1578.55534022 l 1
+ 694.641644779 1584.6650983 l 2
+ 650.751483684 1620.09454008 609.240447536 1637.46737148 567.252116312 1637.97949219 c 0
+ 484.527990374 1637.97949219 426.033203125 1582.06249154 426.033203125 1512.34570312 c 0
+ 426.033203125 1493.68639951 435.241538967 1434.66256126 504.211043145 1403.77973334 c 0
+ 508.178464427 1401.7960227 515.462689483 1399.65931322 519.182809699 1400.51740367 c 2
+ 749.800714541 1458.71150053 l 1
+ 759.135742188 1461.06710038 l 1
+ 759.135742188 1451.43945312 l 1
+ 759.135742188 1354.41894531 l 1
+ 759.135742188 1348.89880943 l 1
+ 753.865118487 1347.25794808 l 2
+ 581.970623721 1293.7434025 434.470723813 1267.68554688 290.548828125 1267.68554688 c 2
+ 261.130230272 1267.68554688 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0612
+Encoding: 1554 1554 425
+Width: 0
+VWidth: 2712
+Flags: HW
+AnchorPoint: "Anchor-10" 517.924 962.86 mark 0
+AnchorPoint: "Anchor-9" 517.924 962.86 mark 0
+AnchorPoint: "Anchor-1" 522.091 1913.26 basemark 0
+AnchorPoint: "Anchor-1" 517.924 962.86 mark 0
+LayerCount: 2
+Fore
+SplineSet
+461.255859375 990.358398438 m 2
+ 238.129266778 990.358398438 79.2412109375 1082.44524001 79.2412109375 1285.44238281 c 0
+ 79.2412109375 1461.25021847 215.462519344 1607.92328719 465.011934775 1670.56004835 c 1
+ 457.6761289 1673.54752841 450.012886665 1676.68663913 437.116088837 1681.98382472 c 0
+ 363.334221421 1711.49579074 316.063143382 1730.09375 293.407226562 1730.09375 c 0
+ 255.106690068 1730.09375 215.298213963 1704.44304803 189.451083167 1670.68462623 c 2
+ 174.689364417 1651.54888404 l 1
+ 170.928768781 1646.67399178 l 1
+ 165.414652542 1649.41281931 l 1
+ 82.8570353552 1690.41867869 l 1
+ 75.7079358046 1693.96959236 l 1
+ 79.697026921 1700.88376362 l 1
+ 87.9482881361 1715.18542571 l 2
+ 134.978652738 1791.89028229 208.224851852 1842.41308594 293.954101562 1842.41308594 c 0
+ 342.141375546 1842.41308594 398.107348088 1820.46752373 462.904013207 1789.1662511 c 0
+ 575.851912963 1734.05723494 643.21283694 1711.0979218 704.398560125 1707.90582979 c 2
+ 712.07182809 1707.50551128 l 1
+ 711.485980585 1699.84417466 l 1
+ 704.37855871 1606.8978856 l 1
+ 703.890030726 1600.50923103 l 1
+ 697.503473179 1599.99401312 l 2
+ 406.146840968 1576.48962075 184.999023438 1451.28714206 184.999023438 1294.18945312 c 0
+ 184.999023438 1164.21572267 276.241587957 1098.85058594 468.909179688 1098.85058594 c 2
+ 477.048221029 1098.85058594 l 1
+ 476.384175982 1090.73867876 l 1
+ 468.730855669 997.246491256 l 1
+ 468.166992719 990.358398438 l 1
+ 461.255859375 990.358398438 l 2
+884.597027743 1609.18024777 m 2
+ 914.476899157 1535.03305826 929.97265625 1455.56469908 929.97265625 1392.05566406 c 0
+ 929.97265625 1190.19007626 810.824525507 1066.37899709 578.33467028 1022.20118013 c 2
+ 572.209582916 1021.03728853 l 1
+ 569.946228122 1026.84663995 l 1
+ 537.142517185 1111.04390557 l 1
+ 533.86607488 1119.45354812 l 1
+ 542.733375874 1121.13525407 l 2
+ 731.144444748 1156.86788763 822.607151318 1246.17568873 823.66796875 1389.35005 c 0
+ 823.66796875 1437.70765528 809.655965042 1507.05041158 782.165885808 1571.73244124 c 2
+ 779.056817328 1579.04783884 l 1
+ 786.540323356 1581.72710859 l 1
+ 875.112588981 1613.43804609 l 1
+ 881.901708231 1615.86870917 l 1
+ 884.597027743 1609.18024777 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni06DC
+Encoding: 1756 1756 426
+Width: 0
+VWidth: 2712
+Flags: HW
+AnchorPoint: "Anchor-10" 556.924 1187.86 mark 0
+AnchorPoint: "Anchor-9" 556.924 1187.86 mark 0
+AnchorPoint: "Anchor-1" 558.091 1694.26 basemark 0
+AnchorPoint: "Anchor-1" 556.924 1187.86 mark 0
+LayerCount: 2
+Fore
+SplineSet
+498.709960938 1268.10546875 m 0
+ 463.667540149 1268.10546875 434.141053383 1276.25759962 411.723429356 1290.32855813 c 1
+ 403.49307106 1106.75840751 284.472536354 1009.27539062 95.5322265625 1009.27539062 c 0
+ -114.271853647 1009.27539062 -222.066406248 1108.35833889 -222.06640625 1303.47851562 c 0
+ -222.06640625 1374.03024712 -206.552997812 1446.92264016 -176.91047221 1519.36601747 c 2
+ -173.865741089 1526.77474372 l 1
+ -167.763688761 1524.29462398 l 1
+ -89.7932250055 1492.60428827 l 1
+ -83.0130065139 1489.84853449 l 1
+ -85.6021932825 1483.00297728 l 2
+ -109.573465809 1419.62527138 -121.453125 1360.62381771 -121.453125 1305.96777344 c 0
+ -121.453125 1174.78110764 -50.1083930035 1110.38574219 99.0166015625 1110.38574219 c 0
+ 244.166372978 1110.38574219 314.681817144 1180.61973445 315.005859375 1325.37988281 c 0
+ 315.005859375 1384.18452172 300.406414836 1444.26842614 270.944203973 1505.81132571 c 2
+ 267.306898226 1513.4092057 l 1
+ 275.274368698 1516.14365037 l 1
+ 359.394485885 1545.01376756 l 1
+ 366.622495198 1547.49442834 l 1
+ 368.967312077 1540.22121514 l 1
+ 398.33346447 1449.13252953 l 2
+ 415.001732976 1397.43496957 445.05170728 1373.17098548 499.737361371 1372.70019531 c 0
+ 560.979423014 1372.70019531 584.2890625 1404.26517397 584.2890625 1469.22949219 c 0
+ 584.2890625 1484.69483528 582.644620313 1514.21178265 579.333614795 1557.25485438 c 2
+ 578.783078694 1564.41182368 l 1
+ 585.909032893 1565.27558084 l 1
+ 668.037939143 1575.23065897 l 1
+ 675.864932294 1576.17939106 l 1
+ 676.421705378 1568.31479202 l 1
+ 684.386696287 1455.80648509 l 2
+ 687.753155028 1406.75412425 709.091632449 1372.70019531 755.548828125 1372.70019531 c 0
+ 794.626919254 1372.70019531 817.236328125 1403.26684243 817.236328125 1475.70117188 c 0
+ 817.236328125 1510.18983077 810.095349296 1553.40749399 795.6132076 1605.08251875 c 2
+ 793.565800209 1612.38805614 l 1
+ 800.894467082 1614.35106287 l 1
+ 884.516537394 1636.74950037 l 1
+ 891.461067775 1638.60961492 l 1
+ 893.613128365 1631.74993828 l 2
+ 909.7372494 1580.35442606 917.848632813 1530.80925101 917.848632812 1483.16699219 c 0
+ 917.848632812 1368.01981288 875.598133204 1268.62929293 756.063308129 1268.10546875 c 0
+ 700.615917956 1268.10546875 659.597294501 1290.63879581 634.525049158 1333.00351927 c 1
+ 598.916539812 1289.13156605 554.043080531 1268.10546875 498.709960938 1268.10546875 c 0
+EndSplineSet
+EndChar
+
+StartChar: LamAlefWasla
+Encoding: 65621 -1 427
+Width: 1212
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-9" 279.515 1762.66 baselig 1
+AnchorPoint: "Anchor-6" 328.021 -237.236 baselig 1
+AnchorPoint: "Anchor-6" 965.078 -233.453 baselig 0
+AnchorPoint: "Anchor-9" 970.46 1557.31 baselig 0
+LayerCount: 2
+Fore
+Refer: 340 -1 S 1 0 0 1 20 120 2
+Refer: 262 65275 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFB51
+EndChar
+
+StartChar: LamAlefWasla.fina
+Encoding: 65622 -1 428
+Width: 1273
+VWidth: 2703
+Flags: HW
+AnchorPoint: "Anchor-9" 975.46 1557.31 baselig 0
+AnchorPoint: "Anchor-6" 965.078 -233.453 baselig 0
+AnchorPoint: "Anchor-6" 328.021 -237.236 baselig 1
+AnchorPoint: "Anchor-9" 279.515 1762.66 baselig 1
+LayerCount: 2
+Fore
+Refer: 340 -1 S 1 0 0 1 20 120 2
+Refer: 263 65276 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEE0 uniFB51
+EndChar
+
+StartChar: uni220E
+Encoding: 8718 8718 429
+Width: 970
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+160 40 m 1
+ 160 884 l 1
+ 160 924 l 1
+ 200 924 l 1
+ 770 924 l 1
+ 810 924 l 1
+ 810 884 l 1
+ 810 40 l 1
+ 810 0 l 1
+ 770 0 l 1
+ 200 0 l 1
+ 160 0 l 1
+ 160 40 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
