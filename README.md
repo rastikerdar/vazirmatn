@@ -7,6 +7,7 @@ A Persian (Farsi) Font
 
 فونت فارسی وزیر  
 [نمایش فونت - صفحه رسمی پروژه](https://rastikerdar.github.io/vazir-font/)  
+[راهنمای فونت وزیر](https://github.com/rastikerdar/vazir-font/blob/master/HELP.md)  
 [صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/vazir-font/releases)  
 با تشکر از برنامه [FontForge](https://fontforge.github.io)  
 بر مبنای فونت [DejaVu Sans 2.35](https://dejavu-fonts.github.io)  
