@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
   <meta name="description" content="فونت فارسی وزیر از نوع سانس سریف">
   <meta name="keywords" content="فونت,فارسی,وزیر,سانس سریف,font,farsi,Vazir,sans-serif">
-  <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vazir-font@v26.0.0/dist/font-face.css">
+  <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v26.0.0/dist/font-face.css">
   <style>
     * {
       margin: 0;
@@ -269,6 +269,14 @@
       min-width: 80px;
     }
 
+    .help {
+      display: inline-block;
+      color: #007fba;
+      margin: 5px 10px;
+      font-size: 1.7em;
+      border-bottom: 1px solid #d5d5d5;
+    }
+
     .clear {
       clear: both;
     }
@@ -281,7 +289,7 @@
       <h1>فونت فارسی وزیر
         <span class="version">نسخه ۲۶</span>
       </h1>
-      <div class="description">فونتی برای استفاده در صفحات وب، رابط کاربری برنامه‌ها و ...</div>
+      <div class="description">فونتی برای استفاده در صفحات وب، رابط کاربری برنامه‌ها و ... با پشتیبانی از زبان‌های فارسی، عربی، اردو و پشتو</div>
       <div class="get">
         <a href="https://github.com/rastikerdar/vazir-font/releases/download/v26.0.0/vazir-font-v26.0.0.zip" class="download">دانلود بسته کامل</a>
         <a href="https://github.com/rastikerdar/vazir-font" class="github">GitHub</a>
@@ -296,11 +304,14 @@
           <option value="Bold">ضخیم</option>
           <option value="Black">سیاه</option>
         </select>
-        <a id="singlefiledownload" href="https://cdn.jsdelivr.net/npm/vazir-font@v26.0.0/dist/Vazir.ttf">Vazir.ttf</a>
+        <a id="singlefiledownload" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v26.0.0/dist/Vazir.ttf">Vazir.ttf</a>
       </div>
       <div class="info">
         <div>آخرین نسخه:
           <span dir="ltr" class="last-version">26.0.0</span>
+        </div>
+        <div>
+          <a class="help" href="https://github.com/rastikerdar/vazir-font/blob/master/HELP.md" target="_blank">راهنمای فونت وزیر</a>
         </div>
         <div>برای حروف لاتین از گلیف‌های قلم Roboto استفاده شده است.</div>
         <div>برای دریافت نسخه‌های قدیمی‌تر به
@@ -410,7 +421,7 @@
       var filename = font + (weight != "Regular" ? "-"+weight : '') +".ttf";
       var singlefiledownloadEl = document.getElementById("singlefiledownload");
       singlefiledownloadEl.text = filename;
-      singlefiledownloadEl.href = "https://cdn.jsdelivr.net/npm/"+font.toLowerCase()+"-font@"+version+"/dist/"+filename;
+      singlefiledownloadEl.href = "https://cdn.jsdelivr.net/gh/rastikerdar/"+font.toLowerCase()+"-font@"+version+"/dist/"+filename;
     }
 
     function formatNumber(x) {
