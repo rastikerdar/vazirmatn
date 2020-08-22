@@ -4,6 +4,7 @@ A Persian (Farsi) Font
 [![Build Status](https://travis-ci.org/rastikerdar/vazir-font.svg?branch=master)](https://travis-ci.org/rastikerdar/vazir-font)
 [![npm version](https://badge.fury.io/js/vazir-font.svg)](https://badge.fury.io/js/vazir-font)
 
+<div dir='rtl'>
 
 فونت فارسی وزیر  
 [نمایش فونت - صفحه رسمی پروژه](https://rastikerdar.github.io/vazir-font/)  
@@ -19,10 +20,11 @@ A Persian (Farsi) Font
 
 ## طریقه استفاده در صفحات وب:
 
+</div>
+
 <p dir="rtl">
 کد زیر را در قسمت style یا فایل css وارد نمایید:
 </p>
-
 
 ```css
 @font-face {
