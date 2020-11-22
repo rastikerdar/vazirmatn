@@ -1,11 +1,12 @@
 @font-face {
   font-family: Vazir WOL;
-  src: url('Vazir-WOL.eot');
-  src: url('Vazir-WOL.eot?#iefix') format('embedded-opentype'),
-       url('Vazir-WOL.woff2') format('woff2'),
-       url('Vazir-WOL.woff') format('woff'),
-       url('Vazir-WOL.ttf') format('truetype');
+  src: url('Vazir-Regular-WOL.eot');
+  src: url('Vazir-Regular-WOL.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Regular-WOL.woff2') format('woff2'),
+       url('Vazir-Regular-WOL.woff') format('woff'),
+       url('Vazir-Regular-WOL.ttf') format('truetype');
   font-weight: normal;
+  font-display:swap;
 }
 
 @font-face {
@@ -16,6 +17,7 @@
        url('Vazir-Bold-WOL.woff') format('woff'),
        url('Vazir-Bold-WOL.ttf') format('truetype');
   font-weight: bold;
+  font-display:swap;
 }
 
 @font-face {
@@ -26,6 +28,7 @@
        url('Vazir-Thin-WOL.woff') format('woff'),
        url('Vazir-Thin-WOL.ttf') format('truetype');
   font-weight: 100;
+  font-display:swap;
 }
 
 @font-face {
@@ -36,6 +39,7 @@
        url('Vazir-Light-WOL.woff') format('woff'),
        url('Vazir-Light-WOL.ttf') format('truetype');
   font-weight: 300;
+  font-display:swap;
 }
 
 @font-face {
@@ -46,6 +50,7 @@
        url('Vazir-Medium-WOL.woff') format('woff'),
        url('Vazir-Medium-WOL.ttf') format('truetype');
   font-weight: 500;
+  font-display:swap;
 }
 
 @font-face {
@@ -56,4 +61,5 @@
        url('Vazir-Black-WOL.woff') format('woff'),
        url('Vazir-Black-WOL.ttf') format('truetype');
   font-weight: 900;
+  font-display:swap;
 }

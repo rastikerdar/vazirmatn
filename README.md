@@ -1,7 +1,7 @@
-# Vazir-Font
-A Persian (Farsi) Font
+# Vazir Font
 
-[![Build Status](https://travis-ci.org/rastikerdar/vazir-font.svg?branch=master)](https://travis-ci.org/rastikerdar/vazir-font)
+Vazir is a Persian/Arabic Font.
+
 [![npm version](https://badge.fury.io/js/vazir-font.svg)](https://badge.fury.io/js/vazir-font)
 
 <div dir='rtl'>
@@ -13,27 +13,29 @@ A Persian (Farsi) Font
 با تشکر از برنامه [FontForge](https://fontforge.github.io)  
 بر مبنای فونت [DejaVu Sans 2.35](https://dejavu-fonts.github.io)  
 نسخه‌های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.  
-فرآیند تولید بسته نهایی شامل انواع نسخه‌ها و فرمت‌ها توسط ابزار [fontbuilder](https://github.com/rastikerdar/fontbuilder) انجام می‌شود.
 
-## نمونه متن Sample:
+## توجه
+
+از نسخه ۲۷ نام فایل نسخه معمولی وزیر از Vazir به Vazir-Regular تغییر یافته است. لطفا پیش از نصب برای جلوگیری از تداخل، نسخه‌های قبل را حذف نمایید.
+
+## نمونه متن Sample
+
 ![نمونه متن فونت وزیر](./sample.png)
 
-## طریقه استفاده در صفحات وب:
+## طریقه استفاده در صفحات وب
+
+کد زیر را در قسمت style یا فایل css وارد نمایید:
 
 </div>
-
-<p dir="rtl">
-کد زیر را در قسمت style یا فایل css وارد نمایید:
-</p>
 
 ```css
 @font-face {
     font-family: Vazir;
-    src: url('Vazir.eot');
-    src: url('Vazir.eot?#iefix') format('embedded-opentype'),
-         url('Vazir.woff2') format('woff2'),
-         url('Vazir.woff') format('woff'),
-         url('Vazir.ttf') format('truetype');
+    src: url('Vazir-Regular.eot');
+    src: url('Vazir-Regular.eot?#iefix') format('embedded-opentype'),
+         url('Vazir-Regular.woff2') format('woff2'),
+         url('Vazir-Regular.woff') format('woff'),
+         url('Vazir-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -91,29 +93,33 @@ A Persian (Farsi) Font
 
 ## Install
 
-#### Download
+### Download
+
 Grab the [latest release](https://github.com/rastikerdar/vazir-font/releases/latest) file.
 
-#### npm
+### npm
+
 ```
 npm install vazir-font
 ```
 Fonts will be copied to `node_modules/vazir-font/dist` directory
 
-#### CDN
+### CDN
+
 Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-Replace [X.Y.Z] with the latest version (e.g. 26.0.2) and integrate the font into your CSS:
+Replace [X.Y.Z] with the latest version (e.g. 27.0.0) and integrate the font into your CSS:
 
 ```
 font-family: 'Vazir', sans-serif;
 ```
 
-#### Arch Linux
+### Arch Linux
+
 Arch user's could use [vazir-fonts](https://aur.archlinux.org/packages/vazir-fonts/) package from [AUR](https://aur.archlinux.org/) repository to install vazir font.
 Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
 
@@ -121,7 +127,8 @@ Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers
 pacaur -S vazir-fonts
 ```
 
-#### GNU/Linux
+### GNU/Linux
+
 gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install vazir font.
 
 ```
@@ -130,5 +137,10 @@ or
 kateb update vazir
 ```
 
+## Build instrunctions
+
+Light, Medium and Bold versions are created with interpolation method by [fontmake](https://github.com/googlefonts/fontmake) library. See the [README.md](/scripts/README.md) file in folder `scripts`. All build steps (generating outputs) are done by scripts.
+
 ## License
-2015 Saber Rastikerdar ([@rastikerdar](https://github.com/rastikerdar)). See the `LICENSE` file.
+
+2015 Saber Rastikerdar ([@rastikerdar](https://github.com/rastikerdar)). See [OFL.txt](OFL.txt).
