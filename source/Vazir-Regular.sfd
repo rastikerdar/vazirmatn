@@ -4,7 +4,7 @@ FullName: Vazir Regular
 FamilyName: Vazir
 Weight: Regular
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 27.0.0
+Version: 27.0.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1606004553
+ModificationTime: 1606068474
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "" "" "Version 27.0.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Regular"
+LangName: 1033 "" "" "" "" "" "Version 27.0.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Regular"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -188,7 +188,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 25 25 13
+WinInfo: 150 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -197,7 +197,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mkmk' Mark to Mark in Arabic lookup 12 subtable" "Anchor-1" "'mkmk' Mark to Mark in Arabic lookup 11 subtable" "Anchor-2"""  "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor-6" "'mark' Mark Positioning lookup 10 subtable" "Anchor-7" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8"""  "Anchor-9" "'mark' Mark Positioning lookup 8 subtable" "Anchor-10" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"""  "Anchor-12"""  "Anchor-13"""  "Anchor-14"""  "Anchor-15"""  "Anchor-16"""  "Anchor-17"""  "Anchor-18"""  "Anchor-19""" 
-BeginChars: 65635 467
+BeginChars: 65635 466
 
 StartChar: space
 Encoding: 32 32 0
@@ -3412,7 +3412,7 @@ GlifName: uniF_E_87
 Width: 465
 VWidth: 2703
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 AnchorPoint: "Anchor-10" 235 1534 basechar 0
 AnchorPoint: "Anchor-7" 247 -659 basechar 0
 LayerCount: 2
@@ -9365,7 +9365,7 @@ AnchorPoint: "Anchor-10" 409 1315 basechar 0
 AnchorPoint: "Anchor-7" 416 -630 basechar 0
 LayerCount: 2
 Fore
-Refer: 466 1627 S 1 0 0 1 -152 -544 2
+Refer: 465 1627 S 1 0 0 1 -152 -544 2
 Refer: 43 1608 N 1 0 0 1 0 0 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBE3
 EndChar
@@ -9380,7 +9380,7 @@ AnchorPoint: "Anchor-10" 409 1315 basechar 0
 AnchorPoint: "Anchor-7" 416 -620 basechar 0
 LayerCount: 2
 Fore
-Refer: 466 1627 S 1 0 0 1 -152 -544 2
+Refer: 465 1627 S 1 0 0 1 -152 -544 2
 Refer: 249 65262 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9510,7 +9510,7 @@ AnchorPoint: "Anchor-7" 717 -676 basechar 0
 AnchorPoint: "Anchor-10" 651 1167 basechar 0
 LayerCount: 2
 Fore
-Refer: 466 1627 S 1 0 0 1 81.358 -698 2
+Refer: 465 1627 S 1 0 0 1 81.358 -698 2
 Refer: 44 1609 N 1 0 0 1 0 0 2
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni063D.init
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni063D.medi
@@ -9541,7 +9541,7 @@ Width: 1437
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 466 1627 S 1 0 0 1 52 -908 2
+Refer: 465 1627 S 1 0 0 1 52 -908 2
 Refer: 321 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9552,7 +9552,7 @@ Width: 1559
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 466 1627 S 1 0 0 1 52 -908 2
+Refer: 465 1627 S 1 0 0 1 52 -908 2
 Refer: 251 65264 N 1 0 0 1 0 0 2
 Substitution2: "Single Substitution 0 subtable" uni063D.fina.compact
 EndChar
@@ -9565,7 +9565,7 @@ VWidth: 2703
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 466 1627 S 1 0 0 1 -236 -522 2
+Refer: 465 1627 S 1 0 0 1 -236 -522 2
 Refer: 122 64510 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9577,7 +9577,7 @@ VWidth: 2703
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 466 1627 S 1 0 0 1 -236 -562 2
+Refer: 465 1627 S 1 0 0 1 -236 -562 2
 Refer: 123 64511 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9623,24 +9623,8 @@ Refer: 266 -1 N 1 0 0 1 233 1451 2
 Refer: 231 65244 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uniFE75
-Encoding: 65141 65141 465
-GlifName: uniF_E_75
-Width: 592
-VWidth: 2703
-Flags: HW
-AnchorPoint: "Anchor-7" 321 -654 basechar 0
-AnchorPoint: "Anchor-10" 303 1021 basechar 0
-LayerCount: 2
-Fore
-Refer: 35 1600 N 1 0 0 1 306 0 2
-Refer: 35 1600 N 1 0 0 1 0 0 2
-Refer: 48 1613 S 1 0 0 1 -268 -192 2
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0640 uni064D
-EndChar
-
 StartChar: uni065B
-Encoding: 1627 1627 466
+Encoding: 1627 1627 465
 Width: 0
 VWidth: 2316
 Flags: HW
