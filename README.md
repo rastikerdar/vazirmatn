@@ -1,6 +1,6 @@
 # Vazir Font
 
-Vazir is a Persian/Arabic Font.
+Vazir is a Persian/Arabic font.
 
 [![npm version](https://badge.fury.io/js/vazir-font.svg)](https://badge.fury.io/js/vazir-font)
 
@@ -12,7 +12,7 @@ Vazir is a Persian/Arabic Font.
 [صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/vazir-font/releases)  
 با تشکر از برنامه [FontForge](https://fontforge.github.io)  
 بر مبنای فونت [DejaVu Sans 2.35](https://dejavu-fonts.github.io)  
-نسخه‌های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.  
+نسخه‌های بدون حروف لاتین یا تمام ارقام فارسی و همچنین نسخه UI با ارتفاع کم درون بستهٔ فشرده موجود می‌باشد.  
 
 ## توجه
 
