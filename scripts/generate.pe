@@ -1,0 +1,5 @@
+# FontForge Script
+# http://fontforge.org/scripting.html
+
+Open($1); 
+Generate($2)

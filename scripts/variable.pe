@@ -1,0 +1,9 @@
+# FontForge Script
+# http://fontforge.org/scripting.html
+
+Open($1); 
+SetFontNames("Vazir-Variable", "Vazir Variable", "Vazir Variable"); 
+SetTTFName(0x409, 2, "Regular")
+SetTTFName(0x409, 3, "Vazir Variable Font")
+SetTTFName(0x409, 16, "Vazir Variable")
+Generate($2)

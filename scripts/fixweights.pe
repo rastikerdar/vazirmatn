@@ -1,0 +1,25 @@
+# FontForge Script
+# http://fontforge.org/scripting.html
+
+Open($1+"/Vazir-Bold.ttf"); 
+SetFontNames("Vazir-Bold", "Vazir", "Vazir Bold", "Bold"); 
+SetOS2Value("Weight", 700)
+SetTTFName(0x409, 2, "Bold")
+#SetTTFName(0x409, 3, "Sahel Variable Font")
+#SetTTFName(0x409, 16, "Sahel VF")
+Generate($1+"/Vazir-Bold.ttf")
+Close()
+
+Open($1+"/Vazir-Medium.ttf"); 
+SetFontNames("Vazir-Medium", "Vazir Medium", "Vazir Medium", "Medium"); 
+SetOS2Value("Weight", 500)
+SetTTFName(0x409, 2, "Medium")
+Generate($1+"/Vazir-Medium.ttf")
+Close()
+
+Open($1+"/Vazir-Light.ttf"); 
+SetFontNames("Vazir-Light", "Vazir Light", "Vazir Light", "Light"); 
+SetOS2Value("Weight", 300)
+SetTTFName(0x409, 2, "Light")
+Generate($1+"/Vazir-Light.ttf")
+Close()
