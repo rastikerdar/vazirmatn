@@ -137,7 +137,7 @@ or
 kateb update vazir
 ```
 
-## Build instrunctions
+## Build instructions
 
 Light, Medium and Bold versions are created with interpolation method by [fontmake](https://github.com/googlefonts/fontmake) library. See the [README.md](/scripts/README.md) file in folder `scripts`. All build steps (generating outputs) are done by scripts.
 
