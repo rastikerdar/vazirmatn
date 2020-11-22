@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
   <meta name="description" content="فونت فارسی وزیر از نوع سانس سریف">
   <meta name="keywords" content="فونت,فارسی,وزیر,سانس سریف,font,farsi,Vazir,sans-serif">
-  <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v26.0.2/dist/font-face.css">
+  <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v27.0.0/dist/font-face.css">
   <style>
     * {
       margin: 0;
@@ -286,17 +286,17 @@
 <body contenteditable="false">
   <div class="main">
     <header>
-      <h1>فونت فارسی وزیر
-        <span class="version">نسخه ۲۶</span>
+      <h1>فونت وزیر
+        <span class="version">نسخه ۲۷</span>
       </h1>
       <div class="description">فونتی برای استفاده در صفحات وب، رابط کاربری برنامه‌ها و ... با پشتیبانی از زبان‌های فارسی، عربی، کردی، اردو و پشتو</div>
       <div class="get">
-        <a href="https://github.com/rastikerdar/vazir-font/releases/download/v26.0.2/vazir-font-v26.0.2.zip" class="download">دانلود بسته کامل</a>
+        <a href="https://github.com/rastikerdar/vazir-font/releases/download/v27.0.0/vazir-font-v27.0.0.zip" class="download">دانلود بسته کامل</a>
         <a href="https://github.com/rastikerdar/vazir-font" class="github">GitHub</a>
       </div>
       <div class="singlefile">
         دانلود فایل نسخه
-        <select onchange="setSingleFileDownload(this.value, 'Vazir', 'v26.0.2')">
+        <select onchange="setSingleFileDownload(this.value, 'Vazir', 'v27.0.0')">
           <option value="Thin">نازک</option>
           <option value="Light">سبک</option>
           <option value="Regular" selected="selected">معمولی</option>
@@ -304,11 +304,11 @@
           <option value="Bold">ضخیم</option>
           <option value="Black">سیاه</option>
         </select>
-        <a id="singlefiledownload" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v26.0.2/dist/Vazir.ttf">Vazir.ttf</a>
+        <a id="singlefiledownload" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v27.0.0/dist/Vazir-Regular.ttf">Vazir-Regular.ttf</a>
       </div>
       <div class="info">
         <div>آخرین نسخه:
-          <span dir="ltr" class="last-version">26.0.2</span>
+          <span dir="ltr" class="last-version">27.0.0</span>
         </div>
         <div>
           <a class="help" href="https://github.com/rastikerdar/vazir-font/blob/master/HELP.md" target="_blank">راهنمای فونت وزیر</a>
@@ -320,7 +320,7 @@
         <div>
           <a href="compare.html" target="_blank">صفحه مقایسه</a> نسخه‌های مختلف وزیر
         </div>
-        <div>مجوز: Public Domain</div>
+        <div>مجوز: OFL</div>
         <div>معنی وزیر (دهخدا): معاون، مددکار</div>
         <div>صفحه
           <a href="test.html" target="_blank" style="font-size: 1.2rem;">تست</a> فونت
@@ -349,6 +349,7 @@
         <div>برای مقایسه قلم‌های فارسی به
           <a href="http://rastikerdar.github.io/compare-fonts/" target="_blank">این صفحه </a> مراجعه نمایید.</div>
         <div class="infobox">نسخه‌های شامل حروف لاتین Roboto، بدون حروف لاتین و تمام ارقام فارسی در بسته فشرده (zip) فونت موجود می‌باشد.</div>
+        <div class="infobox">نسخه UI با ارتفاع کم نیز در بسته فشرده (zip) فونت موجود می‌باشد.</div>
         <div class="infobox">در صورتی که سری نخست فونت وزیر را بیشتر می‌پسندید به صفحه «<a href="https://rastikerdar.github.io/nahid-font/" target="_blank">فونت ناهید</a>» سر بزنید.</div>
         <div>
           <a href="http://rastikerdar.github.io/getting-started-with-fontforge/" target="_blank">آموزش</a> برنامه ویرایش قلم
@@ -401,8 +402,8 @@
     <div class="clear"></div>
   </div>
   <footer>
-    <p>این فونت باز طراحی فونت
-      <a href="https://dejavu-fonts.github.io/">DejaVu 2.35</a> می‌باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می‌توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.
+    <p>اولین نسخهٔ این فونت بر مبنای فونت
+      <a href="https://dejavu-fonts.github.io/">DejaVu 2.35</a>  ساخته شد. توضیحات مربوط به فونت اصلی و مجوز آن را می‌توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.
     </p>
     صفحه وبلاگ برای ثبت دیدگاه پیرامون فونت وزیر:
     <a href="http://rastikerdar.blog.ir/post/16" target="_blank">rastikerdar.blog.ir</a>
@@ -418,7 +419,7 @@
     var donations = null;
 
     function setSingleFileDownload(weight, font, version) {
-      var filename = font + (weight != "Regular" ? "-"+weight : '') +".ttf";
+      var filename = font + "-" + weight +".ttf";
       var singlefiledownloadEl = document.getElementById("singlefiledownload");
       singlefiledownloadEl.text = filename;
       singlefiledownloadEl.href = "https://cdn.jsdelivr.net/gh/rastikerdar/"+font.toLowerCase()+"-font@"+version+"/dist/"+filename;
