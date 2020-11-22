@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>فونت فارسی وزیر - صفحه رسمی پروژه</title>
+  <title>فونت فارسی/عربی وزیر - صفحه رسمی پروژه</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
   <meta name="description" content="فونت فارسی وزیر از نوع سانس سریف">
@@ -289,7 +289,7 @@
       <h1>فونت وزیر
         <span class="version">نسخه ۲۷</span>
       </h1>
-      <div class="description">فونتی برای استفاده در صفحات وب، رابط کاربری برنامه‌ها و ... با پشتیبانی از زبان‌های فارسی، عربی، کردی، اردو و پشتو</div>
+      <div class="description">فونت آزاد فارسی/عربی وزیر</div>
       <div class="get">
         <a href="https://github.com/rastikerdar/vazir-font/releases/download/v27.0.1/vazir-font-v27.0.1.zip" class="download">دانلود بسته کامل</a>
         <a href="https://github.com/rastikerdar/vazir-font" class="github">GitHub</a>
@@ -297,12 +297,18 @@
       <div class="singlefile">
         دانلود فایل نسخه
         <select onchange="setSingleFileDownload(this.value, 'Vazir', 'v27.0.1')">
-          <option value="Thin">نازک</option>
-          <option value="Light">سبک</option>
-          <option value="Regular" selected="selected">معمولی</option>
-          <option value="Medium">متوسط</option>
-          <option value="Bold">ضخیم</option>
-          <option value="Black">سیاه</option>
+          <option value="Vazir-Thin.ttf">نازک</option>
+          <option value="Vazir-Light.ttf">سبک</option>
+          <option value="Vazir-Regular.ttf" selected="selected">معمولی</option>
+          <option value="Vazir-Medium.ttf">متوسط</option>
+          <option value="Vazir-Bold.ttf">ضخیم</option>
+          <option value="Vazir-Black.ttf">سیاه</option>
+          <option value="UI/Vazir-Thin-UI.ttf">نازک UI</option>
+          <option value="UI/Vazir-Light-UI.ttf">سبک UI</option>
+          <option value="UI/Vazir-Regular-UI.ttf">معمولی UI</option>
+          <option value="UI/Vazir-Medium-UI.ttf">متوسط UI</option>
+          <option value="UI/Vazir-Bold-UI.ttf">ضخیم UI</option>
+          <option value="UI/Vazir-Black-UI.ttf">سیاه UI</option>
         </select>
         <a id="singlefiledownload" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v27.0.1/dist/Vazir-Regular.ttf">Vazir-Regular.ttf</a>
       </div>
@@ -418,11 +424,10 @@
   <script>
     var donations = null;
 
-    function setSingleFileDownload(weight, font, version) {
-      var filename = font + "-" + weight +".ttf";
+    function setSingleFileDownload(filepath, font, version) {
       var singlefiledownloadEl = document.getElementById("singlefiledownload");
-      singlefiledownloadEl.text = filename;
-      singlefiledownloadEl.href = "https://cdn.jsdelivr.net/gh/rastikerdar/"+font.toLowerCase()+"-font@"+version+"/dist/"+filename;
+      singlefiledownloadEl.text = filepath.split('/').slice(-1)[0];
+      singlefiledownloadEl.href = "https://cdn.jsdelivr.net/gh/rastikerdar/"+font.toLowerCase()+"-font@"+version+"/dist/"+filepath;
     }
 
     function formatNumber(x) {
