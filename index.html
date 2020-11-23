@@ -1,515 +1,678 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <title>فونت فارسی/عربی وزیر - صفحه رسمی پروژه</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
-  <meta name="description" content="فونت فارسی وزیر از نوع سانس سریف">
-  <meta name="keywords" content="فونت,فارسی,وزیر,سانس سریف,font,farsi,Vazir,sans-serif">
-  <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v27.0.1/dist/font-face.css">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
-    p {
-      margin-bottom: 10px;
-    }
-
-    a {
-      text-decoration: none;
-      color: #367100;
-    }
-
-    li {
-      list-style-type: none;
-    }
-
-    body {
-      background-color: #f7f8f9;
-      color: #000;
-      font-size: 14px;
-      direction: rtl;
-      line-height: 1.7;
-      font-family: Vazir, Tahoma, "DejaVu Sans", helvetica, arial, freesans, sans-serif;
-    }
-
-    .main {
-      padding: 50px;
-      margin: 20px auto;
-      max-width: 1000px;
-    }
-
-    header,
-    .sample,
-    footer {
-      border: 1px solid rgba(0, 0, 0, 0.08);
-      border-radius: 5px;
-      margin: 20px auto;
-      padding: 20px;
-    }
-
-    .sample {
-      background-color: #fff;
-      color: #4a4a4a;
-      float: left;
-      font-size: 14px;
-      text-align: center;
-      width: 50%;
-    }
-
-    header {
-      text-align: center;
-      color: #222;
-      border: none;
-      float: right;
-      width: 50%;
-    }
-
-    header .get {
-      margin: 20px 0;
-      font-size: 1.5em;
-    }
-
-    header .get a {
-      display: inline-block;
-      border-bottom: 1px solid #d5d5d5;
-      color: #007fba;
-      margin: 0 5px;
-    }
-
-    header .info {
-      color: #999;
-      font-size: 12px;
-    }
-
-    header .other-fonts {
-      background-color: #eee;
-      border: 1px solid #c4c4c4;
-      font-size: 15px;
-      margin: 5px 0;
-      padding: 10px 0;
-    }
-
-    header .version {
-      position: absolute;
-      left: 0;
-      top: -5px;
-      color: #999;
-      font-size: 12px;
-      direction: ltr;
-    }
-
-    header .notice {
-      color: #B40000;
-      font-size: 13px;
-    }
-
-    header > h1 {
-      color: #343434;
-      display: inline-block;
-      position: relative;
-    }
-
-    header .weights {
-      color: #2e3436;
-      font-size: 12px;
-      background-color: #ffffff;
-      padding: 10px;
-      margin: 10px 0;
-      border-radius: 5px;
-      border: 1px solid #DEDEDE;
-      line-height: 1.7
-    }
-
-    header .weights h1,
-    header .weights h2,
-    header .weights h3,
-    header .weights h4,
-    header .weights h5,
-    header .weights h6 {
-      margin-bottom: 10px;
-    }
-
-    header .weights {
-      font-size: 15px;
-    }
-
-    header .last-version {
-      color: #343434;
-      font-size: 1.3rem;
-      font-weight: bold;
-    }
-
-    .infobox {
-      background-color: #f4f7ff;
-      border: 1px solid #e2e2e2;
-      border-radius: 5px;
-      color: #284559;
-      font-weight: 700;
-      line-height: 2;
-      margin: 15px auto;
-      max-width: 600px;
-      padding: 5px;
-      text-align: center;
-      font-size: 15px;
-    }
-
-    .payment {
-      border: 1px solid #dfdfdf;
-      display: inline-block;
-      padding: 5px 10px;
-      box-shadow: 0 0 5px #e9e9e9;
-      border-radius: 20px;
-    }
-
-    .sort a {
-      display: inline-block;
-      min-width: 3em;
-    }
-
-    .sort a.selected {
-      border-bottom: 1px dotted #bbb;
-    }
-
-    .donors li {
-      display: inline-block;
-      margin: 0 0 5px;
-      min-height: 100px;
-      text-align: center;
-      vertical-align: top;
-      width: 65px;
-      font-size: 13px;
-    }
-
-    .donors li .name {
-      margin-top: 3px;
-      display: block;
-      line-height: 1.3;
-    }
-
-    .donors li .amount {
-      font-size: 0.85em;
-      color: #aaa;
-    }
-
-    .donors li .gifticon {
-      display: block;
-      height: 50px;
-      padding-top: 20px;
-      text-align: center;
-      width: 100%;
-    }
-
-    .donors li img {
-      width: 50px;
-      border-radius: 50%;
-    }
-
-    footer {
-      background-color: #515254;
-      border-radius: 0;
-      color: #eee;
-      margin: 0;
-      max-width: 100%;
-      text-align: center;
-      clear: both;
-    }
-
-    footer a {
-      color: #D7DD77;
-      text-decoration: underline;
-    }
-
-    @media all and (max-width: 768px) {
-      header,
-      .sample,
-      footer {
-        padding: 50px 30px;
-        width: 100%;
+  <head>
+    <title>فونت فارسی/عربی وزیر - صفحه رسمی پروژه</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=yes"
+    />
+    <meta name="description" content="فونت فارسی وزیر از نوع سانس سریف" />
+    <meta
+      name="keywords"
+      content="فونت,فارسی,وزیر,سانس سریف,font,farsi,Vazir,sans-serif"
+    />
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v27.0.1/dist/font-face.css"
+    />
+    <style>
+      * {
         margin: 0;
-        border-radius: 0;
-      }
-    }
-
-    @media all and (max-width: 480px) {
-      .main {
         padding: 0;
-        margin: 0;
+        box-sizing: border-box;
       }
+
+      p {
+        margin-bottom: 10px;
+      }
+
+      a {
+        text-decoration: none;
+        color: #367100;
+      }
+
+      li {
+        list-style-type: none;
+      }
+
+      body {
+        background-color: #f7f8f9;
+        color: #000;
+        font-size: 14px;
+        direction: rtl;
+        line-height: 1.7;
+        font-family: Vazir, Tahoma, 'DejaVu Sans', helvetica, arial, freesans,
+          sans-serif;
+      }
+
+      .main {
+        padding: 50px;
+        margin: 20px auto;
+        max-width: 1000px;
+      }
+
       header,
       .sample,
       footer {
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        border-radius: 5px;
+        margin: 20px auto;
+        padding: 20px;
+      }
+
+      .sample {
+        background-color: #fff;
+        color: #4a4a4a;
+        float: left;
+        font-size: 14px;
+        text-align: center;
+        width: 50%;
+      }
+
+      header {
+        text-align: center;
+        color: #222;
         border: none;
-        padding: 50px 20px;
+        float: right;
+        width: 50%;
+      }
+
+      header .get {
+        margin: 20px 0;
+        font-size: 1.5em;
+      }
+
+      header .get a {
+        display: inline-block;
+        border-bottom: 1px solid #d5d5d5;
+        color: #007fba;
+        margin: 0 5px;
+      }
+
+      header .info {
+        color: #999;
+        font-size: 12px;
+      }
+
+      header .other-fonts {
+        background-color: #eee;
+        border: 1px solid #c4c4c4;
+        font-size: 15px;
+        margin: 5px 0;
+        padding: 10px 0;
+      }
+
+      header .version {
+        position: absolute;
+        left: 0;
+        top: -5px;
+        color: #999;
+        font-size: 12px;
+        direction: ltr;
+      }
+
+      header .notice {
+        color: #b40000;
+        font-size: 13px;
+      }
+
+      header > h1 {
+        color: #343434;
+        display: inline-block;
+        position: relative;
+      }
+
+      header .weights {
+        color: #2e3436;
+        font-size: 12px;
+        background-color: #ffffff;
+        padding: 10px;
+        margin: 10px 0;
+        border-radius: 5px;
+        border: 1px solid #dedede;
+        line-height: 1.7;
+      }
+
+      header .weights h1,
+      header .weights h2,
+      header .weights h3,
+      header .weights h4,
+      header .weights h5,
+      header .weights h6 {
+        margin-bottom: 10px;
+      }
+
+      header .weights {
+        font-size: 15px;
+      }
+
+      header .last-version {
+        color: #343434;
+        font-size: 1.3rem;
+        font-weight: bold;
+      }
+
+      .infobox {
+        background-color: #f4f7ff;
+        border: 1px solid #e2e2e2;
+        border-radius: 5px;
+        color: #284559;
+        font-weight: 700;
+        line-height: 2;
+        margin: 15px auto;
+        max-width: 600px;
+        padding: 5px;
+        text-align: center;
+        font-size: 15px;
+      }
+
+      .payment {
+        border: 1px solid #dfdfdf;
+        display: inline-block;
+        padding: 5px 10px;
+        box-shadow: 0 0 5px #e9e9e9;
+        border-radius: 20px;
+      }
+
+      .sort a {
+        display: inline-block;
+        min-width: 3em;
+      }
+
+      .sort a.selected {
+        border-bottom: 1px dotted #bbb;
+      }
+
+      .donors li {
+        display: inline-block;
+        margin: 0 0 5px;
+        min-height: 100px;
+        text-align: center;
+        vertical-align: top;
+        width: 65px;
+        font-size: 13px;
+      }
+
+      .donors li .name {
+        margin-top: 3px;
+        display: block;
+        line-height: 1.3;
+      }
+
+      .donors li .amount {
+        font-size: 0.85em;
+        color: #aaa;
+      }
+
+      .donors li .gifticon {
+        display: block;
+        height: 50px;
+        padding-top: 20px;
+        text-align: center;
         width: 100%;
-        border: none;
-        margin: 0;
+      }
+
+      .donors li img {
+        width: 50px;
+        border-radius: 50%;
+      }
+
+      footer {
+        background-color: #515254;
         border-radius: 0;
+        color: #eee;
+        margin: 0;
+        max-width: 100%;
+        text-align: center;
+        clear: both;
       }
-    }
 
-    .singlefile {
-      margin-bottom: 10px;
-    }
+      footer a {
+        color: #d7dd77;
+        text-decoration: underline;
+      }
 
-    .singlefile a {
-      display: inline-block;
-      border-bottom: 1px solid #d5d5d5;
-      color: #007fba;
-      margin: 5px 10px 0;
-      font-size: 1.3em;
-    }
+      @media all and (max-width: 768px) {
+        header,
+        .sample,
+        footer {
+          padding: 50px 30px;
+          width: 100%;
+          margin: 0;
+          border-radius: 0;
+        }
+      }
 
-    .singlefile select {
-      font-family: vazir;
-      min-width: 80px;
-    }
+      @media all and (max-width: 480px) {
+        .main {
+          padding: 0;
+          margin: 0;
+        }
+        header,
+        .sample,
+        footer {
+          border: none;
+          padding: 50px 20px;
+          width: 100%;
+          border: none;
+          margin: 0;
+          border-radius: 0;
+        }
+      }
 
-    .help {
-      display: inline-block;
-      color: #007fba;
-      margin: 5px 10px;
-      font-size: 1.7em;
-      border-bottom: 1px solid #d5d5d5;
-    }
+      .singlefile {
+        margin-bottom: 10px;
+      }
 
-    .clear {
-      clear: both;
-    }
-  </style>
-</head>
+      .singlefile a {
+        display: inline-block;
+        border-bottom: 1px solid #d5d5d5;
+        color: #007fba;
+        margin: 5px 10px 0;
+        font-size: 1.3em;
+      }
 
-<body contenteditable="false">
-  <div class="main">
-    <header>
-      <h1>فونت وزیر
-        <span class="version">نسخه ۲۷</span>
-      </h1>
-      <div class="description">فونت آزاد فارسی/عربی وزیر</div>
-      <div class="get">
-        <a href="https://github.com/rastikerdar/vazir-font/releases/download/v27.0.1/vazir-font-v27.0.1.zip" class="download">دانلود بسته کامل</a>
-        <a href="https://github.com/rastikerdar/vazir-font" class="github">GitHub</a>
-      </div>
-      <div class="singlefile">
-        دانلود فایل نسخه
-        <select onchange="setSingleFileDownload(this.value, 'Vazir', 'v27.0.1')">
-          <option value="Vazir-Thin.ttf">نازک</option>
-          <option value="Vazir-Light.ttf">سبک</option>
-          <option value="Vazir-Regular.ttf" selected="selected">معمولی</option>
-          <option value="Vazir-Medium.ttf">متوسط</option>
-          <option value="Vazir-Bold.ttf">ضخیم</option>
-          <option value="Vazir-Black.ttf">سیاه</option>
-          <option value="UI/Vazir-Thin-UI.ttf">نازک UI</option>
-          <option value="UI/Vazir-Light-UI.ttf">سبک UI</option>
-          <option value="UI/Vazir-Regular-UI.ttf">معمولی UI</option>
-          <option value="UI/Vazir-Medium-UI.ttf">متوسط UI</option>
-          <option value="UI/Vazir-Bold-UI.ttf">ضخیم UI</option>
-          <option value="UI/Vazir-Black-UI.ttf">سیاه UI</option>
-        </select>
-        <a id="singlefiledownload" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v27.0.1/dist/Vazir-Regular.ttf">Vazir-Regular.ttf</a>
-      </div>
-      <div class="info">
-        <div>آخرین نسخه:
-          <span dir="ltr" class="last-version">27.0.1</span>
+      .singlefile select {
+        font-family: vazir;
+        min-width: 80px;
+      }
+
+      .help {
+        display: inline-block;
+        color: #007fba;
+        margin: 5px 10px;
+        font-size: 1.7em;
+        border-bottom: 1px solid #d5d5d5;
+      }
+
+      .clear {
+        clear: both;
+      }
+    </style>
+  </head>
+
+  <body contenteditable="false">
+    <div class="main">
+      <header>
+        <h1>
+          فونت وزیر
+          <span class="version">نسخه ۲۷</span>
+        </h1>
+        <div class="description">فونت آزاد فارسی/عربی وزیر</div>
+        <div class="get">
+          <a
+            href="https://github.com/rastikerdar/vazir-font/releases/download/v27.0.1/vazir-font-v27.0.1.zip"
+            class="download"
+            >دانلود بسته کامل</a
+          >
+          <a href="https://github.com/rastikerdar/vazir-font" class="github"
+            >GitHub</a
+          >
         </div>
-        <div>
-          <a class="help" href="https://github.com/rastikerdar/vazir-font/blob/master/HELP.md" target="_blank">راهنمای فونت وزیر</a>
+        <div class="singlefile">
+          دانلود فایل نسخه
+          <select
+            onchange="setSingleFileDownload(this.value, 'Vazir', 'v27.0.1')"
+          >
+            <option value="Vazir-Thin.ttf">نازک</option>
+            <option value="Vazir-Light.ttf">سبک</option>
+            <option value="Vazir-Regular.ttf" selected="selected">
+              معمولی
+            </option>
+            <option value="Vazir-Medium.ttf">متوسط</option>
+            <option value="Vazir-Bold.ttf">ضخیم</option>
+            <option value="Vazir-Black.ttf">سیاه</option>
+            <option value="UI/Vazir-Thin-UI.ttf">نازک UI</option>
+            <option value="UI/Vazir-Light-UI.ttf">سبک UI</option>
+            <option value="UI/Vazir-Regular-UI.ttf">معمولی UI</option>
+            <option value="UI/Vazir-Medium-UI.ttf">متوسط UI</option>
+            <option value="UI/Vazir-Bold-UI.ttf">ضخیم UI</option>
+            <option value="UI/Vazir-Black-UI.ttf">سیاه UI</option>
+          </select>
+          <a
+            id="singlefiledownload"
+            href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v27.0.1/dist/Vazir-Regular.ttf"
+            >Vazir-Regular.ttf</a
+          >
         </div>
-        <div>برای حروف لاتین از گلیف‌های قلم Roboto استفاده شده است.</div>
-        <div>برای دریافت نسخه‌های قدیمی‌تر به
-          <a href="https://github.com/rastikerdar/vazir-font/releases" target="_blank">این صفحه</a> مراجعه نمایید.
-        </div>
-        <div>
-          <a href="compare.html" target="_blank">صفحه مقایسه</a> نسخه‌های مختلف وزیر
-        </div>
-        <div>مجوز: OFL</div>
-        <div>معنی وزیر (دهخدا): معاون، مددکار</div>
-        <div>صفحه
-          <a href="test.html" target="_blank" style="font-size: 1.2rem;">تست</a> فونت
-        </div>
-        <div>توصیه: همیشه اطمینان یابید که از آخرین نسخه فونت در حال استفاده می‌باشید.</div>
-        <div>توصیه: برای حالت ضخیم یا Bold حتما از فایل Vazir-Bold استفاده نمایید.</div>
-        <div>نکته: نسخه تمام اعداد فارسی در پوشه مجزا موجود می‌باشد.</div>
-        <div class="other-fonts">سایر قلم‌های آزاد:
-          <a href="http://rastikerdar.github.io/sahel-font/" target="_blank">ساحل</a>،
-          <a href="http://rastikerdar.github.io/parastoo-font/" target="_blank">پرستو</a>،
-          <a href="http://rastikerdar.github.io/samim-font/" target="_blank">صمیم</a>،
-          <a href="http://rastikerdar.github.io/tanha-font/" target="_blank">تنها</a>،
-          <a href="http://rastikerdar.github.io/gandom-font/" target="_blank">گندم</a>،
-          <a href="http://rastikerdar.github.io/shabnam-font/" target="_blank">شبنم</a>،
-          <br>
-          <a href="http://rastikerdar.github.io/vazir-code-font/" target="_blank">وزیرکد</a> (برای کدنویسی)
-          <br>
-          قلم‌های آزاد سایر طراحان:
-          <a href="http://libre.font-store.ir/NikaFont/" target="_blank">نیکا</a>،
-          <a href="https://aminabedi68.github.io/Estedad/" target="_blank">استعداد</a>،
-          <a href="https://pfont.github.io/" target="_blank">پی‌فونت</a>،
-<br>
-          <a href="https://github.com/IranOpenFontGroup/Discussions/wiki/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%81%D9%88%D9%86%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AC%D9%88%D8%B2-%D8%A2%D8%B2%D8%A7%D8%AF"
-            target="_blank">فهرست قلم‌های آزاد</a>
-        </div>
-        <div>برای مقایسه قلم‌های فارسی به
-          <a href="http://rastikerdar.github.io/compare-fonts/" target="_blank">این صفحه </a> مراجعه نمایید.</div>
-        <div class="infobox">نسخه‌های شامل حروف لاتین Roboto، بدون حروف لاتین و تمام ارقام فارسی در بسته فشرده (zip) فونت موجود می‌باشد.</div>
-        <div class="infobox">نسخه UI با ارتفاع کم نیز در بسته فشرده (zip) فونت موجود می‌باشد.</div>
-        <div class="infobox">در صورتی که سری نخست فونت وزیر را بیشتر می‌پسندید به صفحه «<a href="https://rastikerdar.github.io/nahid-font/" target="_blank">فونت ناهید</a>» سر بزنید.</div>
-        <div>
-          <a href="http://rastikerdar.github.io/getting-started-with-fontforge/" target="_blank">آموزش</a> برنامه ویرایش قلم
-          <a href="https://fontforge.github.io" target="_blank">فونت‌فورج</a> به زبان فارسی</div>
+        <div class="info">
+          <div>
+            آخرین نسخه:
+            <span dir="ltr" class="last-version">27.0.1</span>
+          </div>
+          <div>
+            <a
+              class="help"
+              href="https://github.com/rastikerdar/vazir-font/blob/master/HELP.md"
+              target="_blank"
+              >راهنمای فونت وزیر</a
+            >
+          </div>
+          <div>برای حروف لاتین از گلیف‌های قلم Roboto استفاده شده است.</div>
+          <div>
+            برای مشاهده فهرست تغییرات هر نسخه و یا دریافت نسخه‌های قدیمی‌تر به
+            <a
+              href="https://github.com/rastikerdar/vazir-font/releases"
+              target="_blank"
+              >این صفحه</a
+            >
+            مراجعه نمایید.
+          </div>
+          <div>مجوز: OFL</div>
+          <div>معنی وزیر (دهخدا): معاون، مددکار</div>
+          <div>
+            صفحه
+            <a href="test.html" target="_blank" style="font-size: 1.2rem"
+              >تست</a
+            >
+            فونت
+          </div>
+          <div>
+            توصیه: اطمینان یابید که از آخرین نسخه فونت در حال استفاده می‌باشید.
+          </div>
+          <div>
+            توصیه: برای حالت ضخیم یا Bold حتما از فایل Vazir-Bold استفاده
+            نمایید.
+          </div>
+          <div class="other-fonts">
+            سایر قلم‌های آزاد:
+            <a href="http://rastikerdar.github.io/sahel-font/" target="_blank"
+              >ساحل</a
+            >،
+            <a
+              href="http://rastikerdar.github.io/parastoo-font/"
+              target="_blank"
+              >پرستو</a
+            >،
+            <a href="http://rastikerdar.github.io/samim-font/" target="_blank"
+              >صمیم</a
+            >،
+            <a href="http://rastikerdar.github.io/tanha-font/" target="_blank"
+              >تنها</a
+            >،
+            <a href="http://rastikerdar.github.io/gandom-font/" target="_blank"
+              >گندم</a
+            >،
+            <a href="http://rastikerdar.github.io/shabnam-font/" target="_blank"
+              >شبنم</a
+            >،
+            <a href="http://rastikerdar.github.io/nahid-font/" target="_blank"
+              >ناهید</a
+            >،
+            <br />
+            <a
+              href="http://rastikerdar.github.io/vazir-code-font/"
+              target="_blank"
+              >وزیرکد</a
+            >
+            (برای کدنویسی)
+            <br />
+            قلم‌های آزاد سایر طراحان:
+            <a href="http://libre.font-store.ir/NikaFont/" target="_blank"
+              >نیکا</a
+            >،
+            <a href="https://aminabedi68.github.io/Estedad/" target="_blank"
+              >استعداد</a
+            >، <a href="https://pfont.github.io/" target="_blank">پی‌فونت</a>،
+            <br />
+            <a
+              href="https://github.com/IranOpenFontGroup/Discussions/wiki/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%81%D9%88%D9%86%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AC%D9%88%D8%B2-%D8%A2%D8%B2%D8%A7%D8%AF"
+              target="_blank"
+              >فهرست قلم‌های آزاد</a
+            >
+          </div>
+          <div class="infobox">
+            نسخه‌های شامل حروف لاتین Roboto، بدون حروف لاتین و تمام ارقام فارسی
+            در بسته فشرده (zip) فونت موجود می‌باشد.
+          </div>
+          <div class="infobox">
+            نسخه UI با ارتفاع کم نیز در بسته فشرده (zip) فونت موجود می‌باشد.
+          </div>
+          <div>
+            <a
+              href="http://rastikerdar.github.io/getting-started-with-fontforge/"
+              target="_blank"
+              >آموزش</a
+            >
+            برنامه ویرایش قلم
+            <a href="https://fontforge.github.io" target="_blank">فونت‌فورج</a>
+            به زبان فارسی
+          </div>
 
-      </div>
+          <div>
+            <a href="compare.html" target="_blank">صفحه مقایسه</a> نسخه‌های
+            مختلف وزیر
+          </div>
+          <div>
+            برای مقایسه قلم‌های فارسی/عربی به
+            <a
+              href="http://rastikerdar.github.io/compare-fonts/"
+              target="_blank"
+              >این صفحه
+            </a>
+            مراجعه نمایید.
+          </div>
+        </div>
 
-      <div class="weights">
-        <div style="font-weight: 900">ای نسیم سحر آرامگه یار کجاست</div>
-        <div style="font-weight: 700">ای نسیم سحر آرامگه یار کجاست</div>
-        <div style="font-weight: 500">ای نسیم سحر آرامگه یار کجاست</div>
-        <div style="font-weight: 400">ای نسیم سحر آرامگه یار کجاست</div>
-        <div style="font-weight: 300">ای نسیم سحر آرامگه یار کجاست</div>
-        <div style="font-weight: 100">ای نسیم سحر آرامگه یار کجاست</div>
-      </div>
-    </header>
+        <div class="weights">
+          <div style="font-weight: 900">ای نسیم سحر آرامگه یار کجاست</div>
+          <div style="font-weight: 700">ای نسیم سحر آرامگه یار کجاست</div>
+          <div style="font-weight: 500">ای نسیم سحر آرامگه یار کجاست</div>
+          <div style="font-weight: 400">ای نسیم سحر آرامگه یار کجاست</div>
+          <div style="font-weight: 300">ای نسیم سحر آرامگه یار کجاست</div>
+          <div style="font-weight: 100">ای نسیم سحر آرامگه یار کجاست</div>
+        </div>
+      </header>
 
-    <section class="sample test2">
-      <p>به هر طریقی که می‌‌اندیشید از جمله گزارش اشکالات، اصلاح قلم، پیشنهاد، انتقاد، معرفی به دیگران، ساخت قلم جدید از روی
-        آن و ... مشارکت نمایید مایه دلگرمیست.
-      </p>
-      <p>در صورتی که علاقه‌مندید مبلغی (بالای یک هزار تومان) هدیه فرمایید می‌توانید از طریق
-        <a href="https://www.payping.ir/saber">این صفحه</a> اقدام نمایید.
-        در نظر داشته باشید که توسعه قلم‌ها متوقف شده است و در آینده در حد رفع باگ‌های مهم به صورت جزئی خواهد بود. با این حال قلم‌ها برای هر گونه استفاده، تغییر، بازنشر و ... آزاد می‌باشند.
-      </p>
+      <section class="sample test2">
+        <p>
+          به هر طریقی که می‌‌اندیشید از جمله گزارش اشکالات، اصلاح قلم، پیشنهاد،
+          انتقاد، معرفی به دیگران، ساخت قلم جدید از روی آن و ... مشارکت نمایید
+          مایه دلگرمیست. قلم‌ها برای هر گونه استفاده، تغییر و بازنشر آزاد
+          می‌باشند.
+        </p>
+        <p>
+          در صورت تمایل می‌توانید مبلغی (بالای یک هزار تومان) را برای
+          فعالیت‌های صورت گرفته هدیه فرمایید.
+        </p>
+        <p>
+          <a class="payment" href="https://www.payping.ir/saber"
+            >پرداخت وجه ریالی</a
+          >
+          یا
+          <a
+            class="payment"
+            href="#"
+            onclick="document.getElementById('btc-address').style.display = document.getElementById('btc-address').style.display =='block' ? 'none' : 'block'; return false;"
+            >Donate Bitcoin</a
+          >
+          <br />
+          آدرس وب و ایمیل را نیز درج بفرمایید.
+        </p>
+        <div id="btc-address" style="display: none">
+          <a href="bitcoin:bc1q0e0s5my3cwv26k265hcfef28zk7sxd78vu3cdr"
+            ><img
+              src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJEAAACRCAYAAADD2FojAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADjUlEQVR4nO3dSW7FNhBF0TjI/rfsjAIEGnyGvixJDs4ZfzUwHsoFNuLX9/f39x8Q/Pn0C/D7CRGZEJEJEZkQkQkRmRCRCRGZEJEJEZkQkQkRmRCR/fXTC7++vk6+x9J1scH1+avFCLvvu7u4YXX/0/c7rSzmUInIhIhMiMh+3BNdnV4gudtjnO5JTqvvd/ffd4dKRCZEZEJEdqwnupoel1ldv3r+3T3X7rjWyt1/309UIjIhIhMisrGe6GnT40Kn5/KeHscqVCIyISITIrL/TU+06jFqD/L0+qI3U4nIhIhMiMjGeqK7/+fv9kCne6jaM033aJNUIjIhIhMismM90d37pJ6ee5oel1o9701UIjIhIhMish/3RG8ap/gvTo8bnX7+1W/6+6pEZEJEJkRkY98nqvu2Vj3E6Z6lzl3t9lR3jzNdnby/SkQmRGRCRDY2TnR3j7J7fe0JpseVTveUq98XKhGZEJEJEdnXT0+jPj3uc/p7O6d7iN3rT7/fypP73FQiMiEiEyKyY+NEd88NTa/vedsa6dPfjNy9/hOViEyIyISI7Nh6ored7TE9DrT6/e79r57eV7dDJSITIjIhIhvbiz89N7b7++n1T6v7Te9je5JKRCZEZEJENjZ3dvr66bm12jOdnotbzUWunO7BPlGJyISITIjIxtZYX919Ptj0muO7953tvs/p+3+iEpEJEZkQkd02TnT3OfWr61fPP71+5+4zaa+ME/FqQkQmRGTHxomm946/vWe6+3y1N50xqxKRCRGZEJE9dt7Z6b38u07vvX/6e0fTPdgnKhGZEJEJEdmxnmhlelzk9DjS6bmm6fVUT+5DU4nIhIhMiMhu64me3qu/e7/d97l7b309X+0klYhMiMiEiGzsvLPp+9W5oToXtXL6+0pXT/eQ/6YSkQkRmRCRHfuO9bTa01xNj+tMnz3yJioRmRCRCRHZsbmzu8/2WP2+9ky7959ef7TyZA+lEpEJEZkQkY2tJ5qe26nfld6938r0GvHTz/fNRl5FiMiEiOy2NdbTnh73mR6n2n3+6nn24vMqQkQmRGS/tieq33Scnls6PS5Tex77zng1ISITIrKxnujtPcf0Gujdb1Cu7l9Nrn9SiciEiEyIyG47A7Z625rmavqce2us+VWEiEyIyH7cE8E/VCIyISITIjIhIhMiMiEiEyIyISITIjIhIhMiMiEiEyIyISL7G2WcL0zsTMRlAAAAAElFTkSuQmCC"
+          /></a>
+          <br />
+          bc1q0e0s5my3cwv26k265hcfef28zk7sxd78vu3cdr
+        </div>
+        <br />
+        <b
+          >حمایت‌های مالی از سال ۱۳۹۴ تاکنون (جمعا
+          <span id="amount-sum"></span> تومان)</b
+        >
+        <br />
+        <div class="sort">
+          ترتیب نمایش بر مبنای:
+          <a id="sort-by-date" href="#" onclick="sortBy('date'); return false;"
+            >زمان</a
+          >
+          |
+          <a
+            id="sort-by-amount"
+            class="selected"
+            href="#"
+            onclick="sortBy('amount'); return false;"
+            >مبلغ</a
+          >
+        </div>
+        <br />
+        <ul id="donors" class="donors">
+          <li>در حال دریافت اطلاعات</li>
+        </ul>
+
+        <br />
+        <p>
+          جهت مشاهده یا تغییر اطلاعات این فهرست به
+          <a
+            href="https://github.com/rastikerdar/vazir-font/blob/gh-pages/donations.json"
+            target="_blank"
+            >این فایل</a
+          >
+          مراجعه نمایید.
+        </p>
+        <p>سپاس</p>
+      </section>
+      <div class="clear"></div>
+    </div>
+    <footer>
       <p>
-        <a class="payment" href="https://www.payping.ir/saber">پرداخت وجه</a>
-        <br>آدرس وب و ایمیل را نیز درج بفرمایید.</p>
+        اولین نسخهٔ این فونت بر مبنای فونت
+        <a href="https://dejavu-fonts.github.io/">DejaVu 2.35</a> که تحت مالکیت
+        عمومی منتشر شده بود ساخته شد. بعد از آن به صورت مستقل توسعه یافت.
+      </p>
+      صفحه وبلاگ برای ثبت دیدگاه پیرامون فونت وزیر:
+      <a href="http://rastikerdar.blog.ir/post/16" target="_blank"
+        >rastikerdar.blog.ir</a
+      >
+      <br />
+      توسط صابر راستی کردار <br />
+      saber.rastikerdar بر روی جی‌میل <br />
+      © 2015
+      <br />
+      <br />
+      سپاس از اعضای <a href="http://tehlug.org">تهلاگ</a> و همه کسانی که با
+      معرفی این قلم به دیگران، گزارش اشکالات آن و پیشنهاداتشان یاری رساندند.
+    </footer>
 
-      <br>
-      <b>حمایت‌های مالی از سال ۱۳۹۴ تاکنون (جمعا
-        <span id="amount-sum"></span> تومان)</b>
-      <br>
-      <div class="sort">
-        ترتیب نمایش بر مبنای:
-        <a id="sort-by-date" href="#" onclick="sortBy('date'); return false;">زمان</a>
-        |
-        <a id="sort-by-amount" class="selected" href="#" onclick="sortBy('amount'); return false;">مبلغ</a>
-      </div>
-      <br>
-      <ul id="donors" class="donors">
-        <li>در حال دریافت اطلاعات</li>
-      </ul>
+    <script>
+      var donations = null;
 
-      <br>
-      <p>جهت مشاهده یا تغییر اطلاعات این فهرست به
-        <a href="https://github.com/rastikerdar/vazir-font/blob/gh-pages/donations.json" target="_blank">این فایل</a> مراجعه نمایید.</p>
-      <p>سپاس</p>
-    </section>
-    <div class="clear"></div>
-  </div>
-  <footer>
-    <p>اولین نسخهٔ این فونت بر مبنای فونت
-      <a href="https://dejavu-fonts.github.io/">DejaVu 2.35</a> که تحت مالکیت عمومی منتشر شده بود ساخته شد. بعد از آن به صورت مستقل توسعه یافت.
-    </p>
-    صفحه وبلاگ برای ثبت دیدگاه پیرامون فونت وزیر:
-    <a href="http://rastikerdar.blog.ir/post/16" target="_blank">rastikerdar.blog.ir</a>
-    <br> توسط صابر راستی کردار
-    <br> saber.rastikerdar بر روی جی‌میل
-    <br> © 2015
-    <br>
-    <br> سپاس از اعضای
-    <a href="http://tehlug.org">تهلاگ</a> و همه کسانی که با معرفی این قلم به دیگران، گزارش اشکالات آن و پیشنهاداتشان یاری رساندند.
-  </footer>
-
-  <script>
-    var donations = null;
-
-    function setSingleFileDownload(filepath, font, version) {
-      var singlefiledownloadEl = document.getElementById("singlefiledownload");
-      singlefiledownloadEl.text = filepath.split('/').slice(-1)[0];
-      singlefiledownloadEl.href = "https://cdn.jsdelivr.net/gh/rastikerdar/"+font.toLowerCase()+"-font@"+version+"/dist/"+filepath;
-    }
-
-    function formatNumber(x) {
-      return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, "٬");
-    }
-
-    function convertNumberToPersian(x) {
-      var nums = { 0: '۰', 1: '۱', 2: '۲', 3: '۳', 4: '۴', 5: '۵', 6: '۶', 7: '۷', 8: '۸', 9: '۹' };
-      return x.toString().replace(/[0-9]/gi, function (m) { return nums[m] });
-    }
-
-    function createNodes(donations) {
-      var html = "";
-      var amountSum = 0
-
-      for (var i = 0; i < donations.length; i++) {
-        var dnt = donations[i];
-        li = "<li title='" + dnt.date.split(' ')[0] + "'>";
-        if (dnt.web) {
-          li += '<a href="' + dnt.web + '" target="_blank">';
-        }
-        if (!dnt.img) {
-          dnt.img = "https://s.gravatar.com/avatar/" + i + "?noemail&s=50&d=wavatar";
-        }
-        li += '<img src="' + dnt.img + '">';
-        li += '<span class="name">' + dnt.name + '</span>';
-        li += '<span class="amount">' + convertNumberToPersian(formatNumber(dnt.amount)) + '</span>';
-        if (dnt.web) {
-          li += '</a>';
-        }
-        li += '</li>';
-        html += li;
-        amountSum += dnt["amount"]
+      function setSingleFileDownload(filepath, font, version) {
+        var singlefiledownloadEl = document.getElementById(
+          'singlefiledownload',
+        );
+        singlefiledownloadEl.text = filepath.split('/').slice(-1)[0];
+        singlefiledownloadEl.href =
+          'https://cdn.jsdelivr.net/gh/rastikerdar/' +
+          font.toLowerCase() +
+          '-font@' +
+          version +
+          '/dist/' +
+          filepath;
       }
-      document.getElementById("donors").innerHTML = html;
-      document.getElementById("amount-sum").innerHTML = convertNumberToPersian(formatNumber(amountSum));
-    }
 
-    function loadDoc() {
-      var xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function () {
-        if (this.readyState == 4 && this.status == 200) {
-          donations = JSON.parse(this.responseText);
-          createNodes(donations);
-          sortBy('amount');
+      function formatNumber(x) {
+        return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, '٬');
+      }
+
+      function convertNumberToPersian(x) {
+        var nums = {
+          0: '۰',
+          1: '۱',
+          2: '۲',
+          3: '۳',
+          4: '۴',
+          5: '۵',
+          6: '۶',
+          7: '۷',
+          8: '۸',
+          9: '۹',
+        };
+        return x.toString().replace(/[0-9]/gi, function (m) {
+          return nums[m];
+        });
+      }
+
+      function createNodes(donations) {
+        var html = '';
+        var amountSum = 0;
+
+        for (var i = 0; i < donations.length; i++) {
+          var dnt = donations[i];
+          li = "<li title='" + dnt.date.split(' ')[0] + "'>";
+          if (dnt.web) {
+            li += '<a href="' + dnt.web + '" target="_blank">';
+          }
+          if (!dnt.img) {
+            dnt.img =
+              'https://s.gravatar.com/avatar/' + i + '?noemail&s=50&d=wavatar';
+          }
+          li += '<img src="' + dnt.img + '">';
+          li += '<span class="name">' + dnt.name + '</span>';
+          li +=
+            '<span class="amount">' +
+            convertNumberToPersian(formatNumber(dnt.amount)) +
+            '</span>';
+          if (dnt.web) {
+            li += '</a>';
+          }
+          li += '</li>';
+          html += li;
+          amountSum += dnt['amount'];
         }
-      };
-      xhttp.open("GET", "donations.json", true);
-      xhttp.send();
-    }
+        document.getElementById('donors').innerHTML = html;
+        document.getElementById(
+          'amount-sum',
+        ).innerHTML = convertNumberToPersian(formatNumber(amountSum));
+      }
 
-    function sortBy(key) {
-      var swapped = true;
-      while (swapped) {
-        swapped = false
-        for (var i = 1; i < donations.length; i++) {
-          var condition = (key == 'date') ?
-            donations[i - 1][key] > donations[i][key] :
-            donations[i - 1][key] < donations[i][key];
+      function loadDoc() {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+          if (this.readyState == 4 && this.status == 200) {
+            donations = JSON.parse(this.responseText);
+            createNodes(donations);
+            sortBy('amount');
+          }
+        };
+        xhttp.open('GET', 'donations.json', true);
+        xhttp.send();
+      }
 
-          if (condition) {
-            var t = donations[i - 1];
-            donations[i - 1] = donations[i];
-            donations[i] = t;
-            swapped = true;
+      function sortBy(key) {
+        var swapped = true;
+        while (swapped) {
+          swapped = false;
+          for (var i = 1; i < donations.length; i++) {
+            var condition =
+              key == 'date'
+                ? donations[i - 1][key] > donations[i][key]
+                : donations[i - 1][key] < donations[i][key];
+
+            if (condition) {
+              var t = donations[i - 1];
+              donations[i - 1] = donations[i];
+              donations[i] = t;
+              swapped = true;
+            }
           }
         }
+
+        if (key == 'date') {
+          document.getElementById('sort-by-date').className = 'selected';
+          document.getElementById('sort-by-amount').className = '';
+        } else {
+          document.getElementById('sort-by-date').className = '';
+          document.getElementById('sort-by-amount').className = 'selected';
+        }
+
+        createNodes(donations);
       }
-
-      if (key == "date") {
-        document.getElementById("sort-by-date").className = "selected";
-        document.getElementById("sort-by-amount").className = "";
-      } else {
-        document.getElementById("sort-by-date").className = "";
-        document.getElementById("sort-by-amount").className = "selected";
-      }
-
-      createNodes(donations);
-    }
-    loadDoc();
-
-  </script>
-</body>
- 
+      loadDoc();
+    </script>
+  </body>
 </html>
