@@ -44,12 +44,6 @@ def make(infile, outfile, latinfile, latincopyright, farsidigits, uiargs):
     font = fontforge.open(infile)
     font.encoding = "Unicode"  # avoid a crash if compact was set
 
-    # sample text to be used by font viewers
-    sample = 'این یک مثال برای نمایش فونت می‌باشد.'
-
-    for lang in ('Arabic (Egypt)', 'English (US)'):
-        font.appendSFNTName(lang, 'Sample Text', sample)
-
     if latinfile:
         font.mergeFonts(latinfile)
 
