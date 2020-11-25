@@ -3,7 +3,7 @@
 #
 # build.py - Font Builder
 #
-# This is a short and cripple edition of Amiri font build utility (tools/build.py). 
+# This is a short and cripple edition of Amiri font build utility (tools/build.py).
 # To see the whole and compelete version, please refer https://github.com/alif-type/amiri
 #
 
@@ -56,8 +56,9 @@ def make(infile, outfile, latinfile, latincopyright, farsidigits, uiargs):
     if latincopyright:
         for row in font.sfnt_names:
             if row[1] == "Descriptor":
-                font.appendSFNTName(row[0], row[1], row[2] + "\n" + latincopyright)
-    
+                font.appendSFNTName(
+                    row[0], row[1], row[2] + "\n" + latincopyright)
+
     if uiargs:
         ascent, descent = uiargs.split(',')
         font.os2_winascent = int(ascent)
@@ -68,31 +69,43 @@ def make(infile, outfile, latinfile, latincopyright, farsidigits, uiargs):
         font.hhea_descent = -int(descent)
 
     if farsidigits:
-        # 0 1 2 3 4 5 6 7 8 9
-        farsidigitsGlyphs = (
-            "uni06F0", "uni06F1", "uni06F2", "uni06F3", "uni06F4",
-                            "uni06F5", "uni06F6", "uni06F7", "uni06F8", "uni06F9")
-        latindigitsGlyphs = (
-            "zero", "one", "two", "three", "four", "five", "six",
-                    "seven", "eight", "nine")
+        # copy Farsi digits (0 1 2 3 4 5 6 7 8 9) to Latin digits
+        mapDigits = {
+            "uni06F0": "zero",
+            "uni0661": "one",
+            "uni0662": "two",
+            "uni0663": "three",
+            "uni06F4": "four",
+            "uni06F5": "five",
+            "uni06F6": "six",
+            "uni0667": "seven",
+            "uni0668": "eight",
+            "uni0669": "nine",
+        }
 
-        font.selection.select(*farsidigitsGlyphs)
-        font.copyReference()
-        font.selection.select(*latindigitsGlyphs)
-        font.paste()
+        for index in mapDigits:
+            font.selection.select(index)
+            font.copyReference()
+            font.selection.select(mapDigits[index])
+            font.paste()
 
-        # 0 4 5 6
-        farsi3digitsGlyphs = ("uni06F0", "uni06F4", "uni06F5", "uni06F6")
-        arabic3digitsGlyphs = ("uni0660", "uni0664", "uni0665", "uni0666")
+        # copy Farsi digits (0 4 5 6) to Arabic digits
+        mapDigits = {
+            "uni06F0": "uni0660",
+            "uni06F4": "uni0664",
+            "uni06F5": "uni0665",
+            "uni06F6": "uni0666",
+        }
 
-        font.selection.select(*farsi3digitsGlyphs)
-        font.copyReference()
-        font.selection.select(*arabic3digitsGlyphs)
-        font.paste()
+        for index in mapDigits:
+            font.selection.select(index)
+            font.copyReference()
+            font.selection.select(mapDigits[index])
+            font.paste()
 
         font.selection.none()
 
-    # Changing font name to make all versions installable 
+    # Changing font name to make all versions installable
     # together not overwriting each other
     if farsidigits or not latinfile or uiargs:
         tale = ""
@@ -136,6 +149,7 @@ Options:
 
     print(message)
     sys.exit(code)
+
 
 if __name__ == "__main__":
     import getopt
