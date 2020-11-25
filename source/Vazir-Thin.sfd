@@ -4,7 +4,7 @@ FullName: Vazir Thin
 FamilyName: Vazir Thin
 Weight: Thin
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 27.0.1
+Version: 27.0.2
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1606068482
+ModificationTime: 1606293504
 PfmFamily: 33
 TTFWeight: 100
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Thin" "" "Version 27.0.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
+LangName: 1033 "" "" "" "Vazir Thin" "" "Version 27.0.2" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -2113,21 +2113,23 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-235 1236 m 5
- 188 1283 145 1332 145 1413 c 4
- 145 1527 229 1586 313 1586 c 4
- 361 1586 385 1575 417 1556 c 5
- 418 1491 l 5
- 386 1505 360 1511 327 1511 c 4
- 281 1511 207 1489 207 1400 c 4
- 208 1349 242 1299 313 1279 c 4
- 317 1278 326 1273 339 1273 c 4
- 342 1273 347 1273 352 1274 c 6
- 456 1296 l 5
- 456 1228 l 5
- 107 1144 l 5
- 107 1207 l 5
- 235 1236 l 5
+235 1236 m 1
+ 188 1283 145 1332 145 1413 c 0
+ 145 1460.1826271 159.389106276 1497.94381556 182.211916762 1525.99997481 c 4
+ 214.532292562 1565.7315237 263.766146281 1586 313 1586 c 0
+ 361 1586 385 1575 417 1556 c 1
+ 418 1491 l 1
+ 386 1505 360 1511 327 1511 c 0
+ 300.109691645 1511 263.651102034 1503.48206473 238.000000893 1479.45688401 c 0
+ 219.770956187 1462.38330534 207 1436.97309905 207 1400 c 0
+ 208 1349 242 1299 313 1279 c 0
+ 317 1278 326 1273 339 1273 c 0
+ 342 1273 347 1273 352 1274 c 2
+ 456 1296 l 1
+ 456 1228 l 1
+ 107 1144 l 1
+ 107 1207 l 1
+ 235 1236 l 1
 EndSplineSet
 EndChar
 
@@ -5614,11 +5616,12 @@ Width: 672
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-7" 295 -596 basechar 0
 AnchorPoint: "Anchor-10" 381 1051 basechar 0
+AnchorPoint: "Anchor-7" 265 -576 basechar 0
 LayerCount: 2
 Fore
-Refer: 122 64510 N 1 0 0 1 0 0 2
+Refer: 300 -1 N 1 0 0 1 0 0 2
+Refer: 265 -1 N 1 0 0 1 -4 -401 2
 EndChar
 
 StartChar: uniFEF4
@@ -5628,11 +5631,12 @@ Width: 767
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-7" 298 -593 basechar 0
 AnchorPoint: "Anchor-10" 427 921 basechar 0
+AnchorPoint: "Anchor-7" 268 -573 basechar 0
 LayerCount: 2
 Fore
-Refer: 123 64511 S 1 0 0 1 0 0 2
+Refer: 301 -1 N 1 0 0 1 0 0 2
+Refer: 265 -1 N 1 0 0 1 -4 -401 2
 EndChar
 
 StartChar: uniFEF5
@@ -6971,13 +6975,13 @@ SplineSet
  801 133 954 120 1045 120 c 2
  1091 120 l 1
  1091 0 l 1
- 1045 0 l 2
- 887 0 720 36 605 108 c 1
- 483 37 297 0 87 0 c 2
+ 1045 0 l 6
+ 907 0 730 36 605 108 c 5
+ 473 37 277 -2.32682891838e-14 87 0 c 6
  -20 0 l 1
  -20 120 l 1
  90 120 l 2
- 217 120 390 131 502 158 c 5
+ 217 120 390 131 502 158 c 1
  355 272 197 435 197 519 c 0
  197 619 392 682 607 682 c 0
  808 682 1010 619 1010 519 c 0

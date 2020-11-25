@@ -4,7 +4,7 @@ FullName: Vazir Black
 FamilyName: Vazir Black
 Weight: Black
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 27.0.1
+Version: 27.0.2
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1606068463
+ModificationTime: 1606293626
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Black" "" "Version 27.0.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Black"
+LangName: 1033 "" "" "" "Vazir Black" "" "Version 27.0.2" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Black"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -2117,21 +2117,23 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-185.639189021 1250.80659009 m 5
- 147.436150611 1292.92059698 120 1344.11168868 120 1413 c 4
- 120 1541.95232723 217.30209192 1611 313 1611 c 4
- 371.459223138 1611 403.154854509 1593.78535313 441.942126204 1570.72265104 c 5
- 443.17025264 1450.36626037 l 5
- 403.539618376 1471.17234335 368.644306646 1486 327 1486 c 4
- 286.048804332 1486 232 1469.08779884 232 1400.11362169 c 4
- 232.892432292 1360.84660083 257.144313673 1320.63730657 319.96563063 1302.55238199 c 4
- 326.832067052 1300.26356985 332.662829427 1297.82896745 339.485084383 1297.82896745 c 4
- 341.779704591 1297.82896745 344.186489242 1298.10438637 346.782570951 1298.7534068 c 6
- 481 1326.25697833 l 5
- 481 1208.11684095 l 5
- 82 1112.31473013 l 5
- 82 1226.960405 l 5
- 185.639189021 1250.80659009 l 5
+185.639189021 1250.80659009 m 1
+ 147.436150611 1292.92059698 120 1344.11168868 120 1413 c 0
+ 120 1464.36328273 135.437229255 1506.22253666 160.061477701 1537.99998464 c 4
+ 197.25870901 1586.00279315 255.419734424 1611 313 1611 c 0
+ 371.459223138 1611 403.154854509 1593.78535313 441.942126204 1570.72265104 c 1
+ 443.17025264 1450.36626037 l 1
+ 403.539618376 1471.17234335 368.644306646 1486 327 1486 c 0
+ 303.399252807 1486 275.448294407 1480.38281835 256.000000758 1462.42023719 c 0
+ 241.702291702 1449.21477228 232 1429.33701522 232 1400.11362169 c 0
+ 232.892432292 1360.84660083 257.144313673 1320.63730657 319.96563063 1302.55238199 c 0
+ 326.832067052 1300.26356985 332.662829427 1297.82896745 339.485084383 1297.82896745 c 0
+ 341.779704591 1297.82896745 344.186489242 1298.10438637 346.782570951 1298.7534068 c 2
+ 481 1326.25697833 l 1
+ 481 1208.11684095 l 1
+ 82 1112.31473013 l 1
+ 82 1226.960405 l 1
+ 185.639189021 1250.80659009 l 1
 EndSplineSet
 EndChar
 
@@ -5616,11 +5618,12 @@ Width: 672
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-7" 295 -596 basechar 0
 AnchorPoint: "Anchor-10" 381 1111 basechar 0
+AnchorPoint: "Anchor-7" 265 -576 basechar 0
 LayerCount: 2
 Fore
-Refer: 122 64510 N 1 0 0 1 0 0 2
+Refer: 300 -1 N 1 0 0 1 0 0 2
+Refer: 265 -1 N 1 0 0 1 -4 -401 2
 EndChar
 
 StartChar: uniFEF4
@@ -5630,11 +5633,12 @@ Width: 767
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-7" 298 -593 basechar 0
 AnchorPoint: "Anchor-10" 427 981 basechar 0
+AnchorPoint: "Anchor-7" 268 -573 basechar 0
 LayerCount: 2
 Fore
-Refer: 123 64511 N 1 0 0 1 0 0 2
+Refer: 301 -1 N 1 0 0 1 0 0 2
+Refer: 265 -1 N 1 0 0 1 -4 -401 2
 EndChar
 
 StartChar: uniFEF5
@@ -6967,21 +6971,21 @@ SplineSet
  454 524 552 431 604 393 c 1
  658 433 755 525 805 577 c 1
  744 589 640 592 604 592 c 0
-908 301 m 1
+908 305 m 1
  961 300 1011 300 1045 300 c 2
  1091 300 l 1
  1091 0 l 1
  1045 0 l 2
- 894 0 729 36 603 104 c 1
- 468 36 282 0 87 0 c 2
+ 914 0 739 28 603 96 c 5
+ 458 28 262 -2.14313189851e-14 87 0 c 2
  -20 0 l 1
  -20 300 l 1
  90 300 l 2
- 146 300 230 300 298 301 c 1
- 199 405 107 508 107 609 c 0
- 107 820 412 862 606 862 c 4
+ 146 300 230 300 298 305 c 1
+ 199 409 107 508 107 609 c 0
+ 107 820 412 862 606 862 c 0
  786 862 1100 821 1100 609 c 0
- 1100 506 1009 405 908 301 c 1
+ 1100 506 1009 409 908 305 c 1
 EndSplineSet
 EndChar
 
