@@ -92,7 +92,7 @@ for f in "${TEMPDIR}"/build/*.ttf
 do
   if [ -f "${f}" ]; then
     fn=$(basename "${f}")
-    ttfautohint -n -w D -W -D arab -f latn -G 11 -l 8 -r 11 "${f}" "${TEMPDIR}/${fn}"
+    ttfautohint -n -W -D arab -f latn -G 200 -l 50 -r 200 "${f}" "${TEMPDIR}/${fn}"
     #sfnt2woff "${TEMPDIR}/${fn}"
     sfnt2woff-zopfli "${TEMPDIR}/${fn}"
     mkeot "${TEMPDIR}/${fn}" > "${TEMPDIR}/${fn%%.*}".eot
