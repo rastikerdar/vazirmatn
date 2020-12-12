@@ -22,25 +22,25 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1607765383
+ModificationTime: 1607768482
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
 Panose: 2 11 6 3 3 8 4 2 2 4
-OS2TypoAscent: 2400
+OS2TypoAscent: 2200
 OS2TypoAOffset: 0
-OS2TypoDescent: -1300
+OS2TypoDescent: -1100
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 2400
+OS2WinAscent: 2200
 OS2WinAOffset: 0
-OS2WinDescent: 1300
+OS2WinDescent: 1100
 OS2WinDOffset: 0
-HheadAscent: 2400
+HheadAscent: 2200
 HheadAOffset: 0
-HheadDescent: -1300
+HheadDescent: -1100
 HheadDOffset: 0
 OS2SubXSize: 1331
 OS2SubYSize: 1433
@@ -4746,22 +4746,22 @@ AnchorPoint: "Anchor-10" 575 1166 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-610 687 m 0
- 550 687 418 678 342 641 c 1
- 414 554 521 454 610 395 c 1
- 700 454 806 554 878 641 c 1
- 802 678 671 687 610 687 c 0
+610 707 m 0
+ 550 707 418 698 342 661 c 1
+ 414 574 521 454 610 395 c 1
+ 700 454 806 574 878 661 c 1
+ 802 698 671 707 610 707 c 0
 446 307 m 1
- 302 426 173 576 173 664 c 0
- 173 801 405 857 613 857 c 0
- 807 857 1046 801 1046 664 c 0
- 1046 578 896 418 749 295 c 1
- 870 213 997 180 1159 180 c 6
+ 302 436 173 596 173 684 c 0
+ 173 821 405 877 613 877 c 0
+ 807 877 1046 821 1046 684 c 0
+ 1046 598 896 428 749 295 c 1
+ 870 213 997 180 1159 180 c 2
  1219 180 l 1
  1219 0 l 1
  1159 0 l 2
- 966 0 799 71 602 209 c 1
- 399 95 265 -39 265 -198 c 0
+ 966 0 789 61 592 199 c 1
+ 389 85 265 -39 265 -198 c 0
  265 -375 420 -492 694 -492 c 0
  805 -492 919 -483 1034 -435 c 1
  1079 -600 l 1
@@ -4841,10 +4841,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 611 -831 basechar 0
-AnchorPoint: "Anchor-10" 589 1480 basechar 0
+AnchorPoint: "Anchor-10" 589 1500 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 511 1093 2
+Refer: 264 -1 S 1 0 0 1 511 1113 2
 Refer: 213 65226 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4872,11 +4872,11 @@ Width: 1141
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 591 1356 basechar 0
+AnchorPoint: "Anchor-10" 591 1376 basechar 0
 AnchorPoint: "Anchor-7" 555 -235 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 508 991 2
+Refer: 264 -1 S 1 0 0 1 508 1011 2
 Refer: 215 65228 N 1 0 0 1 0 0 2
 Substitution2: "Single Substitution 0 subtable" uniFED0.compact
 EndChar
@@ -6970,11 +6970,11 @@ AnchorPoint: "Anchor-10" 598 1101 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-604 572 m 0
- 544 572 412 563 336 526 c 1
- 408 439 515 339 604 280 c 1
- 694 339 800 439 872 526 c 1
- 796 563 665 572 604 572 c 0
+604 592 m 0
+ 544 592 412 583 336 546 c 1
+ 408 459 515 339 604 280 c 1
+ 694 339 800 459 872 546 c 1
+ 796 583 665 592 604 592 c 0
 772 202 m 1
  856 180 978 180 1045 180 c 2
  1091 180 l 1
@@ -6985,11 +6985,11 @@ SplineSet
  -20 0 l 1
  -20 180 l 1
  90 180 l 2
- 188 180 341 181 436 202 c 5
- 292 321 167 461 167 549 c 0
- 167 686 399 742 607 742 c 0
- 801 742 1040 686 1040 549 c 0
- 1040 463 919 325 772 202 c 1
+ 188 180 341 181 436 202 c 1
+ 292 331 167 481 167 569 c 0
+ 167 706 399 762 607 762 c 0
+ 801 762 1040 706 1040 569 c 0
+ 1040 483 919 335 772 202 c 1
 EndSplineSet
 EndChar
 
@@ -7000,11 +7000,11 @@ Width: 1071
 VWidth: 2950
 Flags: HW
 AnchorPoint: "Anchor-7" 585 -235 basechar 0
-AnchorPoint: "Anchor-10" 591 1356 basechar 0
+AnchorPoint: "Anchor-10" 591 1376 basechar 0
 LayerCount: 2
 Fore
 Refer: 324 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1 0 0 1 508 991 2
+Refer: 264 -1 S 1 0 0 1 508 1011 2
 EndChar
 
 StartChar: uni06CE.fina.compact

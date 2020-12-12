@@ -22,25 +22,25 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1607765638
+ModificationTime: 1607767815
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
 Panose: 2 11 6 3 3 8 4 2 2 4
-OS2TypoAscent: 2400
+OS2TypoAscent: 2200
 OS2TypoAOffset: 0
-OS2TypoDescent: -1300
+OS2TypoDescent: -1100
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 2400
+OS2WinAscent: 2200
 OS2WinAOffset: 0
-OS2WinDescent: 1300
+OS2WinDescent: 1100
 OS2WinDOffset: 0
-HheadAscent: 2400
+HheadAscent: 2200
 HheadAOffset: 0
-HheadDescent: -1300
+HheadDescent: -1100
 HheadDOffset: 0
 OS2SubXSize: 1331
 OS2SubYSize: 1433
@@ -188,7 +188,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 13
+WinInfo: 150 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -4744,28 +4744,28 @@ AnchorPoint: "Anchor-10" 575 1226 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-610 705 m 0
- 575 705 468 702 409 690 c 1
- 460 637 558 544 610 506 c 1
- 664 546 761 638 811 690 c 1
- 750 702 646 705 610 705 c 0
-352 371 m 5
- 232 485 113 610 113 724 c 0
- 113 935 419 977 613 977 c 0
- 793 977 1106 936 1106 724 c 0
- 1106 608 975 477 853 362 c 1
+610 725 m 0
+ 575 725 468 722 409 710 c 1
+ 450 657 558 544 610 506 c 1
+ 664 546 774 658 811 710 c 5
+ 750 722 646 725 610 725 c 0
+352 371 m 1
+ 232 495 113 630 113 744 c 0
+ 113 955 419 997 613 997 c 0
+ 793 997 1106 956 1106 744 c 0
+ 1106 628 975 487 853 362 c 1
  938 318 1045 300 1159 300 c 2
  1219 300 l 1
  1219 0 l 1
  1159 0 l 2
- 961 0 787 71 599 198 c 1
- 418 90 325 -23 325 -138 c 0
+ 961 0 777 61 589 188 c 1
+ 408 80 325 -23 325 -138 c 0
  325 -268 433 -372 694 -372 c 0
  820 -372 934 -351 1050 -303 c 1
  1119 -585 l 1
  989 -643 864 -663 689 -663 c 0
  330 -663 38 -490 38 -138 c 0
- 38 74 173 240 352 371 c 5
+ 38 74 173 240 352 371 c 1
 EndSplineSet
 EndChar
 
@@ -4839,10 +4839,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 611 -831 basechar 0
-AnchorPoint: "Anchor-10" 589 1550 basechar 0
+AnchorPoint: "Anchor-10" 589 1570 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 511 1183 2
+Refer: 264 -1 S 1 0 0 1 511 1203 2
 Refer: 213 65226 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4870,11 +4870,11 @@ Width: 1141
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 591 1426 basechar 0
+AnchorPoint: "Anchor-10" 591 1446 basechar 0
 AnchorPoint: "Anchor-7" 555 -235 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 508 1061 2
+Refer: 264 -1 S 1 0 0 1 508 1081 2
 Refer: 215 65228 N 1 0 0 1 0 0 2
 Substitution2: "Single Substitution 0 subtable" uniFED0.compact
 EndChar
@@ -6966,26 +6966,26 @@ AnchorPoint: "Anchor-10" 598 1221 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-604 592 m 0
- 569 592 462 589 403 577 c 1
- 454 524 552 431 604 393 c 1
- 658 433 755 525 805 577 c 1
- 744 589 640 592 604 592 c 0
+604 612 m 0
+ 569 612 462 609 403 597 c 1
+ 444 544 552 431 604 393 c 1
+ 658 433 765 545 805 597 c 1
+ 744 609 640 612 604 612 c 0
 908 305 m 1
  961 300 1011 300 1045 300 c 2
  1091 300 l 1
  1091 0 l 1
  1045 0 l 2
- 914 0 739 28 603 96 c 5
+ 914 0 739 28 603 96 c 1
  458 28 262 -2.14313189851e-14 87 0 c 2
  -20 0 l 1
  -20 300 l 1
  90 300 l 2
  146 300 230 300 298 305 c 1
- 199 409 107 508 107 609 c 0
- 107 820 412 862 606 862 c 0
- 786 862 1100 821 1100 609 c 0
- 1100 506 1009 409 908 305 c 1
+ 199 419 107 528 107 629 c 0
+ 107 840 412 882 606 882 c 0
+ 786 882 1100 841 1100 629 c 0
+ 1100 526 1009 419 908 305 c 1
 EndSplineSet
 EndChar
 
@@ -6996,11 +6996,11 @@ Width: 1071
 VWidth: 2950
 Flags: HW
 AnchorPoint: "Anchor-7" 585 -235 basechar 0
-AnchorPoint: "Anchor-10" 591 1446 basechar 0
+AnchorPoint: "Anchor-10" 591 1466 basechar 0
 LayerCount: 2
 Fore
 Refer: 324 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 N 1 0 0 1 508 1081 2
+Refer: 264 -1 S 1 0 0 1 508 1101 2
 EndChar
 
 StartChar: uni06CE.fina.compact
