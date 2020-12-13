@@ -104,6 +104,13 @@ npm install vazir-font
 ```
 Fonts will be copied to `node_modules/vazir-font/dist` directory
 
+### Chocolatey
+To install Vazir font, run the following command from the command line or from PowerShell:
+
+```
+choco install vazir-font
+```
+
 ### CDN
 
 Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
