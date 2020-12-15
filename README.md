@@ -20,7 +20,7 @@ Vazir is a Persian/Arabic font.
 
 ## نمونه متن Sample
 
-![نمونه متن فونت وزیر](./sample.png)
+![نمونه متن فونت وزیر](sample.svg)
 
 ## طریقه استفاده در صفحات وب
 
