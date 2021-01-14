@@ -109,10 +109,10 @@ Fonts will be copied to `node_modules/vazir-font/dist` directory
 Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v27.2.0/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-Replace [X.Y.Z] with the latest version (e.g. 27.1.0) and integrate the font into your CSS:
+and integrate the font into your CSS:
 
 ```
 font-family: 'Vazir', sans-serif;

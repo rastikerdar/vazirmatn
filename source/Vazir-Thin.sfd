@@ -4,7 +4,7 @@ FullName: Vazir Thin
 FamilyName: Vazir Thin
 Weight: Thin
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 27.1.0
+Version: 27.2.0
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1607767897
+ModificationTime: 1610644059
 PfmFamily: 33
 TTFWeight: 100
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Thin" "" "Version 27.1.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
+LangName: 1033 "" "" "" "Vazir Thin" "" "Version 27.2.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -188,7 +188,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 150 25 13
+WinInfo: 0 25 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -777,10 +777,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 323 -620 basechar 0
-AnchorPoint: "Anchor-10" 378 1127 basechar 0
+AnchorPoint: "Anchor-10" 398 1127 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 298 754 2
+Refer: 264 -1 S 1 0 0 1 318 754 2
 Refer: 25 1585 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-30 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
@@ -2239,14 +2239,14 @@ LayerCount: 2
 Fore
 SplineSet
 1080 120 m 2
- 1352 120 1496 171 1496 329 c 0
- 1496 488 1237 677 1028 858 c 0
+ 1352 120 1496 171 1496 329 c 4
+ 1496 498 1237 677 1028 858 c 0
  1003 879 987 916 987 953 c 0
  987 1001 1012 1052 1072 1075 c 2
  1775 1337 l 1
- 1775 1230 l 5
- 1070 969 l 5
- 1279 802 1612 567 1612 326 c 0
+ 1775 1225 l 5
+ 1070 964 l 5
+ 1279 797 1612 567 1612 326 c 0
  1612 110 1470 0 1081 0 c 2
  840 0 l 2
  366 0 128 157 128 454 c 0
@@ -2762,13 +2762,13 @@ Fore
 SplineSet
 1079 120 m 2
  1351 120 1495 171 1495 329 c 0
- 1495 488 1236 677 1027 858 c 0
+ 1495 498 1236 677 1027 858 c 0
  1002 879 986 916 986 953 c 0
  986 1001 1011 1052 1071 1075 c 2
  1774 1337 l 1
- 1774 1230 l 1
- 1069 969 l 1
- 1270 807 1517 634 1614 391 c 0
+ 1774 1225 l 5
+ 1069 964 l 5
+ 1270 802 1517 634 1614 391 c 0
  1681 221 1781 120 1931 120 c 2
  1961 120 l 1
  1961 0 l 1
@@ -4117,7 +4117,7 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 323 -648 basechar 0
-AnchorPoint: "Anchor-10" 459 1370 basechar 0
+AnchorPoint: "Anchor-10" 387 1166 basechar 0
 LayerCount: 2
 Fore
 Refer: 26 1586 N 1 0 0 1 0 0 2
@@ -4130,12 +4130,12 @@ Width: 790
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
+AnchorPoint: "Anchor-10" 398 1127 basechar 0
 AnchorPoint: "Anchor-7" 323 -620 basechar 0
-AnchorPoint: "Anchor-10" 377 1180 basechar 0
 LayerCount: 2
 Fore
-Refer: 185 65198 S 1 0 0 1 0 0 2
-Refer: 264 -1 N 1 0 0 1 299 752 2
+Refer: 264 -1 S 1 0 0 1 318 754 2
+Refer: 185 65198 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniFEB1
@@ -5067,14 +5067,14 @@ SplineSet
  -20 0 l 1
  -20 120 l 1
  165 120 l 2
- 437 120 581 171 581 329 c 0
- 581 488 322 677 113 858 c 0
+ 437 120 581 171 581 329 c 4
+ 581 498 322 677 113 858 c 0
  88 879 72 916 72 953 c 0
  72 1001 97 1052 157 1075 c 2
  860 1337 l 1
- 860 1230 l 1
- 155 969 l 1
- 364 802 697 567 697 326 c 0
+ 860 1225 l 5
+ 155 964 l 5
+ 364 797 697 567 697 326 c 0
 EndSplineSet
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-220 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-200 dv=0
@@ -5093,8 +5093,8 @@ AnchorPoint: "Anchor-7" 311 -264 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-155 969 m 5
- 356 807 603 634 700 391 c 0
+155 964 m 1
+ 356 802 603 634 700 391 c 0
  767 221 867 120 1017 120 c 2
  1047 120 l 1
  1047 0 l 1
@@ -5104,13 +5104,13 @@ SplineSet
  -20 0 l 1
  -20 120 l 1
  165 120 l 2
- 437 120 581 171 581 329 c 0
- 581 488 322 677 113 858 c 0
+ 437 120 581 171 581 329 c 4
+ 581 498 322 677 113 858 c 4
  88 879 72 916 72 953 c 0
  72 1001 97 1052 157 1075 c 2
  860 1337 l 1
- 860 1230 l 1
- 155 969 l 5
+ 860 1225 l 1
+ 155 964 l 1
 EndSplineSet
 EndChar
 
