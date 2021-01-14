@@ -97,7 +97,7 @@ Vazir is a Persian/Arabic font.
 
 Grab the [latest release](https://github.com/rastikerdar/vazir-font/releases/latest) file.
 
-### npm
+### [npm](https://www.npmjs.com/package/vazir-font)
 
 ```
 npm install vazir-font
@@ -135,6 +135,20 @@ gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager
 kateb install vazir
 or
 kateb update vazir
+```
+
+### [Chocolatey](https://chocolatey.org/packages/vazir-font)
+#### Install
+```
+choco install vazir-font
+```
+#### Upgrade
+```
+choco upgrade vazir-font
+```
+#### Uninstall
+```
+choco uninstall vazir-font
 ```
 
 ## Build instructions
