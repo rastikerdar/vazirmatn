@@ -94,4 +94,66 @@
 ### نسخه UI چیست؟
 در این نسخه ارتفاع فونت کاسته شده است تا اختلاف ارتفاع بین لاتین و فارسی کم شود. این نسخه برای افرادی مناسب است که نیاز به چنین حالتی در رابط کاربری User Interface برنامه‌ها دارند.
 
+### چگونه می‌توانم در میزکارهای مبتنی بر Fontconfig (بیشتر سیستم عامل‌های Unix-like)، فونت پیش‌فرض را وزیر قرار دهم؟
+
+با پیکربندی Fontconfig می‌توانید فونت‌های پیش‌فرض میزکار را تعیین کنید. این یک نمونه پیکربندی از پیش انجام شده است که در سطح کاربر، فونت پیش‌فرض میزکار را وزیر قرار می‌دهد. می‌توانید با اصلاح این پیکربندی، فونت‌های لاتین دلخواه را در کنار فونت وزیر استفاده کنید. در این پیکربندی، فونت‌های `Vazir WOL-UI`(نسخه‌ی UI بدون حروف لاتین) و [`Vazir Code`](https://github.com/rastikerdar/vazir-code-font)، در کنار چند فونت لاتین مورد استفاده قرار گرفته‌اند.
+
+```xml
+~/.config/fontconfig/fonts.conf
+
+<?xml version='1.0'?>
+<!DOCTYPE fontconfig SYSTEM 'fonts.dtd'>
+<fontconfig>
+
+  <!-- Default sans-serif font -->
+  <match target="pattern">
+    <test qual="any" name="family"><string>sans-serif</string></test>
+    <edit name="family" mode="prepend" binding="same"><string>Vazir WOL-UI</string></edit>
+    <edit name="family" mode="append" binding="same"><string>Roboto</string></edit>
+  </match>
+
+  <!-- Default serif fonts -->
+  <match target="pattern">
+    <test qual="any" name="family"><string>serif</string></test>
+    <edit name="family" mode="prepend" binding="same"><string>Vazir WOL-UI</string></edit>
+    <edit name="family" mode="append" binding="same"><string>DejaVu Serif</string></edit>
+  </match>
+
+
+  <!-- Default monospace fonts -->
+  <match target="pattern">
+    <test qual="any" name="family"><string>monospace</string></test>
+    <edit name="family" mode="prepend" binding="same"><string>Vazir Code</string></edit>
+    <edit name="family" mode="append" binding="same"><string>Inconsolata</string></edit>
+  </match>
+
+
+  <!-- Fallback fonts preference order -->
+  <alias>
+    <family>sans-serif</family>
+    <prefer>
+      <family>Vazir WOL-UI</family>
+      <family>Roboto</family>
+    </prefer>
+  </alias>
+
+  <alias>
+    <family>serif</family>
+    <prefer>
+      <family>Vazir WOL-UI</family>
+      <family>DejaVu Serif</family>
+    </prefer>
+  </alias>
+
+  <alias>
+    <family>monospace</family>
+    <prefer>
+      <family>Vazir Code</family>
+      <family>Inconsolata</family>
+    </prefer>
+  </alias>
+
+</fontconfig>
+```
+
 </div>
