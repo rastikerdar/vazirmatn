@@ -96,7 +96,7 @@
 
 ### چگونه می‌توانم در میزکارهای مبتنی بر Fontconfig (بیشتر سیستم عامل‌های Unix-like)، فونت پیش‌فرض را وزیر قرار دهم؟
 
-با پیکربندی Fontconfig می‌توانید فونت‌های پیش‌فرض میزکار را تعیین کنید. این یک نمونه پیکربندی از پیش انجام شده است که در سطح کاربر، فونت پیش‌فرض میزکار را وزیر قرار می‌دهد. می‌توانید با اصلاح این پیکربندی، فونت‌های لاتین دلخواه را در کنار فونت وزیر استفاده کنید. در این پیکربندی، فونت‌های `Vazir WOL-UI`(نسخه‌ی UI بدون حروف لاتین) و [`Vazir Code`](https://github.com/rastikerdar/vazir-code-font)، در کنار چند فونت لاتین مورد استفاده قرار گرفته‌اند.
+با پیکربندی Fontconfig می‌توانید فونت‌های پیش‌فرض میزکار را تعیین کنید. این یک نمونه پیکربندی از پیش انجام شده است که در سطح کاربر، فونت پیش‌فرض میزکار را وزیر قرار می‌دهد. می‌توانید با اصلاح این پیکربندی، فونت‌های لاتین دلخواه را در کنار فونت وزیر استفاده کنید. در این پیکربندی، فونت‌های `Vazir WOL-UI`(نسخه‌ی UI بدون حروف لاتین) و [`Vazir Code WOL`](https://github.com/rastikerdar/vazir-code-font)، در کنار چند فونت لاتین مورد استفاده قرار گرفته‌اند.
 
 ```xml
 ~/.config/fontconfig/fonts.conf
@@ -123,7 +123,7 @@
   <!-- Default monospace fonts -->
   <match target="pattern">
     <test qual="any" name="family"><string>monospace</string></test>
-    <edit name="family" mode="prepend" binding="same"><string>Vazir Code</string></edit>
+    <edit name="family" mode="prepend" binding="same"><string>Vazir Code WOL</string></edit>
     <edit name="family" mode="append" binding="same"><string>Inconsolata</string></edit>
   </match>
 
@@ -148,7 +148,7 @@
   <alias>
     <family>monospace</family>
     <prefer>
-      <family>Vazir Code</family>
+      <family>Vazir Code WOL</family>
       <family>Inconsolata</family>
     </prefer>
   </alias>
