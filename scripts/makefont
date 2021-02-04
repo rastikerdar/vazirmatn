@@ -61,10 +61,17 @@ if [ ! -d "${TEMPDIR}"/build ]; then
 fi
 
 # Make ttf instances 
-"${SCRIPTDIR}/make-instances.sh" "${SOURCEDIR}" "${TEMPDIR}/build"
+echo "-> making instances"
+if ! "${SCRIPTDIR}/make-instances.sh" "${SOURCEDIR}" "${TEMPDIR}/build" ; then
+    exit 1
+fi
+
 
 # Make variable ttf
-"${SCRIPTDIR}/make-variable.sh" "${SOURCEDIR}" "${TEMPDIR}/build"
+echo "-> making variable"
+if ! "${SCRIPTDIR}/make-variable.sh" "${SOURCEDIR}" "${TEMPDIR}/build" ; then
+    exit 1
+fi
 
 # Make all the possible versions
 for ((i=0;i<${#SOURCEFILES[@]};++i));

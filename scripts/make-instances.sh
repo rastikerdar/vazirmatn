@@ -15,13 +15,19 @@ fontforge -lang=ff -script "${SCRIPTDIR}/generate.pe" "$1/Vazir-Thin.sfd" "$2/Va
 fontforge -lang=ff -script "${SCRIPTDIR}/generate.pe" "$1/Vazir-Black.sfd" "$2/Vazir-Black.ufo"
 cp "${SCRIPTDIR}/Vazir.designspace" "$2/"
 
-fontmake -o ufo -m "$2/Vazir.designspace" -i --output-dir="$2/instances"
+if ! fontmake -o ufo -m "$2/Vazir.designspace" -i --output-dir="$2/instances" ; then
+    exit 1
+fi
+
 python3 "${SCRIPTDIR}/fix-features-fea-anchors.py" Anchor10 -30 "$2/instances/Vazir-Thin.ufo/features.fea" "$2/instances/Vazir-Thin.ufo/features.fea"
 python3 "${SCRIPTDIR}/fix-features-fea-anchors.py" Anchor10 -15 "$2/instances/Vazir-Light.ufo/features.fea" "$2/instances/Vazir-Light.ufo/features.fea"
 python3 "${SCRIPTDIR}/fix-features-fea-anchors.py" Anchor10 20 "$2/instances/Vazir-Medium.ufo/features.fea" "$2/instances/Vazir-Medium.ufo/features.fea"
 python3 "${SCRIPTDIR}/fix-features-fea-anchors.py" Anchor10 40 "$2/instances/Vazir-Bold.ufo/features.fea" "$2/instances/Vazir-Bold.ufo/features.fea"
 python3 "${SCRIPTDIR}/fix-features-fea-anchors.py" Anchor10 60 "$2/instances/Vazir-Black.ufo/features.fea" "$2/instances/Vazir-Black.ufo/features.fea"
-fontmake -u "$2/instances/"*.ufo -o ttf --output-dir="$2/instance_ttf"
+
+if ! fontmake -u "$2/instances/"*.ufo -o ttf --output-dir="$2/instance_ttf" ; then
+    exit 1
+fi
 
 fontforge -lang=ff -script "${SCRIPTDIR}/fixweights.pe" "$2/instance_ttf"
 mv "$2/instance_ttf/"*.ttf "$2"
