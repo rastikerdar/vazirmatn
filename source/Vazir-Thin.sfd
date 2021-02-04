@@ -4,7 +4,7 @@ FullName: Vazir Thin
 FamilyName: Vazir Thin
 Weight: Thin
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 27.2.0
+Version: 27.2.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1610644059
+ModificationTime: 1612445454
 PfmFamily: 33
 TTFWeight: 100
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Thin" "" "Version 27.2.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
+LangName: 1033 "" "" "" "Vazir Thin" "" "Version 27.2.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -188,9 +188,13 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 13
+WinInfo: 150 25 13
 BeginPrivate: 0
 EndPrivate
+Grid
+-2048 698 m 0
+ 4096 698 l 1024
+EndSplineSet
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mkmk' Mark to Mark in Arabic lookup 12 subtable" "Anchor-1" "'mkmk' Mark to Mark in Arabic lookup 11 subtable" "Anchor-2"""  "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor-6" "'mark' Mark Positioning lookup 10 subtable" "Anchor-7" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8"""  "Anchor-9" "'mark' Mark Positioning lookup 8 subtable" "Anchor-10" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"""  "Anchor-12"""  "Anchor-13"""  "Anchor-14"""  "Anchor-15"""  "Anchor-16"""  "Anchor-17"""  "Anchor-18"""  "Anchor-19""" 
 BeginChars: 65635 466
@@ -4742,28 +4746,28 @@ AnchorPoint: "Anchor-10" 575 1136 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-610 707 m 0
- 530 707 381 683 295 641 c 1
- 383 535 498 403 610 329 c 1
- 723 403 837 535 925 641 c 1
- 839 683 691 707 610 707 c 0
-506 275 m 1
- 356 401 203 576 203 654 c 0
- 203 754 398 817 613 817 c 0
- 814 817 1016 754 1016 654 c 0
- 1016 582 851 393 698 263 c 1
- 832 172 972 120 1159 120 c 2
+610 697 m 0
+ 530.94921875 697 378.469726562 685.793945312 293.53515625 645.619140625 c 1
+ 398.104492188 496.196289062 610.234375 322.28515625 610.234375 322.28515625 c 1
+ 610.234375 322.28515625 820.030273438 497.501953125 927.16015625 645.372070312 c 1
+ 841.82421875 685.690429688 690.600585938 697 610 697 c 0
+497.561523438 271.87890625 m 1
+ 358.685546875 396.286132812 203 558.948377379 203 654 c 0
+ 203 753.129882812 396.236328125 807 613 807 c 0
+ 815.708984375 807 1016 752.887695312 1016 654 c 0
+ 1016 564.385635218 843.031308357 390.531390561 700.533203125 261.60546875 c 1
+ 834.580094602 170.760935401 973.703653164 120 1159 120 c 2
  1219 120 l 1
  1219 0 l 1
  1159 0 l 2
- 968 0 789 67 594 204 c 5
- 387 88 235 -43 235 -228 c 0
- 235 -429 413 -552 694 -552 c 0
- 797 -552 906 -544 1014 -505 c 1
- 1043 -612 l 1
- 943 -651 822 -663 689 -663 c 0
- 354 -663 128 -514 128 -228 c 0
- 128 -11 293 140 506 275 c 1
+ 966.339022968 0 788.211289797 68.1823564554 593.759765625 204.395507812 c 1
+ 386.729993187 88.1225532138 235 -43.7156341258 235 -228 c 0
+ 235 -428.514648438 413.3984375 -552 694 -552 c 0
+ 796.572265625 -552 905.647460938 -543.954101562 1013.81738281 -505.015625 c 1
+ 1043.12988281 -612.493164062 l 1
+ 943.057617188 -651.197265625 821.5078125 -663 689 -663 c 0
+ 353.885742188 -663 128 -513.83984375 128 -228 c 0
+ 128 -14.0584215644 285.084960938 137.3046875 497.561523438 271.87890625 c 1
 EndSplineSet
 EndChar
 
@@ -4837,10 +4841,10 @@ VWidth: 2703
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor-7" 611 -831 basechar 0
-AnchorPoint: "Anchor-10" 589 1460 basechar 0
+AnchorPoint: "Anchor-10" 589 1450 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 511 1073 2
+Refer: 264 -1 S 1 0 0 1 511 1063 2
 Refer: 213 65226 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4868,11 +4872,11 @@ Width: 1141
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 591 1336 basechar 0
+AnchorPoint: "Anchor-10" 591 1326 basechar 0
 AnchorPoint: "Anchor-7" 555 -235 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 508 971 2
+Refer: 264 -1 S 1 0 0 1 508 961 2
 Refer: 215 65228 N 1 0 0 1 0 0 2
 Substitution2: "Single Substitution 0 subtable" uniFED0.compact
 EndChar
@@ -6966,12 +6970,12 @@ AnchorPoint: "Anchor-10" 598 1071 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-604 592 m 4
- 524 592 375 568 289 526 c 5
- 377 420 492 288 604 214 c 1
- 717 288 831 420 919 526 c 5
- 833 568 685 592 604 592 c 4
-707 160 m 5
+604 582 m 0
+ 524.94921875 582 372.469726562 570.793945312 287.53515625 530.619140625 c 1
+ 392.104492188 381.196289062 604.234375 207.28515625 604.234375 207.28515625 c 1
+ 604.234375 207.28515625 814.030273438 382.501953125 921.16015625 530.372070312 c 1
+ 835.82421875 570.690429688 684.600585938 582 604 582 c 0
+707 160 m 1
  801 133 954 120 1045 120 c 2
  1091 120 l 1
  1091 0 l 1
@@ -6981,11 +6985,11 @@ SplineSet
  -20 0 l 1
  -20 120 l 1
  90 120 l 2
- 217 120 390 131 502 158 c 5
- 355 282 197 455 197 539 c 4
- 197 639 392 702 607 702 c 4
- 808 702 1010 639 1010 539 c 4
- 1010 461 857 288 707 160 c 5
+ 217 120 390 131 502 158 c 1
+ 355 282 197 455 197 539 c 0
+ 197 639 392 692 607 692 c 0
+ 808 692 1010 639 1010 539 c 0
+ 1010 461 857 288 707 160 c 1
 EndSplineSet
 EndChar
 
@@ -6995,12 +6999,12 @@ GlifName: uniF_E_D_0.compact
 Width: 1071
 VWidth: 2950
 Flags: HW
+AnchorPoint: "Anchor-10" 591 1326 basechar 0
 AnchorPoint: "Anchor-7" 585 -235 basechar 0
-AnchorPoint: "Anchor-10" 591 1336 basechar 0
 LayerCount: 2
 Fore
+Refer: 264 -1 S 1 0 0 1 508 961 2
 Refer: 324 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1 0 0 1 508 971 2
 EndChar
 
 StartChar: uni06CE.fina.compact
