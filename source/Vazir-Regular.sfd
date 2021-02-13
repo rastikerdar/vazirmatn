@@ -4,7 +4,7 @@ FullName: Vazir Regular
 FamilyName: Vazir
 Weight: Regular
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 27.2.1
+Version: 27.2.2
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1612445469
+ModificationTime: 1613224815
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "" "" "Version 27.2.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Regular"
+LangName: 1033 "" "" "" "" "" "Version 27.2.2" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Regular"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -188,7 +188,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 125 25 13
+WinInfo: 0 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2448,7 +2448,8 @@ SplineSet
  449 1113 573 1327 801 1327 c 0
  946 1327 1029 1264 1041 1255 c 1
  985 1101 l 1
- 951 1118 907 1146 812 1146 c 0
+ 964.38737308 1111.30631346 940.099310273 1125.6556064 903 1135.35771657 c 4
+ 878.904948478 1141.65898856 849.405895371 1146 812 1146 c 0
  675 1146 592 1022 592 894 c 0
  592 826 716 807 804 807 c 0
  896 807 978 832 1058 864 c 1
@@ -2524,7 +2525,8 @@ SplineSet
  133 1113 285 1320 528 1320 c 0
  592 1320 671 1312 759 1254 c 1
  699 1103 l 1
- 624 1141 576 1143 535 1143 c 0
+ 670.456866526 1117.46185429 645.8243433 1126.70956159 624 1132.61725344 c 4
+ 588.478651069 1142.23262562 560.396420367 1143 535 1143 c 0
  412 1143 307 1021 307 916 c 0
  307 841 386 758 624 738 c 0
  626 738 627 738 630 740 c 1
@@ -4021,27 +4023,27 @@ GlifName: uniF_E_A_A_
 Width: 1055
 VWidth: 2950
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 AnchorPoint: "Anchor-7" 401 -241 basechar 0
 AnchorPoint: "Anchor-10" 507 1154 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-98 209 m 1
- 177 190 241 181 307 181 c 0
- 537 181 654 236 654 347 c 0
- 654 380 625 463 563 607 c 2
- 443 889 l 1
- 604 963 l 1
- 812 432 l 2
- 890 233 952 180 1033 180 c 2
- 1075 180 l 1
- 1075 0 l 1
- 1033 0 l 2
- 920 0 834 56 771 162 c 1
- 681 55 537 1 322 1 c 0
- 231 1 162 11 98 26 c 1
- 98 209 l 1
+98 209 m 5
+ 177 190 241 181 307 181 c 4
+ 537 181 646 239 646 350 c 4
+ 646 383 625.99609375 448.666992188 610 487 c 6
+ 449 892 l 5
+ 604 963 l 5
+ 812 432 l 6
+ 890 233 952 180 1033 180 c 6
+ 1075 180 l 5
+ 1075 0 l 5
+ 1033 0 l 6
+ 910 0 820 36 747 162 c 5
+ 657 55 537 1 322 1 c 4
+ 231 1 162 11 98 26 c 5
+ 98 209 l 5
 EndSplineSet
 EndChar
 

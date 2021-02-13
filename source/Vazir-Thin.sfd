@@ -4,7 +4,7 @@ FullName: Vazir Thin
 FamilyName: Vazir Thin
 Weight: Thin
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 27.2.1
+Version: 27.2.2
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1612445454
+ModificationTime: 1613224963
 PfmFamily: 33
 TTFWeight: 100
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Thin" "" "Version 27.2.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
+LangName: 1033 "" "" "" "Vazir Thin" "" "Version 27.2.2" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -188,7 +188,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 150 25 13
+WinInfo: 50 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2446,12 +2446,13 @@ SplineSet
  480 1063 571 1267 801 1267 c 0
  905 1267 975 1232 1005 1213 c 1
  968 1113 l 1
- 933 1130 886 1146 812 1146 c 0
+ 947.470788796 1122.97133116 922.813102366 1132.59862271 891 1138.85493395 c 4
+ 868.575334936 1143.26493089 842.595382026 1146 812 1146 c 0
  654 1146 562 1003 562 864 c 0
  562 757 726 747 804 747 c 0
  887 747 963 766 1033 792 c 1
  1048 682 l 1
- 974 651 905 634 825 634 c 4
+ 974 651 905 634 825 634 c 0
  601 634 494 719 399 817 c 1
  424 616 447 365 447 215 c 2
  447 0 l 1
@@ -2517,12 +2518,13 @@ SplineSet
 871 695 m 1
  612 559 403 283 268 -28 c 1
  167 17 l 1
- 281 287 407 450 545 587 c 5
+ 281 287 407 450 545 587 c 1
  304 613 163 722 163 879 c 0
  163 1069 304 1260 528 1260 c 0
  584 1260 649 1254 722 1212 c 1
  683 1114 l 1
- 618 1142 572 1143 535 1143 c 0
+ 653.801523773 1126.57780514 628.437004768 1133.70735529 606 1137.74540219 c 4
+ 578.489010956 1142.69662743 555.379328917 1143 535 1143 c 0
  393 1143 277 1008 277 886 c 0
  277 785 381 698 621 678 c 0
  626 677 640 681 646 685 c 1
@@ -4017,29 +4019,29 @@ StartChar: uniFEAA
 Encoding: 65194 65194 181
 GlifName: uniF_E_A_A_
 Width: 1055
-VWidth: 2950
+VWidth: 2920
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 AnchorPoint: "Anchor-7" 401 -271 basechar 0
 AnchorPoint: "Anchor-10" 507 1124 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-128 141 m 1
- 194 127 249 121 307 121 c 0
- 535 121 684 175 684 317 c 0
- 684 363 653 444 591 589 c 2
- 482 844 l 1
- 588 892 l 1
- 784 391 l 2
- 862 191 932 120 1033 120 c 2
- 1075 120 l 1
- 1075 0 l 1
- 1033 0 l 2
- 910 0 839 76 775 184 c 1
- 678 68 564 1 322 1 c 0
- 244 1 182 9 128 20 c 1
- 128 141 l 1
+128 141.42578125 m 5
+ 192.465820312 127.735351562 248.98828125 121 307 121 c 4
+ 486.026988591 121 676 152.746190505 676 320 c 4
+ 676 369.567339225 653.105552269 431.550978845 637.798828125 468.295898438 c 6
+ 487.413085938 846.59375 l 5
+ 587.637695312 892.50390625 l 5
+ 784.057617188 391.068359375 l 6
+ 835.257249462 260.441873107 883.290730596 120 1033 120 c 6
+ 1075 120 l 5
+ 1075 0 l 5
+ 1033 0 l 6
+ 871.004357494 0 808.48700225 78.4580167078 751.543945312 184.000976562 c 5
+ 680.093271004 63.3844760965 548.451033878 1 322 1 c 4
+ 244.133789062 1 183.658203125 8.4111328125 128 20.0703125 c 5
+ 128 141.42578125 l 5
 EndSplineSet
 EndChar
 

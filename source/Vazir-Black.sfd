@@ -4,7 +4,7 @@ FullName: Vazir Black
 FamilyName: Vazir Black
 Weight: Black
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 27.2.1
+Version: 27.2.2
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1612445502
+ModificationTime: 1613224946
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Black" "" "Version 27.2.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Black"
+LangName: 1033 "" "" "" "Vazir Black" "" "Version 27.2.2" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Black"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -188,7 +188,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 150 25 13
+WinInfo: 0 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1760,23 +1760,23 @@ LayerCount: 2
 Fore
 SplineSet
 247 188 m 2
- 247 650 168 995 35 1267 c 5
- 309 1366 l 5
- 352 1246 396 1127 439 1007 c 4
- 459 950 493 926 566 925 c 4
- 595 925 637 951 638 1131 c 4
- 638 1183 639 1231 639 1283 c 5
- 911 1306 l 5
- 913 1250 915 1197 917 1140 c 4
- 924 954 969 925 999 925 c 4
- 1045 925 1068 961 1068 1064 c 4
- 1068 1188 1052 1244 1037 1332 c 5
- 1328 1367 l 5
- 1340 1273 1353 1207 1353 1070 c 4
- 1353 835 1244 632 995 632 c 4
- 914 632 838 660 773 717 c 5
- 709 660 638 632 568 632 c 4
- 550 632 529 633 512 636 c 5
+ 247 650 168 995 35 1267 c 1
+ 309 1366 l 1
+ 352 1246 396 1127 439 1007 c 0
+ 459 950 492.993164062 925 546 925 c 4
+ 605 925 637 951 638 1131 c 0
+ 638 1183 639 1231 639 1283 c 1
+ 911 1306 l 1
+ 913 1250 915 1197 917 1140 c 0
+ 924 954 969 925 999 925 c 0
+ 1045 925 1068 961 1068 1064 c 0
+ 1068 1188 1052 1244 1037 1332 c 1
+ 1328 1367 l 1
+ 1340 1273 1353 1207 1353 1070 c 0
+ 1353 835 1244 632 995 632 c 0
+ 914 632 838 660 773 717 c 1
+ 709 660 638 632 568 632 c 0
+ 550 632 529 633 512 636 c 1
  530 486 537 327 537 185 c 2
  537 0 l 1
  247 0 l 1
@@ -2444,7 +2444,8 @@ SplineSet
  473 1218 602 1357 801 1357 c 0
  946 1357 1046 1296 1113 1246 c 1
  1018 987 l 1
- 955 1022 913 1056 812 1056 c 0
+ 983.367728024 1008.00646005 954.215085841 1027.40126428 917 1040.24338589 c 4
+ 888.665813246 1050.02090121 855.658041483 1056 812 1056 c 0
  718 1056 652 970 652 864 c 0
  652 846 763 837 804 837 c 0
  911 837 1017 882 1107 918 c 1
@@ -2512,20 +2513,21 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-979 646 m 5
+979 646 m 1
  691 501 580 362 316 -58 c 1
  51 61 l 1
- 174 281 234 377 370 530 c 5
- 182 588 73 724 73 879 c 4
- 73 1110 246 1350 528 1350 c 4
- 614 1350 735 1311 833 1247 c 5
- 730 990 l 5
- 669 1020 615 1053 535 1053 c 4
- 449 1053 367 958 367 886 c 4
- 367 863 393 793 602 770 c 4
- 605 770 609 769 612 769 c 5
- 710 831 787 872 898 927 c 5
- 979 646 l 5
+ 174 281 234 377 370 530 c 1
+ 182 588 73 724 73 879 c 0
+ 73 1110 246 1350 528 1350 c 0
+ 614 1350 735 1311 833 1247 c 1
+ 730 990 l 1
+ 698.090037549 1006.48681393 667.594305242 1023.25647389 634 1035.3448965 c 4
+ 604.427251454 1045.98622036 572.453383399 1053 535 1053 c 0
+ 449 1053 367 958 367 886 c 0
+ 367 863 393 793 602 770 c 0
+ 605 770 609 769 612 769 c 1
+ 710 831 787 872 898 927 c 1
+ 979 646 l 1
 EndSplineSet
 Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni0666
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F7 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -4015,29 +4017,29 @@ StartChar: uniFEAA
 Encoding: 65194 65194 181
 GlifName: uniF_E_A_A_
 Width: 1055
-VWidth: 2950
+VWidth: 3010
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 AnchorPoint: "Anchor-7" 401 -181 basechar 0
 AnchorPoint: "Anchor-10" 507 1214 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-38 346 m 5
- 119 326 228 301 307 301 c 0
- 542 301 594 357 594 407 c 0
- 594 418 568 503 508 643 c 2
- 365 979 l 1
- 637 1104 l 1
- 868 514 l 2
- 946 316 992 300 1033 300 c 2
+38 345.15234375 m 1
+ 118.835746031 325.7113884 228.59854235 301 307 301 c 0
+ 426.695076807 301 586 306.9064902 586 410 c 0
+ 586 440.76301929 564.188596803 500.956836146 554.40625 524.400390625 c 2
+ 372.173828125 982.811523438 l 1
+ 636.723632812 1103.99316406 l 1
+ 867.885742188 513.86328125 l 2
+ 908.456511491 410.356153942 941.379192212 300 1033 300 c 2
  1075 300 l 1
  1075 0 l 1
  1033 0 l 2
- 923 0 831 48 763 130 c 1
- 657 41 511 1 322 1 c 0
- 204 1 124 17 38 38 c 1
- 38 346 l 5
+ 897.47923552 0 805.304359576 46.8174159675 738.868164062 128.09765625 c 1
+ 639.915890114 41.5457359311 509.421412764 1 322 1 c 0
+ 203.89836714 1 124.685421449 18.1090570991 38 38.42578125 c 1
+ 38 345.15234375 l 1
 EndSplineSet
 EndChar
 
