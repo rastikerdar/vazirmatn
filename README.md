@@ -6,7 +6,7 @@ Vazir is a Persian/Arabic font.
 
 <div dir='rtl'>
 
-فونت فارسی وزیر  
+فونت فارسی/عربی وزیر  
 [نمایش فونت - صفحه رسمی پروژه](https://rastikerdar.github.io/vazir-font/)  
 [راهنمای فونت وزیر](https://github.com/rastikerdar/vazir-font/blob/master/HELP.md)  
 [صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/vazir-font/releases)  
