@@ -4,7 +4,7 @@ FullName: Vazir Thin
 FamilyName: Vazir Thin
 Weight: Thin
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 27.2.2
+Version: 28.0.0
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1613224963
+ModificationTime: 1617735572
 PfmFamily: 33
 TTFWeight: 100
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Thin" "" "Version 27.2.2" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
+LangName: 1033 "" "" "" "Vazir Thin" "" "Version 28.0.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -188,7 +188,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 50 25 13
+WinInfo: 0 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -202,7 +202,7 @@ BeginChars: 65635 466
 StartChar: space
 Encoding: 32 32 0
 GlifName: space
-Width: 550
+Width: 507
 VWidth: 2532
 GlyphClass: 2
 Flags: HW
@@ -276,7 +276,7 @@ EndChar
 StartChar: uni00A0
 Encoding: 160 160 4
 GlifName: uni00A_0
-Width: 550
+Width: 507
 VWidth: 2532
 GlyphClass: 2
 Flags: HW
@@ -4021,7 +4021,7 @@ GlifName: uniF_E_A_A_
 Width: 1055
 VWidth: 2920
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 AnchorPoint: "Anchor-7" 401 -271 basechar 0
 AnchorPoint: "Anchor-10" 507 1124 basechar 0
 LayerCount: 2

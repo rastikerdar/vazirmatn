@@ -18,10 +18,6 @@ Vazir is a Persian/Arabic font.
 
 از نسخه ۲۷ نام فایل نسخه معمولی وزیر از Vazir به Vazir-Regular تغییر یافته است. لطفا پیش از نصب برای جلوگیری از تداخل، نسخه‌های قبل را حذف نمایید.
 
-## نمونه متن Sample
-
-![نمونه متن فونت وزیر](./sample.png)
-
 ## طریقه استفاده در صفحات وب
 
 کد زیر را در قسمت style یا فایل css وارد نمایید:
@@ -109,7 +105,7 @@ Fonts will be copied to `node_modules/vazir-font/dist` directory
 Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v27.2.2/dist/font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v28.0.0/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
 and integrate the font into your CSS:
