@@ -113,7 +113,7 @@
         "web": "",
         "amount": 5000
     }, {
-        "date": "1395/03/22 11:2",
+        "date": "1395/03/22 11:02",
         "name": "سعید سرپوشان",
         "img": "",
         "web": "",
@@ -215,7 +215,7 @@
         "web": "https://github.com/font-store/",
         "amount": 20000
     }, {
-        "date": "1395/05/14 9:49",
+        "date": "1395/05/14 09:49",
         "name": "امید روزخوب",
         "img": "",
         "web": "",
@@ -3352,5 +3352,11 @@
         "img": "",
         "web": "",
         "amount": 10000
+    },{
+        "date": "1400/03/18 13:47",
+        "name": "سروش اصفهانی",
+        "img": "https://s.gravatar.com/avatar/575eba884ebe3b9fbec5472715d6a3ae?s=50&d=wavatar",
+        "web": "https://soroushesfahani.ir/",
+        "amount": 50000
     }
 ]
