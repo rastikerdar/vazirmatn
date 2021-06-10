@@ -4,7 +4,7 @@ FullName: Vazir Thin
 FamilyName: Vazir Thin
 Weight: Thin
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 29.0.0
+Version: 29.0.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1623279450
+ModificationTime: 1623341133
 PfmFamily: 33
 TTFWeight: 100
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Thin" "" "Version 29.0.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
+LangName: 1033 "" "" "" "Vazir Thin" "" "Version 29.0.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -188,7 +188,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 25 25 13
+WinInfo: 150 25 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -984,7 +984,7 @@ SplineSet
 954 755 m 1
  864 804 786 831 715 831 c 0
  586 831 465 744 465 600 c 0
- 465 486 533 422 593 346 c 1
+ 465 486 532 404 593 346 c 5
  710 367 827 381 912 381 c 0
  962 381 1012 378 1059 374 c 1
  1044 261 l 1
@@ -4775,27 +4775,27 @@ GlifName: uniF_E_C_B_
 Width: 1034
 VWidth: 2950
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 AnchorPoint: "Anchor-10" 550 1157 basechar 0
 AnchorPoint: "Anchor-7" 485 -267 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-198 434 m 0
- 198 623.166992188 365.14453125 790 551 790 c 0
- 638.274414062 790 736.849609375 757.030273438 842.1640625 689.1328125 c 1
- 800.200195312 596.301757812 l 1
- 710.059570312 645.548828125 632.107421875 672 561 672 c 0
- 427.662109375 672 311 562.03515625 311 421 c 0
- 311 375.124023438 333.083984375 236.0234375 481.220703125 168.850585938 c 0
- 491.79296875 163.681640625 512.513671875 153.279296875 538.461914062 159.942382812 c 2
- 906 254.323242188 l 1
- 906 135.138671875 l 1
- 598.3125 41.1162109375 340.958984375 0 85 0 c 2
- -20 0 l 1
- -20 120 l 1
- 338.870117188 120 l 1
- 276.250836405 179.391703919 198 281.573940866 198 434 c 0
+198 434 m 4
+ 198 623.184570312 369 790 551 790 c 4
+ 661.333007812 790 736.455078125 757.374023438 842.161132812 689.134765625 c 5
+ 800.202148438 596.31640625 l 5
+ 710.940429688 645.239257812 631.987304688 672 561 672 c 4
+ 429.921875 672 310.924804688 563.305664062 310.924804688 426.52734375 c 4
+ 310.924804688 281.036132812 461.581054688 150.155273438 496.78125 150.155273438 c 4
+ 509.852539062 150.155273438 521.857421875 152.888671875 536.651367188 156.78515625 c 6
+ 906 254.069335938 l 5
+ 906 135.145507812 l 5
+ 599.375976562 41.39453125 340.704101562 0 85 0 c 6
+ -20 0 l 5
+ -20 120 l 5
+ 338.865234375 120 l 5
+ 280 187 198 297.956054688 198 434 c 4
 EndSplineSet
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-130 dv=0

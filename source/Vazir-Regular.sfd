@@ -4,7 +4,7 @@ FullName: Vazir Regular
 FamilyName: Vazir
 Weight: Regular
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 29.0.0
+Version: 29.0.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1623279462
+ModificationTime: 1623340099
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "" "" "Version 29.0.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Regular"
+LangName: 1033 "" "" "" "" "" "Version 29.0.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Regular"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -984,7 +984,7 @@ SplineSet
 968 743 m 5
  869 801 785 831 715 831 c 4
  598 831 495 754 495 630 c 4
- 495 534 545 485 605 409 c 1
+ 495 534 555 455 605 409 c 5
  724 430 827 441 912 441 c 0
  974 441 1034 437 1093 431 c 1
  1070 260 l 1
@@ -4786,9 +4786,9 @@ SplineSet
  652 850 763 810 880 730 c 1
  814 584 l 1
  715 642 631 672 561 672 c 0
- 444 672 341 575 341 451 c 0
- 341 412 360 286 494 226 c 0
- 502 222 518.083793548 215.683245751 531 219 c 2
+ 445.779772758 672 340.924596202 575.455326641 340.924596202 456.526905405 c 0
+ 340.924596202 315.854724799 474.554508879 210.154941158 496.780941911 210.154941158 c 0
+ 504.999756171 210.154941158 515.003440401 212.11251332 529 215.799107143 c 2
  936 323 l 1
  936 143 l 1
  618 44 350 -3.24531401774e-14 85 0 c 2

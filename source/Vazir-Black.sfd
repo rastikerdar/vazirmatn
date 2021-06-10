@@ -4,7 +4,7 @@ FullName: Vazir Black
 FamilyName: Vazir Black
 Weight: Black
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 29.0.0
+Version: 29.0.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1623279438
+ModificationTime: 1623340712
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
@@ -122,7 +122,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Black" "" "Version 29.0.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Black"
+LangName: 1033 "" "" "" "Vazir Black" "" "Version 29.0.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Black"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -188,7 +188,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 125 25 13
+WinInfo: 100 25 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -984,8 +984,8 @@ SplineSet
 995 718 m 1
  911 767 799 831 715 831 c 0
  623 831 555 775 555 690 c 0
- 555 627 580 596 630 534 c 1
- 738 552 830 561 912 561 c 0
+ 555 622 592 569 625 533 c 5
+ 733 551 830 561 912 561 c 0
  999 561 1081 552 1161 544 c 1
  1122 258 l 1
  1080 260 1001 262 971 262 c 0
@@ -4779,21 +4779,21 @@ AnchorPoint: "Anchor-7" 485 -237 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-108 524 m 0
- 108 763.731445312 313.7109375 970 551 970 c 0
- 715.338329719 970 828.940215133 897.599036535 955.3984375 811.130859375 c 1
- 841.205078125 558.522460938 l 1
- 756.805608479 607.969410727 654.936011296 672 561 672 c 0
- 476.67578125 672 401 600.930664062 401 511 c 0
- 401 485.050647594 417.269010021 384.37256421 519 340.385318531 c 0
- 522.077826592 339.054503659 523.436032283 339.004030337 526.99904989 339.918985298 c 2
- 996 460.354492188 l 1
- 996 158.838867188 l 1
- 673.059343108 58.2999619848 366.573299148 0 85 0 c 2
- -20 0 l 1
- -20 300 l 1
- 167.938476562 300 l 1
- 133.198242188 367.927734375 108 444.377929688 108 524 c 0
+108 524 m 4
+ 108 763.731445312 313.7109375 970 551 970 c 4
+ 715.338329719 970 828.940215133 897.599036535 955.3984375 811.130859375 c 5
+ 841.205078125 558.522460938 l 5
+ 757.137819955 607.774778649 654.745090788 671.496154146 562.097893056 671.496154146 c 4
+ 480.28554591 671.496154146 400.924804688 602.446683227 400.924804688 516.020507812 c 4
+ 400.924804688 438.463417556 458.008467875 365.004168026 505.901367188 331.413085938 c 4
+ 508.12890625 331.913085938 511.096331225 332.634268066 513.697265625 333.319335938 c 6
+ 996 460.354492188 l 5
+ 996 158.838867188 l 5
+ 673.059343108 58.2999619848 366.573299148 0 85 0 c 6
+ -20 0 l 5
+ -20 300 l 5
+ 167.938476562 300 l 5
+ 133.198242188 367.927734375 108 444.377929688 108 524 c 4
 EndSplineSet
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-130 dv=0
