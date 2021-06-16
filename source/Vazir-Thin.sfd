@@ -4,7 +4,7 @@ FullName: Vazir Thin
 FamilyName: Vazir Thin
 Weight: Thin
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 29.0.1
+Version: 29.0.2
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1623341133
+ModificationTime: 1623836173
 PfmFamily: 33
 TTFWeight: 100
 TTFWidth: 5
@@ -70,8 +70,9 @@ Lookup: 1 0 0 "'locl' Localized Forms in Arabic lookup 10" { "'locl' Localized F
 Lookup: 257 0 0 "Single Positioning lookup 0" { "Single Positioning lookup 0 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 1" { "Single Positioning lookup 1 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 2" { "Single Positioning lookup 2 subtable"  } []
-Lookup: 258 9 0 "'kern' Horizontal Kerning lookup 4" { "'kern' Horizontal Kerning lookup 4 subtable 0" [307,30,2] "'kern' Horizontal Kerning lookup 4 subtable 1" [307,30,2] } ['kern' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 264 0 0 "'kern' Horizontal Kerning lookup 5" { "'kern' Horizontal Kerning lookup 5 subtable 0"  "'kern' Horizontal Kerning lookup 5 subtable 1"  "'kern' Horizontal Kerning lookup 5 subtable 2"  } ['kern' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 257 0 0 "Single Positioning lookup 3" { "Single Positioning lookup 3 subtable"  } []
+Lookup: 258 9 0 "'kern' Horizontal Kerning lookup 4" { "'kern' Horizontal Kerning lookup 4 subtable 1" [307,30,2] } ['kern' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 264 0 0 "'kern' Horizontal Kerning lookup 5" { "'kern' Horizontal Kerning lookup 5 subtable 0"  "'kern' Horizontal Kerning lookup 5 subtable 1"  "'kern' Horizontal Kerning lookup 5 subtable 2"  "'kern' Horizontal Kerning lookup 5 subtable 3"  } ['kern' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 6" { "'mark' Mark Positioning lookup 6 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 261 1 0 "'mark' Mark Positioning lookup 8" { "'mark' Mark Positioning lookup 8 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 9" { "'mark' Mark Positioning lookup 9 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
@@ -80,6 +81,13 @@ Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 11" { "'mkmk' Mark to Mark
 Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 12" { "'mkmk' Mark to Mark in Arabic lookup 12 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 3" 0 0 0 1
+ 1 1 0
+  Coverage: 15 uni0639 uni063A
+  BCoverage: 63 uniFEF5 uniFEF6 uniFEF7 uniFEF8 uniFEF9 uniFEFA uniFEFB uniFEFC
+ 1
+  SeqLookup: 0 "Single Positioning lookup 3"
+EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 3" 0 0 0 1
  1 1 0
   Coverage: 15 uniFBB1 uniFBAF
@@ -122,7 +130,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Thin" "" "Version 29.0.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
+LangName: 1033 "" "" "" "Vazir Thin" "" "Version 29.0.2" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -188,7 +196,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 150 25 13
+WinInfo: 0 25 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -426,15 +434,15 @@ AnchorPoint: "Anchor-7" 222 -193 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-119 1405 m 0
- 49 1405 -2 1338 -50 1282 c 1
- -121 1339 l 1
- -56 1428 17 1497 95 1497 c 0
- 169 1497 256 1406 350 1406 c 0
- 407 1406 453 1452 500 1493 c 5
- 547 1415 l 5
- 484 1367 421 1319 356 1319 c 0
- 285 1319 208 1405 119 1405 c 0
+119 1408 m 0
+ 47.4168996702 1408 0.287115967511 1348.85272757 -60.39453125 1281.30664062 c 1
+ -119.873046875 1335.43945312 l 1
+ -68.754709168 1392.17420621 12.0099458741 1496 95 1496 c 0
+ 175.510253223 1496 255.886110938 1410 344 1410 c 0
+ 424.841582908 1410 442.791656369 1434.42611564 504.712890625 1485.328125 c 1
+ 556.908203125 1416.86425781 l 1
+ 469.293945312 1351.63574219 411.692382812 1323 366 1323 c 0
+ 289.624614706 1323 201.986076056 1408 119 1408 c 0
 EndSplineSet
 Refer: 15 1575 N 1 0 0 0.89919 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
@@ -1001,6 +1009,7 @@ SplineSet
  792 949 891 916 996 848 c 1
  954 755 l 1
 EndSplineSet
+Position2: "Single Positioning lookup 3 subtable" dx=0 dy=0 dh=-60 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFECA
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFECC
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFECB
@@ -1019,6 +1028,7 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 589 1164 2
 Refer: 33 1593 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 3 subtable" dx=0 dy=0 dh=-60 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFECE
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFED0
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFECF
@@ -1577,15 +1587,15 @@ AnchorPoint: "Anchor-1" 306 1052 mark 0
 LayerCount: 2
 Fore
 SplineSet
-229 1206 m 0
- 173 1206 132 1149 94 1105 c 1
- 35 1152 l 1
- 88 1224 146 1281 209 1281 c 0
- 268 1281 339 1205 414 1205 c 0
- 459 1205 494 1236 534 1271 c 1
- 573 1206 l 5
- 522 1166 470 1133 418 1133 c 0
- 361 1133 300 1206 229 1206 c 0
+229.709960938 1208.29492188 m 0
+ 171.789241208 1208.29492188 133.165520129 1159.65732208 83.5959469557 1104.49804265 c 1
+ 33.1976795619 1150.36708171 l 1
+ 75.4488830909 1197.31594781 141.286590058 1282.61523438 210.150390625 1282.61523438 c 0
+ 275.868845428 1282.61523438 341.654447599 1212.52539062 413.084960938 1212.52539062 c 4
+ 469.072112212 1212.52539062 493.174294641 1232.42217535 544.281894767 1274.47845727 c 1
+ 588.435655742 1216.5620746 l 1
+ 516.40333683 1162.81207475 468.965453074 1139.01953125 431.014648438 1139.01953125 c 0
+ 368.658241943 1139.01953125 296.960993092 1208.29492188 229.709960938 1208.29492188 c 0
 EndSplineSet
 EndChar
 
@@ -4775,7 +4785,7 @@ GlifName: uniF_E_C_B_
 Width: 1034
 VWidth: 2950
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 AnchorPoint: "Anchor-10" 550 1157 basechar 0
 AnchorPoint: "Anchor-7" 485 -267 basechar 0
 LayerCount: 2
@@ -5786,8 +5796,6 @@ EndSplineSet
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=130 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 0" uni0639 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 0" uni063A dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uniFEDF uniFE8E
 EndChar
@@ -5825,8 +5833,6 @@ SplineSet
  445 389 352 704 148 1181 c 1
  244 1233 l 1
 EndSplineSet
-PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 0" uni0639 dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 0" uni063A dx=-60 dy=0 dh=-60 dv=0 dx=0 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uniFEE0 uniFE8E
 EndChar
