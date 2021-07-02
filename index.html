@@ -24,13 +24,17 @@
         box-sizing: border-box;
       }
 
+      html {
+        font-size: 16px;
+      }
+
       p {
         margin-bottom: 10px;
       }
 
       a {
         text-decoration: none;
-        color: #367100;
+        color: #007fba;
       }
 
       li {
@@ -40,7 +44,6 @@
       body {
         background-color: #f7f8f9;
         color: #000;
-        font-size: 14px;
         direction: rtl;
         line-height: 1.7;
         font-family: Vazir, Tahoma, 'DejaVu Sans', helvetica, arial, freesans,
@@ -54,7 +57,7 @@
       }
 
       header,
-      .sample,
+      .column,
       footer {
         border: 1px solid rgba(0, 0, 0, 0.08);
         border-radius: 5px;
@@ -62,13 +65,16 @@
         padding: 20px;
       }
 
-      .sample {
+      .column {
         background-color: #fff;
         color: #4a4a4a;
         float: left;
-        font-size: 14px;
         text-align: center;
         width: 50%;
+      }
+
+      .left {
+        font-size: 0.9rem;
       }
 
       header {
@@ -79,6 +85,11 @@
         width: 50%;
       }
 
+      header .description {
+        font-weight: normal;
+        font-size: 1rem;
+      }
+
       header .get {
         margin: 20px 0;
         font-size: 1.5em;
@@ -87,13 +98,12 @@
       header .get a {
         display: inline-block;
         border-bottom: 1px solid #d5d5d5;
-        color: #007fba;
         margin: 0 5px;
       }
 
       header .info {
         color: #999;
-        font-size: 12px;
+        font-size: 0.9rem;
       }
 
       header .other-fonts {
@@ -115,7 +125,7 @@
 
       header .notice {
         color: #b40000;
-        font-size: 13px;
+        font-size: 0.9rem;
       }
 
       header > h1 {
@@ -126,7 +136,7 @@
 
       header .weights {
         color: #2e3436;
-        font-size: 12px;
+        /* font-size: 0.9rem; */
         background-color: #ffffff;
         padding: 10px;
         margin: 10px 0;
@@ -142,10 +152,6 @@
       header .weights h5,
       header .weights h6 {
         margin-bottom: 10px;
-      }
-
-      header .weights {
-        font-size: 15px;
       }
 
       header .last-version {
@@ -169,11 +175,14 @@
       }
 
       .payment {
-        border: 1px solid #dfdfdf;
+        border: 1px solid #007fba;
         display: inline-block;
-        padding: 5px 10px;
-        box-shadow: 0 0 5px #e9e9e9;
+        padding: 10px;
+        box-shadow: 0 0 10px #00000021;
         border-radius: 20px;
+        margin-bottom: 10px;
+        font-size: 0.9rem;
+        font-weight: 500;
       }
 
       .sort a {
@@ -206,14 +215,6 @@
         color: #aaa;
       }
 
-      .donors li .gifticon {
-        display: block;
-        height: 50px;
-        padding-top: 20px;
-        text-align: center;
-        width: 100%;
-      }
-
       .donors li img {
         width: 50px;
         border-radius: 50%;
@@ -227,6 +228,7 @@
         max-width: 100%;
         text-align: center;
         clear: both;
+        font-size: 0.9rem;;
       }
 
       footer a {
@@ -236,7 +238,7 @@
 
       @media all and (max-width: 768px) {
         header,
-        .sample,
+        .column,
         footer {
           padding: 50px 30px;
           width: 100%;
@@ -251,7 +253,7 @@
           margin: 0;
         }
         header,
-        .sample,
+        .column,
         footer {
           border: none;
           padding: 50px 20px;
@@ -276,7 +278,6 @@
       .singlefile a {
         display: inline-block;
         border-bottom: 1px solid #d5d5d5;
-        color: #007fba;
         margin: 5px 10px 0;
         font-size: 1.3em;
       }
@@ -307,7 +308,7 @@
           فونت وزیر
           <span class="version">نسخه ۲۹</span>
         </h1>
-        <div class="description">فونت آزاد فارسی/عربی وزیر</div>
+        <h2 class="description">فونت آزاد فارسی/عربی وزیر</h2>
         <div class="get">
           <a
             href="https://github.com/rastikerdar/vazir-font/releases/download/v29.1.0/vazir-font-v29.1.0.zip"
@@ -485,7 +486,7 @@
         </div>
       </header>
 
-      <section class="sample test2">
+      <section class="column left">
         <p>
           به هر طریقی که می‌‌اندیشید از جمله گزارش اشکالات، اصلاح قلم، پیشنهاد،
           انتقاد، معرفی به دیگران، ساخت قلم جدید از روی آن و ... مشارکت نمایید
@@ -502,10 +503,9 @@
           >
           یا
           <a
-            class="payment"
             href="#"
             onclick="document.getElementById('btc-address').style.display = document.getElementById('btc-address').style.display =='block' ? 'none' : 'block'; return false;"
-            >Donate Bitcoin</a
+            >Bitcoin Donation</a
           >
           <br />
           آدرس وب و ایمیل را نیز درج بفرمایید.
