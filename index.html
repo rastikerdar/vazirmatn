@@ -34,7 +34,7 @@
 
       a {
         text-decoration: none;
-        color: #007fba;
+        color: #0053ba;
       }
 
       li {
@@ -42,7 +42,7 @@
       }
 
       body {
-        background-color: #f7f8f9;
+        background-color: white;
         color: #000;
         direction: rtl;
         line-height: 1.7;
@@ -51,8 +51,8 @@
       }
 
       .main {
-        padding: 50px;
-        margin: 20px auto;
+        padding: 20px;
+        margin: 0 auto;
         max-width: 1000px;
       }
 
@@ -68,9 +68,7 @@
       .column {
         background-color: #fff;
         color: #4a4a4a;
-        float: left;
         text-align: center;
-        width: 50%;
       }
 
       .left {
@@ -81,18 +79,18 @@
         text-align: center;
         color: #222;
         border: none;
-        float: right;
-        width: 50%;
       }
 
       header .description {
         font-weight: normal;
         font-size: 1rem;
+        text-align: right;
+        line-height: 1.8;
       }
 
       header .get {
-        margin: 20px 0;
-        font-size: 1.5em;
+        margin: 10px 0 20px;
+        font-size: 1.5rem;
       }
 
       header .get a {
@@ -106,12 +104,12 @@
         font-size: 0.9rem;
       }
 
-      header .other-fonts {
+      .other-fonts {
         background-color: #eee;
         border: 1px solid #c4c4c4;
         font-size: 15px;
         margin: 5px 0;
-        padding: 10px 0;
+        padding: 5px;
       }
 
       header .version {
@@ -134,7 +132,7 @@
         position: relative;
       }
 
-      header .weights {
+      .weights {
         color: #2e3436;
         /* font-size: 0.9rem; */
         background-color: #ffffff;
@@ -145,12 +143,12 @@
         line-height: 1.7;
       }
 
-      header .weights h1,
-      header .weights h2,
-      header .weights h3,
-      header .weights h4,
-      header .weights h5,
-      header .weights h6 {
+      .weights h1,
+      .weights h2,
+      .weights h3,
+      .weights h4,
+      .weights h5,
+      .weights h6 {
         margin-bottom: 10px;
       }
 
@@ -160,6 +158,10 @@
         font-weight: bold;
       }
 
+      .info {
+        max-width: 600px;
+      }
+      
       .infobox {
         background-color: #f4f7ff;
         border: 1px solid #e2e2e2;
@@ -168,7 +170,6 @@
         font-weight: 700;
         line-height: 2;
         margin: 15px auto;
-        max-width: 600px;
         padding: 5px;
         text-align: center;
         font-size: 15px;
@@ -201,7 +202,7 @@
         text-align: center;
         vertical-align: top;
         width: 65px;
-        font-size: 13px;
+        font-size: 0.8rem;
       }
 
       .donors li .name {
@@ -217,6 +218,7 @@
 
       .donors li img {
         width: 50px;
+        height: 50px;
         border-radius: 50%;
       }
 
@@ -236,18 +238,7 @@
         text-decoration: underline;
       }
 
-      @media all and (max-width: 768px) {
-        header,
-        .column,
-        footer {
-          padding: 50px 30px;
-          width: 100%;
-          margin: 0;
-          border-radius: 0;
-        }
-      }
-
-      @media all and (max-width: 480px) {
+      @media all and (max-width: 700px) {
         .main {
           padding: 0;
           margin: 0;
@@ -256,7 +247,7 @@
         .column,
         footer {
           border: none;
-          padding: 50px 20px;
+          padding: 20px;
           width: 100%;
           border: none;
           margin: 0;
@@ -306,9 +297,7 @@
       <header>
         <h1>
           فونت وزیر
-          <span class="version">نسخه ۲۹</span>
         </h1>
-        <h2 class="description">فونت آزاد فارسی/عربی وزیر</h2>
         <div class="get">
           <a
             href="https://github.com/rastikerdar/vazir-font/releases/download/v29.1.0/vazir-font-v29.1.0.zip"
@@ -345,157 +334,50 @@
             >Vazir-Regular.ttf</a
           >
         </div>
-        <div class="info">
-          <div>
-            آخرین نسخه:
-            <span dir="ltr" class="last-version">29.1.0</span>
-          </div>
-          <div>
-            <a
-              class="help"
-              href="https://github.com/rastikerdar/vazir-font/blob/master/HELP.md"
-              target="_blank"
-              >راهنمای فونت وزیر</a
-            >
-          </div>
-          <div class="infobox">
-            توجه: به دلیل تغییر نام نسخه معمولی از Vazir به Vazir-Regular از
-            نسخه ۲۷ لطفا پیش از نصب، نسخه قبل از ۲۷ را حذف نمایید.
-          </div>
-          <div>برای حروف لاتین از گلیف‌های قلم Roboto استفاده شده است.</div>
-          <div>
-            برای مشاهده فهرست تغییرات هر نسخه و یا دریافت نسخه‌های قدیمی‌تر به
-            <a
-              href="https://github.com/rastikerdar/vazir-font/releases"
-              target="_blank"
-              >این صفحه</a
-            >
-            مراجعه نمایید.
-          </div>
-          <div>مجوز: OFL</div>
-          <div>معنی وزیر (دهخدا): معاون، مددکار</div>
-          <div>
-            صفحه
-            <a href="test.html" target="_blank" style="font-size: 1.2rem"
-              >تست</a
-            >
-            فونت
-          </div>
-          <div>
-            توصیه: اطمینان یابید که از آخرین نسخه فونت در حال استفاده می‌باشید.
-          </div>
-          <div>
-            توصیه: برای حالت ضخیم یا Bold حتما از فایل Vazir-Bold استفاده
-            نمایید.
-          </div>
-          <div class="other-fonts">
-            سایر قلم‌های آزاد:
-            <a href="http://rastikerdar.github.io/sahel-font/" target="_blank"
-              >ساحل</a
-            >،
-            <a
-              href="http://rastikerdar.github.io/parastoo-font/"
-              target="_blank"
-              >پرستو</a
-            >،
-            <a href="http://rastikerdar.github.io/samim-font/" target="_blank"
-              >صمیم</a
-            >،
-            <a href="http://rastikerdar.github.io/tanha-font/" target="_blank"
-              >تنها</a
-            >،
-            <a href="http://rastikerdar.github.io/gandom-font/" target="_blank"
-              >گندم</a
-            >،
-            <a href="http://rastikerdar.github.io/shabnam-font/" target="_blank"
-              >شبنم</a
-            >،
-            <a href="http://rastikerdar.github.io/nahid-font/" target="_blank"
-              >ناهید</a
-            >،
-            <br />
-            <a
-              href="http://rastikerdar.github.io/vazir-code-font/"
-              target="_blank"
-              >وزیرکد</a
-            >
-            (برای کدنویسی)
-            <br />
-            قلم
-            <a
-              href="https://mhp2011.blog.ir/post/font-Eiman"
-              target="_blank"
-              >ایمان</a
-            >
-            بر مبنای وزیر با لبه‌های گرد
-            <br />
-            قلم‌های آزاد سایر طراحان:
-            <a href="http://libre.font-store.ir/NikaFont/" target="_blank"
-              >نیکا</a
-            >،
-            <a href="https://aminabedi68.github.io/Estedad/" target="_blank"
-              >استعداد</a
-            >، <a href="https://pfont.github.io/" target="_blank">پی‌فونت</a>،
-            <br />
-            <a
-              href="https://github.com/IranOpenFontGroup/Discussions/wiki/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%81%D9%88%D9%86%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AC%D9%88%D8%B2-%D8%A2%D8%B2%D8%A7%D8%AF"
-              target="_blank"
-              >فهرست قلم‌های آزاد</a
-            >
-          </div>
-          <div class="infobox">
-            نسخه‌های شامل حروف لاتین Roboto، بدون حروف لاتین و تمام ارقام فارسی
-            در بسته فشرده (zip) فونت موجود می‌باشد.
-          </div>
-          <div class="infobox">
-            نسخه UI با ارتفاع کم نیز در بسته فشرده (zip) فونت موجود می‌باشد.
-          </div>
-          <div>
-            <a
-              href="http://rastikerdar.github.io/getting-started-with-fontforge/"
-              target="_blank"
-              >آموزش</a
-            >
-            برنامه ویرایش قلم
-            <a href="https://fontforge.github.io" target="_blank">فونت‌فورج</a>
-            به زبان فارسی
-          </div>
-
-          <div>
-            <a href="compare.html" target="_blank">صفحه مقایسه</a> نسخه‌های
-            مختلف وزیر
-          </div>
-          <div>
-            برای مقایسه قلم‌های فارسی/عربی به
-            <a
-              href="http://rastikerdar.github.io/compare-fonts/"
-              target="_blank"
-              >این صفحه
-            </a>
-            مراجعه نمایید.
-          </div>
+        <div>
+          آخرین نسخه:
+          <span dir="ltr" class="last-version">29.1.0</span>
         </div>
-
-        <div class="weights">
-          <div style="font-weight: 900">ای نسیم سحر آرامگه یار کجاست</div>
-          <div style="font-weight: 700">ای نسیم سحر آرامگه یار کجاست</div>
-          <div style="font-weight: 500">ای نسیم سحر آرامگه یار کجاست</div>
-          <div style="font-weight: 400">ای نسیم سحر آرامگه یار کجاست</div>
-          <div style="font-weight: 300">ای نسیم سحر آرامگه یار کجاست</div>
-          <div style="font-weight: 100">ای نسیم سحر آرامگه یار کجاست</div>
+        <div class="description">پروژهٔ قلم آزاد فارسی/عربی وزیر در سال ۱۳۹۴ با یک وزن آغاز و طی سال‌ها توسعه کامل‌تر و پخته‌تر گردیده و تا شش وزن گسترش یافته است. شکل ساده، روان و خوانای وزیر، آن را برای انوع پروژه‌ها از صفحات وب گرفته تا محیط کاربری، گرافیکی، مقاله، چاپ و ... قابل استفاده می‌کند. مجوز این قلم OFL می‌باشد که هر گونه استفاده از آن را آزاد می‌داند. برای حروف و علائم لاتین‌ِ وزیر از قلم Roboto گوگل استفاده شده است. جهت کسب اطلاعات بیشتر در مورد قلم و نحوهٔ نصب و استفاده به صفحهٔ <a href="https://github.com/rastikerdar/vazir-font/blob/master/HELP.md" target="_blank">راهنمای وزیر</a> مراجعه نمایید.
+          صفحهٔ
+          <a href="test.html" target="_blank">تست</a
+          >
+          فونت وزیر. 
+          سایر قلم‌های آزاد:
+          <a href="http://rastikerdar.github.io/sahel-font/" target="_blank"
+            >ساحل
+          </a>،
+          <a
+            href="http://rastikerdar.github.io/parastoo-font/"
+            target="_blank"
+            >پرستو
+          </a>،
+          <a href="http://rastikerdar.github.io/samim-font/" target="_blank"
+            >صمیم
+          </a>،
+          <a href="http://rastikerdar.github.io/tanha-font/" target="_blank"
+            >تنها
+          </a>،
+          <a href="http://rastikerdar.github.io/gandom-font/" target="_blank"
+            >گندم
+          </a>،
+          <a href="http://rastikerdar.github.io/shabnam-font/" target="_blank"
+            >شبنم
+          </a>،
+          <a href="http://rastikerdar.github.io/nahid-font/" target="_blank"
+            >ناهید
+          </a>،
+          <a
+          href="http://rastikerdar.github.io/vazir-code-font/"
+          target="_blank"
+          >وزیرکد</a>
         </div>
       </header>
 
       <section class="column left">
         <p>
-          به هر طریقی که می‌‌اندیشید از جمله گزارش اشکالات، اصلاح قلم، پیشنهاد،
-          انتقاد، معرفی به دیگران، ساخت قلم جدید از روی آن و ... مشارکت نمایید
-          مایه دلگرمیست. قلم‌ها برای هر گونه استفاده، تغییر و بازنشر آزاد
-          می‌باشند.
-        </p>
-        <p>
-          در صورت تمایل می‌توانید مبلغی (بالای یک هزار تومان) را برای فعالیت‌های
-          صورت گرفته هدیه فرمایید.
+          در صورت تمایل می‌توانید مبلغی (بالای پنج هزار تومان) برای فعالیت‌های
+          صورت گرفته هدیه فرمایید. آدرس وب و ایمیل را نیز درج بفرمایید.
         </p>
         <p>
           <a class="payment" href="https://www.payping.ir/saber"
@@ -507,8 +389,6 @@
             onclick="document.getElementById('btc-address').style.display = document.getElementById('btc-address').style.display =='block' ? 'none' : 'block'; return false;"
             >Bitcoin Donation</a
           >
-          <br />
-          آدرس وب و ایمیل را نیز درج بفرمایید.
         </p>
         <div id="btc-address" style="display: none">
           <a href="bitcoin:bc1q0e0s5my3cwv26k265hcfef28zk7sxd78vu3cdr"
@@ -517,8 +397,9 @@
           /></a>
           <br />
           bc1q0e0s5my3cwv26k265hcfef28zk7sxd78vu3cdr
+          <br />
+          <br />
         </div>
-        <br />
         <b
           >حمایت‌های مالی از سال ۱۳۹۴ تاکنون (جمعا
           <span id="amount-sum"></span> تومان)</b
@@ -555,6 +436,85 @@
         </p>
         <p>سپاس</p>
       </section>
+
+      <section class="column info">
+        <div class="infobox">
+          توجه: به دلیل تغییر نام نسخه معمولی از Vazir به Vazir-Regular از
+          نسخه ۲۷ لطفا پیش از نصب، نسخه قبل از ۲۷ را حذف نمایید.
+        </div>
+        <div>
+          برای مشاهده فهرست تغییرات هر نسخه و یا دریافت نسخه‌های قدیمی‌تر به
+          <a
+            href="https://github.com/rastikerdar/vazir-font/releases"
+            target="_blank"
+            >این صفحه</a
+          >
+          مراجعه نمایید.
+        </div>
+        <div>معنی وزیر (دهخدا): معاون، مددکار</div>
+        <div class="other-fonts">
+          قلم
+          <a
+            href="https://mhp2011.blog.ir/post/font-Eiman"
+            target="_blank"
+            >ایمان</a
+          >
+          بر مبنای وزیر با لبه‌های گرد
+          <br />
+          قلم‌های آزاد سایر طراحان:
+          <a href="http://libre.font-store.ir/NikaFont/" target="_blank"
+            >نیکا</a
+          >،
+          <a href="https://aminabedi68.github.io/Estedad/" target="_blank"
+            >استعداد</a
+          >، <a href="https://pfont.github.io/" target="_blank">پی‌فونت</a>،
+          <br />
+          <a
+            href="https://github.com/IranOpenFontGroup/Discussions/wiki/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%81%D9%88%D9%86%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AC%D9%88%D8%B2-%D8%A2%D8%B2%D8%A7%D8%AF"
+            target="_blank"
+            >فهرست قلم‌های آزاد</a
+          >
+        </div>
+        <div class="infobox">
+          نسخه‌های شامل حروف لاتین Roboto، بدون حروف لاتین و تمام ارقام فارسی
+          در بسته فشرده (zip) فونت موجود می‌باشد.
+        </div>
+        <div class="infobox">
+          نسخه UI با ارتفاع کم نیز در بسته فشرده (zip) فونت موجود می‌باشد.
+        </div>
+        <div>
+          <a
+            href="http://rastikerdar.github.io/getting-started-with-fontforge/"
+            target="_blank"
+            >آموزش</a
+          >
+          برنامه ویرایش قلم
+          <a href="https://fontforge.github.io" target="_blank">فونت‌فورج</a>
+          به زبان فارسی
+        </div>
+
+        <div>
+          <a href="compare.html" target="_blank">صفحه مقایسه</a> نسخه‌های
+          مختلف وزیر
+        </div>
+        <div>
+          برای مقایسه قلم‌های فارسی/عربی به
+          <a
+            href="http://rastikerdar.github.io/compare-fonts/"
+            target="_blank"
+            >این صفحه
+          </a>
+          مراجعه نمایید.
+        </div>
+        <div class="weights">
+          <div style="font-weight: 900">ای نسیم سحر آرامگه یار کجاست</div>
+          <div style="font-weight: 700">ای نسیم سحر آرامگه یار کجاست</div>
+          <div style="font-weight: 500">ای نسیم سحر آرامگه یار کجاست</div>
+          <div style="font-weight: 400">ای نسیم سحر آرامگه یار کجاست</div>
+          <div style="font-weight: 300">ای نسیم سحر آرامگه یار کجاست</div>
+          <div style="font-weight: 100">ای نسیم سحر آرامگه یار کجاست</div>
+        </div>
+    </section>
       <div class="clear"></div>
     </div>
     <footer>
@@ -630,7 +590,7 @@
             dnt.img =
               'https://s.gravatar.com/avatar/' + i + '?noemail&s=50&d=wavatar';
           }
-          li += '<img src="' + dnt.img + '">';
+          li += '<img src="' + dnt.img + '" loading="lazy">';
           li += '<span class="name">' + dnt.name + '</span>';
           li +=
             '<span class="amount">' +
