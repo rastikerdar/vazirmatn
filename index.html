@@ -51,7 +51,6 @@
       }
 
       .main {
-        padding: 20px;
         margin: 0 auto;
         max-width: 1000px;
       }
@@ -59,10 +58,8 @@
       header,
       .column,
       footer {
-        border: 1px solid rgba(0, 0, 0, 0.08);
-        border-radius: 5px;
-        margin: 20px auto;
         padding: 20px;
+        margin: 0 auto;
       }
 
       .column {
@@ -71,14 +68,16 @@
         text-align: center;
       }
 
-      .left {
+      .donation {
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        border-radius: 5px;
         font-size: 0.9rem;
       }
 
       header {
         text-align: center;
         color: #222;
-        border: none;
+        margin-top: 40px;
       }
 
       header .description {
@@ -99,9 +98,16 @@
         margin: 0 5px;
       }
 
-      header .info {
-        color: #999;
-        font-size: 0.9rem;
+      header .last-version {
+        color: #343434;
+        font-size: 1.3rem;
+        font-weight: bold;
+      }
+
+      header > h1 {
+        color: #343434;
+        display: inline-block;
+        position: relative;
       }
 
       .other-fonts {
@@ -110,26 +116,6 @@
         font-size: 15px;
         margin: 5px 0;
         padding: 5px;
-      }
-
-      header .version {
-        position: absolute;
-        left: 0;
-        top: -5px;
-        color: #999;
-        font-size: 12px;
-        direction: ltr;
-      }
-
-      header .notice {
-        color: #b40000;
-        font-size: 0.9rem;
-      }
-
-      header > h1 {
-        color: #343434;
-        display: inline-block;
-        position: relative;
       }
 
       .weights {
@@ -150,12 +136,6 @@
       .weights h5,
       .weights h6 {
         margin-bottom: 10px;
-      }
-
-      header .last-version {
-        color: #343434;
-        font-size: 1.3rem;
-        font-weight: bold;
       }
 
       .info {
@@ -223,7 +203,7 @@
       }
 
       footer {
-        background-color: #515254;
+        background-color: #1e273a;
         border-radius: 0;
         color: #eee;
         margin: 0;
@@ -247,11 +227,15 @@
         .column,
         footer {
           border: none;
-          padding: 20px;
+          padding: 10px 20px;
           width: 100%;
           border: none;
           margin: 0;
           border-radius: 0;
+        }
+
+        header {
+          margin-top: 10px;
         }
 
         #donors {
@@ -367,7 +351,7 @@
         </div>
       </header>
 
-      <section class="column left">
+      <section class="column donation">
         <p>
           در صورت تمایل به پرداخت هدیه (بالای پنج هزار تومان) برای فعالیت‌های
           صورت گرفته از این لینک اقدام فرمایید. آدرس وب و ایمیل را نیز درج بفرمایید.
