@@ -23,7 +23,7 @@
       }
 
       td {
-        font-size: 0.95rem;
+        font-size: 0.95em;
       }
 
       table {
@@ -35,6 +35,7 @@
         margin-top: 0.75em;
         margin-bottom: 0.75em;
         background: #f8f9fa;
+        font-size: inherit;
       }
       th {
         vertical-align: top;
@@ -45,7 +46,7 @@
         padding: 5px;
       }
 
-      ul {
+      .sample ul {
         margin-right: 2rem;
       }
 
@@ -67,6 +68,7 @@
         padding: 50px;
         background-color: #fff;
         text-align: right;
+        overflow: hidden;
       }
 
       h1 {
@@ -104,22 +106,38 @@
       .font-buttons {
         position: fixed;
         top: 0;
-        background-color: #586777;
+        background-color: #455977;
         width: 100%;
         padding: 10px;
         text-align: center;
+        margin: 0;
+        color: #fff;
       }
 
       .font-buttons a {
         font-size: 15px;
         display: inline-block;
         color: #fff;
-        border-top: 1px solid #888;
+        /* border-top: 1px solid #888; */
+      }
+
+      .font-selection {
+        display: inline-block;
       }
 
       .font-selection li {
         display: inline-block;
         margin: 0 10px;
+      }
+
+      .font-buttons input {
+        margin-right: 20px;
+        vertical-align: middle;
+        max-width: 150px;
+      }
+
+      .sizeLabel {
+        font-size: 0.9rem;
       }
 
       @media all and (max-width: 700px) {
@@ -144,6 +162,8 @@
         <li><a href="#" id="tahoma" onclick="changeFont('tahoma', this); return false;">تاهوما</a></li>
         <li><a href="#" id="vazir" onclick="changeFont('vazir', this); return false;">وزیر</a></li>
       </ul>
+      <input type="range" min="8" max="100" value="16" class="slider" id="myRange" oninput="changeSize(this);">
+      <span class="sizeLabel">16</span>
     </section>  
 
     <section class="sample">
@@ -228,6 +248,14 @@
       function changeFont(name, event) {
         var body = document.getElementsByTagName('body')[0];
         body.className = name + '-font';
+      }
+
+      function changeSize(event) {
+        var sample = document.getElementsByClassName('sample')[0];
+        var sizeLabel = document.getElementsByClassName('sizeLabel')[0];
+        var size = event.value;
+        sample.style.fontSize = size + "px";
+        sizeLabel.innerText = size;
       }
     </script>
 
