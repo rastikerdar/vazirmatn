@@ -1,0 +1,40 @@
+lookup ss01StyleSet1inArabiclookup11 {
+  lookupflag 0;
+    sub \zero by \uni06F0 ;
+    sub \one by \uni06F1 ;
+    sub \two by \uni06F2 ;
+    sub \three by \uni06F3 ;
+    sub \four by \uni06F4 ;
+    sub \five by \uni06F5 ;
+    sub \six by \uni06F6 ;
+    sub \seven by \uni06F7 ;
+    sub \eight by \uni06F8 ;
+    sub \nine by \uni06F9 ;
+    sub \uni0664 by \uni06F4 ;
+    sub \uni0665 by \uni06F5 ;
+    sub \uni0666 by \uni06F6 ;
+} ss01StyleSet1inArabiclookup11;
+
+feature ss01 {
+  featureNames {
+    name 3 1 0x409 "Farsi Digits";
+  };
+
+ script DFLT;
+     language dflt ;
+      lookup ss01StyleSet1inArabiclookup11;
+
+ script arab;
+     language dflt ;
+      lookup ss01StyleSet1inArabiclookup11;
+     language FAR  exclude_dflt;
+      lookup ss01StyleSet1inArabiclookup11;
+     language KUR  exclude_dflt;
+      lookup ss01StyleSet1inArabiclookup11;
+     language URD  exclude_dflt;
+      lookup ss01StyleSet1inArabiclookup11;
+
+ script latn;
+     language dflt ;
+      lookup ss01StyleSet1inArabiclookup11;
+} ss01;

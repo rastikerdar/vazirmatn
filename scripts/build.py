@@ -46,6 +46,7 @@ def make(infile, outfile, latinfile, latincopyright, farsidigits, uiargs):
 
     if latinfile:
         font.mergeFonts(latinfile)
+        font.mergeFeature(os.path.join(os.path.dirname(__file__), 'farsi-digits.fea'))
 
     if latincopyright:
         for row in font.sfnt_names:
@@ -122,6 +123,7 @@ def make(infile, outfile, latinfile, latincopyright, farsidigits, uiargs):
             if row[1] == "Preferred Family":
                 font.appendSFNTName(row[0], row[1], row[2] + " " + tale)
 
+    font.mergeFeature(os.path.join(os.path.dirname(__file__), 'tnum.fea'))
     generateFont(font, outfile)
 
 

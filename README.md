@@ -105,7 +105,7 @@ Fonts will be copied to `node_modules/vazir-font/dist` directory
 Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v29.1.0/dist/font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.0.0/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
 and integrate the font into your CSS:

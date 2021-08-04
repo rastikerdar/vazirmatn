@@ -1,0 +1,46 @@
+lookup tnumTabularNumbersinArabiclookup12 {
+  lookupflag 0;
+    sub \uni0660 by \uni0660.mono ;
+    sub \uni0661 by \uni0661.mono ;
+    sub \uni0662 by \uni0662.mono ;
+    sub \uni0663 by \uni0663.mono ;
+    sub \uni0664 by \uni0664.mono ;
+    sub \uni0665 by \uni0665.mono ;
+    sub \uni0666 by \uni0666.mono ;
+    sub \uni0667 by \uni0667.mono ;
+    sub \uni0668 by \uni0668.mono ;
+    sub \uni0669 by \uni0669.mono ;
+    sub \uni06F0 by \uni06F0.mono ;
+    sub \uni06F1 by \uni06F1.mono ;
+    sub \uni06F2 by \uni06F2.mono ;
+    sub \uni06F3 by \uni06F3.mono ;
+    sub \uni06F4 by \uni06F4.mono ;
+    sub \uni06F5 by \uni06F5.mono ;
+    sub \uni06F6 by \uni06F6.mono ;
+    sub \uni06F7 by \uni06F7.mono ;
+    sub \uni06F8 by \uni06F8.mono ;
+    sub \uni06F9 by \uni06F9.mono ;
+    sub \uni06F4.urdu by \uni06F4.urdu.mono ;
+    sub \uni06F7.urdu by \uni06F7.urdu.mono ;
+} tnumTabularNumbersinArabiclookup12;
+
+feature tnum {
+
+ script DFLT;
+     language dflt ;
+      lookup tnumTabularNumbersinArabiclookup12;
+
+ script arab;
+     language dflt ;
+      lookup tnumTabularNumbersinArabiclookup12;
+     language FAR  exclude_dflt;
+      lookup tnumTabularNumbersinArabiclookup12;
+     language KUR  exclude_dflt;
+      lookup tnumTabularNumbersinArabiclookup12;
+     language URD  exclude_dflt;
+      lookup tnumTabularNumbersinArabiclookup12;
+
+ script latn;
+     language dflt ;
+      lookup tnumTabularNumbersinArabiclookup12;
+} tnum;
