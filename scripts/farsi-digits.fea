@@ -10,9 +10,16 @@ lookup ss01StyleSet1inArabiclookup11 {
     sub \seven by \uni06F7 ;
     sub \eight by \uni06F8 ;
     sub \nine by \uni06F9 ;
+    sub \uni0660 by \uni06F0 ;
+    sub \uni0661 by \uni06F1 ;
+    sub \uni0662 by \uni06F2 ;
+    sub \uni0663 by \uni06F3 ;
     sub \uni0664 by \uni06F4 ;
     sub \uni0665 by \uni06F5 ;
     sub \uni0666 by \uni06F6 ;
+    sub \uni0667 by \uni06F7 ;
+    sub \uni0668 by \uni06F8 ;
+    sub \uni0669 by \uni06F9 ;
 } ss01StyleSet1inArabiclookup11;
 
 feature ss01 {
