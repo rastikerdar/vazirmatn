@@ -4,7 +4,7 @@ FullName: Vazir Thin
 FamilyName: Vazir Thin
 Weight: Thin
 Copyright: Copyright (c) 2015, Saber Rastikerdar <saber.rastikerdar@gmail.com>.
-Version: 30.0.0
+Version: 30.1.0
 ItalicAngle: 0
 UnderlinePosition: -730
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1628089042
+ModificationTime: 1629706212
 PfmFamily: 33
 TTFWeight: 100
 TTFWidth: 5
@@ -138,7 +138,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "Vazir Thin" "" "Version 30.0.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
+LangName: 1033 "" "" "" "Vazir Thin" "" "Version 30.1.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazir was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface." "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazir" "Thin"
 GaspTable: 1 65535 15 1
 OtfFeatName: 'ss02' 1033 "Monospaced Digits"
 OtfFeatName: 'ss01' 1033 "Farsi Digits"
@@ -414,19 +414,19 @@ AnchorPoint: "Anchor-10" 402 969 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-365.301901853 157.786071223 m 1
- 245.603129184 219.664250315 153 282.10643227 153 404 c 0
- 153 590.434690866 273.598388934 703 443 703 c 0
- 517.782963544 703 577.341795163 680.462582212 626.005851994 639.539254656 c 1
- 596.531212097 567.192411271 l 1
- 550.473572604 593.116282643 504.263789457 606 456 606 c 0
- 334.739896386 606 245 529.917230852 245 405 c 0
- 245 312.67956927 334.396559308 246.784270546 451.668577348 193.661048699 c 1
- 524.213332783 216.208742955 605.546625571 238.10003372 676.831639055 250.234722337 c 1
- 692.303027193 150.125740268 l 1
- 533.359204327 123.259629789 347.293968523 47.2189744463 133 -66.6710888702 c 1
- 133 39.1667725418 l 1
- 220.290670187 91.3270846464 279.1817005 117.319952515 365.301901853 157.786071223 c 1
+354.301757812 147.786132812 m 5
+ 234.603515625 209.6640625 153 282.10643227 153 404 c 4
+ 153 590.434690866 273.598388934 703 443 703 c 4
+ 517.782963544 703 577.341795163 680.462582212 626.005851994 639.539254656 c 5
+ 596.531212097 567.192411271 l 5
+ 550.473572604 593.116282643 504.263789457 606 456 606 c 4
+ 334.739896386 606 245 529.917230852 245 405 c 4
+ 245 312.67956927 334.396559308 246.784270546 451.668577348 193.661048699 c 5
+ 524.213332783 216.208742955 605.546625571 238.10003372 676.831639055 250.234722337 c 5
+ 692.303027193 150.125740268 l 5
+ 533.359204327 123.259629789 347.293968523 47.2189744463 133 -66.6710888702 c 5
+ 133 39.1667725418 l 5
+ 217 86 283 116 354.301757812 147.786132812 c 5
 EndSplineSet
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-100 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-100 dv=0
@@ -2462,12 +2462,11 @@ SplineSet
 256 1251 m 1
  318 1073 l 2
  361 950 423 899 471 855 c 1
- 480 1063 571 1267 801 1267 c 0
- 905 1267 975 1232 1005 1213 c 1
- 968 1113 l 1
- 947.470788796 1122.97133116 922.813102366 1132.59862271 891 1138.85493395 c 4
- 868.575334936 1143.26493089 842.595382026 1146 812 1146 c 0
- 654 1146 562 1003 562 864 c 0
+ 480 1063 570 1267 801 1267 c 4
+ 892.614257812 1267 958 1236 1005.2578125 1204.51074219 c 5
+ 969.015625 1104.84375 l 5
+ 927.7890625 1126.953125 877.944335938 1151 812 1151 c 4
+ 653 1151 562 1003 562 864 c 0
  562 757 726 747 804 747 c 0
  887 747 963 766 1033 792 c 1
  1048 682 l 1
@@ -2534,21 +2533,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-871 695 m 1
- 612 559 403 283 268 -28 c 1
- 167 17 l 1
- 281 287 407 450 545 587 c 1
- 304 613 163 722 163 879 c 0
- 163 1069 304 1260 528 1260 c 0
- 584 1260 649 1254 722 1212 c 1
- 683 1114 l 1
- 653.801523773 1126.57780514 628.437004768 1133.70735529 606 1137.74540219 c 4
- 578.489010956 1142.69662743 555.379328917 1143 535 1143 c 0
- 393 1143 277 1008 277 886 c 0
+535.70703125 1148.02539062 m 0
+ 397.224609375 1148.02539062 277 1013.30664062 277 885 c 0
  277 785 381 698 621 678 c 0
  626 677 640 681 646 685 c 1
  726 736 768 761 841 798 c 1
  871 695 l 1
+ 612 559 403 283 268 -28 c 1
+ 167 17 l 1
+ 281 287 407 450 545 587 c 1
+ 304 613 163 722 163 878 c 0
+ 163 1069.17480469 301.999023438 1264 525 1264 c 0
+ 594.643554688 1264 663.666015625 1241.31347656 723.133789062 1201.6484375 c 1
+ 687.1328125 1100.19238281 l 1
+ 644 1123 600.455078125 1148.02539062 535.70703125 1148.02539062 c 0
 EndSplineSet
 Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni0666
 PairPos2: "'kern' Horizontal Kerning lookup 4 subtable 1" uni06F7 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -4876,7 +4874,7 @@ EndChar
 StartChar: uniFECF
 Encoding: 65231 65231 218
 GlifName: uniF_E_C_F_
-Width: 1063
+Width: 1034
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
@@ -4884,7 +4882,7 @@ AnchorPoint: "Anchor-7" 485 -235 basechar 0
 AnchorPoint: "Anchor-10" 502 1420 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 423 1061 2
+Refer: 264 -1 N 1 0 0 1 423 1061 2
 Refer: 214 65227 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-130 dv=0
@@ -5671,17 +5669,17 @@ EndChar
 StartChar: uniFEF5
 Encoding: 65269 65269 256
 GlifName: uniF_E_F_5
-Width: 1172
+Width: 1132
 VWidth: 2703
 GlyphClass: 3
 Flags: HW
+AnchorPoint: "Anchor-9" 895 1468 baselig 0
+AnchorPoint: "Anchor-6" 865 -241 baselig 0
+AnchorPoint: "Anchor-6" 308 -244 baselig 1
 AnchorPoint: "Anchor-9" 260 1653 baselig 1
-AnchorPoint: "Anchor-9" 935 1468 baselig 0
-AnchorPoint: "Anchor-6" 328 -237 baselig 1
-AnchorPoint: "Anchor-6" 965 -233 baselig 0
 LayerCount: 2
 Fore
-Refer: 54 1619 S 1 0 0 1 -34 254 2
+Refer: 54 1619 N 1 0 0 1 -34 254 2
 Refer: 262 65275 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFE82
@@ -5690,17 +5688,17 @@ EndChar
 StartChar: uniFEF6
 Encoding: 65270 65270 257
 GlifName: uniF_E_F_6
-Width: 1233
+Width: 1193
 VWidth: 2703
 GlyphClass: 3
 Flags: HW
-AnchorPoint: "Anchor-9" 935 1468 baselig 0
+AnchorPoint: "Anchor-9" 895 1468 baselig 0
+AnchorPoint: "Anchor-6" 865 -241 baselig 0
+AnchorPoint: "Anchor-6" 308 -244 baselig 1
 AnchorPoint: "Anchor-9" 260 1653 baselig 1
-AnchorPoint: "Anchor-6" 965 -233 baselig 0
-AnchorPoint: "Anchor-6" 328 -237 baselig 1
 LayerCount: 2
 Fore
-Refer: 54 1619 S 1 0 0 1 -34 254 2
+Refer: 54 1619 N 1 0 0 1 -34 254 2
 Refer: 263 65276 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEE0 uniFE82
@@ -5709,17 +5707,17 @@ EndChar
 StartChar: uniFEF7
 Encoding: 65271 65271 258
 GlifName: uniF_E_F_7
-Width: 1172
+Width: 1132
 VWidth: 2703
 GlyphClass: 3
 Flags: HW
-AnchorPoint: "Anchor-9" 935 1468 baselig 0
+AnchorPoint: "Anchor-9" 895 1468 baselig 0
+AnchorPoint: "Anchor-6" 865 -241 baselig 0
+AnchorPoint: "Anchor-6" 308 -244 baselig 1
 AnchorPoint: "Anchor-9" 200 1881 baselig 1
-AnchorPoint: "Anchor-6" 318 -242 baselig 1
-AnchorPoint: "Anchor-6" 955 -239 baselig 0
 LayerCount: 2
 Fore
-Refer: 76 1652 S 1 0 0 1 -96 188 2
+Refer: 76 1652 N 1 0 0 1 -96 188 2
 Refer: 262 65275 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFE84
@@ -5728,17 +5726,17 @@ EndChar
 StartChar: uniFEF8
 Encoding: 65272 65272 259
 GlifName: uniF_E_F_8
-Width: 1233
+Width: 1193
 VWidth: 2703
 GlyphClass: 3
 Flags: HW
-AnchorPoint: "Anchor-9" 935 1468 baselig 0
-AnchorPoint: "Anchor-6" 955 -239 baselig 0
-AnchorPoint: "Anchor-6" 318 -242 baselig 1
+AnchorPoint: "Anchor-9" 895 1468 baselig 0
+AnchorPoint: "Anchor-6" 865 -241 baselig 0
+AnchorPoint: "Anchor-6" 308 -244 baselig 1
 AnchorPoint: "Anchor-9" 200 1881 baselig 1
 LayerCount: 2
 Fore
-Refer: 76 1652 S 1 0 0 1 -96 188 2
+Refer: 76 1652 N 1 0 0 1 -96 188 2
 Refer: 263 65276 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEE0 uniFE84
@@ -5747,14 +5745,14 @@ EndChar
 StartChar: uniFEF9
 Encoding: 65273 65273 260
 GlifName: uniF_E_F_9
-Width: 1172
+Width: 1132
 VWidth: 2703
 GlyphClass: 3
 Flags: HW
-AnchorPoint: "Anchor-9" 935 1468 baselig 0
+AnchorPoint: "Anchor-6" 865 -241 baselig 0
+AnchorPoint: "Anchor-9" 895 1468 baselig 0
+AnchorPoint: "Anchor-9" 202 1417 baselig 1
 AnchorPoint: "Anchor-6" 372 -618 baselig 1
-AnchorPoint: "Anchor-9" 222 1449 baselig 1
-AnchorPoint: "Anchor-6" 965 -243 baselig 0
 LayerCount: 2
 Fore
 Refer: 76 1652 N 1 0 0 1 42 -1726 2
@@ -5766,13 +5764,13 @@ EndChar
 StartChar: uniFEFA
 Encoding: 65274 65274 261
 GlifName: uniF_E_F_A_
-Width: 1233
+Width: 1193
 VWidth: 2703
 GlyphClass: 3
 Flags: HW
-AnchorPoint: "Anchor-9" 935 1468 baselig 0
-AnchorPoint: "Anchor-9" 222 1449 baselig 1
-AnchorPoint: "Anchor-6" 965 -243 baselig 0
+AnchorPoint: "Anchor-6" 865 -241 baselig 0
+AnchorPoint: "Anchor-9" 895 1468 baselig 0
+AnchorPoint: "Anchor-9" 202 1417 baselig 1
 AnchorPoint: "Anchor-6" 372 -618 baselig 1
 LayerCount: 2
 Fore
@@ -5785,30 +5783,30 @@ EndChar
 StartChar: uniFEFB
 Encoding: 65275 65275 262
 GlifName: uniF_E_F_B_
-Width: 1172
+Width: 1132
 VWidth: 2950
 GlyphClass: 3
 Flags: HW
-AnchorPoint: "Anchor-9" 222 1417 baselig 1
-AnchorPoint: "Anchor-6" 248 -274 baselig 1
-AnchorPoint: "Anchor-6" 885 -271 baselig 0
-AnchorPoint: "Anchor-9" 935 1468 baselig 0
+AnchorPoint: "Anchor-6" 308 -244 baselig 1
+AnchorPoint: "Anchor-6" 865 -241 baselig 0
+AnchorPoint: "Anchor-9" 895 1468 baselig 0
+AnchorPoint: "Anchor-9" 202 1417 baselig 1
 LayerCount: 2
 Fore
 SplineSet
-165 132 m 1
- 233 124 295 121 359 121 c 0
- 408 121 454 123 499 126 c 1
- 445 390 353 706 148 1181 c 1
- 244 1233 l 1
- 445 744 537 425 600 149 c 1
- 786 210 885 306 885 568 c 2
- 885 1306 l 1
- 994 1306 l 1
- 994 567 l 2
- 994 161 791 3 356 3 c 0
- 279 3 216 8 165 15 c 1
- 165 132 l 1
+441.08203125 119.130859375 m 1
+ 352.381262949 568.67922379 303.355386267 777.073283073 147.518554688 1180.24804688 c 1
+ 242.884765625 1232.09082031 l 1
+ 394.835540417 819.777895195 448.057853994 600.816431712 538.813476562 134.044921875 c 1
+ 732.899963904 190.262330762 845 300.310863802 845 568 c 2
+ 845 1306 l 1
+ 954 1306 l 1
+ 954 567 l 2
+ 954 149.449038779 733.953838881 3 316 3 c 0
+ 289.813476562 3 195.260742188 3.138671875 135 6.7314453125 c 1
+ 135 117.083007812 l 1
+ 189.767578125 113.909179688 234.122070312 112.526367188 268.4296875 112.526367188 c 0
+ 316.798828125 112.526367188 387.630859375 112.891601562 441.08203125 119.130859375 c 1
 EndSplineSet
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
@@ -5820,35 +5818,35 @@ EndChar
 StartChar: uniFEFC
 Encoding: 65276 65276 263
 GlifName: uniF_E_F_C_
-Width: 1233
+Width: 1193
 VWidth: 2950
 GlyphClass: 3
 Flags: HW
-AnchorPoint: "Anchor-9" 934 1468 baselig 0
-AnchorPoint: "Anchor-9" 222 1419 baselig 1
-AnchorPoint: "Anchor-6" 885 -271 baselig 0
-AnchorPoint: "Anchor-6" 248 -274 baselig 1
+AnchorPoint: "Anchor-9" 202 1417 baselig 1
+AnchorPoint: "Anchor-9" 895 1468 baselig 0
+AnchorPoint: "Anchor-6" 865 -241 baselig 0
+AnchorPoint: "Anchor-6" 308 -244 baselig 1
 LayerCount: 2
 Fore
 SplineSet
-244 1233 m 1
- 445 744 537 425 600 149 c 1
- 786 210 885 306 885 568 c 2
- 885 1306 l 1
- 994 1306 l 1
- 994 517 l 2
- 994 276 1046 120 1217 120 c 2
- 1253 120 l 1
- 1253 0 l 1
- 1214 0 l 6
- 1039 0 977 90 928 255 c 5
- 816 90 662 3 356 3 c 0
- 279 3 216 8 165 15 c 1
- 165 132 l 1
- 231 125 294 121 358 121 c 0
- 406 121 455 123 500 126 c 1
- 445 389 352 704 148 1181 c 1
- 244 1233 l 1
+845 568 m 2
+ 845 1306 l 1
+ 954 1306 l 1
+ 954 517 l 2
+ 954 276 1006 120 1177 120 c 2
+ 1213 120 l 1
+ 1213 0 l 1
+ 1174 0 l 2
+ 999 0 937 90 888 255 c 1
+ 776 90 621 3 316 3 c 0
+ 289.813476562 3 195.260742188 3.138671875 135 6.7314453125 c 1
+ 135 117.083007812 l 1
+ 189.767578125 113.909179688 234.122070312 112.526367188 268.4296875 112.526367188 c 0
+ 316.798828125 112.526367188 387.630859375 112.891601562 441.08203125 119.130859375 c 1
+ 352.380859375 568.6796875 303.35546875 777.073242188 147.518554688 1180.24804688 c 1
+ 242.884765625 1232.09082031 l 1
+ 394.8359375 819.778320312 448.057617188 600.81640625 538.813476562 134.044921875 c 1
+ 732.900390625 190.262695312 845 300.310546875 845 568 c 2
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uniFEE0 uniFE8E
@@ -6896,12 +6894,12 @@ EndChar
 StartChar: lamVabove_alef.isol
 Encoding: 65569 -1 319
 GlifName: lamV_above_alef.isol
-Width: 1172
+Width: 1132
 VWidth: 2952
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 58 1626 S 1 0 0 1 359 17 2
+Refer: 58 1626 S 1 0 0 1 319 17 2
 Refer: 262 65275 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uni06B5.init uniFE8E
@@ -6910,12 +6908,12 @@ EndChar
 StartChar: NameMe.65574
 Encoding: 65570 -1 320
 GlifName: N_ameM_e.65574
-Width: 1233
+Width: 1193
 VWidth: 2952
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 58 1626 S 1 0 0 1 359 17 2
+Refer: 58 1626 S 1 0 0 1 319 17 2
 Refer: 263 65276 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uni06B5.medi uniFE8E
@@ -9004,16 +9002,16 @@ EndChar
 StartChar: LamAlefWasla
 Encoding: 65616 -1 427
 GlifName: L_amA_lefW_asla
-Width: 1172
+Width: 1132
 VWidth: 2703
 Flags: HW
+AnchorPoint: "Anchor-9" 895 1468 baselig 0
+AnchorPoint: "Anchor-6" 865 -241 baselig 0
+AnchorPoint: "Anchor-6" 308 -244 baselig 1
 AnchorPoint: "Anchor-9" 280 1723 baselig 1
-AnchorPoint: "Anchor-6" 328 -237 baselig 1
-AnchorPoint: "Anchor-6" 965 -233 baselig 0
-AnchorPoint: "Anchor-9" 970 1557 baselig 0
 LayerCount: 2
 Fore
-Refer: 340 -1 S 1 0 0 1 20 80 2
+Refer: 340 -1 N 1 0 0 1 20 80 2
 Refer: 262 65275 N 1 0 0 1 0 0 2
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFB51
 EndChar
@@ -9021,17 +9019,18 @@ EndChar
 StartChar: LamAlefWasla.fina
 Encoding: 65617 -1 428
 GlifName: L_amA_lefW_asla.fina
-Width: 1233
+Width: 1193
 VWidth: 2703
 Flags: HW
-AnchorPoint: "Anchor-9" 975 1557 baselig 0
-AnchorPoint: "Anchor-6" 965 -233 baselig 0
-AnchorPoint: "Anchor-6" 328 -237 baselig 1
+AnchorPoint: "Anchor-9" 895 1468 baselig 0
+AnchorPoint: "Anchor-6" 865 -241 baselig 0
+AnchorPoint: "Anchor-6" 308 -244 baselig 1
 AnchorPoint: "Anchor-9" 280 1723 baselig 1
 LayerCount: 2
 Fore
-Refer: 340 -1 S 1 0 0 1 20 80 2
+Refer: 340 -1 N 1 0 0 1 20 80 2
 Refer: 263 65276 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEE0 uniFB51
 EndChar
 
