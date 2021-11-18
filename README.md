@@ -4,8 +4,6 @@ Vazir is a Persian/Arabic font.
 
 [![npm version](https://badge.fury.io/js/vazir-font.svg)](https://badge.fury.io/js/vazir-font)
 
-<div dir='rtl'>
-
 فونت فارسی/عربی وزیر  
 [نمایش فونت - صفحه رسمی پروژه](https://rastikerdar.github.io/vazir-font/)  
 [راهنمای فونت وزیر](https://github.com/rastikerdar/vazir-font/blob/master/HELP.md)  
@@ -21,8 +19,6 @@ Vazir is a Persian/Arabic font.
 ## طریقه استفاده در صفحات وب
 
 کد زیر را در قسمت style یا فایل css وارد نمایید:
-
-</div>
 
 ```css
 @font-face {
