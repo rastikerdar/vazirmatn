@@ -12,7 +12,7 @@ Vazirmatn is a Persian/Arabic font project that started in 2015 under the name o
 
 ### Download
 
-Grab the [latest release](https://github.com/rastikerdar/vazirmatn-font/releases/latest) zip package.
+Grab the [latest release](https://github.com/rastikerdar/vazirmatn/releases/latest) zip package.
 
 TTF files are in folder `fonts/ttf`. There is also a rounded dots version in folder `Round-Dots/`.
 
@@ -29,7 +29,7 @@ yarn add vazirmatn
 ### CDN
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn-font@v32.0.0/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v32.0.0/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
 ```
 
 `*-font-face.css` for other versions are in `misc` and `Round-Dots` folders.
