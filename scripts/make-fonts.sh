@@ -19,7 +19,7 @@
 #     ./makefont.sh [options]
 #         options:
 #         --repo-dir=.
-#         --tempdir="/tmp/vazirmatn-font-output-temp"
+#         --temp-dir="/tmp/vazirmatn-font-output-temp"
 #         --output-dir=.
 #         --rd-font
 #         --only-ttf

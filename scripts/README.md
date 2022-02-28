@@ -44,7 +44,7 @@ Options for `make-fonts.sh`:
 
 ```
 --repo-dir=    # default is current directory
---tempdir=     # default is "/tmp/vazirmatn-font-output-temp"
+--temp-dir=     # default is "/tmp/vazirmatn-font-output-temp"
 --output-dir=  # default is current directory
 --rd-font
 --only-ttf
