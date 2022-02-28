@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+  <axes>
+    <axis maximum="900" minimum="100" tag="wght" default="400" name="weight">
+      <labelname xml:lang="en">Weight</labelname>
+      <map input="100" output="-1" />
+      <map input="200" output="-0.550000" />
+      <map input="300" output="-0.325000" />
+      <map input="400" output="-0.100000" />
+      <map input="500" output="0.350000" />
+      <map input="600" output="0.540000" />
+      <map input="700" output="0.730000" />
+      <map input="800" output="0.9275" />
+      <map input="900" output="1.125000" />
+
+      <!-- 
+      <map input="100" output="100" />
+      <map input="200" output="230" />
+      <map input="300" output="315" />
+      <map input="400" output="400" />
+      <map input="500" output="608" />
+      <map input="600" output="679" />
+      <map input="700" output="752" />
+      <map input="800" output="825" />
+      <map input="900" output="900" /> 
+      -->
+    </axis>
+  </axes>
+  <sources>
+    <source familyname="Vazirmatn" name="Vazirmatn-Thin" stylename="Vazirmatn-Thin" filename="Vazirmatn-Thin.ufo">
+      <location>
+        <dimension name="weight" xvalue="-1" />
+      </location>
+    </source>
+    <source familyname="Vazirmatn" name="Vazirmatn" stylename="Vazirmatn-Regular" filename="Vazirmatn-Regular.ufo">
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="-0.100000" />
+      </location>
+    </source>
+    <source familyname="Vazirmatn" name="Vazirmatn-Black" stylename="Vazirmatn-Black" filename="Vazirmatn-Black.ufo">
+      <location>
+        <dimension name="weight" xvalue="1.125000" />
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Vazirmatn" name="Vazirmatn-Thin.ufo" stylename="Thin" filename="instances/Vazirmatn-Thin.ufo">
+      <location>
+        <dimension name="weight" xvalue="-1" />
+      </location>
+      <kerning />
+      <info />
+    </instance>
+    <instance familyname="Vazirmatn" name="Vazirmatn-ExtraLight.ufo" stylename="ExtraLight" filename="instances/Vazirmatn-ExtraLight.ufo">
+      <location>
+        <dimension name="weight" xvalue="-0.550000" />
+      </location>
+      <kerning />
+      <info />
+    </instance>
+    <instance familyname="Vazirmatn" name="Vazirmatn-Light.ufo" stylename="Light" filename="instances/Vazirmatn-Light.ufo">
+      <location>
+        <dimension name="weight" xvalue="-0.325000" />
+      </location>
+      <kerning />
+      <info />
+    </instance>
+    <instance familyname="Vazirmatn" name="Vazirmatn-Regular.ufo" stylename="Regular" filename="instances/Vazirmatn-Regular.ufo">
+      <location>
+        <dimension name="weight" xvalue="-0.100000" />
+      </location>
+      <kerning />
+      <info />
+    </instance>
+    <instance familyname="Vazirmatn" name="Vazirmatn-Medium.ufo" stylename="Medium" filename="instances/Vazirmatn-Medium.ufo">
+      <location>
+        <dimension name="weight" xvalue="0.350000" />
+      </location>
+      <kerning />
+      <info />
+    </instance>
+    <instance familyname="Vazirmatn" name="Vazirmatn-SemiBold.ufo" stylename="SemiBold" filename="instances/Vazirmatn-SemiBold.ufo">
+      <location>
+        <dimension name="weight" xvalue="0.540000" />
+      </location>
+      <kerning />
+      <info />
+    </instance>
+    <instance familyname="Vazirmatn" name="Vazirmatn-Bold.ufo" stylename="Bold" filename="instances/Vazirmatn-Bold.ufo">
+      <location>
+        <dimension name="weight" xvalue="0.730000" />
+      </location>
+      <groups />
+      <kerning />
+      <info />
+    </instance>
+    <instance familyname="Vazirmatn" name="Vazirmatn-ExtraBold.ufo" stylename="ExtraBold" filename="instances/Vazirmatn-ExtraBold.ufo">
+      <location>
+        <dimension name="weight" xvalue="0.9275" />
+      </location>
+      <groups />
+      <kerning />
+      <info />
+    </instance>
+    <instance familyname="Vazirmatn" name="Vazirmatn-Black.ufo" stylename="Black" filename="instances/Vazirmatn-Black.ufo">
+      <location>
+        <dimension name="weight" xvalue="1.125000" />
+      </location>
+      <kerning />
+      <info />
+    </instance>
+  </instances>
+</designspace>
