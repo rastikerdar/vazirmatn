@@ -20,6 +20,7 @@ export default class MyDocument extends Document {
           
           <link rel="shortcut icon" href={`${BASE_PATH}/images/favicon.ico`} />
           <link rel="stylesheet" href={`${VAZIRMATN_CSS_URL}`} />
+          <meta name="google-site-verification" content="fH67FIc8xNjgi4rXOewEOyoD47R-Lea64zGEwz-L77U" />
           
           {/* Inject MUI styles first to match with the prepend: true configuration. */}
           {(this.props as any).emotionStyleTags}
