@@ -1,10 +1,10 @@
 {
   "header": {
-    "day_mode": "وضع اليوم",
-    "docs": "مستندات",
+    "day_mode": "الوضع النهاري",
+    "docs": "المستندات",
     "home": "الصفحة الرئيسية",
-    "lab": "مختبر",
-    "night_mode": "وضع الليل"
+    "lab": "المختبر",
+    "night_mode": "الوضع الليلي"
   },
   "lab": {
     "all_combinations": "All Combinations",
@@ -24,34 +24,34 @@
     "pashtu": "Pashtu",
     "persian": "فارسي",
     "settings": "إعدادات",
-    "size": "حجم",
-    "text": "متن",
+    "size": "الحجم",
+    "text": "النص",
     "texts": "Texts",
     "tnum": "tnum",
     "urdu": "Urdu",
-    "vazirmatn rd": "النقاط المستديرة",
-    "vazirmatn variable": "وريبل",
+    "vazirmatn rd": "نقاط دائرية",
+    "vazirmatn variable": "فاربيل",
     "vazirmatn": "وزيرمتن",
     "weight": "وزن"
   },
   "index": {
-    "docs": "مستندات",
+    "docs": "المستندات",
     "downlod_full_package": "تنزيل الحزمة الكاملة",
-    "font_description": "مشروع وزيرمتن عبارة عن عائلة محرف عربية فارسية ذات تسعة أوزان بدأت في عام 2015 تحت اسم وزير واستمر تصميمها وتطويرها خلال هذه السنوات. يحتوي خط وزيرمتن على نموذج بسيط وسلس ويمكن استخدامه في معظم السياقات. تم استخدام خط Roboto للصور الرمزية اللاتينية. هذا برمجية حرة مفتوحة المصدر.",
-    "from_other_designers": "من المصممين الآخرين",
+    "font_description": "مشروع وزيرمتن عبارة عن عائلة محرف عربية فارسية ذات تسعة أوزان بدأت في عام 2015 تحت اسم وزير واستمر تصميمها وتطويرها خلال هذه السنوات. يحتوي خط وزيرمتن على نموذج بسيط وسلس ويمكن استخدامه في معظم السياقات. تم استخدام خط Roboto للأحرف اللاتينية. هذه برمجية حرة مفتوحة المصدر.",
+    "from_other_designers": "من مصممين آخرين",
     "github": "GitHub",
     "hero_tail": "بسيط ومقروء",
     "hero_title": "خط وزیرمتن",
-    "lab": "مختبر",
+    "lab": "المختبر",
     "other_free_fonts": "Other free fonts",
     "version": "Version"
   },
   "donation": {
-    "amount": "مبلغ",
-    "date": "تاريخ",
-    "donations_from": "تبرعات من عام 2015 حتى الآن",
+    "amount": "المبلغ",
+    "date": "التاريخ",
+    "donations_from": "التبرعات من عام 2015 حتى الآن",
     "list_source": "مصدر هذه القائمة",
-    "order_by": "ترتيب حسب",
+    "order_by": "ترتيب بحسب",
     "payment_title": "إذا كنت ترغب في دفع هدية مقابل العمل المنجز: ",
     "toman_payment": "Toman donation",
     "toman": "Toman"
