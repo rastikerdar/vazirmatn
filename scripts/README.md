@@ -35,7 +35,7 @@ $ make all
 
 ```
 make fonts
-make rd-font
+make rd-fonts
 make zip
 ```
 

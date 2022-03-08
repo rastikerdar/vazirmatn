@@ -7,7 +7,7 @@ VERSION="$(python3 ${SCRIPT_DIR}/get-version.py ${REPO_DIR}/fonts/ttf/Vazirmatn-
 
 # Make the release package file (zip)
 RELEASEFILEPATH="vazirmatn-v$VERSION.zip"
-rm -f "$RELEASEFILEPATH"
-zip -r "$RELEASEFILEPATH" fonts misc Round-Dots Vazirmatn-font-face.css CHANGELOG.md README.md OFL.txt AUTHORS.txt
+rm -f "$RELEASEFILEPATH" || exit 1
+zip -r "$RELEASEFILEPATH" -q -MM fonts misc Round-Dots Vazirmatn-font-face.css Vazirmatn-Variable-font-face.css CHANGELOG.md README.md OFL.txt AUTHORS.txt راهنما.txt || exit 1
 
 echo "Created $RELEASEFILEPATH"
