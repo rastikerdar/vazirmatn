@@ -1,0 +1,60 @@
+{
+  "header": {
+    "day_mode": "Day mode",
+    "docs": "Documents",
+    "home": "Home",
+    "lab": "Lab",
+    "night_mode": "Night mode"
+  },
+  "lab": {
+    "all_combinations": "All Combinations",
+    "all_glyphs": "All Glyphs",
+    "alpha": "Alpha",
+    "arabic": "Arabic",
+    "calt": "calt",
+    "font": "Font",
+    "gilak": "Gilak",
+    "glyph": "Glyph",
+    "glyphs": "Glyphs",
+    "justify": "Justify",
+    "kurdish": "Kurdish",
+    "latin": "Latin",
+    "numbers": "Numbers",
+    "old vazir": "Old Vazir",
+    "pashtu": "Pashtu",
+    "persian": "Persian",
+    "settings": "Settings",
+    "size": "Size",
+    "text": "Text",
+    "texts": "Texts",
+    "tnum": "tnum",
+    "urdu": "Urdu",
+    "vazirmatn rd": "Round Dots",
+    "vazirmatn variable": "Variable",
+    "vazirmatn": "Vazirmatn",
+    "weight": "Weight"
+  },
+  "index": {
+    "docs": "Docs",
+    "downlod_full_package": "Download full package",
+    "font_description": "Vazirmatn project is a Persian-Arabic typeface family with nine weights started in 2015 under the name of Vazir and its design and development continued during these years. The Vazirmatn font has a simple and smooth form and can be used in most contexts. For Latin glyphs the Roboto font has been used. This is a free and open source software.",
+    "from_other_designers": "From other designers",
+    "github": "GitHub",
+    "hero_tail": "Vazirmatn is a simple and legible Persian/Arabic typeface",
+    "hero_title": "Vazirmatn Font",
+    "lab": "Lab",
+    "other_free_fonts": "Other free fonts",
+    "version": "Version"
+  },
+  "donation": {
+    "amount": "Amount",
+    "date": "Date",
+    "donations_from": "Donations from 2015 until now",
+    "list_source": "Source of this list",
+    "order_by": "Order by",
+    "other_free_fonts": "Other free fonts",
+    "payment_title": "If you want to pay a gift for the work done:",
+    "toman_payment": "Toman donation",
+    "toman": "Toman"
+  }
+}
