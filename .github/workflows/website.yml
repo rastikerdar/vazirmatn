@@ -1,0 +1,64 @@
+# This workflow will build (and export SSG) the Next.js website and push the files to gh-pages branch
+
+name: Website
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - website/**
+  pull_request:
+    branches:
+      - master
+    paths:
+      - website/**
+  release:
+    types:
+      - published
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: website # The working directory path
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup node 16
+        uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+
+      - name: "build Nextjs"
+        env:
+          NEXT_PUBLIC_TAG_NAME: ${{ github.event.release.tag_name }}
+        run: |
+          # https://gist.github.com/lukechilds/a83e1d7127b78fef38c2914c4ececc3c
+          export NEXT_PUBLIC_LAST_TAG_NAME=$(curl --silent "https://api.github.com/repos/rastikerdar/vazirmatn/releases/latest" | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
+          if [ -e yarn.lock ]; then
+          yarn install --frozen-lockfile
+          elif [ -e package-lock.json ]; then
+          npm ci
+          else
+          npm i
+          fi
+          npm run build
+
+      - name: Init new repo in out folder and commit generated files
+        run: |
+          cd out/vazirmatn
+          git init
+          git add -A
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m 'deploy'
+
+      - name: Force push to destination branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          force: true
+          directory: website/out/vazirmatn
