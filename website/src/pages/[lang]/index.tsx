@@ -12,7 +12,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import { Layout } from "../../components/Layout";
 import Head from "next/head";
 import Link from "../../Link";
-import { DOWNLOAD_URL, SITE_NAME } from "../../lib/constants";
+import { DOWNLOAD_URL, SITE_NAME, TAG_NAME } from "../../lib/constants";
 import { DonationView } from "../../components/DonationView";
 
 export function IndexLayout() {
@@ -93,7 +93,7 @@ export function IndexLayout() {
                 // gutterBottom
                 sx={{ fontWeight: "normal", mt: 1 }}
               >
-                {t("version")} 32
+                {t("version")} {TAG_NAME}
               </Typography>
             </Box>
           </Grid>
