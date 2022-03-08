@@ -1,26 +1,33 @@
 {
-  "name": "vazir-font",
-  "version": "30.1.0",
+  "name": "vazirmatn",
+  "version": "32.0.0",
   "author": "Saber Rastikerdar <saber.rastikerdar@gmail.com>",
   "license": "OFL",
-  "description": "Vazir is a Persian/Arabic font. وزیر یک فونت فارسی/عربی است",
+  "description": "Vazirmatn is a Persian/Arabic font. وزیرمتن یک فونت فارسی/عربی است",
   "keywords": [
     "font",
     "farsi",
     "persian",
-    "arabic"
+    "arabic",
+    "typeface"
   ],
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"visit http://rastikerdar.github.io/vazir-font/\""
-  },
+  "files": [
+    "fonts",
+    "misc",
+    "Round-Dots",
+    "Vazirmatn-font-face.css",
+    "Vazirmatn-Variable-font-face.css",
+    "README.md",
+    "OFL.txt",
+    "AUTHORS.txt"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rastikerdar/vazir-font"
+    "url": "git+https://github.com/rastikerdar/vazirmatn"
   },
   "bugs": {
-    "url": "https://github.com/rastikerdar/vazir-font/issues"
+    "url": "https://github.com/rastikerdar/vazirmatn/issues"
   },
-  "homepage": "https://github.com/rastikerdar/vazir-font#readme",
+  "homepage": "https://github.com/rastikerdar/vazirmatn#readme",
   "dependencies": {}
 }

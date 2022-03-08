@@ -1,7 +1,77 @@
-تغییرات فونت وزیر
-=================
+# Vazirmatn Changelog
 
-در اینجا شما فهرستی از تغییرات بین هر نسخهٔ انتشار از فونت وزیر را مشاهده می‌کنید.
+## 32.0.0
+
+- Renamed from Vazir to Vazirmatn
+- Increased the size of the glyphs (letters, signs and numbers)
+- Redesigned thick versions and applied contrast
+- Added Thin weight (recreating weights less than regular)
+- Changed spacing for all glyphs (increasing in heavy weights and decreasing in light weights)
+- Added Round-Dots version (Thanks @ghaznavipc) #127
+- Separated files by type (Thanks @xmha97) #190
+- Corrected the names of misc versions (Thanks @kokabi1365) #203
+- Fixed the problem of not showing dots in the UI version (Thanks @sepehr-brj) #194
+- Fixing Corning problem in Latin letters (Thanks @hamid0740) #218
+- Most letters shrinked
+- Improved س ص ن ي ك (Thanks @ulaima) #226
+- Fixed height issue in the UI version (با تشکر از @ulaima) #227
+- Fix the problem خب Hamza (Thanks @X7md) #229
+- Designed + - − ÷ × symbols according to the size of Persian/Arabic letters and numbers
+- Resize "بـ یـ تـ پـ" and similar letters to fit next to other letters like "ـی ـق ـو ـر ..."
+- Improved thickness
+- Improved diacritics
+- Redesigned Arabic numerals ٥ ٤ ٦ and 9
+- Redesigned ۴ in Heavy
+- Redesigned ۲ ۳ ۷ ۸ ۵
+- Redesigned ی همزه ؟  ٌ  ٚ  ٛ
+- Changed kerning and spacing in number and fixed the problem of number spacing in style-set ss01
+- Redesigned Quranic brackets
+- Improved ـهـ ـلا لا ع عـ ـعـ ـع هـ ء ـه ك
+- Corrected ﷼
+- Shortened ک گ
+- Improved رزژـرـزـژ
+- Improved . ! ؛ ، ٬ ۰ ممیز : « » 
+- Improved آ ص ط
+- Improved the kerning of «آ ر ز ژ ـر ـز ـژ» with other letters
+- Fixed technical problems in outputs by completely changing the way of combining with Latin and the way of producing outputs (scripts have been rewritten)
+- Completion of Latin glyphs # 93
+
+- تغییر نام از وزیر به وزیرمتن
+- بزرگتر شدن اندازه گلیف‌ها (حروف و علائم و ارقام)
+- بازطراحی وزن‌‌های ضخیم و اعمال کنتراست
+- اضافه شدن وزن‌ نازک (ساخت مجدد وزن‌های کمتر از معمولی)
+- تغییر فاصله حروف (افزایش در ضخیم‌ها و کاهش در نازک‌ها)
+- اضافه شدن نسخه نقطه‌گرد (با تشکر از @ghaznavipc) #127
+- تفکیک فایل‌ها بر اساس نوع (با تشکر از @xmha97) #190
+- اصلاح اسامی نسخه‌های متفرقه (با تشکر از @kokabi1365) #203
+- رفع مشکل عدم نمایش نقاط ي در نسخه یوآی (با تشکر از @sepehr-brj) #194
+- رفع ایراد کرنینگ در حروف لاتین (با تشکر از @hamid0740) #218
+- فشرده‌ شدن اغلب حروف
+- بهبود س ص ن ي ك (با تشکر از @ulaima) #226
+- رفع ایراد ارتفاع در نسخه یوآی (با تشکر از @ulaima) #227
+- رفع ایراد همزه (با تشکر از @X7md) #229
+- طراحی علائم + - − ÷ × متناسب با اندازه حروف و ارقام فارسی (خط تیره و منها یک شکل شده‌اند)
+- تغییر اندازه «بـ یـ تـ پـ» و حروف مشابه به تناسب در کنار سایر حروف از جمله «ـی ـق ـو ـر ...»
+- بهبود ضخامت قلم
+- بهبود اِعراب
+- بازطراحی ارقام عربی ٥ ٤ ٦ و ۴
+- بازطراحی ۴ در ضخیم
+- بازطراحی ارقام ۲ ۳ ۷ ۸ ۵
+- بازطراحی ی همزه ؟  ٌ  ٚ  ٛ
+- تغییر کرنینگ ارقام و اصلاح عرض‌ها و رفع مشکل فاصله اعداد در استایل‌ست ss01
+- بازطراحی پرانتزهای قرآنی
+- بهبود ـهـ ـلا لا ع عـ ـعـ ـع هـ ء ـه ك
+- اصلاح ﷼
+- کوتاه‌تر شدن ک گ
+- بهبود رزژـرـزـژ
+- بهبود . ! ؛ ، ٬ ۰ ممیز : « »
+- بهبود آ ص ط
+- بهبود کرنینگ «آ ر ز ژ ـر ـز ـژ» با دیگر حروف
+- رفع اشکالات فنی با تغییر کامل شیوه ترکیب با لاتین و نحوه تولید خروجی‌ها (اسکریپت ها بازنویسی شده‌اند)
+- کامل شدن حروف لاتین #93
+
+
+## Old vazir changelog
 
 نسخه ۳۰.۱.۰
 -----------
@@ -1353,3 +1423,6 @@
 ۲۲ مهر ۱۳۹۴
 
 - اولین نسخه
+
+
+برای مشاهده تاریخچه فونت وزیر به [این صفحه](https://github.com/rastikerdar/vazir-font/blob/master/CHANGELOG.md) مراجعه نمایید.
