@@ -1,15 +1,15 @@
 lookup tnumTabularNumbersinArabiclookup12 {
   lookupflag 0;
-    sub \zero by \zero.tnum ;
-    sub \one by \one.tnum ;
-    sub \two by \two.tnum ;
-    sub \three by \three.tnum ;
-    sub \four by \four.tnum ;
-    sub \five by \five.tnum ;
-    sub \six by \six.tnum ;
-    sub \seven by \seven.tnum ;
-    sub \eight by \eight.tnum ;
-    sub \nine by \nine.tnum ;
+    # sub \zero by \zero.tnum ;
+    # sub \one by \one.tnum ;
+    # sub \two by \two.tnum ;
+    # sub \three by \three.tnum ;
+    # sub \four by \four.tnum ;
+    # sub \five by \five.tnum ;
+    # sub \six by \six.tnum ;
+    # sub \seven by \seven.tnum ;
+    # sub \eight by \eight.tnum ;
+    # sub \nine by \nine.tnum ;
     sub \uni0660 by \uni0660.tnum ;
     sub \uni0661 by \uni0661.tnum ;
     sub \uni0662 by \uni0662.tnum ;
