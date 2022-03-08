@@ -58,9 +58,7 @@ export const TextArea: FC = () => {
           fontSize: `${size}px`,
           fontWeight: isVariable ? "400" : String(weight),
           color: alphaFunc(theme.palette.text.primary, alpha / 100),
-          "@media (max-width: 480px)": {
-            width: "100%",
-          },
+          minWidth: { xs: "100%", sm: "30rem" },
           p: 2,
           fontVariationSettings: `"wght" ${weight}`,
           lineHeight: "1.63",
@@ -68,8 +66,6 @@ export const TextArea: FC = () => {
           fontFeatureSettings: `"calt" ${calt ? "on" : "off"}, "tnum" ${
             tnum ? "on" : "off"
           }`,
-          // overflowX: "auto",
-          // width: "100%",
         }}
         maxWidth="lg"
       >
@@ -78,6 +74,7 @@ export const TextArea: FC = () => {
           suppressContentEditableWarning={true}
           spellCheck="false"
           dir="auto"
+          style={{ width: "100%", minHeight: "100%" }}
           dangerouslySetInnerHTML={{ __html: text.replace(/\n/g, "<br>") }}
         />
       </Box>
