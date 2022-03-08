@@ -36,6 +36,8 @@
 - Fixed technical problems in outputs by completely changing the way of combining with Latin and the way of producing outputs (scripts have been rewritten)
 - Completion of Latin glyphs # 93
 
+۱۷ اسفند ۱۴۰۰
+
 - تغییر نام از وزیر به وزیرمتن
 - بزرگتر شدن اندازه گلیف‌ها (حروف و علائم و ارقام)
 - بازطراحی وزن‌‌های ضخیم و اعمال کنتراست
@@ -71,7 +73,7 @@
 - کامل شدن حروف لاتین #93
 
 
-## Old vazir changelog
+## Old Vazir Changelog
 
 نسخه ۳۰.۱.۰
 -----------
