@@ -1,6 +1,6 @@
 # Vazirmatn Font Builder
 
-The script tool for building files for [vazirmatn-font](https://github.com/rastikerdar/vazirmatn-font). By default this tool clones the repository of Roboto-Classic Variable font into the folder `latin` and then merge it into Vazirmatn. However, You can use the `--no-latin` option to skip this step.
+The script tool for building files for [vazirmatn](https://github.com/rastikerdar/vazirmatn). By default this tool clones the repository of Roboto-Classic Variable font into the folder `latin` and then merge it into Vazirmatn. However, You can use the `--no-latin` option to skip this step.
 
 ## Requirements
 
