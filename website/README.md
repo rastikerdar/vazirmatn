@@ -8,11 +8,13 @@ For learning Next.js SSG, Multilanguage website, GitHub actions, ...
 $ yarn 
 ```
 
-## Develope
+## Run
 
 ```shell
 $ yarn dev
 ```
+
+Open url [http://localhost:3000/vazirmatn](http://localhost:3000/vazirmatn)
 
 ## Evironmental variables
 
