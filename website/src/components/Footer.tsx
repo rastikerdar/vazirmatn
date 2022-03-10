@@ -16,6 +16,9 @@ export function Footer() {
       <Typography variant="body2" color="textSecondary" align="center">
         <Link href={`https://github.com/rastikerdar/vazirmatn`}>
           View on GitHub
+        </Link>{" | "}
+        <Link href={`https://github.com/rastikerdar/vazirmatn/tree/master/website`}>
+          Website Source
         </Link>
       </Typography>
     </Box>
