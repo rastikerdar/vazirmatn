@@ -4,7 +4,7 @@ FullName: Vazirmatn Black
 FamilyName: Vazirmatn Black
 Weight: Black
 Copyright: Copyright 2015 The Vazirmatn Project Authors (https://github.com/rastikerdar/vazirmatn)
-Version: 32.0.0
+Version: 32.100
 ItalicAngle: 0
 UnderlinePosition: -730
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1646655515
+ModificationTime: 1647169797
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
@@ -77,13 +77,10 @@ Lookup: 257 0 0 "Single Positioning lookup 1" { "Single Positioning lookup 1 sub
 Lookup: 257 0 0 "Single Positioning lookup 2" { "Single Positioning lookup 2 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 3" { "Single Positioning lookup 3 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 4" { "Single Positioning lookup 4 subtable"  } []
-Lookup: 257 0 0 "Single Positioning lookup 5" { "Single Positioning lookup 5-1"  "Single Positioning lookup 5-2"  } []
-Lookup: 257 0 0 "Single Positioning lookup 6" { "Single Positioning lookup 6-1"  "Single Positioning lookup 6-2"  } []
-Lookup: 257 9 0 "Single Positioning lookup 7" { "Single Positioning lookup 7-1"  } []
-Lookup: 257 9 0 "Single Positioning lookup 8" { "Single Positioning lookup 8-1"  } []
-Lookup: 257 9 0 "Single Positioning lookup 9" { "Single Positioning lookup 9-1"  } []
-Lookup: 257 9 0 "Single Positioning lookup 10" { "Single Positioning lookup 10-1"  } []
-Lookup: 264 9 0 "'kern' Horizontal Kerning lookup 5" { "'kern' Horizontal Kerning lookup 5 subtable 0"  "'kern' Horizontal Kerning lookup 5 subtable 1"  "'kern' Horizontal Kerning lookup 5 subtable 2"  "'kern' Horizontal Kerning lookup 5 subtable 3"  "'kern' Horizontal Kerning lookup 5 subtable 4"  "'kern' Horizontal Kerning lookup 5 subtable 5"  "'kern' Horizontal Kerning lookup 5 subtable 6"  "'kern' Horizontal Kerning lookup 5 subtable 7"  "'kern' Horizontal Kerning lookup 5 subtable 8"  "'kern' Horizontal Kerning lookup 5 subtable 9"  "'kern' Horizontal Kerning lookup 5 subtable 10"  "'kern' Horizontal Kerning lookup 5 subtable 11"  "'kern' Horizontal Kerning lookup 5 subtable 12"  } ['kern' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 257 9 0 "Single Positioning lookup 5" { "Single Positioning lookup 5 subtable"  } []
+Lookup: 257 9 0 "Single Positioning lookup 6" { "Single Positioning lookup 6 subtable"  } []
+Lookup: 257 9 0 "Single Positioning lookup 7" { "Single Positioning lookup 7 subtable"  } []
+Lookup: 264 9 0 "'kern' Horizontal Kerning lookup 5" { "'kern' Horizontal Kerning lookup 5 subtable 0"  "'kern' Horizontal Kerning lookup 5 subtable 1"  "'kern' Horizontal Kerning lookup 5 subtable 2"  "'kern' Horizontal Kerning lookup 5 subtable 3"  "'kern' Horizontal Kerning lookup 5 subtable 4"  "'kern' Horizontal Kerning lookup 5 subtable 5"  "'kern' Horizontal Kerning lookup 5 subtable 6"  "'kern' Horizontal Kerning lookup 5 subtable 7"  } ['kern' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 6" { "'mark' Mark Positioning lookup 6 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 261 1 0 "'mark' Mark Positioning lookup 8" { "'mark' Mark Positioning lookup 8 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 9" { "'mark' Mark Positioning lookup 9 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
@@ -92,19 +89,12 @@ Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 11" { "'mkmk' Mark to Mark
 Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 12" { "'mkmk' Mark to Mark in Arabic lookup 12 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 12" 0 0 0 1
- 1 1 0
-  Coverage: 31 uni0662 uni0663 uni06F2 uni06F3
-  BCoverage: 23 uni0660 uni06F0 uni06F5
- 1
-  SeqLookup: 0 "Single Positioning lookup 10"
-EndFPST
-ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 11" 0 0 0 1
+ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 7" 0 0 0 1
  1 1 0
   Coverage: 21 parenleft bracketleft
   BCoverage: 158 uni0631 uni0632 uni0691 uni0693 uni0695 uni0696 uni0698 uniFB8A uniFB8B uniFB8C uniFB8D uniFEAD uniFEAE uniFEAF uniFEB0 uni0695.fina uni0693.fina uni0696.fina
  1
-  SeqLookup: 0 "Single Positioning lookup 9"
+  SeqLookup: 0 "Single Positioning lookup 7"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 6" 0 0 0 1
  1 0 1
@@ -113,45 +103,17 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 6" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 5"
 EndFPST
-ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 10" 0 0 0 1
+ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 6" 0 0 0 1
  1 1 0
   Coverage: 27 parenleft slash bracketleft
   BCoverage: 7 uni0622
  1
-  SeqLookup: 0 "Single Positioning lookup 8"
-EndFPST
-ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 9" 0 0 0 1
- 1 1 0
-  Coverage: 7 uni0622
-  BCoverage: 23 parenright bracketright
- 1
-  SeqLookup: 0 "Single Positioning lookup 7"
-EndFPST
-ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 8" 0 0 0 1
- 1 1 0
-  Coverage: 15 uni0667 uni06F7
-  BCoverage: 7 uni06F5
- 1
   SeqLookup: 0 "Single Positioning lookup 6"
-EndFPST
-ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 7" 0 0 0 1
- 1 1 0
-  Coverage: 7 uni06F5
-  BCoverage: 15 uni0667 uni06F7
- 1
-  SeqLookup: 0 "Single Positioning lookup 6"
-EndFPST
-ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 6" 0 0 0 1
- 1 1 0
-  Coverage: 15 uni0668 uni06F8
-  BCoverage: 31 uni0667 uni0669 uni06F7 uni06F9
- 1
-  SeqLookup: 0 "Single Positioning lookup 5"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 5" 0 0 0 1
  1 1 0
-  Coverage: 63 uni0662 uni0663 uni0667 uni06F2 uni06F3 uni06F4 uni06F6 uni06F7
-  BCoverage: 15 uni0668 uni06F8
+  Coverage: 7 uni0622
+  BCoverage: 23 parenright bracketright
  1
   SeqLookup: 0 "Single Positioning lookup 5"
 EndFPST
@@ -232,7 +194,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "" "" "Version 32.0.0" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazirmatn" "Black"
+LangName: 1033 "" "" "" "" "" "Version 32.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazirmatn" "Black"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -562,7 +524,7 @@ SplineSet
  373.205078125 1565.89648438 l 2
 EndSplineSet
 Refer: 544 -1 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 7-1" dx=0 dy=0 dh=120 dv=0
+Position2: "Single Positioning lookup 5 subtable" dx=0 dy=0 dh=120 dv=0
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=335 dv=0
@@ -1887,8 +1849,6 @@ SplineSet
  1040 1358 l 1
 EndSplineSet
 Validated: 1
-Position2: "Single Positioning lookup 10-1" dx=0 dy=0 dh=-100 dv=0
-Position2: "Single Positioning lookup 5-1" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uni0663
@@ -1925,8 +1885,6 @@ SplineSet
  1331 885 1247 657 995 657 c 0
 EndSplineSet
 Validated: 1
-Position2: "Single Positioning lookup 10-1" dx=0 dy=0 dh=-100 dv=0
-Position2: "Single Positioning lookup 5-1" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uni0664
@@ -2029,8 +1987,6 @@ SplineSet
  495 0 l 1
 EndSplineSet
 Validated: 1
-Position2: "Single Positioning lookup 6-2" dx=0 dy=0 dh=-100 dv=0
-Position2: "Single Positioning lookup 5-1" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uni0668
@@ -2053,7 +2009,6 @@ SplineSet
  194 355 413 827 495 1327 c 1
 EndSplineSet
 Validated: 1
-Position2: "Single Positioning lookup 5-2" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uni0669
@@ -2135,7 +2090,7 @@ GlifName: uni066C_
 Width: 573
 VWidth: 2075
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2553,8 +2508,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 61 1634 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 10-1" dx=0 dy=0 dh=-100 dv=0
-Position2: "Single Positioning lookup 5-1" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uni06F3
@@ -2567,8 +2520,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 62 1635 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 10-1" dx=0 dy=0 dh=-100 dv=0
-Position2: "Single Positioning lookup 5-1" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uni06F4
@@ -2601,7 +2552,6 @@ SplineSet
  1052 1024 l 5
  981 1066 926 1087 852 1087 c 4
 EndSplineSet
-Position2: "Single Positioning lookup 5-1" dx=0 dy=0 dh=-100 dv=0
 Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni06F4.locl
 EndChar
 
@@ -2633,7 +2583,6 @@ SplineSet
  1193 164 1088 0 856 0 c 0
  767 0 684 49 636 103 c 1
 EndSplineSet
-Position2: "Single Positioning lookup 6-1" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uni06F6
@@ -2662,7 +2611,6 @@ SplineSet
  154 200 262 361 385 528 c 1
 EndSplineSet
 Validated: 1
-Position2: "Single Positioning lookup 5-1" dx=0 dy=0 dh=-100 dv=0
 Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni0666
 EndChar
 
@@ -2676,8 +2624,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 66 1639 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 6-2" dx=0 dy=0 dh=-100 dv=0
-Position2: "Single Positioning lookup 5-1" dx=0 dy=0 dh=-100 dv=0
 Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni06F7.locl
 EndChar
 
@@ -2691,7 +2637,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 67 1640 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 5-2" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uni06F9
@@ -11046,8 +10991,8 @@ SplineSet
  493 1293 399 936 399 592 c 24
 EndSplineSet
 Validated: 1
-Position2: "Single Positioning lookup 9-1" dx=0 dy=0 dh=80 dv=0
-Position2: "Single Positioning lookup 8-1" dx=0 dy=0 dh=160 dv=0
+Position2: "Single Positioning lookup 7 subtable" dx=0 dy=0 dh=80 dv=0
+Position2: "Single Positioning lookup 6 subtable" dx=0 dy=0 dh=160 dv=0
 EndChar
 
 StartChar: parenright
@@ -11088,8 +11033,8 @@ SplineSet
  564 1460 l 1
 EndSplineSet
 Validated: 1
-Position2: "Single Positioning lookup 9-1" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 8-1" dx=0 dy=0 dh=160 dv=0
+Position2: "Single Positioning lookup 7 subtable" dx=0 dy=0 dh=100 dv=0
+Position2: "Single Positioning lookup 6 subtable" dx=0 dy=0 dh=160 dv=0
 EndChar
 
 StartChar: bracketright
@@ -11128,7 +11073,7 @@ SplineSet
  210 -125 l 1
 EndSplineSet
 Validated: 1
-Position2: "Single Positioning lookup 8-1" dx=0 dy=0 dh=180 dv=0
+Position2: "Single Positioning lookup 6 subtable" dx=0 dy=0 dh=180 dv=0
 EndChar
 
 StartChar: NameMe.65703
