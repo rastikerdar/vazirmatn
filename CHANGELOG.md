@@ -1,5 +1,13 @@
 # Vazirmatn Changelog
 
+## 32.1
+
+- Fixed collapsing numbers issue by removing kerning for Persian/Arabic numbers #244
+
+۲۲ اسفند ۱۴۰۰
+
+- رفع مشکل مشکل در هم فرو روفتن اعداد با حذف کرنینگ اعداد فارسی/عربی #244
+
 ## 32.0.0
 
 - Renamed from Vazir to Vazirmatn
