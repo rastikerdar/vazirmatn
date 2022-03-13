@@ -14,7 +14,7 @@ import { DonationList } from "./DonationList";
 import { BASE_PATH } from "../lib/constants";
 
 export const DonationView = () => {
-  const { t, i18n } = useTranslation(undefined, {keyPrefix: 'donation'});
+  const { t, i18n } = useTranslation(undefined, { keyPrefix: "donation" });
   const [donations, setDonations] = useState<Donation[]>([]);
   const [sortBy, setSortBy] = useState<"amount" | "date">("amount");
   const [crPaymentShow, setCRPaymentShow] = useState(false);
@@ -137,13 +137,8 @@ export const DonationView = () => {
           </SelectButton>
         </Box>
       </Box>
-      {!donations && "fetching data..."}
-      {donations && (
-        <>
-          {!donations && "fetching data..."}
-          {donations && <DonationList donations={sortedDonations} />}
-        </>
-      )}
+      {donations.length === 0 && "Fetching donation data..."}
+      {donations.length > 0 && <DonationList donations={sortedDonations} />}
       <Box mt={1}>
         <a
           href="https://github.com/rastikerdar/vazirmatn/blob/gh-pages/donations.json"
