@@ -6,7 +6,7 @@
 
 ۲۲ اسفند ۱۴۰۰
 
-- رفع مشکل مشکل در هم فرو روفتن اعداد با حذف کرنینگ اعداد فارسی/عربی #244
+- رفع مشکل در هم فرو روفتن اعداد با حذف کرنینگ اعداد فارسی/عربی #244
 
 ## 32.0.0
 
@@ -23,7 +23,7 @@
 - Most letters shrinked
 - Improved س ص ن ي ك (Thanks @ulaima) #226
 - Fixed height issue in the UI version (با تشکر از @ulaima) #227
-- Fix the problem خب Hamza (Thanks @X7md) #229
+- Fix the problem of Hamza (Thanks @X7md) #229
 - Designed + - − ÷ × symbols according to the size of Persian/Arabic letters and numbers
 - Resize "بـ یـ تـ پـ" and similar letters to fit next to other letters like "ـی ـق ـو ـر ..."
 - Improved thickness
