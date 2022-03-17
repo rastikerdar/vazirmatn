@@ -1,6 +1,6 @@
 # Vazirmatn Font فونت وزیرمتن
 
-Vazirmatn is a Persian/Arabic font project that started in 2015 under the name of Vazir with the idea of a new simple and legible typeface suitable for web pages and applications. Design and development have taken a long way but I hope the results are worth it. Thanks to DejaVu Sans font (v2.35) published in public domain there was a free software base to start the Vazir project. Although Vazir was completely different in typeface, still the original software was common. The design is done in Fontforge. For Latin glyphs, Vazirmatn is combined with Roboto font by a build script, however there is also a version without Latin glyphs (Non-Latin). ([More info](https://rastikerdar.github.io/vazirmatn/docs))
+Vazirmatn is a Persian/Arabic font project that started in 2015 under the name of Vazir with the idea of a new simple and legible typeface suitable for web pages and applications. Design and development have taken a long way but I hope the results are worth it. Thanks to DejaVu Sans font (v2.35) published in public domain there was a free software base to start the Vazir project. Although Vazir was completely different in typeface, still the original software was common. The design is done in Fontforge. For Latin glyphs, Vazirmatn is combined with Roboto font by a build script, however there is also a version without Latin glyphs (Non-Latin). ([More info](https://rastikerdar.github.io/vazirmatn/fa/docs))
 
 - [Website](https://rastikerdar.github.io/vazirmatn)
 - [Docs](https://rastikerdar.github.io/vazirmatn/fa/docs)
