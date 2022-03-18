@@ -17,7 +17,7 @@ import { RootState } from "./reducers";
 import { LabState } from "./labSlice";
 
 export function SettingsPanel() {
-  const { t } = useTranslation(undefined, {keyPrefix: 'lab'});
+  const { t } = useTranslation(undefined, { keyPrefix: "lab" });
   const dispatch = useDispatch();
   const labState: LabState = useSelector(
     (state: RootState) => state.labReducer,
@@ -45,8 +45,10 @@ export function SettingsPanel() {
         maxWidth: "100%",
         pb: 0.5,
         px: 2,
-        "@media (max-width: 480px)": {
-          pt: 1,
+        pt: 2,
+        mt: {
+          xs: -1,
+          md: -2,
         },
         gap: 2,
       }}
