@@ -1,5 +1,13 @@
 # Vazirmatn Changelog
 
+## 32.101
+
+- Fixed the lack of glyphs (ZWJ, ZWNJ) in the generated fonts (thanks @kokabi1365) #249
+
+۲۹ اسفند ۱۴۰۰
+
+- رفع نبود نیم‌فاصله در فونت‌های تولید شده (با تشکر از @kokabi1365) #249
+
 ## 32.1
 
 - Fixed collapsing numbers issue by removing kerning for Persian/Arabic numbers #244

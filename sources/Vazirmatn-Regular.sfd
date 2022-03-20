@@ -4,7 +4,7 @@ FullName: Vazirmatn Regular
 FamilyName: Vazirmatn
 Weight: Regular
 Copyright: Copyright 2015 The Vazirmatn Project Authors (https://github.com/rastikerdar/vazirmatn)
-Version: 32.100
+Version: 32.101
 ItalicAngle: 0
 UnderlinePosition: -730
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1647169804
+ModificationTime: 1647772473
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -194,7 +194,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "" "" "Version 32.1" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazirmatn" "Regular"
+LangName: 1033 "" "" "" "" "" "Version 32.101" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazirmatn" "Regular"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -260,7 +260,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 12 13
+WinInfo: 108 12 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -6525,7 +6525,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni200C
+StartChar: afii61664
 Encoding: 8204 8204 289
 GlifName: afii61664
 Width: 0
@@ -6534,7 +6534,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni200D
+StartChar: afii57598
 Encoding: 8205 8205 290
 GlifName: afii301
 Width: 0
@@ -7106,7 +7106,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni200E
+StartChar: afii57596
 Encoding: 8206 8206 322
 GlifName: uni200E_
 Width: 0
@@ -7115,7 +7115,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni200F
+StartChar: afii300
 Encoding: 8207 8207 323
 GlifName: uni200F_
 Width: 0

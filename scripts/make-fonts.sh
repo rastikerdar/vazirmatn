@@ -240,6 +240,10 @@ function create_instance() {
     python3 "${SCRIPT_DIR}/export-glyph-names.py" "${BUILD_DIR}/$FONT_FILE_NAME-$weight.sfd" "${BUILD_DIR}/$FONT_FILE_NAME-$weight-_subset_names.txt" || error
     [ -n "${LATIN_DIR}" ] && { cat "${SCRIPT_DIR}/roboto_subset_names.txt" >>"${BUILD_DIR}/$weight-subset_names.txt" || error; }
     cat "${BUILD_DIR}/$FONT_FILE_NAME-$weight-_subset_names.txt" >>"${BUILD_DIR}/$weight-subset_names.txt" || error
+    echo "afii61664" >>"${BUILD_DIR}/$weight-subset_names.txt" || error
+    echo "afii57598" >>"${BUILD_DIR}/$weight-subset_names.txt" || error
+    echo "afii57596" >>"${BUILD_DIR}/$weight-subset_names.txt" || error
+    echo "afii300" >>"${BUILD_DIR}/$weight-subset_names.txt" || error
     python3 "${SCRIPT_DIR}/generate-subset-plist.py" "${BUILD_DIR}/$weight-subset_names.txt" "${BUILD_DIR}/$FONT_FILE_NAME-$weight.ufo/lib.plist" || error
 
     [ -n "${LATIN_DIR}" ] && log "Merging ${BUILD_DIR}/Roboto-$weight-Feature.fea with ${BUILD_DIR}/$FONT_FILE_NAME-$weight.ufo/features.fea"
