@@ -58,7 +58,7 @@ author: 'Saber Rastikerdar'
 
 در صورت داشتن حساب کاربری در GitHub می‌توانید در مخزن فونت درخواست خود را به صورت یک ایشو جدید درمیان بگذارید:  
 [https://github.com/rastikerdar/vazirmatn/issues](https://github.com/rastikerdar/vazirmatn/issues)  
-و یا اینکه از طریق پست الکترونیکی مندرج در فایل `AUTHORS.txt` به اطلاع سازنده برسانید.
+و یا اینکه از طریق پست الکترونیکی مندرج در فایل [AUTHORS.txt](https://github.com/rastikerdar/vazirmatn/blob/master/AUTHORS.txt) به اطلاع سازنده برسانید.
 
 ### چگونه فونت را در سیستم‌عامل ویندوز نصب کنم؟
 
