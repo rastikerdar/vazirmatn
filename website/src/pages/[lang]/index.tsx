@@ -1,3 +1,5 @@
+import { useRouter } from "next/router";
+import Head from "next/head";
 import { useTheme } from "@mui/material/styles";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
@@ -10,10 +12,10 @@ import LabIcon from "@mui/icons-material/ScienceOutlined";
 import GitHubIcon from "@mui/icons-material/GitHub";
 
 import { Layout } from "../../components/Layout";
-import Head from "next/head";
 import Link from "../../Link";
 import { DOWNLOAD_URL, SITE_NAME, TAG_NAME } from "../../lib/constants";
 import { DonationView } from "../../components/DonationView";
+import { getLanguages, getLocalCaption } from "../../i18n";
 
 export function IndexLayout() {
   const theme = useTheme();
@@ -218,6 +220,25 @@ export function IndexLayout() {
           <a href="https://pfont.github.io/" target="_blank">
             پی‌فونت
           </a>
+        </Box>
+        <Box
+          maxWidth="md"
+          sx={{
+            width: "100%",
+            textAlign: "center",
+            fontSize: "0.8rem",
+          }}
+        >
+          {getLanguages().map((lang: string) => (
+            <Link
+              key={lang}
+              href=""
+              lang={lang}
+              noLinkStyle
+            >
+              {getLocalCaption(lang)}{" "}
+            </Link>
+          ))}
         </Box>
       </Box>
     </>
