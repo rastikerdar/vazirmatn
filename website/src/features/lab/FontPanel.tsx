@@ -3,7 +3,6 @@ import { useDispatch, useSelector } from "react-redux";
 import { useTranslation } from "react-i18next";
 import Head from "next/head";
 import Box from "@mui/material/Box";
-import Button from "@mui/material/Button";
 import IconButton from "@mui/material/IconButton";
 import AddIcon from "@mui/icons-material/Add";
 
@@ -12,10 +11,10 @@ import { setFont, setIsVariable } from "./labSlice";
 import { RootState } from "./reducers";
 import { LabState } from "./labSlice";
 import { SelectButton } from "../../components/SelectButton";
-import { addStyle } from "../../lib/utils";
+import { addStyle, replaceAll } from "../../lib/utils";
 
 let idNum = 0;
-export const generateId = () => `c${++idNum}`;
+export const generateId = () => `${++idNum}`;
 
 export const fileTypes: {
   [key: string]: string;
@@ -26,9 +25,8 @@ export const fileTypes: {
   otf: "opentype",
 } as const;
 
-// TODO: add a feature for uploading custom fonts
 export function FontPanel() {
-  const { t } = useTranslation(undefined, {keyPrefix: 'lab'});
+  const { t } = useTranslation(undefined, { keyPrefix: "lab" });
   const dispatch = useDispatch();
   const [fonts, setFonts] = useState<Array<Font>>(initialFonts);
   const labState: LabState = useSelector(
@@ -50,10 +48,7 @@ export function FontPanel() {
     }
 
     const url = window.URL.createObjectURL(file);
-    const familyParts = file.name.split(".");
-    familyParts.splice(-1, 0, generateId());
-    const family = familyParts.join("-");
-
+    const family = replaceAll(file.name, /\./, "-") + "-" + generateId();
     const fileExt = String(file.name.split(".").pop());
     const fileType = fileTypes[fileExt];
     if (Object.keys(fileTypes).indexOf(fileExt) === -1) {
@@ -70,11 +65,12 @@ export function FontPanel() {
     }
     `);
 
-    const font = {
+    const font: Font = {
       family: family,
       cssFamily: family,
       cssURL: "",
       isVariable: false,
+      isLocal: true,
     };
     setFonts([font, ...fonts]);
     dispatch(setFont(font));
@@ -129,7 +125,7 @@ export function FontPanel() {
               px: 2,
             }}
           >
-            {t(font.family)}
+            {font.isLocal ? font.family : t(font.family)}
           </SelectButton>
         ))}
       </Box>

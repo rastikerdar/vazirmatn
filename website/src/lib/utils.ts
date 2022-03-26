@@ -27,7 +27,11 @@ export function getCookie(cname: string) {
   return "";
 }
 
-export function replaceAll(str: string, find: string, replace: string) {
+export function replaceAll(
+  str: string,
+  find: string | RegExp,
+  replace: string,
+) {
   return str.replace(new RegExp(find, "g"), replace);
 }
 
