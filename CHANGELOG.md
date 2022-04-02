@@ -1,5 +1,17 @@
 # Vazirmatn Changelog
 
+## 32.102
+
+- Fixed bad rendering issue by removing the hinting totaly
+- Fixed dots in ثـ in Variable (thanks @alimanian) (#252)
+- Improved ر ـر (#248) 
+
+۱۳ فرورین ۱۴۰۱
+
+- رفع نمایش خراب گلیف‌ها با حذف سراسری هینتینگ 
+- رفع مشکل نقطه‌ها در ثـ در وریبل (با تشکر از @alimanian) (#252)
+- بهبود ر ـر (#248)
+
 ## 32.101
 
 - Fixed the lack of glyphs (ZWJ, ZWNJ) in the generated fonts (thanks @kokabi1365) #249
