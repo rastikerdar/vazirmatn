@@ -2,7 +2,7 @@
 
 ## 32.102
 
-- Fixed bad rendering issue by removing the hinting totaly
+- Fixed bad rendering issue by removing the hinting totally
 - Fixed dots in ثـ in Variable (thanks @alimanian) (#252)
 - Improved ر ـر (#248) 
 
