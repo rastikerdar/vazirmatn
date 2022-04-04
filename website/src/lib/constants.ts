@@ -18,3 +18,4 @@ export const VAZIRMATN_CDN_URL = process.env.NEXT_PUBLIC_CDN_URL
   : `https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@${TAG_NAME}`;
 
 export const VAZIRMATN_CSS_URL = `${VAZIRMATN_CDN_URL}/Vazirmatn-font-face.css`;
+export const VAZIRMATN_RD_CSS_URL = `${VAZIRMATN_CDN_URL}/Round-Dots/Vazirmatn-RD-font-face.css`;

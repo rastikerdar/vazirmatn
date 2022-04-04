@@ -3,7 +3,11 @@ import Document, { Html, Head, Main, NextScript } from "next/document";
 import createEmotionServer from "@emotion/server/create-instance";
 import createCache from "@emotion/cache";
 import i18n, { getLanguageDirection } from "../i18n";
-import { BASE_PATH, VAZIRMATN_CSS_URL } from "../lib/constants";
+import {
+  BASE_PATH,
+  VAZIRMATN_CSS_URL,
+  VAZIRMATN_RD_CSS_URL,
+} from "../lib/constants";
 
 const emotionCache = createCache({
   key: "css",
@@ -17,11 +21,15 @@ export default class MyDocument extends Document {
         <Head>
           {/* PWA primary color */}
           {/* <meta name="theme-color" content={theme.palette.primary.main} /> */}
-          
+
           <link rel="shortcut icon" href={`${BASE_PATH}/images/favicon.ico`} />
           <link rel="stylesheet" href={`${VAZIRMATN_CSS_URL}`} />
-          <meta name="google-site-verification" content="fH67FIc8xNjgi4rXOewEOyoD47R-Lea64zGEwz-L77U" />
-          
+          <link rel="stylesheet" href={`${VAZIRMATN_RD_CSS_URL}`} />
+          <meta
+            name="google-site-verification"
+            content="fH67FIc8xNjgi4rXOewEOyoD47R-Lea64zGEwz-L77U"
+          />
+
           {/* Inject MUI styles first to match with the prepend: true configuration. */}
           {(this.props as any).emotionStyleTags}
         </Head>

@@ -16,6 +16,7 @@ import Link from "../../Link";
 import { DOWNLOAD_URL, SITE_NAME, TAG_NAME } from "../../lib/constants";
 import { DonationView } from "../../components/DonationView";
 import { getLanguages, getLocalCaption } from "../../i18n";
+import { HeroTitle } from "../../components/HeroTitle";
 
 export function IndexLayout() {
   const theme = useTheme();
@@ -45,21 +46,7 @@ export function IndexLayout() {
                 textAlign: "center",
               }}
             >
-              <Typography
-                variant="h3"
-                component="h1"
-                gutterBottom
-                sx={{ fontWeight: "900", mb: 1 }}
-              >
-                {t(
-                  "hero_title",
-                  i18n.language == "en"
-                    ? {
-                        lng: "fa",
-                      }
-                    : undefined,
-                )}
-              </Typography>
+              <HeroTitle />
               <Typography
                 variant="h5"
                 component="h2"
