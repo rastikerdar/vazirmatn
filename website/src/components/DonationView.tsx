@@ -51,7 +51,7 @@ export const DonationView = () => {
         <Button
           color="primary"
           variant="outlined"
-          href="https://www.payping.ir/saber"
+          href="https://www.payping.ir/d/zfLz"
           sx={{ borderRadius: "25px" }}
         >
           {t("toman_payment")}
