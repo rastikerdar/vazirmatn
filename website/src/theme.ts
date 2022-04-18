@@ -123,6 +123,16 @@ export function createCustomMuiTheme(
           },
           pre: {
             backgroundColor: mode === "light" ? "#00000010" : "#ffffff29",
+            lineHeight: 1.2,
+            fontSize: "0.9rem",
+            paddingTop: "8px",
+            paddingBottom: "8px",
+            code: {
+              backgroundColor: "transparent",
+            },
+          },
+          code: {
+            backgroundColor: mode === "light" ? "#00000010" : "#ffffff29",
           },
           button: {
             fontFamily: FONT_FAMILY,
