@@ -42,6 +42,6 @@ export function getAllDocs(fields: string[] = []) {
   const docs = slugs
     .map((slug) => getDocBySlug(slug, fields))
     // sort docs by date in descending order
-    .sort((doc1, doc2) => (doc1.date > doc2.date ? -1 : 1));
+    .sort((doc1, doc2) => (doc1.date < doc2.date ? -1 : 1));
   return docs;
 }
