@@ -50,6 +50,17 @@ author: 'Saber Rastikerdar'
 }
 ```
 
+می‌توانید به جای آدرس‌های محلی از CDN استفاده کنید مانند:
+```css
+@font-face {
+  font-family: Vazirmatn RD;
+  src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v32.102/Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+```
+
 هر چند که در آدرس ریشه، فایل `Vazirmatn-Variable-font-face.css` برای استفاده از نسخه وب قرار داده شده است که می‌توانید آن را مستقیما و یا از طریق CDN فرا بخوانید:
 ```html
 <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v32.102/Vazirmatn-Variable-font-face.css" rel="stylesheet" type="text/css" />
