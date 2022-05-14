@@ -1,14 +1,15 @@
 import Head from "next/head";
+import { useTranslation } from "react-i18next";
 
 import { Layout } from "../../components/Layout";
 import { Lab } from "../../features/lab/Lab";
-import { getLanguages } from "../../i18n";
 
 const LabPage = () => {
+  const { t } = useTranslation(undefined, { keyPrefix: "lab" });
   return (
     <Layout disableFooter>
       <Head>
-        <title>آزمایشگاه فونت وزیرمتن Vazirmatn Font Labratory</title>
+        <title>{t("vazirmatn_font_labratory")}</title>
       </Head>
       <Lab />
     </Layout>
