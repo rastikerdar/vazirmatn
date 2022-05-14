@@ -1,13 +1,16 @@
-import { FC } from "react";
-import { useSelector } from "react-redux";
+import { FC, useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
 import Box from "@mui/material/Box";
 import { useTheme, alpha as alphaFunc } from "@mui/material/styles";
 
 import { RootState } from "./reducers";
-import { LabState } from "./labSlice";
+import { LabState, setText } from "./labSlice";
+import { texts } from "./texts";
+import i18n from "../../i18n";
 
 export const TextArea: FC = () => {
   const theme = useTheme();
+  const dispatch = useDispatch();
   const labState: LabState = useSelector(
     (state: RootState) => state.labReducer,
     (prev, next) =>
@@ -35,6 +38,12 @@ export const TextArea: FC = () => {
     text,
     contentEditable,
   } = labState;
+
+  useEffect(() => {
+    if (text === "") {
+      dispatch(setText(i18n.language === "ar" ? texts[2].text : texts[1].text));
+    }
+  }, []);
 
   return (
     <Box

@@ -1,6 +1,5 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
-import { texts } from "./texts";
 import { Font, fonts } from "./fonts";
 
 export type LabState = {
@@ -26,7 +25,7 @@ export const initialState: LabState = {
   justify: false,
   calt: true,
   tnum: false,
-  text: texts[1].text,
+  text: "",
   contentEditable: true,
   selectedCollection: "persian",
 };
