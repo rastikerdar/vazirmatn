@@ -11,11 +11,11 @@ export type GlyphCollections = {
 export const glyphCollections: GlyphCollections = {
   persian: {
     letters:
-      "آ ا ب پ ت ث ج چ ح خ د ذ ر ز ژ س ش ص ض ط ظ ع غ ف ق ک گ ل م ن و ه ی ء لا".split(
+      "آ ا ب پ ت ث ج چ ح خ د ذ ر ز ژ س ش ص ض ط ظ ع غ ف ق ک گ ل م ن و ه ی ء لا ڪ".split(
         " ",
       ),
     numbers: "۰ ۱ ۲ ۳ ۴ ۵ ۶ ۷ ۸ ۹".split(" "),
-    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬".split(" "),
+    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬ ∎".split(" "),
   },
   arabic: {
     letters:
@@ -52,6 +52,14 @@ export const glyphCollections: GlyphCollections = {
   pashtu: {
     letters:
       "آ ا ب پ ت ټ ث ج چ ح خ څ ځ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ق ک ګ ل م ن ڼ و ه ی ی ی ی ئ لا".split(
+        " ",
+      ),
+    numbers: "٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩".split(" "),
+    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬".split(" "),
+  },
+  jawi: {
+    letters:
+      "ا ب‎ ت‎ ة‎ ث‎ ج‎ ح‎ چ‎ خ‎ د‎ ذ‎ ر‎ ز‎ س‎ ش‎ ص‎ ض‎ ط‎ ظ‎ ع‎ غ‎ ڠ‎ ف‎ ڤ‎ ق‎ ک‎ ڬ ݢ‎ ل‎ م‎ ن‎ و‎ ۏ‎ ه‎ ی‎ ڽ‎ ء‎ أ‎ إ‎ ئ‎ لا".split(
         " ",
       ),
     numbers: "٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩".split(" "),
