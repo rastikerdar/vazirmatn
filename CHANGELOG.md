@@ -1,5 +1,31 @@
 # Vazirmatn Changelog
 
+## 33.000
+
+- Added Jawi letters (thanks @WanAhmadShahmi98) (#262)
+- Added U+06C8 (ۈ) of Uyghur language (thanks @victorlee) (#270)
+- Fixed wrong interpolation of endofproof (thanks @ErwinDenissen) (#259)
+- Improved/Redesigned س سـ ـسـ ـس ٮ ٮـ ـٮـ ـٮ صـ ـصـ ی ـی ح ـح حـ ـحـ ک ع (#247)
+- Fixed dots in ـثـ (#265)
+- Fixed anchor location in عـ ع ـع ـعـ ـد (#263)
+- Fixed ڪ ـﮫ ھے ـیے ـپے
+- Improved kerning
+- Improved thickness in Thin
+- Improved/Fixed some other glyphs
+
+۲۰ خرداد ۱۴۰۱
+
+- اضافه شدن حروف جاوی مربوط به زبان مالایی (با تشکر از @WanAhmadShahmi98) (#262)
+- اضافه شدن گلیف U+06C8 (ۈ) از زبان اویغوری (با تشکر از @victorlee) (#270)
+- رفع ایراد درون‌یابی endofproof (با تشکر از @ErwinDenissen) (#259)
+- بهبود/بازطراحی س سـ ـسـ ـس ٮ ٮـ ـٮـ ـٮ صـ ـصـ ی ـی ح ـح حـ ـحـ ک ع (#247)
+- اصلاح نقاط در ـثـ (#265)
+- اصلاح مکان اعراب در عـ ع ـع ـعـ ـد (#263)
+- اصلاح ڪ ـﮫ ھے ـیے ـپے
+- بهبود کرنینگ
+- بهبود ضخامت در نازک
+- بهبود/اصلاح برخی دیگر از گلیف‌ها
+
 ## 32.102
 
 - Fixed bad rendering issue by removing the hinting totally
@@ -8,7 +34,7 @@
 
 ۱۳ فرورین ۱۴۰۱
 
-- رفع نمایش خراب گلیف‌ها با حذف سراسری هینتینگ 
+- رفع نمایش خراب گلیف‌ها با حذف سراسری هینتینگ
 - رفع مشکل نقطه‌ها در ثـ در وریبل (با تشکر از @alimanian) (#252)
 - بهبود ر ـر (#248)
 

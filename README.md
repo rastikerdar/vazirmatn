@@ -27,7 +27,7 @@ yarn add vazirmatn
 ### CDN
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v32.102/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.000/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
 ```
 
 `*-font-face.css` for other versions are in `misc` and `Round-Dots` folders.

@@ -4,7 +4,7 @@ FullName: Vazirmatn Regular
 FamilyName: Vazirmatn
 Weight: Regular
 Copyright: Copyright 2015 The Vazirmatn Project Authors (https://github.com/rastikerdar/vazirmatn)
-Version: 32.102
+Version: 33.000
 ItalicAngle: 0
 UnderlinePosition: -730
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1648876399
+ModificationTime: 1654839522
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -99,7 +99,7 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 6" 0 0 0 1
  1 0 1
   Coverage: 115 uniFB58 uniFB59 uniFBFE uniFBFF uniFE91 uniFE92 uniFEF3 uniFEF4 uni06CE.init uni06CE.medi uni063D.init uni063D.medi
-  FCoverage: 15 uniFED6 uniFE88
+  FCoverage: 31 uniFBAF uniFBB1 uniFE88 uniFED6
  1
   SeqLookup: 0 "Single Substitution 5"
 EndFPST
@@ -154,7 +154,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 4" 0 0 0 1
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 3" 0 0 0 1
  1 1 0
-  Coverage: 15 uni0639 uni063A
+  Coverage: 23 uni0639 uni063A uni06A0
   BCoverage: 87 uni0622 uni0627 uniFE8E uniFEF5 uniFEF6 uniFEF7 uniFEF8 uniFEF9 uniFEFA uniFEFB uniFEFC
  1
   SeqLookup: 0 "Single Positioning lookup 3"
@@ -162,27 +162,27 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 2" 0 0 0 1
  1 1 0
   Coverage: 15 uniFBB1 uniFBAF
-  BCoverage: 361 uniFB90 uniFB91 uniFB94 uniFB95 uniFE8B uniFE8C uniFE97 uniFE98 uniFE9B uniFE9C uniFEA3 uniFEA4 uniFEA7 uniFEA8 uniFEB3 uniFEB4 uniFEB7 uniFEB8 uniFEBB uniFEBC uniFEBF uniFEC0 uniFEC3 uniFEC4 uniFEC7 uniFECB uniFECC uniFECF uniFED0 uniFED3 uniFED4 uniFED7 uniFED8 uniFEDB uniFEDC uniFEDF uniFEE0 uniFEE3 uniFEE4 uniFEE7 uniFEE8 uniFEEB uni06AA.medi uni06AA.init
+  BCoverage: 409 uni0640 uniFB7C uniFB7D uniFB90 uniFB91 uniFB94 uniFB95 uniFBAC uniFE8B uniFE8C uniFE97 uniFE98 uniFE9B uniFE9C uniFE9F uniFEA0 uniFEA3 uniFEA4 uniFEA7 uniFEA8 uniFEB3 uniFEB4 uniFEB7 uniFEB8 uniFEBB uniFEBC uniFEBF uniFEC0 uniFEC3 uniFEC4 uniFEC7 uniFECB uniFECC uniFECF uniFED0 uniFED3 uniFED4 uniFED7 uniFED8 uniFEDB uniFEDC uniFEDF uniFEE0 uniFEE3 uniFEE4 uniFEE7 uniFEE8 uniFEEB uni06AA.medi uni06AA.init
  1
   SeqLookup: 0 "Single Substitution 4"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 2" 0 0 0 1
  1 1 0
-  Coverage: 704 uni0621 uni0622 uni0623 uni0624 uni0627 uni0628 uni0629 uni062A uni062B uni062F uni0630 uni0631 uni0632 uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0640 uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0647 uni0648 uni0679 uni067E uni0688 uni0691 uni0698 uni06A9 uni06AA uni06AB uni06AF uni06C0 uni06C1 uni06D2 uni06D3 uni06D5 uniFB68 uniFB7C uniFB8E uniFB90 uniFB92 uniFB94 uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF5 uniFEF7 uniFEF9 uniFEFB lamVabove_alef.isol uni06AB.init LamAlefWasla uni06AA.init uniFE91.long1 uniFE91.long2 uniFE97.long uniFEE3.long
+  Coverage: 817 uni0621 uni0622 uni0623 uni0624 uni0627 uni0628 uni0629 uni062A uni062B uni062F uni0630 uni0631 uni0632 uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0640 uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0647 uni0648 uni0679 uni067C uni067E uni0688 uni0691 uni0698 uni06A9 uni06AA uni06AB uni06AC uni06AD uni06AF uni06B5 uni06C0 uni06C1 uni06D2 uni06D3 uni06D5 uni0762 uni0763 uniFB68 uniFB7C uniFB8E uniFB90 uniFB92 uniFB94 uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF5 uniFEF7 uniFEF9 uniFEFB uni06B5.init lamVabove_alef.isol uni06AB.init LamAlefWasla uni06AA.init uni0763.init uniFE91.long1 uniFE91.long2 uniFE97.long uniFEE3.long uni06A0.init uni0762.init uni06AC.init
   BCoverage: 73 uni0631 uni0632 uniFEAE uniFEB0 uni0695 uni0695.fina uni0693 uni0693.fina
  1
   SeqLookup: 0 "Single Positioning lookup 2"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 1" 0 0 0 1
  1 1 0
-  Coverage: 696 uni0621 uni0622 uni0623 uni0624 uni0627 uni0628 uni0629 uni062A uni062B uni062F uni0630 uni0631 uni0632 uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0640 uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0647 uni0648 uni0679 uni067E uni0688 uni0691 uni0698 uni06A9 uni06AA uni06AB uni06AF uni06C0 uni06C1 uni06D2 uni06D3 uni06D5 uniFB68 uniFB8E uniFB90 uniFB92 uniFB94 uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF5 uniFEF7 uniFEF9 uniFEFB lamVabove_alef.isol uni06AB.init LamAlefWasla uni06AA.init uniFE91.long1 uniFE91.long2 uniFE97.long uniFEE3.long
+  Coverage: 772 uni0621 uni0622 uni0623 uni0624 uni0627 uni0628 uni0629 uni062A uni062B uni062F uni0630 uni0631 uni0632 uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0640 uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0647 uni0648 uni0679 uni067E uni0688 uni0691 uni0698 uni06A9 uni06AA uni06AB uni06AD uni06AF uni06C0 uni06C1 uni06D2 uni06D3 uni06D5 uni0762 uni0763 uniFB68 uniFB8E uniFB90 uniFB92 uniFB94 uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF5 uniFEF7 uniFEF9 uniFEFB uni06B5.init lamVabove_alef.isol uni06AB.init LamAlefWasla uni06AA.init uni0763.init uniFE91.long1 uniFE91.long2 uniFE97.long uniFEE3.long uni06A0.init uni0762.init
   BCoverage: 31 uni0698 uniFB8B uni0691 uniFB8D
  1
   SeqLookup: 0 "Single Positioning lookup 1"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 0" 0 0 0 1
  1 1 0
-  Coverage: 302 uni0622 uni0623 uni0625 uni0627 uni0643 uni0644 uni0671 uni06A9 uni06AB uni06AD uni06AF uni06B5 uni0763 uniFB50 uniFB90 uniFB94 uniFBD3 uniFBD5 uniFE81 uniFE83 uniFE87 uniFE8B uniFE8D uniFE97 uniFE9B uniFED7 uniFED9 uniFEDB uniFEDF uniFEF5 uniFEF7 uniFEF9 uniFEFB uni06B5.init uni06AB.init uni0763.init
+  Coverage: 335 uni0622 uni0623 uni0625 uni0627 uni0643 uni0644 uni0671 uni06A9 uni06AB uni06AD uni06AF uni06B5 uni0763 uniFB50 uniFB90 uniFB94 uniFBD3 uniFBD5 uniFE81 uniFE83 uniFE87 uniFE8B uniFE8D uniFE97 uniFE9B uniFED7 uniFED9 uniFEDB uniFEDF uniFEF5 uniFEF7 uniFEF9 uniFEFB uni06B5.init lamVabove_alef.isol uni06AB.init LamAlefWasla uni0763.init
   BCoverage: 7 uni0622
  1
   SeqLookup: 0 "Single Positioning lookup 0"
@@ -194,7 +194,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "" "" "Version 32.102" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazirmatn" "Regular"
+LangName: 1033 "" "" "" "" "" "Version 33.000" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazirmatn" "Regular"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -260,12 +260,16 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 12 13
+WinInfo: 228 12 13
 BeginPrivate: 0
 EndPrivate
+Grid
+-2048 1202.90000916 m 0
+ 4096 1202.90000916 l 1024
+EndSplineSet
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor100" "'mkmk' Mark to Mark in Arabic lookup 12 subtable" "Anchor101" "'mkmk' Mark to Mark in Arabic lookup 11 subtable" "Anchor-2"""  "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor106" "'mark' Mark Positioning lookup 10 subtable" "Anchor107" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8"""  "Anchor109" "'mark' Mark Positioning lookup 8 subtable" "Anchor110" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"""  "Anchor-12"""  "Anchor-13"""  "Anchor-14"""  "Anchor-15"""  "Anchor-16"""  "Anchor-17"""  "Anchor-18"""  "Anchor-19""" 
-BeginChars: 65709 555
+BeginChars: 65720 574
 
 StartChar: space
 Encoding: 32 32 0
@@ -288,7 +292,7 @@ LayerCount: 2
 Fore
 SplineSet
 145 134 m 0
- 145 207 205 268 278 268 c 4
+ 145 207 205 268 278 268 c 0
  351 268 411 207 411 134 c 0
  411 61 351 1 278 1 c 0
  204 1 145 58 145 134 c 0
@@ -485,7 +489,7 @@ SplineSet
  379 576 302 504 302 428 c 0
 EndSplineSet
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-104 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-104 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uni0622
@@ -520,8 +524,8 @@ SplineSet
 EndSplineSet
 Refer: 544 -1 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 5 subtable" dx=0 dy=0 dh=120 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=335 dv=0
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0627 uni0653
@@ -542,8 +546,8 @@ Fore
 Refer: 76 1652 N 1 0 0 1 -70 200 2
 Refer: 544 -1 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=200 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0627 uni0654
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE84
@@ -562,8 +566,8 @@ LayerCount: 2
 Fore
 Refer: 76 1652 N 1 0 0 1 136 -256 2
 Refer: 43 1608 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-31 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-31 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-30 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0648 uni0654
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE86
@@ -591,7 +595,7 @@ EndChar
 StartChar: uni0626
 Encoding: 1574 1574 14
 GlifName: afii57414
-Width: 1435
+Width: 1445
 VWidth: 3091
 GlyphClass: 3
 Flags: HW
@@ -620,14 +624,14 @@ AnchorPoint: "Anchor107" 234 -252 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-323 1387 m 5
- 323 1 l 1
- 152 1 l 1
- 152 1387 l 5
- 323 1387 l 5
+322 1377 m 1
+ 322 1 l 1
+ 153 1 l 1
+ 153 1377 l 1
+ 322 1377 l 1
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE8E
 EndChar
@@ -645,8 +649,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 832 -400 2
 Refer: 73 1646 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE90
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE92
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE91
@@ -665,8 +669,8 @@ LayerCount: 2
 Fore
 Refer: 42 1607 N 1 0 0 1 0 0 3
 Refer: 265 -1 S 1 0 0 1 193 1074 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE94
 EndChar
 
@@ -683,8 +687,8 @@ LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 3
 Refer: 265 -1 S 1 0 0 1 646 740 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE96
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE98
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE97
@@ -703,8 +707,8 @@ LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 3
 Refer: 266 -1 S 1 0 0 1 648 697 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE9A
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE9C
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE9B
@@ -713,16 +717,16 @@ EndChar
 StartChar: uni062C
 Encoding: 1580 1580 20
 GlifName: uni062C_
-Width: 1390
+Width: 1370
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 620 1213 basechar 0
+AnchorPoint: "Anchor110" 620 1193 basechar 0
 AnchorPoint: "Anchor107" 715 -872 basechar 0
 LayerCount: 2
 Fore
 Refer: 21 1581 N 1 0 0 1 0 0 3
-Refer: 264 -1 N 1 0 0 1 731 -184 2
+Refer: 264 -1 S 1 0 0 1 721 -184 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFE9E
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEA0
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE9F
@@ -731,33 +735,31 @@ EndChar
 StartChar: uni062D
 Encoding: 1581 1581 21
 GlifName: uni062D_
-Width: 1390
+Width: 1370
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 709 -875 basechar 0
-AnchorPoint: "Anchor110" 614 1210 basechar 0
+AnchorPoint: "Anchor110" 614 1190 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1269 611 m 5
- 1269 439 l 5
- 691 392 269 153 269 -166 c 0
- 269 -398 458 -517 801 -517 c 0
- 951 -517 1116 -488 1254 -424 c 1
- 1299 -591 l 1
- 1159 -657 971 -691 786 -691 c 0
- 402 -691 100 -532 100 -175 c 0
- 100 155 373 436 881 548 c 5
- 838 564 799 583 750 602 c 4
- 617 655 534 689 485 689 c 4
- 404 689 324 636 272 569 c 6
- 244 533 l 5
- 90 609 l 5
- 106 634 l 6
- 194 777 329 870 486 870 c 4
- 573 870 678 830 802 770 c 4
- 1017 665 1148 618 1269 611 c 5
+1249 611 m 1
+ 1249 439 l 1
+ 671 392 269 153 269 -166 c 0
+ 269 -398 438 -517 781 -517 c 0
+ 931 -517 1096 -488 1234 -424 c 1
+ 1279 -591 l 1
+ 1139 -657 951 -691 766 -691 c 0
+ 382 -691 100 -532 100 -175 c 0
+ 100 155 350 435.672851562 858 547.672851562 c 1
+ 693.885742188 615.247070312 520.974609375 699 474 699 c 4
+ 393 699 332.476923077 655.415384615 271 578 c 2
+ 244 544 l 1
+ 91 619 l 1
+ 106 643 l 2
+ 202.292134831 797.06741573 318 879 475 879 c 4
+ 640.125976562 879 981.91796875 619.508789062 1249 611 c 1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEA2
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEA4
@@ -767,7 +769,7 @@ EndChar
 StartChar: uni062E
 Encoding: 1582 1582 22
 GlifName: uni062E_
-Width: 1390
+Width: 1370
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
@@ -804,8 +806,8 @@ SplineSet
  99 207 l 1
  186 189 261 180 326 180 c 0
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEAA
 EndChar
 
@@ -822,8 +824,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 272 1160 2
 Refer: 23 1583 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEAC
 EndChar
 
@@ -848,7 +850,7 @@ SplineSet
  599.987174884 -183.649699879 429.054290008 -463.572941117 47 -538 c 5
 EndSplineSet
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-31 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-31 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEAE
 EndChar
 
@@ -859,32 +861,32 @@ Width: 701
 VWidth: 2834
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor107" 332 -654 basechar 0
-AnchorPoint: "Anchor110" 398 1193 basechar 0
+AnchorPoint: "Anchor107" 332 -633 basechar 0
+AnchorPoint: "Anchor110" 408 1193 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 307 782 2
+Refer: 264 -1 N 1 0 0 1 317 782 2
 Refer: 25 1585 N 1 0 0 1 0 0 2
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-31 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-31 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEB0
 EndChar
 
 StartChar: uni0633
 Encoding: 1587 1587 27
 GlifName: uni0633
-Width: 2440
+Width: 2420
 VWidth: 2144
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 1733 973 basechar 0
+AnchorPoint: "Anchor110" 1723 973 basechar 0
 AnchorPoint: "Anchor107" 693 -744 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 1482 0 m 0
- 1394 0 1329.97460938 25 1286.97460938 57 c 1
- 1284.50579131 -278.299100704 1104.11709156 -515 689 -515 c 0
+ 1393 0 1330 25 1287 57 c 1
+ 1285 -278 1104 -515 689 -515 c 0
  257 -515 99 -251 99 63 c 0
  99 204 130 356 181 498 c 1
  340 434 l 1
@@ -894,22 +896,22 @@ SplineSet
  1112 210 1057 378 1020 477 c 1
  1191 546 l 1
  1251 357 l 2
- 1288 241 1360.99593503 182 1484 182 c 0
- 1624 182 1681 282 1681 425 c 0
- 1681 460 1678 494.588745117 1671 579 c 1
- 1838 600 l 1
- 1854 396 l 2
- 1861 288 1912 182 2023 182 c 0
- 2121 182 2171 285 2171 419 c 0
- 2171 493 2156 584 2126 693 c 1
- 2297 739 l 1
- 2329 633 2341 532 2341 435 c 0
- 2341 195 2260 1 2025 0 c 0
- 1898 0 1819 55 1770 153 c 1
- 1695 45 1588 0 1482 0 c 0
+ 1288 241 1360 182 1484 182 c 0
+ 1625 182 1666 260 1666 403 c 4
+ 1666 438 1663 480 1656 564 c 5
+ 1823 585 l 5
+ 1839 376 l 6
+ 1846 268 1891 182 2005 182 c 0
+ 2115 182 2150 278 2150 389 c 0
+ 2150 489 2125 600 2110 663 c 1
+ 2281 709 l 1
+ 2305 619 2321 516 2321 416 c 0
+ 2321 199 2241 1 2006 0 c 0
+ 1878 0 1804 55 1755 153 c 5
+ 1680 45 1589 0 1482 0 c 0
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEB2
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEB4
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEB3
@@ -918,18 +920,18 @@ EndChar
 StartChar: uni0634
 Encoding: 1588 1588 28
 GlifName: uni0634
-Width: 2440
+Width: 2420
 VWidth: 3101
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 693 -744 basechar 0
-AnchorPoint: "Anchor110" 1703 1508 basechar 0
+AnchorPoint: "Anchor110" 1693 1478 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 N 1 0 0 1 1451 871 2
+Refer: 266 -1 N 1 0 0 1 1441 861 2
 Refer: 27 1587 N 1 0 0 1 0 0 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEB6
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEB8
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEB7
@@ -970,8 +972,8 @@ SplineSet
  2094 182 2280 254 2280 420 c 0
  2280 537 2197 624 2073 624 c 0
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEBA
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEBC
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEBB
@@ -990,8 +992,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 1939 1046 2
 Refer: 29 1589 N 1 0 0 1 0 0 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEBE
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEC0
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEBF
@@ -1010,14 +1012,14 @@ LayerCount: 2
 Fore
 SplineSet
 1034 624 m 0
- 877 624 700 476 514 182 c 1
+ 877 624 700 477 514 183 c 1
  675 182 l 2
  1055 182 1241 254 1241 420 c 0
  1241 537 1158 624 1034 624 c 0
 331 182 m 1
- 356 224 384 265 409 306 c 1
- 409 1387 l 5
- 581 1387 l 5
+ 356 224 386 267 411 308 c 1
+ 411 1377 l 5
+ 581 1377 l 5
  581 546 l 1
  724 718 868 805 1024 805 c 0
  1260 805 1417 649 1417 430 c 0
@@ -1026,8 +1028,8 @@ SplineSet
  99 182 l 1
  331 182 l 1
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEC2
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEC4
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEC3
@@ -1046,8 +1048,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 916 1046 2
 Refer: 31 1591 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEC6
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEC8
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEC7
@@ -1061,12 +1063,12 @@ VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 677 -872 basechar 0
-AnchorPoint: "Anchor110" 672 1325 basechar 0
+AnchorPoint: "Anchor110" 672 1255 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 1067 416 m 1
- 1056 243 l 5
+ 1056 243 l 1
  1011 245 994 245 972 245 c 0
  469 245 268 89 268 -167 c 0
  268 -424.858176633 476.477094501 -510.184682037 706.128245878 -510.184682037 c 0
@@ -1075,13 +1077,13 @@ SplineSet
  1032.9531361 -656.578307913 873.225267985 -690.704599168 718.977305834 -690.704599168 c 0
  397.054021249 -690.704599168 99 -542.057991229 99 -175 c 0
  99 20 186 209 433 333 c 1
- 345 431 304 526 304 632 c 0
- 304 833 493 1012 704 1012 c 0
- 809 1012 922 971 1044 888 c 1
- 978 740 l 1
- 876 800 787 832 714 832 c 0
- 590 832 480 750 480 618 c 0
- 480 516 563 443 617 393 c 1
+ 345 431 314 516 314 622 c 0
+ 314 823 503 1002 714 1002 c 0
+ 819 1002 932 961 1054 878 c 1
+ 988 730 l 1
+ 886 790 797 822 724 822 c 0
+ 600 822 490 740 490 608 c 0
+ 490 506 563 443 617 393 c 1
  753 412 843 421 947 421 c 0
  993 421 1011 419 1067 416 c 1
 EndSplineSet
@@ -1102,7 +1104,7 @@ AnchorPoint: "Anchor107" 675 -872 basechar 0
 AnchorPoint: "Anchor110" 677 1584 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 582 1203 2
+Refer: 264 -1 S 1 0 0 1 582 1203 2
 Refer: 33 1593 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 3 subtable" dx=0 dy=0 dh=-93 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFECE
@@ -1122,14 +1124,14 @@ AnchorPoint: "Anchor107" 300 -245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--18 182 m 1
- 585 182 l 5
- 585 0 l 5
- -18 0 l 1
- -18 182 l 1
+-20 182 m 5
+ 585 182 l 1
+ 585 0 l 1
+ -20 0 l 5
+ -20 182 l 5
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
 StartChar: uni0641
@@ -1145,8 +1147,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 1184 1266 2
 Refer: 80 1697 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFED2
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFED4
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFED3
@@ -1165,8 +1167,8 @@ LayerCount: 2
 Fore
 Refer: 265 -1 N 1 0 0 1 664 978 2
 Refer: 74 1647 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-63 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-61 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-60 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFED6
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFED8
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFED7
@@ -1186,21 +1188,21 @@ Fore
 SplineSet
 855 182 m 2
  1013 182 l 2
- 1480 182 1481 289 1481 493 c 2
- 1481 1387 l 1
- 1652 1387 l 1
- 1652 496 l 2
- 1652 166 1597 -7.06621203108e-14 1020 0 c 2
+ 1480 182 1482 289 1482 493 c 2
+ 1482 1377 l 5
+ 1651 1377 l 5
+ 1651 496 l 2
+ 1651 166 1597 -7.06621203108e-14 1020 0 c 2
  855 0 l 2
- 353 0 99 150 99 485 c 0
- 99 577 121 665 155 747 c 1
- 310 689 l 1
- 289 630 273 560 273 500 c 0
- 274 266 469 182 855 182 c 2
+ 353 0 99 120 99 455 c 0
+ 99 547 121 635 155 717 c 1
+ 310 659 l 1
+ 289 600 273 530 273 470 c 0
+ 274 236 469 182 855 182 c 2
 EndSplineSet
 Refer: 420 -1 N 1.035 0 0 1.035 -43 0 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEDA
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEDC
@@ -1219,20 +1221,20 @@ AnchorPoint: "Anchor110" 581 1052 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1160 116 m 2
- 1160 -306 974 -496 629 -496 c 0
+1158 116 m 2
+ 1158 -306 974 -496 629 -496 c 0
  257 -496 99 -282 99 32 c 0
  99 173 130 325 181 467 c 1
  340 403 l 1
  301 280 271 147 271 26 c 0
  271 -190 371 -316 629 -316 c 0
  868 -316 989 -193 989 98 c 2
- 989 1387 l 1
- 1160 1387 l 1
- 1160 116 l 2
+ 989 1377 l 5
+ 1158 1377 l 5
+ 1158 116 l 2
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-63 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-61 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-60 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEDE
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEE0
@@ -1267,8 +1269,8 @@ SplineSet
  103 -515 99 -411 99 -302 c 4
  99 -3.7078644995 112.969726562 254.444335938 356 299 c 5
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEE3
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEE4
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEE2
@@ -1287,8 +1289,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 581 602 2
 Refer: 83 1722 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-63 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-61 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-60 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEE6
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEE8
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEE7
@@ -1319,8 +1321,8 @@ SplineSet
  245 4 99 131 99 307 c 0
  99 461 184 585 341 740 c 1
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEEA
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFEEC
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFEEB
@@ -1352,42 +1354,42 @@ SplineSet
  303 561 267 402 267 313 c 4
  267 215 333 178 469 178 c 4
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-31 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-31 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-30 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEEE
 EndChar
 
 StartChar: uni0649
 Encoding: 1609 1609 44
 GlifName: uni0649
-Width: 1435
+Width: 1445
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 693 -702 basechar 0
-AnchorPoint: "Anchor110" 512 833 basechar 0
+AnchorPoint: "Anchor110" 522 863 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-689 -505 m 4
- 257 -505 99 -241 99 73 c 4
- 99 214 130 366 181 508 c 5
- 340 444 l 5
- 301 321 271 188 271 67 c 4
- 271 -149 371 -325 689 -325 c 4
- 972 -325 1175 -204 1175 -78 c 4
- 1175 -35 1153 10 1087 10 c 6
- 925 10 l 6
- 727 10 658 111 658 280 c 4
- 658 544 829 765 1103 765 c 4
- 1172 765 1251 750 1328 698 c 5
- 1271 546 l 5
- 1216 574 1163 586 1103 586 c 4
- 933 586 833 450 833 280 c 4
- 833 217 852 190 929 190 c 6
- 1097 190 l 6
- 1281 190 1336 79 1336 -74 c 4
- 1336 -297 1113 -505 689 -505 c 4
+689 -505 m 0
+ 257 -505 99 -241 99 73 c 0
+ 99 214 130 366 181 508 c 1
+ 340 444 l 1
+ 301 321 271 188 271 67 c 0
+ 271 -149 371 -325 689 -325 c 0
+ 972 -325 1185 -204 1185 -78 c 0
+ 1185 -35 1163 10 1097 10 c 2
+ 935 10 l 2
+ 737 10 668 111 668 280 c 0
+ 668 544 839 765 1113 765 c 0
+ 1182 765 1261 750 1338 698 c 1
+ 1281 546 l 1
+ 1226 574 1173 586 1113 586 c 0
+ 943 586 843 450 843 280 c 0
+ 843 217 862 190 939 190 c 2
+ 1107 190 l 2
+ 1291 190 1346 79 1346 -74 c 0
+ 1346 -297 1113 -505 689 -505 c 0
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFEF0
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFBE9
@@ -1397,11 +1399,11 @@ EndChar
 StartChar: uni064A
 Encoding: 1610 1610 45
 GlifName: uni064A_
-Width: 1435
+Width: 1445
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 502 833 basechar 0
+AnchorPoint: "Anchor110" 522 863 basechar 0
 AnchorPoint: "Anchor107" 723 -1049 basechar 0
 LayerCount: 2
 Fore
@@ -2108,19 +2110,19 @@ AnchorPoint: "Anchor110" 940 1016 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1068 0 m 6
+1088 0 m 2
  855 0 l 2
- 352 0 99 150 99 485 c 0
- 99 577 121 665 155 747 c 1
- 310 689 l 1
- 289 630 273 560 273 500 c 0
- 274 266 469 182 855 182 c 2
- 1069 182 l 6
- 1236 182 1521 186 1521 400 c 4
- 1521 463 1504 591 1475 701 c 5
- 1646 747 l 5
- 1679 643 1692 469 1692 417 c 4
- 1692 66 1389 0 1068 0 c 6
+ 352 0 99 120 99 455 c 0
+ 99 547 121 635 155 717 c 1
+ 310 659 l 1
+ 289 600 273 530 273 470 c 0
+ 274 236 469 182 855 182 c 2
+ 1089 182 l 2
+ 1269 182 1518 183 1518 388 c 0
+ 1518 463 1501 574 1481 675 c 1
+ 1655 719 l 1
+ 1679 615 1692 495 1692 412 c 0
+ 1692 49 1428 0 1088 0 c 2
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni066E.fina
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni066E.medi
@@ -2176,11 +2178,11 @@ AnchorPoint: "Anchor101" 104 1108 mark 0
 LayerCount: 2
 Fore
 SplineSet
-66 1110 m 1
- 66 1473 l 1
- 151 1473 l 1
- 151 1110 l 1
- 66 1110 l 1
+64 1110 m 5
+ 64 1473 l 5
+ 153 1473 l 1
+ 153 1110 l 1
+ 64 1110 l 5
 EndSplineSet
 EndChar
 
@@ -2224,8 +2226,8 @@ LayerCount: 2
 Fore
 Refer: 267 -1 S 1 0 0 1 673 -395 2
 Refer: 73 1646 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB57
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB59
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB58
@@ -2234,15 +2236,15 @@ EndChar
 StartChar: uni0686
 Encoding: 1670 1670 78
 GlifName: afii57507
-Width: 1390
+Width: 1370
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 715 -872 basechar 0
-AnchorPoint: "Anchor110" 620 1233 basechar 0
+AnchorPoint: "Anchor110" 620 1193 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 S 1 0 0 1 580 -124 2
+Refer: 267 -1 N 1 0 0 1 560 -124 2
 Refer: 21 1581 N 1 0 0 1 0 0 3
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB7B
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB7D
@@ -2253,7 +2255,7 @@ StartChar: uni0698
 Encoding: 1688 1688 79
 GlifName: afii57508
 Width: 701
-VWidth: 2834
+VWidth: 2242
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 332 -654 basechar 0
@@ -2262,8 +2264,8 @@ LayerCount: 2
 Fore
 Refer: 266 -1 N 1 0 0 1 134 767 2
 Refer: 25 1585 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-42 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-42 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-40 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-40 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB8B
 EndChar
 
@@ -2279,25 +2281,25 @@ AnchorPoint: "Anchor107" 914 -239 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1321 531 m 4
- 1383 531 1442 543 1505 561 c 5
- 1488 703 1440 887 1300 887 c 4
- 1176 887 1130 737 1130 645 c 4
- 1130 554 1198 531 1321 531 c 4
-1516 390 m 5
- 1451 370 1385 359 1308 359 c 4
- 1081 359 968 452 968 639 c 4
- 968 839 1077 1065 1302 1065 c 4
- 1572 1065 1676 761 1676 460 c 4
- 1676 62 1552 0 1186 0 c 6
+1321 531 m 0
+ 1383 531 1442 543 1505 561 c 1
+ 1488 703 1440 887 1300 887 c 0
+ 1176 887 1130 737 1130 645 c 0
+ 1130 554 1198 531 1321 531 c 0
+1516 390 m 1
+ 1451 370 1385 359 1308 359 c 0
+ 1081 359 968 452 968 639 c 0
+ 968 839 1077 1065 1302 1065 c 0
+ 1572 1065 1676 761 1676 460 c 0
+ 1676 62 1552 0 1186 0 c 2
  855 0 l 2
- 344 0 99 150 99 485 c 0
- 99 577 121 665 155 747 c 1
- 310 689 l 1
- 289 630 273 560 273 500 c 0
- 273 266 478 182 855 182 c 2
- 1198 182 l 6
- 1434 182 1516 203 1516 390 c 5
+ 344 0 99 120 99 455 c 4
+ 99 547 121 635 155 717 c 5
+ 310 659 l 5
+ 289 600 273 530 273 470 c 4
+ 273 236 478 182 855 182 c 2
+ 1198 182 l 2
+ 1434 182 1516 203 1516 390 c 1
 EndSplineSet
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06A1.init
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06A1.medi
@@ -2316,26 +2318,26 @@ AnchorPoint: "Anchor107" 919 -240 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1108 0 m 6
+1108 0 m 2
  855 0 l 2
- 353 0 99 150 99 485 c 0
- 99 577 121 665 155 747 c 1
- 310 689 l 1
- 289 630 273 560 273 500 c 0
- 274 266 469 182 855 182 c 2
- 1107 182 l 6
- 1366 182 1469 217 1469 354 c 4
- 1469 530 1185 690 987 846 c 4
- 944 880 919 920 919 965 c 4
- 919 1021 953 1085 1014 1110 c 6
- 1733 1402 l 5
- 1733 1225 l 5
- 1104 970 l 5
- 1334 808 1643 611 1643 350 c 4
- 1642 102 1480 0 1108 0 c 6
+ 353 0 99 120 99 455 c 0
+ 99 547 121 635 155 717 c 1
+ 310 659 l 1
+ 289 600 273 530 273 470 c 0
+ 274 236 469 182 855 182 c 2
+ 1107 182 l 2
+ 1366 182 1469 217 1469 354 c 0
+ 1469 530 1185 690 987 846 c 0
+ 943.79172024 880.164686322 920.586198147 929.588224617 920.586198147 977.511358141 c 0
+ 920.586198147 1031.63599439 950.186143587 1083.84678016 1014 1110 c 2
+ 1733 1402 l 1
+ 1733 1225 l 1
+ 1104 970 l 1
+ 1334 808 1643 611 1643 350 c 0
+ 1642 102 1480 0 1108 0 c 2
 EndSplineSet
 Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=-23 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-201 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=189 dv=0
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB90
@@ -2357,7 +2359,7 @@ Fore
 Refer: 273 -1 S 1 0 0 1 1032 -355 2
 Refer: 81 1705 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=-23 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-201 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=189 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB93
@@ -2397,12 +2399,12 @@ EndChar
 StartChar: uni06CC
 Encoding: 1740 1740 84
 GlifName: uni06C_C_
-Width: 1435
+Width: 1445
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 693 -702 basechar 0
-AnchorPoint: "Anchor110" 502 833 basechar 0
+AnchorPoint: "Anchor110" 522 863 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 1609 N 1 0 0 1 0 0 3
@@ -2423,8 +2425,8 @@ AnchorPoint: "Anchor107" 457 -216 basechar 0
 LayerCount: 2
 Fore
 Refer: 42 1607 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06D5.fina
 EndChar
 
@@ -2687,12 +2689,12 @@ EndChar
 StartChar: uniFB7A
 Encoding: 64378 64378 100
 GlifName: uniF_B_7A_
-Width: 1390
+Width: 1370
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 715 -872 basechar 0
-AnchorPoint: "Anchor110" 620 1233 basechar 0
+AnchorPoint: "Anchor110" 620 1203 basechar 0
 LayerCount: 2
 Fore
 Refer: 78 1670 N 1 0 0 1 0 0 3
@@ -2701,22 +2703,22 @@ EndChar
 StartChar: uniFB7B
 Encoding: 64379 64379 101
 GlifName: uniF_B_7B_
-Width: 1429
+Width: 1409
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 715 -872 basechar 0
-AnchorPoint: "Anchor110" 620 1233 basechar 0
+AnchorPoint: "Anchor110" 620 1193 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 S 0.9 0 0 0.9 450.5 -179.25 2
+Refer: 267 -1 N 0.9 0 0 0.9 450.5 -179.25 2
 Refer: 173 65186 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uniFB7C
 Encoding: 64380 64380 102
 GlifName: uniF_B_7C_
-Width: 1392
+Width: 1372
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
@@ -2727,13 +2729,13 @@ Fore
 Refer: 267 -1 S 1 0 0 1 411 -395 2
 Refer: 174 65187 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-100 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 EndChar
 
 StartChar: uniFB7D
 Encoding: 64381 64381 103
 GlifName: uniF_B_7D_
-Width: 1416
+Width: 1396
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
@@ -2749,7 +2751,7 @@ StartChar: uniFB8A
 Encoding: 64394 64394 104
 GlifName: uniF_B_8A_
 Width: 701
-VWidth: 2834
+VWidth: 2242
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 332 -654 basechar 0
@@ -2787,7 +2789,7 @@ LayerCount: 2
 Fore
 Refer: 81 1705 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=-23 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-201 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
@@ -2803,28 +2805,28 @@ AnchorPoint: "Anchor107" 919 -240 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1107 0 m 6
+1107 0 m 2
  852 0 l 2
- 350 0 99 150 99 485 c 0
- 99 577 121 665 155 747 c 1
- 310 689 l 1
- 289 631 273 561 273 501 c 0
- 274 267 467 182 852 182 c 2
- 1106 182 l 6
- 1365 182 1468 217 1468 354 c 4
- 1468 530 1184 690 986 846 c 4
- 943 880 918 920 918 965 c 4
- 918 1021 953 1085 1014 1110 c 6
- 1733 1402 l 5
- 1733 1225 l 5
- 1104 970 l 5
- 1330 808 1545 670 1644 429 c 4
- 1714.63183594 257.057617188 1779 182 1922 182 c 6
- 1950 182 l 5
- 1949 0 l 5
- 1921 0 l 6
- 1773 0 1675 55 1594 180 c 5
- 1513 62 1400 0 1107 0 c 6
+ 350 0 99 120 99 455 c 0
+ 99 547 121 635 155 717 c 1
+ 310 659 l 1
+ 289 601 273 531 273 471 c 0
+ 274 237 467 182 852 182 c 2
+ 1106 182 l 2
+ 1365 182 1468 217 1468 354 c 0
+ 1468 530 1184 690 986 846 c 0
+ 942.715860088 880.224668768 919.69005556 929.25397466 919.69005556 976.833390029 c 0
+ 919.69005556 1031.19727325 949.750649187 1083.66829885 1014 1110 c 2
+ 1733 1402 l 1
+ 1733 1225 l 1
+ 1104 970 l 1
+ 1330 808 1545 670 1644 429 c 0
+ 1714.63183594 257.057617188 1779 182 1922 182 c 2
+ 1949 182 l 5
+ 1948 0 l 5
+ 1921 0 l 2
+ 1773 0 1675 55 1594 180 c 1
+ 1513 62 1400 0 1107 0 c 2
 EndSplineSet
 EndChar
 
@@ -2841,7 +2843,7 @@ LayerCount: 2
 Fore
 Refer: 230 65243 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=-23 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-201 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=189 dv=0
 EndChar
@@ -2873,7 +2875,7 @@ LayerCount: 2
 Fore
 Refer: 82 1711 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=-23 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-201 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
@@ -2906,7 +2908,7 @@ Fore
 Refer: 273 -1 N 1 0 0 1 148 -355 2
 Refer: 230 65243 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=-23 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-201 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=189 dv=0
 EndChar
@@ -2953,22 +2955,22 @@ AnchorPoint: "Anchor110" 662 833 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-689 -335 m 4
+689 -335 m 0
  1022 -335 1112 -150 1112 52 c 0
  1112 210 1057 378 1020 477 c 1
  1191 546 l 1
  1265 312 l 2
  1292 226 1349 182 1458 182 c 2
- 1496 182 l 1
- 1496 0 l 1
+ 1497 182 l 1
+ 1497 0 l 1
  1462 0 l 2
  1369 0 1328.97460938 15 1286.97460938 57 c 1
- 1284.50579131 -278.299100704 1104.11709156 -515 689 -515 c 4
- 257 -515 99 -251 99 63 c 4
- 99 204 130 356 181 498 c 5
- 340 434 l 5
- 301 311 271 178 271 57 c 4
- 271 -159 371 -335 689 -335 c 4
+ 1284.50579131 -278.299100704 1104.11709156 -515 689 -515 c 0
+ 257 -515 99 -251 99 63 c 0
+ 99 204 130 356 181 498 c 1
+ 340 434 l 1
+ 301 311 271 178 271 57 c 0
+ 271 -159 371 -335 689 -335 c 0
 EndSplineSet
 EndChar
 
@@ -3031,12 +3033,12 @@ EndChar
 StartChar: uniFBFC
 Encoding: 64508 64508 120
 GlifName: uniF_B_F_C_
-Width: 1435
+Width: 1445
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 693 -702 basechar 0
-AnchorPoint: "Anchor110" 502 833 basechar 0
+AnchorPoint: "Anchor110" 522 863 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 1609 N 1 0 0 1 0 0 3
@@ -3067,12 +3069,12 @@ AnchorPoint: "Anchor110" 369 1000 basechar 0
 AnchorPoint: "Anchor107" 188 -584 basechar 0
 LayerCount: 2
 Fore
-Refer: 254 65267 S 1 0 0 1 0 0 3
+Refer: 254 65267 N 1 0 0 1 0 0 3
 Substitution2: "Single Substitution 5-1" uniFBFE.long3
 Substitution2: "Single Substitution 2-1" uniFBFE.long2
 Substitution2: "Single Substitution 1-1" uniFBFE.long4
 Substitution2: "Single Substitution 0 subtable" uniFBFE.long1
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=31 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=30 dv=0
 EndChar
 
 StartChar: uniFBFF
@@ -3489,7 +3491,7 @@ EndChar
 StartChar: uniFE89
 Encoding: 65161 65161 148
 GlifName: uniF_E_89
-Width: 1435
+Width: 1445
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
@@ -3508,10 +3510,10 @@ VWidth: 3094
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 693 -744 basechar 0
-AnchorPoint: "Anchor110" 503 1147 basechar 0
+AnchorPoint: "Anchor110" 503 1127 basechar 0
 LayerCount: 2
 Fore
-Refer: 76 1652 N 1 0 0 1 190 -530 2
+Refer: 76 1652 S 1 0 0 1 190 -550 2
 Refer: 251 65264 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3523,14 +3525,14 @@ VWidth: 3096
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 249 -245 basechar 0
-AnchorPoint: "Anchor110" 321 1395 basechar 0
+AnchorPoint: "Anchor110" 321 1375 basechar 0
 LayerCount: 2
 Fore
-Refer: 76 1652 N 1 0 0 1 8 -284 2
+Refer: 76 1652 S 1 0 0 1 8 -304 2
 Refer: 453 -1 N 0.22 0 0 1 -18 0 2
 Refer: 300 -1 N 1 0 0 1 44 0 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=84 dv=0
 EndChar
 
@@ -3541,11 +3543,11 @@ Width: 734
 VWidth: 3096
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 354 1281 basechar 0
+AnchorPoint: "Anchor110" 354 1261 basechar 0
 AnchorPoint: "Anchor107" 323 -245 basechar 0
 LayerCount: 2
 Fore
-Refer: 76 1652 N 1 0 0 1 40 -400 2
+Refer: 76 1652 S 1 0 0 1 40 -420 2
 Refer: 453 -1 N 0.22 0 0 1 -18 0 2
 Refer: 301 -1 N 1 0 0 1 44 0 2
 EndChar
@@ -3577,15 +3579,15 @@ AnchorPoint: "Anchor107" 300 -256 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-152 1387 m 5
- 323 1387 l 5
- 323 421 l 2
- 323 233 391 182 531 182 c 2
- 555 182 l 1
- 555 0 l 1
+153 1377 m 1
+ 322 1377 l 1
+ 322 421 l 2
+ 322 233 391 182 531 182 c 2
+ 556 182 l 5
+ 556 0 l 5
  531 0 l 2
- 276 0 152 130 152 422 c 2
- 152 1387 l 5
+ 276 0 153 130 153 422 c 2
+ 153 1377 l 1
 EndSplineSet
 EndChar
 
@@ -3724,14 +3726,14 @@ VWidth: 2834
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 222 -245 basechar 0
-AnchorPoint: "Anchor110" 280 1369 basechar 0
+AnchorPoint: "Anchor110" 280 1354 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 -3 948 2
+Refer: 265 -1 S 1 0 0 1 -3 933 2
 Refer: 453 -1 N 0.21 0 0 1 -16 0 2
 Refer: 300 -1 N 1 0 0 1 44 0 2
 Substitution2: "Single Substitution 1-2" uniFE97.long
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-50 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=63 dv=0
 EndChar
@@ -3744,10 +3746,10 @@ VWidth: 2834
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 221 -245 basechar 0
-AnchorPoint: "Anchor110" 273 1293 basechar 0
+AnchorPoint: "Anchor110" 273 1273 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 N 1 0 0 1 -3 861 2
+Refer: 265 -1 N 1 0 0 1 -3 841 2
 Refer: 453 -1 N 0.21 0 0 1 -16 0 2
 Refer: 301 -1 N 1 0 0 1 44 0 2
 Substitution2: "Single Substitution 1-2" uniFE98.long
@@ -3790,15 +3792,15 @@ VWidth: 2834
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 232 -245 basechar 0
-AnchorPoint: "Anchor110" 258 1570 basechar 0
+AnchorPoint: "Anchor110" 258 1560 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 -4 953 2
+Refer: 266 -1 S 1 0 0 1 -4 943 2
 Refer: 453 -1 N 0.21 0 0 1 -16 0 2
 Refer: 300 -1 N 1 0 0 1 44 0 2
 Substitution2: "Single Substitution 1-2" uniFE9B.long
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=63 dv=0
 EndChar
 
@@ -3810,10 +3812,10 @@ VWidth: 2834
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 230 -245 basechar 0
-AnchorPoint: "Anchor110" 252 1461 basechar 0
+AnchorPoint: "Anchor110" 252 1481 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 -4 841 2
+Refer: 266 -1 S 1 0 0 1 -4 861 2
 Refer: 453 -1 N 0.21 0 0 1 -16 0 2
 Refer: 301 -1 N 1 0 0 1 44 0 2
 Substitution2: "Single Substitution 1-2" uniFE9C.long
@@ -3822,12 +3824,12 @@ EndChar
 StartChar: uniFE9D
 Encoding: 65181 65181 168
 GlifName: uniF_E_9D_
-Width: 1390
+Width: 1370
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 715 -872 basechar 0
-AnchorPoint: "Anchor110" 620 1233 basechar 0
+AnchorPoint: "Anchor110" 620 1193 basechar 0
 LayerCount: 2
 Fore
 Refer: 20 1580 N 1 0 0 1 0 0 3
@@ -3836,22 +3838,22 @@ EndChar
 StartChar: uniFE9E
 Encoding: 65182 65182 169
 GlifName: uniF_E_9E_
-Width: 1429
+Width: 1409
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 715 -872 basechar 0
-AnchorPoint: "Anchor110" 620 1233 basechar 0
+AnchorPoint: "Anchor110" 620 1193 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 612 -228 2
+Refer: 264 -1 N 1 0 0 1 602 -228 2
 Refer: 173 65186 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uniFE9F
 Encoding: 65183 65183 170
 GlifName: uniF_E_9F_
-Width: 1392
+Width: 1372
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
@@ -3861,14 +3863,14 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 570 -400 2
 Refer: 174 65187 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uniFEA0
 Encoding: 65184 65184 171
 GlifName: uniF_E_A_0
-Width: 1416
+Width: 1396
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
@@ -3883,12 +3885,12 @@ EndChar
 StartChar: uniFEA1
 Encoding: 65185 65185 172
 GlifName: uniF_E_A_1
-Width: 1390
+Width: 1370
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 725 -872 basechar 0
-AnchorPoint: "Anchor110" 630 1233 basechar 0
+AnchorPoint: "Anchor110" 630 1193 basechar 0
 LayerCount: 2
 Fore
 Refer: 21 1581 N 1 0 0 1 0 0 3
@@ -3897,46 +3899,44 @@ EndChar
 StartChar: uniFEA2
 Encoding: 65186 65186 173
 GlifName: uniF_E_A_2
-Width: 1429
+Width: 1409
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 709 -875 basechar 0
-AnchorPoint: "Anchor110" 614 1210 basechar 0
+AnchorPoint: "Anchor110" 614 1190 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 100 -175 m 0
- 100 155 373 436 881 548 c 1
- 837 564 799 583 750 602 c 0
- 617 655 534 689 485 689 c 0
- 404 689 324 636 272 569 c 2
- 244 533 l 1
- 90 609 l 1
- 106 634 l 2
- 194 777 329 870 486 870 c 0
- 573 870 678 830 802 770 c 0
- 1017 665 1148 618 1269 611 c 1
- 1269 439 l 5
- 1195 434 1116 424 1051 411 c 1
- 1051 198 1163 182 1368 182 c 2
- 1447 182 l 1
- 1447 0 l 1
- 1371 0 l 2
- 1060 0 906 75 906 382 c 1
- 476 266 269 48 269 -166 c 0
- 269 -398 458 -517 801 -517 c 0
- 951 -517 1116 -488 1254 -424 c 1
- 1299 -591 l 1
- 1159 -657 971 -691 786 -691 c 0
- 402 -691 100 -532 100 -175 c 0
+ 100 155 350 435.672851562 858 547.672851562 c 1
+ 693.885742188 615.247070312 520.974609375 699 474 699 c 4
+ 393 699 323 645 271 578 c 2
+ 244 544 l 1
+ 91 619 l 1
+ 106 643 l 2
+ 194 786 318 879 475 879 c 4
+ 640.125976562 879 981.91796875 619.508789062 1249 611 c 1
+ 1249 439 l 1
+ 1175 434 1096 424 1031 411 c 1
+ 1031 198 1143 182 1348 182 c 2
+ 1429 182 l 1
+ 1429 0 l 1
+ 1351 0 l 2
+ 1040 0 886 75 886 382 c 1
+ 456 266 269 48 269 -166 c 0
+ 269 -398 438 -517 781 -517 c 0
+ 931 -517 1096 -488 1234 -424 c 1
+ 1279 -591 l 1
+ 1139 -657 951 -691 766 -691 c 0
+ 382 -691 100 -532 100 -175 c 0
 EndSplineSet
 EndChar
 
 StartChar: uniFEA3
 Encoding: 65187 65187 174
 GlifName: uniF_E_A_3
-Width: 1392
+Width: 1372
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
@@ -3945,32 +3945,30 @@ AnchorPoint: "Anchor107" 581 -251 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--18 182 m 1
+-20 182 m 1
  150 182 l 2
- 463 182 704 321 1002 477 c 1
- 926 504 899 520 802 559 c 0
- 660 617 570 653 519 653 c 0
- 438 653 358 599 306 532 c 2
- 279 498 l 1
- 126 573 l 1
- 141 597 l 2
- 229 740 363 833 520 833 c 0
- 607 833 713 793 837 733 c 0
- 1052 628 1183 582 1304 575 c 1
- 1304 402 l 5
- 1219 392 1114 347 902 235 c 0
- 646 99 429 0 147 0 c 2
- -18 0 l 1
- -18 182 l 1
+ 463 182 684 301 982 457 c 1
+ 792 526 554.520507812 643 499 643 c 0
+ 418 643 358 589 306 522 c 2
+ 279 488 l 1
+ 126 563 l 1
+ 141 587 l 2
+ 229 730 343 823 500 823 c 0
+ 665.125976562 823 1016.91821351 563.508863681 1284 555 c 1
+ 1284 382 l 1
+ 1199 372 1094 327 882 215 c 0
+ 626 79 429 0 147 0 c 2
+ -20 0 l 1
+ -20 182 l 1
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-100 dv=0
 EndChar
 
 StartChar: uniFEA4
 Encoding: 65188 65188 175
 GlifName: uniF_E_A_4
-Width: 1416
+Width: 1396
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
@@ -3979,35 +3977,33 @@ AnchorPoint: "Anchor107" 581 -251 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1435 182 m 1
- 1435 0 l 1
- 1377 0 l 2
- 1105 0 987 81 960 268 c 1
- 696 124 432 0 147 0 c 2
- -18 0 l 1
- -18 182 l 1
+1284 555 m 1
+ 1284 382 l 1
+ 1227 376 1156 358 1070 317 c 1
+ 1072 206 1170 182 1361 182 c 2
+ 1416 182 l 1
+ 1416 0 l 1
+ 1357 0 l 2
+ 1085 0 967 61 940 248 c 1
+ 676 104 432 0 147 0 c 2
+ -20 0 l 1
+ -20 182 l 1
  150 182 l 2
- 463 182 704 321 1002 477 c 1
- 926 504 899 520 802 559 c 0
- 660 617 570 653 519 653 c 0
- 438 653 358 599 306 532 c 2
- 279 498 l 1
- 126 573 l 1
- 141 597 l 2
- 229 740 363 833 520 833 c 0
- 607 833 713 793 837 733 c 0
- 1052 628 1183 582 1304 575 c 5
- 1304 402 l 1
- 1247 396 1176 378 1090 337 c 1
- 1092 226 1190 182 1381 182 c 2
- 1435 182 l 1
+ 463 182 683 301 982 457 c 1
+ 792 526 554.520507812 643 499 643 c 0
+ 418 643 358 589 306 522 c 2
+ 279 488 l 1
+ 126 563 l 1
+ 141 587 l 2
+ 229 730 343 823 500 823 c 0
+ 665.125976562 823 1016.91796875 563.508789062 1284 555 c 1
 EndSplineSet
 EndChar
 
 StartChar: uniFEA5
 Encoding: 65189 65189 176
 GlifName: uniF_E_A_5
-Width: 1390
+Width: 1370
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
@@ -4021,7 +4017,7 @@ EndChar
 StartChar: uniFEA6
 Encoding: 65190 65190 177
 GlifName: uniF_E_A_6
-Width: 1429
+Width: 1409
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
@@ -4036,32 +4032,32 @@ EndChar
 StartChar: uniFEA7
 Encoding: 65191 65191 178
 GlifName: uniF_E_A_7
-Width: 1392
+Width: 1372
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 539 -246 basechar 0
-AnchorPoint: "Anchor110" 584 1475 basechar 0
+AnchorPoint: "Anchor110" 584 1465 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 507 1053 2
+Refer: 264 -1 S 1 0 0 1 507 1043 2
 Refer: 174 65187 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-100 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 EndChar
 
 StartChar: uniFEA8
 Encoding: 65192 65192 179
 GlifName: uniF_E_A_8
-Width: 1416
+Width: 1396
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 584 1475 basechar 0
+AnchorPoint: "Anchor110" 584 1465 basechar 0
 AnchorPoint: "Anchor107" 539 -246 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1 0 0 1 507 1053 2
+Refer: 264 -1 S 1 0 0 1 507 1043 2
 Refer: 175 65188 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4093,8 +4089,8 @@ Fore
 SplineSet
 675 364 m 0
  675 399 657 461 636 509 c 2
- 459 910 l 5
- 615 983 l 5
+ 459 910 l 1
+ 615 983 l 1
  842 449 l 2
  934 232 980 182 1067 182 c 2
  1109 182 l 1
@@ -4173,8 +4169,8 @@ SplineSet
  528 545 l 1
  582 336 l 2
  611 224 675 182 773 182 c 2
- 810 182 l 1
- 810 0 l 1
+ 811 182 l 5
+ 811 0 l 5
  784 0 l 2
 EndSplineSet
 EndChar
@@ -4186,8 +4182,8 @@ Width: 701
 VWidth: 2834
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor107" 332 -654 basechar 0
-AnchorPoint: "Anchor110" 402 1193 basechar 0
+AnchorPoint: "Anchor107" 332 -634 basechar 0
+AnchorPoint: "Anchor110" 404 1193 basechar 0
 LayerCount: 2
 Fore
 Refer: 26 1586 N 1 0 0 1 0 0 3
@@ -4200,23 +4196,23 @@ Width: 791
 VWidth: 2242
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor107" 332 -654 basechar 0
-AnchorPoint: "Anchor110" 398 1193 basechar 0
+AnchorPoint: "Anchor107" 332 -634 basechar 0
+AnchorPoint: "Anchor110" 408 1193 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 307 782 2
+Refer: 264 -1 N 1 0 0 1 317 782 2
 Refer: 185 65198 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uniFEB1
 Encoding: 65201 65201 188
 GlifName: uniF_E_B_1
-Width: 2440
+Width: 2420
 VWidth: 2144
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 693 -751 basechar 0
-AnchorPoint: "Anchor110" 1721 954 basechar 0
+AnchorPoint: "Anchor110" 1711 954 basechar 0
 LayerCount: 2
 Fore
 Refer: 27 1587 N 1 0 0 1 0 0 3
@@ -4225,140 +4221,140 @@ EndChar
 StartChar: uniFEB2
 Encoding: 65202 65202 189
 GlifName: uniF_E_B_2
-Width: 2553
+Width: 2533
 VWidth: 2144
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 687 -744 basechar 0
-AnchorPoint: "Anchor110" 1733 973 basechar 0
+AnchorPoint: "Anchor110" 1723 973 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-689 -335 m 4
+689 -335 m 0
  1022 -335 1112 -150 1112 52 c 0
  1112 210 1057 378 1020 477 c 1
  1191 546 l 1
  1251 357 l 2
- 1288 241 1360.99609375 182 1484 182 c 0
- 1624 182 1681 282 1681 425 c 0
- 1681 458 1677 490 1670 579 c 1
- 1838 600 l 1
- 1854 396 l 2
- 1861 288 1913 182 2024 182 c 0
- 2123 182 2172 279 2172 423 c 0
- 2172 471 2169 509 2162 601 c 1
- 2329 621 l 1
- 2345 396 l 2
- 2353 268 2421 182 2543 182 c 2
- 2571 182 l 1
- 2571 0 l 1
- 2545 0 l 2
- 2405 0 2308 51 2274 154 c 1
- 2218 55 2156 0 2025 0 c 0
- 1898 0 1819 55 1770 153 c 1
- 1695 45 1588 0 1482 0 c 0
- 1394 0 1329.97460938 25 1286.97460938 57 c 1
+ 1288 241 1359.99609375 182 1483 182 c 0
+ 1624 182 1665 260 1665 403 c 0
+ 1665 438 1662 479.588867188 1655 564 c 1
+ 1822 585 l 1
+ 1838 376 l 2
+ 1845 268 1890 182 2004 182 c 0
+ 2103 182 2152 259 2152 403 c 0
+ 2152 451 2149 495 2142 581 c 1
+ 2309 601 l 1
+ 2325 376 l 2
+ 2333 248 2401 182 2523 182 c 2
+ 2553 182 l 1
+ 2553 0 l 1
+ 2525 0 l 2
+ 2385 0 2288 51 2254 154 c 1
+ 2198 55 2136 0 2005 0 c 0
+ 1877 0 1803 55 1754 153 c 1
+ 1679 45 1588 0 1481 0 c 0
+ 1393 0 1329.97460938 25 1286.97460938 57 c 1
  1284.50585938 -278.298828125 1104.1171875 -515 689 -515 c 0
  257 -515 99 -251 99 63 c 0
  99 204 130 356 181 498 c 1
  340 434 l 1
  301 311 271 178 271 57 c 0
- 271 -159 371 -335 689 -335 c 4
+ 271 -159 371 -335 689 -335 c 0
 EndSplineSet
 EndChar
 
 StartChar: uniFEB3
 Encoding: 65203 65203 190
 GlifName: uniF_E_B_3
-Width: 1625
+Width: 1615
 VWidth: 2144
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor107" 777 -250 basechar 0
-AnchorPoint: "Anchor110" 916 991 basechar 0
+AnchorPoint: "Anchor107" 767 -250 basechar 0
+AnchorPoint: "Anchor110" 906 991 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-667 0 m 0
- 514 0 439 54 390 153 c 1
- 327 54 232 0 52 0 c 2
- -18 0 l 1
- -18 182 l 1
- 54 182 l 2
- 225 182 310 257 310 425 c 0
- 310 460 307 494 300 579 c 1
- 467 600 l 1
- 483 396 l 2
- 491 284 550 182 669 182 c 0
- 810 182 866 282 866 425 c 4
- 866 460 863 494.588745117 856 579 c 5
- 1023 600 l 5
- 1039 396 l 6
- 1046 288 1097 182 1208 182 c 0
- 1306 182 1356 285 1356 419 c 0
- 1356 493 1341 584 1311 693 c 1
- 1482 739 l 1
- 1514 633 1526 532 1526 435 c 0
- 1526 195 1445 1 1210 0 c 0
- 1083 0 1004 55 955 153 c 1
- 880 45 774 0 667 0 c 0
+677 0 m 0
+ 524 0 449 54 400 153 c 1
+ 337 54 252 0 72 0 c 2
+ -20 0 l 1
+ -20 182 l 1
+ 74 182 l 2
+ 245 182 320 235 320 403 c 0
+ 320 438 317 479 310 564 c 1
+ 477 585 l 1
+ 493 376 l 2
+ 501 264 560 182 679 182 c 0
+ 820 182 861 260 861 403 c 0
+ 861 438 858 480 851 564 c 1
+ 1018 585 l 1
+ 1034 376 l 2
+ 1041 268 1086 182 1200 182 c 0
+ 1310 182 1345 278 1345 389 c 0
+ 1345 489 1320 600 1305 663 c 1
+ 1476 709 l 1
+ 1500 619 1516 516 1516 416 c 0
+ 1516 199 1436 1 1201 0 c 0
+ 1073 0 999 55 950 153 c 1
+ 875 45 784 0 677 0 c 0
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 EndChar
 
 StartChar: uniFEB4
 Encoding: 65204 65204 191
 GlifName: uniF_E_B_4
-Width: 1739
+Width: 1729
 VWidth: 2144
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 777 -250 basechar 0
-AnchorPoint: "Anchor110" 916 991 basechar 0
+AnchorPoint: "Anchor110" 906 991 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1211 0 m 0
- 1083 0 1004 55 955 153 c 1
- 880 45 774 0 667 0 c 0
- 514 0 439 54 390 153 c 1
- 327 54 232 0 52 0 c 2
- -18 0 l 1
- -18 182 l 1
- 54 182 l 2
- 225 182 310 257 310 425 c 4
- 310 460 307 494 300 579 c 5
- 467 600 l 5
- 483 396 l 6
- 491 284 550 182 669 182 c 0
- 810 182 866 282 866 425 c 4
- 866 460 863 494.588745117 856 579 c 5
- 1023 600 l 5
- 1039 396 l 6
- 1046 288 1096 182 1210 182 c 0
- 1309 182 1358 279 1358 423 c 0
- 1358 471 1355 515 1348 601 c 1
- 1515 621 l 1
- 1531 396 l 2
- 1539 268 1607 182 1729 182 c 2
- 1757 182 l 1
- 1757 0 l 1
- 1731 0 l 2
- 1591 0 1494 51 1460 154 c 1
- 1404 55 1342 0 1211 0 c 0
+1201 0 m 4
+ 1073 0 999 55 950 153 c 5
+ 875 45 784 0 677 0 c 4
+ 524 0 449 54 400 153 c 1
+ 337 54 252 0 72 0 c 2
+ -20 0 l 1
+ -20 182 l 1
+ 74 182 l 2
+ 245 182 320 235 320 403 c 0
+ 320 438 317 479 310 564 c 1
+ 477 585 l 1
+ 493 376 l 2
+ 501 264 560 182 679 182 c 4
+ 820 182 861 260 861 403 c 4
+ 861 438 858 479.588867188 851 564 c 5
+ 1018 585 l 5
+ 1034 376 l 6
+ 1041 268 1086 182 1200 182 c 4
+ 1299 182 1348 259 1348 403 c 4
+ 1348 451 1345 495 1338 581 c 5
+ 1505 601 l 5
+ 1521 376 l 6
+ 1529 248 1597 182 1719 182 c 6
+ 1749 182 l 5
+ 1749 0 l 5
+ 1721 0 l 6
+ 1581 0 1484 51 1450 154 c 5
+ 1394 55 1332 0 1201 0 c 4
 EndSplineSet
 EndChar
 
 StartChar: uniFEB5
 Encoding: 65205 65205 192
 GlifName: uniF_E_B_5
-Width: 2440
+Width: 2420
 VWidth: 3101
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 693 -749 basechar 0
-AnchorPoint: "Anchor110" 1692 1502 basechar 0
+AnchorPoint: "Anchor110" 1682 1472 basechar 0
 LayerCount: 2
 Fore
 Refer: 28 1588 N 1 0 0 1 0 0 3
@@ -4367,47 +4363,47 @@ EndChar
 StartChar: uniFEB6
 Encoding: 65206 65206 193
 GlifName: uniF_E_B_6
-Width: 2553
+Width: 2533
 VWidth: 2144
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 692 -749 basechar 0
-AnchorPoint: "Anchor110" 1698 1508 basechar 0
+AnchorPoint: "Anchor110" 1688 1478 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 N 1 0 0 1 1451 871 2
+Refer: 266 -1 N 1 0 0 1 1441 861 2
 Refer: 189 65202 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uniFEB7
 Encoding: 65207 65207 194
 GlifName: uniF_E_B_7
-Width: 1625
+Width: 1615
 VWidth: 2144
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 882 1508 basechar 0
-AnchorPoint: "Anchor107" 786 -248 basechar 0
+AnchorPoint: "Anchor110" 882 1478 basechar 0
+AnchorPoint: "Anchor107" 796 -248 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 636 871 2
+Refer: 266 -1 N 1 0 0 1 636 861 2
 Refer: 190 65203 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 EndChar
 
 StartChar: uniFEB8
 Encoding: 65208 65208 195
 GlifName: uniF_E_B_8
-Width: 1739
+Width: 1729
 VWidth: 2144
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 882 1508 basechar 0
-AnchorPoint: "Anchor107" 786 -248 basechar 0
+AnchorPoint: "Anchor110" 882 1478 basechar 0
+AnchorPoint: "Anchor107" 796 -248 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 636 871 2
+Refer: 266 -1 N 1 0 0 1 636 861 2
 Refer: 191 65204 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4447,8 +4443,8 @@ SplineSet
  2294 806 2456 644 2456 430 c 0
  2455 343 2429 267 2379 201 c 1
  2416 191 2471 182 2593 182 c 2
- 2621 182 l 1
- 2621 0 l 1
+ 2622 182 l 5
+ 2622 0 l 5
  2594 0 l 2
  2425 0 2319 37 2245 98 c 1
  2135 37 1954 0 1718 0 c 2
@@ -4480,11 +4476,11 @@ AnchorPoint: "Anchor107" 712 -256 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1232 624 m 4
- 1075 624 897 476 711 182 c 5
- 873 182 l 6
- 1253 182 1438 254 1438 420 c 4
- 1438 537 1356 624 1232 624 c 4
+1232 624 m 0
+ 1075 624 897 476 711 182 c 1
+ 873 182 l 2
+ 1253 182 1438 254 1438 420 c 0
+ 1438 537 1356 624 1232 624 c 0
 530 213 m 1
  767 618 995 806 1224 806 c 0
  1452 806 1615 644 1615 430 c 0
@@ -4492,17 +4488,17 @@ SplineSet
  824 0 l 2
  541 0 405 56 344 152 c 1
  267 47 181 0 21 0 c 2
- -18 0 l 1
- -17 182 l 1
+ -20 0 l 5
+ -19 182 l 5
  21 182 l 2
- 207 182 258 283 258 434 c 0
- 258 498 252 548 249 611 c 1
- 416 631 l 1
- 431 397 l 2
- 438 307 466 213 530 213 c 1
+ 207 182 258 263 258 414 c 0
+ 258 478 252 528 249 591 c 1
+ 416 611 l 1
+ 431 377 l 2
+ 438 287 466 213 530 213 c 1
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
 StartChar: uniFEBC
@@ -4526,20 +4522,20 @@ SplineSet
  824 0 l 2
  541 0 405 56 344 152 c 1
  267 47 181 0 21 0 c 2
- -18 0 l 1
- -17 182 l 5
- 21 182 l 6
- 207 182 258 283 258 434 c 4
- 258 498 252 548 249 611 c 5
- 416 631 l 5
- 431 397 l 6
- 438 307 466 213 530 213 c 5
+ -20 0 l 1
+ -19 182 l 1
+ 21 182 l 2
+ 207 182 258 263 258 414 c 0
+ 258 478 252 528 249 591 c 1
+ 416 611 l 1
+ 431 377 l 2
+ 438 287 466 213 530 213 c 1
  768 618 995 806 1224 806 c 0
  1452 806 1615 644 1615 430 c 0
  1614 343 1588 267 1538 201 c 1
  1576 191 1629 182 1751 182 c 2
- 1780 182 l 1
- 1780 0 l 1
+ 1781 182 l 5
+ 1781 0 l 5
  1752 0 l 2
  1583 0 1478 37 1404 98 c 1
  1294 37 1113 0 877 0 c 2
@@ -4588,8 +4584,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 1087 1046 2
 Refer: 198 65211 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
 StartChar: uniFEC0
@@ -4642,17 +4638,17 @@ SplineSet
  1256 806 1417 643 1417 430 c 0
  1416 343 1390 267 1340 201 c 1
  1378 191 1432 182 1554 182 c 2
- 1582 182 l 1
- 1582 0 l 1
+ 1584 182 l 5
+ 1584 0 l 5
  1555 0 l 2
  1386 0 1280 37 1206 98 c 1
  1096 37 915 0 679 0 c 2
  99 0 l 1
  99 182 l 1
  331 182 l 1
- 356 224 384 265 409 306 c 1
- 409 1387 l 5
- 581 1387 l 5
+ 356 224 386 267 411 308 c 1
+ 411 1377 l 1
+ 581 1377 l 1
  581 546 l 1
  725 719 867 806 1030 806 c 0
 EndSplineSet
@@ -4676,19 +4672,19 @@ SplineSet
  874 182 1059 254 1059 420 c 0
  1059 537 976 624 852 624 c 0
 150 182 m 1
- 175 224 203 265 228 306 c 1
- 228 1387 l 5
- 399 1387 l 5
+ 175 224 205 267 230 308 c 1
+ 230 1377 l 1
+ 399 1377 l 1
  399 546 l 1
  542 718 686 805 842 805 c 0
  1078 805 1236 649 1236 430 c 0
  1234 138 991 0 498 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 5
+ -20 182 l 5
  150 182 l 1
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
 StartChar: uniFEC4
@@ -4712,17 +4708,17 @@ SplineSet
  1074 806 1236 643 1236 430 c 0
  1235 343 1208 267 1158 201 c 1
  1195 191 1250 182 1372 182 c 2
- 1401 182 l 1
- 1401 0 l 1
+ 1402 182 l 5
+ 1402 0 l 5
  1373 0 l 2
  1204 0 1099 37 1025 98 c 1
  915 37 734 0 498 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 1
+ -20 182 l 1
  150 182 l 1
- 175 224 203 265 228 306 c 1
- 228 1387 l 5
- 399 1387 l 5
+ 175 224 205 267 230 308 c 1
+ 230 1377 l 1
+ 399 1377 l 1
  399 546 l 1
  543 719 685 806 848 806 c 0
 EndSplineSet
@@ -4770,8 +4766,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 738 1046 2
 Refer: 206 65219 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
 StartChar: uniFEC8
@@ -4796,7 +4792,7 @@ Width: 1267
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 672 1325 basechar 0
+AnchorPoint: "Anchor110" 672 1265 basechar 0
 AnchorPoint: "Anchor107" 677 -872 basechar 0
 LayerCount: 2
 Fore
@@ -4811,7 +4807,7 @@ VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 614 -875 basechar 0
-AnchorPoint: "Anchor110" 607 1220 basechar 0
+AnchorPoint: "Anchor110" 607 1160 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4832,8 +4828,8 @@ SplineSet
  987 0 827 25 620 170 c 1
  407 50 269 -71 269 -211 c 0
  269 -398 413 -517 702 -517 c 0
- 818 -517 943 -498 1063 -458 c 5
- 1102 -625 l 5
+ 818 -517 943 -498 1063 -458 c 1
+ 1102 -625 l 1
  988 -666 848 -691 697 -691 c 0
  338 -691 99 -532 99 -211 c 0
  99 33 328 179 479 278 c 1
@@ -4847,29 +4843,29 @@ Width: 1068
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 577 1243 basechar 0
+AnchorPoint: "Anchor110" 577 1183 basechar 0
 AnchorPoint: "Anchor107" 509 -251 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-287 182 m 5
- 227 257 179 374 179 483 c 4
- 179 697 367 866 578 866 c 4
- 683 866 797 825 919 742 c 5
- 852 593 l 5
- 750 653 662 685 589 685 c 4
- 466 685 355 603 355 476 c 4
- 355 327 485 225 511 225 c 4
- 520 225 532 226 546 230 c 6
- 969 331 l 5
- 969 149 l 5
+287 182 m 1
+ 227 257 179 374 179 483 c 0
+ 179 697 367 866 578 866 c 0
+ 683 866 797 825 919 742 c 1
+ 852 593 l 1
+ 750 653 662 685 589 685 c 0
+ 466 685 355 603 355 476 c 0
+ 355 327 485 225 511 225 c 0
+ 520 225 532 226 546 230 c 2
+ 969 331 l 1
+ 969 149 l 1
  637 47 366 0 89 0 c 2
- -18 0 l 1
- -18 182 l 1
- 287 182 l 5
+ -20 0 l 5
+ -20 182 l 5
+ 287 182 l 1
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 EndChar
 
 StartChar: uniFECC
@@ -4880,30 +4876,30 @@ VWidth: 3094
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 603 -248 basechar 0
-AnchorPoint: "Anchor110" 617 1155 basechar 0
+AnchorPoint: "Anchor110" 617 1095 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-622 610 m 4
- 562 610 435 604 336 571 c 5
- 465 408 622 282 622 282 c 133
- 622 282 781 408 910 571 c 5
- 811 604 683 610 622 610 c 4
-622 782 m 4
- 827 782 1092 714 1092 604 c 4
- 1092 526 903 308 789 208 c 5
+622 610 m 0
+ 562 610 435 604 336 571 c 1
+ 465 408 622 282 622 282 c 129
+ 622 282 781 408 910 571 c 1
+ 811 604 683 610 622 610 c 0
+622 782 m 0
+ 827 782 1092 714 1092 604 c 0
+ 1092 526 903 308 789 208 c 1
  882 184 968 182 1036 182 c 2
- 1191 182 l 1
- 1191 0 l 1
+ 1192 182 l 1
+ 1192 0 l 1
  1037 0 l 2
  897 0 756 31 622 108 c 1
  489 31 278 0 138 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 5
+ -20 182 l 5
  139 182 l 2
- 207 182 364 184 457 208 c 5
- 343 308 153 526 153 604 c 4
- 153 714 414 782 622 782 c 4
+ 207 182 364 184 457 208 c 1
+ 343 308 153 526 153 604 c 0
+ 153 714 414 782 622 782 c 0
 EndSplineSet
 EndChar
 
@@ -4949,8 +4945,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 464 1084 2
 Refer: 214 65227 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 EndChar
 
 StartChar: uniFED0
@@ -4964,7 +4960,7 @@ AnchorPoint: "Anchor110" 610 1392 basechar 0
 AnchorPoint: "Anchor107" 612 -246 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 523 1010 2
+Refer: 264 -1 S 1 0 0 1 523 1010 2
 Refer: 215 65228 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5010,8 +5006,8 @@ LayerCount: 2
 Fore
 Refer: 264 -1 N 1 0 0 1 340 1266 2
 Refer: 270 -1 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 EndChar
 
 StartChar: uniFED4
@@ -5071,8 +5067,8 @@ LayerCount: 2
 Fore
 Refer: 265 -1 N 1 0 0 1 180 1253 2
 Refer: 270 -1 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=73 dv=0
 EndChar
 
@@ -5120,22 +5116,22 @@ Fore
 SplineSet
 855 182 m 2
  1013 182 l 2
- 1480 182 1481 289 1481 493 c 2
- 1481 1387 l 1
- 1652 1387 l 1
- 1652 496 l 2
- 1652 292 1666 182 1845 182 c 2
- 1882 182 l 1
- 1882 0 l 1
+ 1480 182 1482 289 1482 493 c 2
+ 1482 1377 l 1
+ 1651 1377 l 1
+ 1651 496 l 2
+ 1651 292 1666 182 1845 182 c 2
+ 1883 182 l 5
+ 1883 0 l 5
  1847 0 l 2
  1680 0 1596 54 1557 161 c 1
  1439 32 1288 -3.28205342171e-14 1020 0 c 2
  855 0 l 2
- 353 0 99 150 99 485 c 0
- 99 577 121 665 155 747 c 1
- 310 689 l 1
- 289 630 273 560 273 500 c 0
- 274 266 469 182 855 182 c 2
+ 353 0 99 120 99 455 c 0
+ 99 547 121 635 155 717 c 1
+ 310 659 l 1
+ 289 600 273 530 273 470 c 0
+ 274 236 469 182 855 182 c 2
 EndSplineSet
 Refer: 420 -1 N 1.035 0 0 1.035 -43 0 2
 EndChar
@@ -5155,19 +5151,19 @@ SplineSet
 220 970 m 1
  452 808 759 611 759 350 c 0
  758 102 596 0 224 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 5
+ -20 182 l 5
  223 182 l 2
  482 182 585 217 585 354 c 0
  585 530 301 690 103 846 c 0
- 60 880 35 920 35 965 c 0
- 35 1021 70.4503599153 1085.81572336 130 1110 c 2
+ 59.8939635196 880.083842798 36.8513323257 929.544964381 36.8513323257 977.481979076 c 0
+ 36.8513323257 1031.81654116 66.4547901659 1084.19304413 130 1110 c 2
  849 1402 l 1
  849 1225 l 1
  220 970 l 1
 EndSplineSet
 Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=-23 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-201 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=189 dv=0
 EndChar
@@ -5184,24 +5180,24 @@ AnchorPoint: "Anchor107" 326 -248 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-220 970 m 5
- 447 809 661 670 760 429 c 4
- 830.631879025 257.05774904 895 182 1038 182 c 6
- 1066 182 l 5
- 1066 0 l 5
- 1038 0 l 6
- 890 0 792 55 711 180 c 5
- 630 62 517 0 224 0 c 6
- -18 0 l 5
- -18 182 l 5
- 223 182 l 6
- 482 182 585 217 585 354 c 4
- 585 530 301 690 103 846 c 4
- 60 880 35 920 35 965 c 4
- 35 1021 69.4307642492 1085.40164556 130 1110 c 6
- 849 1402 l 5
- 849 1225 l 5
- 220 970 l 5
+220 970 m 1
+ 447 809 661 670 760 429 c 0
+ 830.631879025 257.05774904 895 182 1038 182 c 2
+ 1066 182 l 1
+ 1066 0 l 1
+ 1038 0 l 2
+ 890 0 792 55 711 180 c 1
+ 630 62 517 0 224 0 c 2
+ -20 0 l 5
+ -20 182 l 5
+ 223 182 l 2
+ 482 182 585 217 585 354 c 0
+ 585 530 301 690 103 846 c 0
+ 59.8577238207 880.112497444 36.6739613526 929.645139666 36.6739613526 977.647513456 c 0
+ 36.6739613526 1031.85119301 66.23475079 1084.10368182 130 1110 c 2
+ 849 1402 l 1
+ 849 1225 l 1
+ 220 970 l 1
 EndSplineSet
 EndChar
 
@@ -5231,22 +5227,22 @@ AnchorPoint: "Anchor110" 581 1052 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-629 -496 m 4
+629 -496 m 0
  257 -496 99 -282 99 32 c 0
  99 173 130 325 181 467 c 1
  340 403 l 1
  301 280 271 147 271 26 c 0
- 271 -190 371 -316 629 -316 c 4
- 867 -316 989 -193 989 98 c 6
- 989 1387 l 5
- 1160 1387 l 5
- 1160 409 l 6
- 1160 259 1200 182 1362 182 c 6
- 1391 182 l 5
- 1391 0 l 5
- 1364 0 l 6
- 1247 0 1216 21 1159 76 c 5
- 1159 -306 973 -496 629 -496 c 4
+ 271 -190 371 -316 629 -316 c 0
+ 867 -316 989 -193 989 98 c 2
+ 989 1377 l 1
+ 1158 1377 l 1
+ 1158 409 l 2
+ 1158 259 1200 182 1362 182 c 2
+ 1392 182 l 5
+ 1392 0 l 5
+ 1364 0 l 2
+ 1247 0 1214 21 1157 76 c 1
+ 1157 -306 973 -496 629 -496 c 0
 EndSplineSet
 EndChar
 
@@ -5262,18 +5258,18 @@ AnchorPoint: "Anchor110" 343 1542 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--18 182 m 1
+-20 182 m 5
  64 182 l 2
- 224 182 267 284 267 420 c 2
- 267 1387 l 1
- 438 1387 l 1
- 438 421 l 2
- 438 144 321 0 63 0 c 2
- -18 0 l 1
- -18 182 l 1
+ 224 182 268 284 268 420 c 2
+ 268 1377 l 1
+ 437 1377 l 1
+ 437 421 l 2
+ 437 144 321 0 63 0 c 2
+ -20 0 l 5
+ -20 182 l 5
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 EndChar
 
@@ -5289,20 +5285,20 @@ AnchorPoint: "Anchor110" 342 1542 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-267 438 m 2
- 267 1387 l 1
- 438 1387 l 1
- 438 435 l 2
- 438 288 485 182 639 182 c 2
- 669 182 l 1
- 669 0 l 1
+268 438 m 2
+ 268 1377 l 1
+ 437 1377 l 1
+ 437 435 l 2
+ 437 288 485 182 639 182 c 2
+ 671 182 l 5
+ 671 0 l 5
  641 0 l 2
  491 0 410 53 358 152 c 1
  292 53 243 0 66 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 1
+ -20 182 l 1
  64 182 l 2
- 231 182 266 291 267 438 c 2
+ 231 182 267 291 268 438 c 2
 EndSplineSet
 EndChar
 
@@ -5332,26 +5328,26 @@ AnchorPoint: "Anchor107" 207 -790 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-950 298 m 4
- 950 435 868 540 754 540 c 4
- 629 540 569 409 526 267 c 5
- 671 203 768 164 816 164 c 4
- 904 164 950 216 950 298 c 4
-1112 383 m 4
- 1128 268 1203 182 1291 182 c 6
- 1317 182 l 5
- 1317 0 l 5
- 1291 0 l 6
- 1210 0 1124 31 1072 114 c 5
- 1026 28 945 -16 814 -16 c 4
- 656 -16 482 109 400 109 c 4
- 288 109 268 15 268 -292 c 4
- 268 -429 273 -506 282 -637 c 5
- 110 -637 l 5
- 103 -515 99 -411 99 -302 c 4
- 99 -3.7078644995 112.969726562 254.444335938 356 299 c 5
- 431 559 541 717 750 717 c 4
- 934 717 1085 575 1112 383 c 4
+950 298 m 0
+ 950 435 868 540 754 540 c 0
+ 629 540 569 409 526 267 c 1
+ 671 203 768 164 816 164 c 0
+ 904 164 950 216 950 298 c 0
+1112 383 m 0
+ 1128 268 1203 182 1291 182 c 2
+ 1318 182 l 5
+ 1318 0 l 5
+ 1291 0 l 2
+ 1210 0 1124 31 1072 114 c 1
+ 1026 28 945 -16 814 -16 c 0
+ 656 -16 482 109 400 109 c 0
+ 288 109 268 15 268 -292 c 0
+ 268 -429 273 -506 282 -637 c 1
+ 110 -637 l 1
+ 103 -515 99 -411 99 -302 c 0
+ 99 -3.7078644995 112.969726562 254.444335938 356 299 c 1
+ 431 559 541 717 750 717 c 0
+ 934 717 1085 575 1112 383 c 0
 EndSplineSet
 EndChar
 
@@ -5369,23 +5365,23 @@ Fore
 SplineSet
 630 540 m 0
  530 540 458 424 406 310 c 1
- 448.289158178 266.052443462 490.406423537 231.730884844 529.999995216 206.607723991 c 4
+ 448.289158178 266.052443462 490.406423537 231.730884844 529.999995216 206.607723991 c 0
  585.904761296 171.134682002 636.778172529 154 676 154 c 0
  776 154 824 206 824 303 c 0
  824 442 751 540 630 540 c 0
 678 -23 m 0
  544 -23 439 35 318 152 c 1
  231 54 169 -1.77573785876e-14 24 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 5
+ -20 182 l 5
  19 182 l 2
  287.090524942 182 259.310647779 717 626 717 c 0
  848 717 993 540 993 319 c 0
  993 102 878 -23 678 -23 c 0
 EndSplineSet
 Substitution2: "Single Substitution 3-1" uniFEE3.long
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
 StartChar: uniFEE4
@@ -5401,8 +5397,8 @@ LayerCount: 2
 Fore
 SplineSet
 24 0 m 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 5
+ -20 182 l 5
  19 182 l 2
  287 182 259.310546875 717 626 717 c 0
  835 717 947 573 987 384 c 0
@@ -5416,7 +5412,7 @@ SplineSet
  231 54 169 -1.77573785876e-14 24 0 c 2
 630 540 m 0
  530 540 458 424 406 310 c 1
- 450.432353206 263.82520157 494.674949203 228.276806892 535.999995252 202.858853651 c 4
+ 450.432353206 263.82520157 494.674949203 228.276806892 535.999995252 202.858853651 c 0
  589.541738666 169.926729899 638.185957498 154 676 154 c 0
  776 154 824 206 824 303 c 0
  824 442 751 540 630 540 c 0
@@ -5461,12 +5457,12 @@ VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 249 -245 basechar 0
-AnchorPoint: "Anchor110" 256 1347 basechar 0
+AnchorPoint: "Anchor110" 256 1332 basechar 0
 LayerCount: 2
 Fore
 Refer: 300 -1 N 1 0 0 1 0 0 3
-Refer: 264 -1 N 1 0 0 1 169 948 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
+Refer: 264 -1 S 1 0 0 1 169 933 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-60 dv=0
 EndChar
 
@@ -5478,11 +5474,11 @@ VWidth: 3091
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 251 -245 basechar 0
-AnchorPoint: "Anchor110" 308 1268 basechar 0
+AnchorPoint: "Anchor110" 308 1251 basechar 0
 LayerCount: 2
 Fore
 Refer: 301 -1 N 1 0 0 1 0 0 3
-Refer: 264 -1 N 1 0 0 1 226 859 2
+Refer: 264 -1 S 1 0 0 1 226 842 2
 EndChar
 
 StartChar: uniFEE9
@@ -5520,15 +5516,15 @@ SplineSet
  774 981 l 1
  861 367 l 2
  877 250 935 182 1051 182 c 2
- 1081 182 l 1
- 1081 0 l 1
+ 1082 182 l 5
+ 1082 0 l 5
  1047 0 l 2
-673 513 m 4
- 673 533 672 551 669 572 c 6
+673 513 m 0
+ 673 533 672 551 669 572 c 2
  644 739 l 1
  385 645 273 560 273 452 c 0
  273 364 337 318 440 318 c 0
- 558 318 673 390 673 513 c 4
+ 558 318 673 390 673 513 c 0
 EndSplineSet
 EndChar
 
@@ -5555,10 +5551,10 @@ SplineSet
  1325 131 1167 10 922 10 c 0
  783 10 604 49 509 81 c 1
  393 38 224 0 79 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 5
+ -20 182 l 5
  66 182 l 2
- 153.513630669 182 212.759329461 185.371119535 293 195 c 5
+ 153.513630669 182 212.759329461 185.371119535 293 195 c 1
  201 269 163 360 163 455 c 0
  163 663 327 790 519 790 c 0
  699 790 862 643 862 474 c 0
@@ -5567,8 +5563,8 @@ SplineSet
  1065 177 1152 236 1152 364 c 0
  1152 490 841 670 535 812 c 9
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
 StartChar: uniFEEC
@@ -5583,26 +5579,26 @@ AnchorPoint: "Anchor110" 549 1188 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--18 0 m 5
- -18 182 l 5
- 187 182 l 5
- 187 200 l 6
+-20 0 m 1
+ -20 182 l 1
+ 187 182 l 1
+ 187 200 l 2
  187 485 284 829 545 829 c 0
  714 829 816 699 816 508 c 0
- 816 261 599 -1 360 -1 c 5
- 387 -113 469 -240 586 -316 c 5
- 586 15 723 182 1007 182 c 6
- 1039 182 l 5
- 1039 0 l 5
- 1005 0 l 6
- 826 0 736 -88 736 -320 c 4
- 736 -349 737 -383 740 -415 c 5
- 616 -536 l 5
- 389 -422 245 -226 201 0 c 5
- -18 0 l 5
+ 816 261 599 -1 360 -1 c 1
+ 387 -113 469 -240 586 -316 c 1
+ 586 15 723 182 1007 182 c 2
+ 1040 182 l 5
+ 1040 0 l 5
+ 1005 0 l 2
+ 826 0 736 -88 736 -320 c 0
+ 736 -349 737 -383 740 -415 c 1
+ 616 -536 l 1
+ 389 -422 245 -226 201 0 c 1
+ -20 0 l 1
 543 653 m 0
- 423 653 352 455 352 201 c 6
- 352 181 l 5
+ 423 653 352 455 352 201 c 2
+ 352 181 l 1
  519 181 656 332 656 508 c 0
  656 602 609 653 543 653 c 0
 EndSplineSet
@@ -5637,8 +5633,8 @@ Fore
 SplineSet
 436 741 m 0
  654 741 805 542 810 182 c 1
- 930 182 l 1
- 930 0 l 1
+ 931 182 l 5
+ 931 0 l 5
  794 0 l 1
  750 -230 596 -455 170 -536 c 1
  111 -377 l 1
@@ -5657,11 +5653,11 @@ EndChar
 StartChar: uniFEEF
 Encoding: 65263 65263 250
 GlifName: uniF_E_E_F_
-Width: 1435
+Width: 1445
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 522 833 basechar 0
+AnchorPoint: "Anchor110" 522 863 basechar 0
 AnchorPoint: "Anchor107" 689 -705 basechar 0
 LayerCount: 2
 Fore
@@ -5682,9 +5678,9 @@ Fore
 SplineSet
 689 -515 m 0
  257 -515 99 -251 99 63 c 0
- 99 154 117 306 168 458 c 1
- 327 394 l 1
- 288 261 271 128 271 57 c 0
+ 99 154 107 271 158 423 c 1
+ 317 364 l 1
+ 278 231 271 128 271 57 c 0
  271 -159 370 -335 689 -335 c 0
  988 -335 1169 -202 1169 -117 c 0
  1169 -53 1117 -1 993 -1 c 2
@@ -5692,8 +5688,8 @@ SplineSet
  818 -1 810 24 799 62 c 2
  772 158 l 2
  770 168 776 181 794 181 c 2
- 1348 181 l 1
- 1348 -1 l 1
+ 1349 181 l 5
+ 1349 -1 l 5
  1308 -1 l 1
  1328 -41 1332 -75 1332 -114 c 0
  1332 -291 1129 -515 689 -515 c 0
@@ -5703,11 +5699,11 @@ EndChar
 StartChar: uniFEF1
 Encoding: 65265 65265 252
 GlifName: uniF_E_F_1
-Width: 1435
+Width: 1445
 VWidth: 3091
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor110" 502 833 basechar 0
+AnchorPoint: "Anchor110" 522 863 basechar 0
 AnchorPoint: "Anchor107" 719 -1055 basechar 0
 LayerCount: 2
 Fore
@@ -5784,8 +5780,8 @@ LayerCount: 2
 Fore
 Refer: 54 1619 N 1 0 0 1 -16 300 2
 Refer: 262 65275 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFE82
@@ -5825,8 +5821,8 @@ LayerCount: 2
 Fore
 Refer: 76 1652 S 1 0 0 1 -125 235 2
 Refer: 262 65275 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFE84
@@ -5866,8 +5862,8 @@ LayerCount: 2
 Fore
 Refer: 76 1652 S 1 0 0 1 52 -1708 2
 Refer: 262 65275 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFE88
@@ -5906,22 +5902,22 @@ AnchorPoint: "Anchor109" 922 1538 baselig 0
 LayerCount: 2
 Fore
 SplineSet
-279 0 m 0
- 224 0 167 3 108 8 c 1
- 108 180 l 1
- 191 174 242 171 299 171 c 0
- 354 171 394 172 421 176 c 1
- 421 176 352 710 109 1260 c 1
- 264 1332 l 1
- 505 764 582 207 582 207 c 1
- 731 249 842 341 842 624 c 2
- 842 1387 l 1
- 1013 1387 l 1
- 1013 621 l 2
- 1013 117 707 0 279 0 c 0
+279 0 m 4
+ 224 0 167 3 108 8 c 5
+ 108 180 l 5
+ 191 174 242 171 299 171 c 4
+ 354 171 394 172 421 176 c 5
+ 421 176 352 710 109 1260 c 5
+ 264 1332 l 5
+ 505 764 582 207 582 207 c 5
+ 731 249 843 341 843 624 c 6
+ 843 1377 l 5
+ 1012 1377 l 5
+ 1012 621 l 6
+ 1012 117 707 0 279 0 c 4
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 LCarets2: 1 0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uniFEDF uniFE8E
@@ -5942,13 +5938,13 @@ LayerCount: 2
 Fore
 SplineSet
 582 207 m 1
- 731 248 842 341 842 624 c 2
- 842 1387 l 1
- 1013 1387 l 1
- 1013 571 l 2
- 1013 316 1066 182 1218 182 c 2
- 1253 182 l 1
- 1253 0 l 1
+ 731 248 843 341 843 624 c 2
+ 843 1377 l 1
+ 1012 1377 l 1
+ 1012 571 l 2
+ 1012 316 1066 182 1218 182 c 2
+ 1254 182 l 5
+ 1254 0 l 5
  1215 0 l 2
  1036 0 948 90 904 244 c 1
  792 79 567 0 279 -0 c 0
@@ -6073,24 +6069,24 @@ AnchorPoint: "Anchor107" 912 -237 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1514 611 m 5
- 1681 631 l 5
- 1698 395 l 6
- 1706 268 1769 182 1899 182 c 6
- 1921 182 l 5
- 1921 0 l 5
- 1899 0 l 6
- 1748 0 1657 54 1594 179 c 5
- 1483 51 1328 0 1022 0 c 6
+1515 591 m 1
+ 1682 611 l 1
+ 1699 377 l 2
+ 1707 250 1769 182 1899 182 c 2
+ 1923 182 l 5
+ 1923 0 l 5
+ 1899 0 l 2
+ 1748 0 1657 54 1594 179 c 1
+ 1483 51 1328 0 1022 0 c 2
  855 0 l 2
- 352 0 99 150 99 485 c 0
- 99 577 121 665 155 747 c 1
- 310 689 l 1
- 289 630 273 560 273 500 c 0
- 274 266 469 182 855 182 c 2
- 1022 182 l 6
- 1339 182 1522 256 1522 430 c 4
- 1522 485 1517 558 1514 611 c 5
+ 352 0 99 120 99 455 c 0
+ 99 547 121 635 155 717 c 1
+ 310 659 l 1
+ 289 600 273 530 273 470 c 0
+ 274 236 469 182 855 182 c 2
+ 1022 182 l 2
+ 1340.04064297 182 1524.00097656 237.879882812 1524.00097656 413.509765625 c 0
+ 1524.00097656 468.013671875 1519.95417617 534.522391688 1515 591 c 1
 EndSplineSet
 EndChar
 
@@ -6106,30 +6102,30 @@ AnchorPoint: "Anchor110" 1380 1264 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1424 662 m 4
- 1348 662 1241 558 1241 469 c 4
- 1241 377 1340 268 1426 225 c 5
- 1527 268 1614 376 1614 471 c 4
- 1614 555 1504 662 1424 662 c 4
+1424 662 m 0
+ 1348 662 1241 558 1241 469 c 0
+ 1241 377 1340 268 1426 225 c 1
+ 1527 268 1614 376 1614 471 c 0
+ 1614 555 1504 662 1424 662 c 0
 855 182 m 2
- 943 182 l 6
- 960 182 1121 182 1203 187 c 5
- 1123 280 1070 369 1070 473 c 4
- 1070 637 1244 839 1424 839 c 4
- 1611 839 1784 638 1784 471 c 4
- 1784 365 1729 280 1648 186 c 5
- 1723 182 1780 182 1826 182 c 6
- 1922 182 l 5
- 1922 0 l 5
- 1828 0 l 6
- 1752 0 1577 17 1423 72 c 5
- 1268 16 1023 0 941 0 c 6
+ 943 182 l 2
+ 960 182 1121 182 1203 187 c 1
+ 1123 280 1070 369 1070 473 c 0
+ 1070 637 1244 839 1424 839 c 0
+ 1611 839 1784 638 1784 471 c 0
+ 1784 365 1729 280 1648 186 c 1
+ 1723 182 1780 182 1826 182 c 2
+ 1923 182 l 5
+ 1923 0 l 5
+ 1828 0 l 2
+ 1752 0 1577 17 1423 72 c 1
+ 1268 16 1023 0 941 0 c 2
  855 0 l 2
- 352 0 99 150 99 485 c 0
- 99 577 121 665 155 747 c 1
- 310 689 l 1
- 289 630 273 560 273 500 c 0
- 274 266 469 182 855 182 c 2
+ 352 0 99 120 99 455 c 0
+ 99 547 121 635 155 717 c 1
+ 310 659 l 1
+ 289 600 273 530 273 470 c 0
+ 274 236 469 182 855 182 c 2
 EndSplineSet
 EndChar
 
@@ -6157,8 +6153,8 @@ SplineSet
  129 840 238 1066 463 1066 c 0
  733 1066 837 762 837 461 c 0
  837 63 704 0 348 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 5
+ -20 182 l 5
  360 182 l 2
 EndSplineSet
 EndChar
@@ -6181,15 +6177,15 @@ SplineSet
  642 268 729 376 729 471 c 0
  729 555 619 662 539 662 c 0
 899 471 m 0
- 899 365 844 280 763 186 c 5
+ 899 365 844 280 763 186 c 1
  839 182 896 182 942 182 c 2
- 1038 182 l 1
- 1038 0 l 1
+ 1039 182 l 5
+ 1039 0 l 5
  945 0 l 2
  869 0 692 17 538 72 c 1
  383 16 202 0 120 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 1
+ -20 182 l 1
  120 182 l 2
  176 182 231 182 318 187 c 1
  238 280 185 369 185 473 c 0
@@ -6210,21 +6206,21 @@ AnchorPoint: "Anchor110" 962 1043 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-689 -515 m 4
+689 -515 m 0
  257 -515 99 -251 99 63 c 0
  99 204 130 356 181 498 c 1
  340 434 l 1
  301 311 271 178 271 57 c 0
- 271 -159 371 -335 689 -335 c 4
+ 271 -159 371 -335 689 -335 c 0
  1001 -335 1151 -217 1151 0 c 1
  981 0 l 2
  727 0 602 101 602 307 c 128
  602 513 715 741 939 741 c 0
  1157 741 1308 542 1313 182 c 1
- 1429 182 l 1
- 1429 0 l 1
+ 1429 182 l 5
+ 1429 0 l 5
  1311 0 l 1
- 1311 -324 1077 -515 689 -515 c 4
+ 1311 -324 1077 -515 689 -515 c 0
 971 182 m 2
  1148 182 l 1
  1132 439 1065 561 936 561 c 128
@@ -6555,8 +6551,8 @@ LayerCount: 2
 Fore
 Refer: 298 -1 S 1 0 0 1 51 1457 2
 Refer: 42 1607 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 9 subtable" uni0647 uni0654
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBA5.fina
@@ -6590,16 +6586,16 @@ SplineSet
 510 0 m 2
  380 0 322 34 269 132 c 1
  220 35 161 0 23 0 c 2
- -17 0 l 1
- -17 182 l 1
+ -20 0 l 5
+ -20 182 l 5
  25 182 l 2
  179 182 181 272 181 447 c 2
  181 1095 l 1
- 351 1095 l 1
- 351 447 l 2
- 351 273 360 182 507 182 c 2
- 548 182 l 1
- 548 0 l 1
+ 350 1095 l 1
+ 350 447 l 2
+ 350 273 360 182 507 182 c 2
+ 550 182 l 1
+ 550 0 l 1
  510 0 l 2
 EndSplineSet
 EndChar
@@ -6613,15 +6609,15 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
--17 182 m 1
+-20 182 m 5
  11 182 l 2
- 152 182 181 272 181 420 c 2
- 181 1255 l 1
- 353 1255 l 1
- 353 422 l 2
- 353 152 269 0 10 0 c 2
- -17 0 l 1
- -17 182 l 1
+ 152 182 182 272 182 420 c 2
+ 182 1255 l 1
+ 351 1255 l 1
+ 351 422 l 2
+ 351 152 269 0 10 0 c 2
+ -20 0 l 5
+ -20 182 l 5
 EndSplineSet
 EndChar
 
@@ -6675,15 +6671,15 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-152 1247 m 5
- 323 1247 l 5
- 323 421 l 2
- 323 233 391 182 531 182 c 2
- 555 182 l 1
- 555 0 l 1
+153 1247 m 1
+ 322 1247 l 1
+ 322 421 l 2
+ 322 233 391 182 531 182 c 2
+ 556 182 l 5
+ 556 0 l 5
  531 0 l 2
- 276 0 152 129 152 421 c 2
- 152 1247 l 5
+ 276 0 153 129 153 421 c 2
+ 153 1247 l 1
 EndSplineSet
 EndChar
 
@@ -6744,15 +6740,15 @@ AnchorPoint: "Anchor107" 208 -240 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-92 0 m 2
- -18 0 l 1
- -18 182 l 1
- 90 182 l 2
- 268 182 315 265 315 399 c 0
- 315 473 300 594 270 703 c 1
- 441 749 l 1
- 473 643 485 512 485 415 c 0
- 485 175 407 0 92 0 c 2
+143 0 m 2
+ -20 0 l 5
+ -20 182 l 5
+ 141 182 l 2
+ 274.282470704 182 312.493140972 268.152037402 312.493140972 386.76887262 c 0
+ 312.493140972 472.623893333 292.475016496 575.486842962 274 675 c 1
+ 448 719 l 1
+ 471.338972629 611.555530353 485.028858346 507.998877077 485.028858346 414.55178835 c 0
+ 485.028858346 173.695382964 394.08263439 -8.52651282912e-14 143 0 c 2
 EndSplineSet
 EndChar
 
@@ -6767,20 +6763,20 @@ AnchorPoint: "Anchor110" 368 926 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-303 611 m 1
- 470 631 l 1
- 486 397 l 2
- 494 269 561 182 689 182 c 2
- 709 182 l 1
- 709 0 l 1
+303 591 m 1
+ 470 611 l 1
+ 486 377 l 2
+ 494 249 561 182 689 182 c 2
+ 710 182 l 5
+ 710 0 l 5
  687 0 l 2
  539 0 456 55 402 153 c 1
  330 47 204 0 76 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 1
+ -20 182 l 1
  76 182 l 2
- 245 182 312 277 312 434 c 0
- 312 498 308 554 303 611 c 1
+ 245 182 312 257 312 414 c 0
+ 312 478 308 534 303 591 c 1
 EndSplineSet
 EndChar
 
@@ -6828,6 +6824,7 @@ LayerCount: 2
 Fore
 Refer: 58 1626 N 1 0 0 1 10 -430 2
 Refer: 39 1604 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-60 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06B5.init
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06B5.medi
@@ -6852,7 +6849,7 @@ EndChar
 StartChar: uni06CE
 Encoding: 1742 1742 306
 GlifName: uni06C_E_
-Width: 1435
+Width: 1445
 VWidth: 3091
 Flags: HW
 AnchorPoint: "Anchor110" 396 1129 basechar 0
@@ -6956,12 +6953,12 @@ GlifName: uni06C_E_.init
 Width: 638
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 379 1398 basechar 0
+AnchorPoint: "Anchor110" 379 1378 basechar 0
 AnchorPoint: "Anchor107" 188 -584 basechar 0
 LayerCount: 2
 Fore
-Refer: 254 65267 S 1 0 0 1 0 0 3
-Refer: 58 1626 N 1 0 0 1 -206 -520 2
+Refer: 254 65267 N 1 0 0 1 0 0 3
+Refer: 58 1626 S 1 0 0 1 -206 -540 2
 Substitution2: "Single Substitution 5-1" uni06CE.init.long3
 Substitution2: "Single Substitution 2-1" uni06CE.init.long2
 Substitution2: "Single Substitution 0 subtable" uni06CE.init.long1
@@ -6974,12 +6971,12 @@ GlifName: uni06C_E_.medi
 Width: 743
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 424 1318 basechar 0
+AnchorPoint: "Anchor110" 424 1298 basechar 0
 AnchorPoint: "Anchor107" 191 -581 basechar 0
 LayerCount: 2
 Fore
 Refer: 255 65268 N 1 0 0 1 0 0 3
-Refer: 58 1626 S 1 0 0 1 -165 -634 2
+Refer: 58 1626 S 1 0 0 1 -165 -654 2
 Substitution2: "Single Substitution 5-1" uni06CE.medi.long3
 Substitution2: "Single Substitution 2-1" uni06CE.medi.long2
 Substitution2: "Single Substitution 0 subtable" uni06CE.medi.long1
@@ -7012,6 +7009,8 @@ LayerCount: 2
 Fore
 Refer: 58 1626 N 1 0 0 1 -231 48 2
 Refer: 234 65247 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 EndChar
 
@@ -7066,8 +7065,9 @@ LayerCount: 2
 Fore
 Refer: 58 1626 N 1 0 0 1 339 48 2
 Refer: 262 65275 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 LCarets2: 1 0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 5 subtable" uni06B5.init uniFE8E
 EndChar
@@ -7269,6 +7269,7 @@ LayerCount: 2
 Fore
 Refer: 18 1578 N 1 0 0 1 0 0 3
 Refer: 393 64447 N 1 0 0 1 623 222 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni067C.medi
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni067C.init
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni067C.fina
@@ -7277,7 +7278,7 @@ EndChar
 StartChar: uni0681
 Encoding: 1665 1665 335
 GlifName: uni0681
-Width: 1390
+Width: 1370
 VWidth: 3091
 Flags: HW
 AnchorPoint: "Anchor107" 715 -872 basechar 0
@@ -7294,7 +7295,7 @@ EndChar
 StartChar: uni0685
 Encoding: 1669 1669 336
 GlifName: uni0685
-Width: 1390
+Width: 1370
 VWidth: 3091
 Flags: HW
 AnchorPoint: "Anchor107" 715 -872 basechar 0
@@ -7357,15 +7358,15 @@ EndChar
 StartChar: uni069A
 Encoding: 1690 1690 340
 GlifName: uni069A_
-Width: 2440
+Width: 2420
 VWidth: 2144
 Flags: HW
-AnchorPoint: "Anchor110" 1715 1305 basechar 0
+AnchorPoint: "Anchor110" 1705 1295 basechar 0
 AnchorPoint: "Anchor107" 699 -751 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 1686 -405 2
-Refer: 264 -1 N 1 0 0 1 1623 880 2
+Refer: 264 -1 N 1 0 0 1 1676 -405 2
+Refer: 264 -1 S 1 0 0 1 1613 870 2
 Refer: 27 1587 N 1 0 0 1 0 0 3
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni069A.medi
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni069A.init
@@ -7384,7 +7385,7 @@ LayerCount: 2
 Fore
 Refer: 393 64447 S 1 0 0 1 1241 1354 2
 Refer: 81 1705 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-201 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=189 dv=0
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06AB.medi
@@ -7412,10 +7413,10 @@ EndChar
 StartChar: uni06D0
 Encoding: 1744 1744 343
 GlifName: uni06D_0
-Width: 1435
+Width: 1445
 VWidth: 3091
 Flags: HW
-AnchorPoint: "Anchor110" 522 833 basechar 0
+AnchorPoint: "Anchor110" 522 863 basechar 0
 AnchorPoint: "Anchor107" 727 -1221 basechar 0
 LayerCount: 2
 Fore
@@ -7429,19 +7430,19 @@ EndChar
 StartChar: uni06CD
 Encoding: 1741 1741 344
 GlifName: uni06C_D_
-Width: 1605
+Width: 1615
 VWidth: 3094
 Flags: HW
 AnchorPoint: "Anchor107" 879 -709 basechar 0
-AnchorPoint: "Anchor110" 689 862 basechar 0
+AnchorPoint: "Anchor110" 689 892 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-313 331 m 5
- 53 199 l 5
- 90 376 l 5
- 351 508 l 5
- 313 331 l 5
+313 331 m 1
+ 53 199 l 1
+ 90 376 l 1
+ 351 508 l 1
+ 313 331 l 1
 EndSplineSet
 Refer: 44 1609 N 1 0 0 1 170 0 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06CD.fina
@@ -7472,7 +7473,7 @@ EndChar
 StartChar: uni06CD.fina
 Encoding: 65573 -1 346
 GlifName: uni06C_D_.fina
-Width: 1459
+Width: 1509
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor110" 703 675 basechar 0
@@ -7480,11 +7481,11 @@ AnchorPoint: "Anchor107" 896 -732 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-310 281 m 5
- 48 149 l 5
- 85 326 l 5
- 348 458 l 5
- 310 281 l 5
+300 246 m 1
+ 38 114 l 1
+ 75 291 l 1
+ 338 423 l 1
+ 300 246 l 1
 EndSplineSet
 Refer: 251 65264 N 1 0 0 1 180 0 2
 EndChar
@@ -7552,7 +7553,7 @@ EndChar
 StartChar: uni0681.fina
 Encoding: 65578 -1 351
 GlifName: uni0681.fina
-Width: 1429
+Width: 1409
 VWidth: 3091
 Flags: HW
 AnchorPoint: "Anchor110" 577 1566 basechar 0
@@ -7566,35 +7567,35 @@ EndChar
 StartChar: uni0681.init
 Encoding: 65579 -1 352
 GlifName: uni0681.init
-Width: 1392
+Width: 1372
 VWidth: 3091
 Flags: HW
-AnchorPoint: "Anchor110" 612 1540 basechar 0
+AnchorPoint: "Anchor110" 612 1530 basechar 0
 AnchorPoint: "Anchor107" 581 -248 basechar 0
 LayerCount: 2
 Fore
-Refer: 76 1652 S 1 0 0 1 305 -151 2
+Refer: 76 1652 S 1 0 0 1 305 -161 2
 Refer: 174 65187 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0681.medi
 Encoding: 65580 -1 353
 GlifName: uni0681.medi
-Width: 1416
+Width: 1396
 VWidth: 3091
 Flags: HW
-AnchorPoint: "Anchor110" 612 1541 basechar 0
+AnchorPoint: "Anchor110" 612 1531 basechar 0
 AnchorPoint: "Anchor107" 581 -248 basechar 0
 LayerCount: 2
 Fore
-Refer: 76 1652 S 1 0 0 1 305 -151 2
+Refer: 76 1652 S 1 0 0 1 305 -161 2
 Refer: 175 65188 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0685.fina
 Encoding: 65581 -1 354
 GlifName: uni0685.fina
-Width: 1429
+Width: 1409
 VWidth: 3091
 Flags: HW
 AnchorPoint: "Anchor110" 569 1635 basechar 0
@@ -7608,28 +7609,28 @@ EndChar
 StartChar: uni0685.init
 Encoding: 65582 -1 355
 GlifName: uni0685.init
-Width: 1392
+Width: 1372
 VWidth: 3091
 Flags: HW
-AnchorPoint: "Anchor110" 607 1632 basechar 0
+AnchorPoint: "Anchor110" 607 1622 basechar 0
 AnchorPoint: "Anchor107" 581 -248 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 361 1030 2
+Refer: 266 -1 S 1 0 0 1 361 1020 2
 Refer: 174 65187 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0685.medi
 Encoding: 65583 -1 356
 GlifName: uni0685.medi
-Width: 1416
+Width: 1396
 VWidth: 3091
 Flags: HW
-AnchorPoint: "Anchor110" 607 1632 basechar 0
+AnchorPoint: "Anchor110" 607 1622 basechar 0
 AnchorPoint: "Anchor107" 581 -248 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 361 1030 2
+Refer: 266 -1 S 1 0 0 1 361 1020 2
 Refer: 175 65188 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7679,45 +7680,45 @@ EndChar
 StartChar: uni069A.fina
 Encoding: 65587 -1 360
 GlifName: uni069A_.fina
-Width: 2553
+Width: 2533
 VWidth: 2144
 Flags: HW
-AnchorPoint: "Anchor110" 1715 1305 basechar 0
+AnchorPoint: "Anchor110" 1705 1295 basechar 0
 AnchorPoint: "Anchor107" 691 -751 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 1 1686 -405 2
-Refer: 264 -1 N 1 0 0 1 1623 880 2
+Refer: 264 -1 N 1 0 0 1 1676 -405 2
+Refer: 264 -1 S 1 0 0 1 1613 870 2
 Refer: 189 65202 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni069A.init
 Encoding: 65588 -1 361
 GlifName: uni069A_.init
-Width: 1625
+Width: 1615
 VWidth: 2144
 Flags: HW
-AnchorPoint: "Anchor110" 890 1305 basechar 0
+AnchorPoint: "Anchor110" 890 1295 basechar 0
 AnchorPoint: "Anchor107" 961 -624 basechar 0
 LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 867 -405 2
-Refer: 264 -1 N 1 0 0 1 804 880 2
+Refer: 264 -1 S 1 0 0 1 804 870 2
 Refer: 190 65203 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni069A.medi
 Encoding: 65589 -1 362
 GlifName: uni069A_.medi
-Width: 1739
+Width: 1729
 VWidth: 2144
 Flags: HW
 AnchorPoint: "Anchor107" 961 -624 basechar 0
-AnchorPoint: "Anchor110" 890 1305 basechar 0
+AnchorPoint: "Anchor110" 890 1295 basechar 0
 LayerCount: 2
 Fore
 Refer: 264 -1 S 1 0 0 1 867 -405 2
-Refer: 264 -1 N 1 0 0 1 804 880 2
+Refer: 264 -1 S 1 0 0 1 804 870 2
 Refer: 191 65204 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7748,7 +7749,7 @@ Fore
 Refer: 393 64447 S 1 0 0 1 358 1354 2
 Refer: 230 65243 N 1 0 0 1 0 0 3
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=189 dv=0
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-201 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
@@ -7786,7 +7787,7 @@ GlifName: uni06B_C_.init
 Width: 584
 VWidth: 3091
 Flags: HW
-AnchorPoint: "Anchor110" 276 1387 basechar 0
+AnchorPoint: "Anchor110" 256 1357 basechar 0
 AnchorPoint: "Anchor107" 251 -398 basechar 0
 LayerCount: 2
 Fore
@@ -7801,7 +7802,7 @@ GlifName: uni06B_C_.medi
 Width: 690
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 328 1308 basechar 0
+AnchorPoint: "Anchor110" 318 1268 basechar 0
 AnchorPoint: "Anchor107" 262 -398 basechar 0
 LayerCount: 2
 Fore
@@ -7854,8 +7855,8 @@ LayerCount: 2
 Fore
 Refer: 388 64448 S 1 0 0 1 515 -715 2
 Refer: 73 1646 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB69
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB68
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB67
@@ -7873,8 +7874,8 @@ LayerCount: 2
 Fore
 Refer: 388 64448 S 1 0 0 1 28 -308 2
 Refer: 23 1583 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB89
 EndChar
 
@@ -7890,8 +7891,8 @@ LayerCount: 2
 Fore
 Refer: 388 64448 N 1 0 0 1 -20 -696 2
 Refer: 25 1585 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-31 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-31 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-30 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-30 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFB8D
 EndChar
 
@@ -7906,8 +7907,8 @@ AnchorPoint: "Anchor107" 473 -252 basechar 0
 LayerCount: 2
 Fore
 Refer: 42 1607 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFBA9
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFBA8
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBA7
@@ -7938,8 +7939,8 @@ SplineSet
  382 415 275 364 275 310 c 0
  275 189 672 172 841 172 c 0
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-126 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-126 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-120 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-120 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBAF
 EndChar
 
@@ -7955,8 +7956,8 @@ LayerCount: 2
 Fore
 Refer: 76 1652 N 1 0 0 1 342 -94 2
 Refer: 375 1746 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-126 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-126 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-120 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-120 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBB1
 EndChar
 
@@ -7994,8 +7995,8 @@ SplineSet
  133 363 334 628 497 628 c 0
  633 628 683 512 733 397 c 0
  780 290 826 182 945 182 c 2
- 976 182 l 1
- 976 0 l 1
+ 977 182 l 5
+ 977 0 l 5
  946 0 l 2
  723 0 648 173 593 298 c 0
  564 366 541 422 500 422 c 0
@@ -8040,16 +8041,16 @@ SplineSet
  616 -536 l 1
  403 -414 256 -231 256 49 c 1
  183 14 117 0 46 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 1
+ -20 182 l 1
  48 182 l 2
  223 182 318 258 424 364 c 1
  536 240 l 1
  470 181 413 103 413 16 c 0
  413 -116 469 -225 586 -315 c 1
  586 16 723 182 1007 182 c 2
- 1039 182 l 1
- 1039 0 l 1
+ 1040 182 l 5
+ 1040 0 l 5
  1005 0 l 2
  826 0 736 -88 736 -320 c 0
 EndSplineSet
@@ -8071,7 +8072,7 @@ EndChar
 StartChar: uniFBAB
 Encoding: 64427 64427 382
 GlifName: uniF_B_A_B_
-Width: 1174
+Width: 1144
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor110" 651 1191 basechar 0
@@ -8104,7 +8105,7 @@ EndChar
 StartChar: uniFBAF
 Encoding: 64431 64431 384
 GlifName: uniF_B_A_F_
-Width: 1650
+Width: 1648
 VWidth: 3094
 Flags: HW
 AnchorPoint: "Anchor107" 948 -663 basechar 0
@@ -8119,7 +8120,7 @@ EndChar
 StartChar: uniFBB1
 Encoding: 64433 64433 385
 GlifName: uniF_B_B_1
-Width: 1646
+Width: 1644
 VWidth: 3094
 Flags: HW
 AnchorPoint: "Anchor110" 679 871 basechar 0
@@ -8312,7 +8313,7 @@ Fore
 Refer: 388 64448 N 1 0 0 1 -121 -543 2
 Refer: 453 -1 N 0.14 0 0 1 -18 0 2
 Refer: 300 -1 N 1 0 0 1 20 0 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-50 dv=0
 EndChar
 
@@ -8348,8 +8349,8 @@ SplineSet
  1312 -455 1128 -492 843 -492 c 0
  511 -492 99 -452 99 -200 c 0
  99 -40 392 182 686 182 c 2
- 1278 182 l 1
- 1278 0 l 1
+ 1279 182 l 5
+ 1279 0 l 5
  682 0 l 2
  477 0 275 -138 275 -182 c 0
  275 -283 631 -320 841 -320 c 0
@@ -8483,11 +8484,11 @@ GlifName: uni06C_2.init
 Width: 584
 VWidth: 3094
 Flags: HW
-AnchorPoint: "Anchor110" 289 1392 basechar 0
+AnchorPoint: "Anchor110" 289 1372 basechar 0
 AnchorPoint: "Anchor107" 278 -697 basechar 0
 LayerCount: 2
 Fore
-Refer: 76 1652 N 1 0 0 1 -20 -282 2
+Refer: 76 1652 S 1 0 0 1 -20 -302 2
 Refer: 379 64424 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8967,8 +8968,9 @@ LayerCount: 2
 Fore
 Refer: 332 -1 N 1 0 0 1 24 141 2
 Refer: 262 65275 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-147 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-84 dv=0
+Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uniFEDF uniFB51
 EndChar
@@ -9044,6 +9046,8 @@ LayerCount: 2
 Fore
 Refer: 38 1603 N 1 0 0 1 0 0 3
 Refer: 266 -1 N 1 0 0 1 663 1245 2
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFBD6
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBD4
@@ -9170,7 +9174,7 @@ GlifName: uniF_B_D_E_
 Width: 910
 VWidth: 2242
 Flags: HW
-AnchorPoint: "Anchor110" 436 1579 basechar 0
+AnchorPoint: "Anchor110" 436 1549 basechar 0
 AnchorPoint: "Anchor107" 437 -651 basechar 0
 LayerCount: 2
 Fore
@@ -9187,8 +9191,8 @@ AnchorPoint: "Anchor110" 436 1549 basechar 0
 AnchorPoint: "Anchor107" 437 -651 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 176 954 2
-Refer: 249 65262 N 1 0 0 1 0 0 3
+Refer: 266 -1 N 1 0 0 1 176 954 2
+Refer: 249 65262 S 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uniFBD9
@@ -9210,31 +9214,31 @@ GlifName: uni06A_A_
 Width: 2009
 VWidth: 3091
 Flags: HW
-AnchorPoint: "Anchor110" 678 1066 basechar 0
+AnchorPoint: "Anchor110" 578 1066 basechar 0
 AnchorPoint: "Anchor107" 853 -240 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1158 0 m 6
- 789 0 l 6
- 711 0 401 0 99 66 c 5
- 123 224 l 5
- 402 187 636 182 779 182 c 6
- 1157 182 l 6
- 1444 182 1737 199 1737 337 c 4
- 1737 462 1369 481 1171 481 c 6
- 785 481 l 6
- 653 481 555 511 555 647 c 4
- 555 706 605 764 663 812 c 4
- 813 935 1131 1100 1438 1205 c 5
- 1438 1032 l 5
- 1169 945 943 816 725 660 c 5
- 1176 660 l 6
- 1639 660 1911 577 1911 334 c 4
- 1911 58 1572 0 1158 0 c 6
+1158 0 m 2
+ 789 0 l 2
+ 711 0 401 0 99 66 c 1
+ 123 224 l 1
+ 402 187 636 182 779 182 c 2
+ 1157 182 l 2
+ 1444 182 1737 199 1737 337 c 0
+ 1737 462 1369 481 1171 481 c 2
+ 685 481 l 2
+ 534.356689899 481 462.014452229 549.626258168 462.014452229 633.697982269 c 0
+ 462.014452229 691.596614519 496.32507803 756.820754232 563 812 c 0
+ 713 935 1081 1100 1438 1205 c 1
+ 1438 1032 l 1
+ 1169 945 843 816 625 660 c 1
+ 1176 660 l 2
+ 1639 660 1911 577 1911 334 c 0
+ 1911 58 1572 0 1158 0 c 2
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06AA.init
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06AA.medi
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06AA.fina
@@ -9247,7 +9251,7 @@ Width: 2092
 VWidth: 3091
 Flags: HW
 AnchorPoint: "Anchor107" 957 -240 basechar 0
-AnchorPoint: "Anchor110" 678 1066 basechar 0
+AnchorPoint: "Anchor110" 578 1066 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9259,12 +9263,12 @@ SplineSet
  1157 182 l 2
  1444 182 1737 199 1737 337 c 0
  1737 462 1369 481 1171 481 c 2
- 785 481 l 2
- 653 481 555 510 555 647 c 0
- 555 706 605 764 663 812 c 0
- 813 935 1131 1100 1438 1205 c 1
+ 685 481 l 2
+ 533.757490635 481 462.606628962 549.853468792 462.606628962 633.616460155 c 0
+ 462.606628962 691.917843193 497.0760129 757.442217572 563 812 c 0
+ 713 935 1081 1100 1438 1205 c 1
  1438 1032 l 1
- 1169 945 943 816 725 660 c 1
+ 1169 945 843 816 625 660 c 1
  1176 660 l 2
  1639 660 1911 577 1911 334 c 0
  1911 298 1896 254 1883 225 c 1
@@ -9283,25 +9287,25 @@ GlifName: uni06A_A_.medi
 Width: 1701
 VWidth: 3091
 Flags: HW
-AnchorPoint: "Anchor110" 327 1077 basechar 0
+AnchorPoint: "Anchor110" 227 1077 basechar 0
 AnchorPoint: "Anchor107" 813 -248 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 1672 0 m 2
- 1517 0 1430 46 1364 99 c 5
+ 1517 0 1430 46 1364 99 c 1
  1224 25 1008 0 767 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 1
+ -20 182 l 1
  766 182 l 2
  1053 182 1347 199 1347 337 c 0
  1347 462 978 481 780 481 c 2
- 394 481 l 2
- 262 481 164 510 164 647 c 0
- 164 706 215 764 273 812 c 0
- 423 935 741 1100 1048 1205 c 1
+ 294 481 l 2
+ 142.476091979 481 71.9819994053 549.397631354 71.9819994053 632.69352074 c 0
+ 71.9819994053 691.298401561 106.877799418 757.278178829 173 812 c 0
+ 323 935 691 1100 1048 1205 c 1
  1048 1032 l 1
- 779 945 551 816 333 660 c 1
+ 779 945 451 816 233 660 c 1
  785 660 l 2
  1248 660 1520 577 1520 334 c 0
  1520 298 1506 254 1493 225 c 1
@@ -9319,28 +9323,28 @@ Width: 1619
 VWidth: 3091
 Flags: HW
 AnchorPoint: "Anchor107" 813 -248 basechar 0
-AnchorPoint: "Anchor110" 327 1077 basechar 0
+AnchorPoint: "Anchor110" 227 1077 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 780 481 m 2
- 394 481 l 2
- 262 481 164 511 164 647 c 0
- 164 706 215 764 273 812 c 0
- 423 935 741 1100 1048 1205 c 1
+ 294 481 l 2
+ 143.12456642 481 71.332773993 549.156313372 71.332773993 632.79436843 c 0
+ 71.332773993 690.946971844 106.038830612 756.583859817 173 812 c 0
+ 323 935 691 1100 1048 1205 c 1
  1048 1032 l 1
- 779 945 551 816 333 660 c 1
+ 779 945 451 816 233 660 c 1
  785 660 l 2
  1248 660 1520 577 1520 334 c 0
  1520 58 1181 0 767 0 c 2
- -18 0 l 1
- -18 182 l 1
+ -20 0 l 5
+ -20 182 l 5
  766 182 l 2
  1053 182 1347 199 1347 337 c 0
  1347 462 978 481 780 481 c 2
 EndSplineSet
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
 StartChar: uni06C9
@@ -9353,7 +9357,7 @@ AnchorPoint: "Anchor107" 437 -661 basechar 0
 AnchorPoint: "Anchor110" 429 1349 basechar 0
 LayerCount: 2
 Fore
-Refer: 452 1627 S 1 0 0 1 -140 -545 2
+Refer: 452 1627 N 1 0 0 1 -140 -545 2
 Refer: 43 1608 N 1 0 0 1 0 0 3
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBE3
 EndChar
@@ -9440,7 +9444,7 @@ EndChar
 StartChar: uni063D
 Encoding: 1597 1597 444
 GlifName: uni063D_
-Width: 1435
+Width: 1445
 VWidth: 3091
 Flags: HW
 AnchorPoint: "Anchor107" 692 -699 basechar 0
@@ -9466,6 +9470,8 @@ LayerCount: 2
 Fore
 Refer: 266 -1 S 1 0 0 1 1033 1462 2
 Refer: 81 1705 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=189 dv=0
 Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni0763.init
 Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni0763.medi
@@ -9478,11 +9484,11 @@ GlifName: uni063D_.fina
 Width: 1329
 VWidth: 3094
 Flags: HW
-AnchorPoint: "Anchor110" 508 1105 basechar 0
+AnchorPoint: "Anchor110" 508 1075 basechar 0
 AnchorPoint: "Anchor107" 690 -712 basechar 0
 LayerCount: 2
 Fore
-Refer: 452 1627 N 1 0 0 1 -72 -809 2
+Refer: 452 1627 S 1 0 0 1 -72 -839 2
 Refer: 251 65264 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9493,11 +9499,11 @@ Width: 638
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 188 -584 basechar 0
-AnchorPoint: "Anchor110" 315 1390 basechar 0
+AnchorPoint: "Anchor110" 315 1370 basechar 0
 LayerCount: 2
 Fore
-Refer: 254 65267 S 1 0 0 1 0 0 3
-Refer: 452 1627 N 1 0 0 1 -256 -511 2
+Refer: 254 65267 N 1 0 0 1 0 0 3
+Refer: 452 1627 S 1 0 0 1 -256 -531 2
 Substitution2: "Single Substitution 5-1" uni063D.init.long3
 Substitution2: "Single Substitution 2-1" uni063D.init.long2
 Substitution2: "Single Substitution 0 subtable" uni063D.init.long1
@@ -9511,11 +9517,11 @@ Width: 743
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 191 -581 basechar 0
-AnchorPoint: "Anchor110" 352 1302 basechar 0
+AnchorPoint: "Anchor110" 352 1282 basechar 0
 LayerCount: 2
 Fore
 Refer: 255 65268 N 1 0 0 1 0 0 3
-Refer: 452 1627 S 1 0 0 1 -226 -590 2
+Refer: 452 1627 S 1 0 0 1 -226 -610 2
 Substitution2: "Single Substitution 5-1" uni063D.medi.long3
 Substitution2: "Single Substitution 2-1" uni063D.medi.long2
 Substitution2: "Single Substitution 0 subtable" uni063D.medi.long1
@@ -9548,6 +9554,8 @@ LayerCount: 2
 Fore
 Refer: 266 -1 N 1 0 0 1 154 1462 2
 Refer: 230 65243 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 Position2: "Single Positioning lookup 0 subtable" dx=0 dy=0 dh=137 dv=0
 EndChar
 
@@ -10259,11 +10267,11 @@ Width: 708
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 258 -584 basechar 0
-AnchorPoint: "Anchor110" 449 1398 basechar 0
+AnchorPoint: "Anchor110" 449 1378 basechar 0
 LayerCount: 2
 Fore
-Refer: 482 -1 S 1 0 0 1 0 0 3
-Refer: 58 1626 N 1 0 0 1 -136 -520 2
+Refer: 482 -1 N 1 0 0 1 0 0 3
+Refer: 58 1626 S 1 0 0 1 -136 -540 2
 EndChar
 
 StartChar: uni06CE.init.long2
@@ -10272,12 +10280,12 @@ GlifName: uni06C_E_.init.long2
 Width: 748
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 489 1398 basechar 0
+AnchorPoint: "Anchor110" 489 1378 basechar 0
 AnchorPoint: "Anchor107" 298 -584 basechar 0
 LayerCount: 2
 Fore
-Refer: 483 -1 S 1 0 0 1 0 0 3
-Refer: 58 1626 N 1 0 0 1 -96 -520 2
+Refer: 483 -1 N 1 0 0 1 0 0 3
+Refer: 58 1626 S 1 0 0 1 -96 -540 2
 EndChar
 
 StartChar: uni06CE.init.long3
@@ -10286,12 +10294,12 @@ GlifName: uni06C_E_.init.long3
 Width: 808
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 545 1398 basechar 0
+AnchorPoint: "Anchor110" 545 1378 basechar 0
 AnchorPoint: "Anchor107" 354 -584 basechar 0
 LayerCount: 2
 Fore
-Refer: 484 -1 S 1 0 0 1 0 0 3
-Refer: 58 1626 N 1 0 0 1 -40 -520 2
+Refer: 484 -1 N 1 0 0 1 0 0 3
+Refer: 58 1626 S 1 0 0 1 -40 -540 2
 EndChar
 
 StartChar: uni06CE.init.long4
@@ -10300,12 +10308,12 @@ GlifName: uni06C_E_.init.long4
 Width: 918
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 659 1398 basechar 0
+AnchorPoint: "Anchor110" 659 1378 basechar 0
 AnchorPoint: "Anchor107" 468 -584 basechar 0
 LayerCount: 2
 Fore
-Refer: 485 -1 S 1 0 0 1 0 0 3
-Refer: 58 1626 N 1 0 0 1 74 -520 2
+Refer: 485 -1 N 1 0 0 1 0 0 3
+Refer: 58 1626 S 1 0 0 1 74 -540 2
 EndChar
 
 StartChar: uni06CE.medi.long1
@@ -10315,11 +10323,11 @@ Width: 813
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 261 -581 basechar 0
-AnchorPoint: "Anchor110" 494 1318 basechar 0
+AnchorPoint: "Anchor110" 494 1298 basechar 0
 LayerCount: 2
 Fore
 Refer: 486 -1 N 1 0 0 1 0 0 3
-Refer: 58 1626 S 1 0 0 1 -95 -634 2
+Refer: 58 1626 S 1 0 0 1 -95 -654 2
 EndChar
 
 StartChar: uni06CE.medi.long2
@@ -10329,11 +10337,11 @@ Width: 854
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 311 -581 basechar 0
-AnchorPoint: "Anchor110" 544 1318 basechar 0
+AnchorPoint: "Anchor110" 544 1298 basechar 0
 LayerCount: 2
 Fore
 Refer: 487 -1 N 1 0 0 1 0 0 3
-Refer: 58 1626 N 1 0 0 1 -45 -634 2
+Refer: 58 1626 S 1 0 0 1 -45 -654 2
 EndChar
 
 StartChar: uni06CE.medi.long3
@@ -10343,11 +10351,11 @@ Width: 914
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 371 -581 basechar 0
-AnchorPoint: "Anchor110" 604 1318 basechar 0
+AnchorPoint: "Anchor110" 604 1298 basechar 0
 LayerCount: 2
 Fore
-Refer: 488 -1 S 1 0 0 1 0 0 3
-Refer: 58 1626 N 1 0 0 1 15 -634 2
+Refer: 488 -1 N 1 0 0 1 0 0 3
+Refer: 58 1626 S 1 0 0 1 15 -654 2
 EndChar
 
 StartChar: uni06CE.medi.long4
@@ -10357,11 +10365,11 @@ Width: 1023
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 471 -581 basechar 0
-AnchorPoint: "Anchor110" 704 1318 basechar 0
+AnchorPoint: "Anchor110" 704 1298 basechar 0
 LayerCount: 2
 Fore
-Refer: 58 1626 S 1 0 0 1 115 -634 2
-Refer: 489 -1 S 1 0 0 1 0 0 3
+Refer: 58 1626 S 1 0 0 1 115 -654 2
+Refer: 489 -1 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni063D.init.long1
@@ -10370,12 +10378,12 @@ GlifName: uni063D_.init.long1
 Width: 708
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 415 1390 basechar 0
+AnchorPoint: "Anchor110" 415 1370 basechar 0
 AnchorPoint: "Anchor107" 258 -584 basechar 0
 LayerCount: 2
 Fore
-Refer: 482 -1 S 1 0 0 1 0 0 3
-Refer: 452 1627 N 1 0 0 1 -156 -511 2
+Refer: 482 -1 N 1 0 0 1 0 0 3
+Refer: 452 1627 S 1 0 0 1 -156 -531 2
 EndChar
 
 StartChar: uni063D.init.long2
@@ -10384,12 +10392,12 @@ GlifName: uni063D_.init.long2
 Width: 748
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 455 1390 basechar 0
+AnchorPoint: "Anchor110" 455 1370 basechar 0
 AnchorPoint: "Anchor107" 288 -584 basechar 0
 LayerCount: 2
 Fore
 Refer: 483 -1 S 1 0 0 1 0 0 3
-Refer: 452 1627 N 1 0 0 1 -116 -511 2
+Refer: 452 1627 N 1 0 0 1 -116 -531 2
 EndChar
 
 StartChar: uni063D.init.long3
@@ -10398,12 +10406,12 @@ GlifName: uni063D_.init.long3
 Width: 808
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 515 1390 basechar 0
+AnchorPoint: "Anchor110" 515 1370 basechar 0
 AnchorPoint: "Anchor107" 358 -584 basechar 0
 LayerCount: 2
 Fore
 Refer: 484 -1 N 1 0 0 1 0 0 3
-Refer: 452 1627 S 1 0 0 1 -56 -511 2
+Refer: 452 1627 S 1 0 0 1 -56 -531 2
 EndChar
 
 StartChar: uni063D.init.long4
@@ -10412,12 +10420,12 @@ GlifName: uni063D_.init.long4
 Width: 918
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 625 1390 basechar 0
+AnchorPoint: "Anchor110" 625 1370 basechar 0
 AnchorPoint: "Anchor107" 468 -584 basechar 0
 LayerCount: 2
 Fore
 Refer: 485 -1 N 1 0 0 1 0 0 3
-Refer: 452 1627 N 1 0 0 1 54 -511 2
+Refer: 452 1627 S 1 0 0 1 54 -531 2
 EndChar
 
 StartChar: uni063D.medi.long1
@@ -10426,12 +10434,12 @@ GlifName: uni063D_.medi.long1
 Width: 813
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 422 1302 basechar 0
+AnchorPoint: "Anchor110" 422 1282 basechar 0
 AnchorPoint: "Anchor107" 251 -581 basechar 0
 LayerCount: 2
 Fore
 Refer: 486 -1 N 1 0 0 1 0 0 3
-Refer: 452 1627 S 1 0 0 1 -156 -590 2
+Refer: 452 1627 S 1 0 0 1 -156 -610 2
 EndChar
 
 StartChar: uni063D.medi.long2
@@ -10441,11 +10449,11 @@ Width: 854
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 281 -581 basechar 0
-AnchorPoint: "Anchor110" 452 1302 basechar 0
+AnchorPoint: "Anchor110" 452 1282 basechar 0
 LayerCount: 2
 Fore
 Refer: 487 -1 N 1 0 0 1 0 0 3
-Refer: 452 1627 S 1 0 0 1 -126 -590 2
+Refer: 452 1627 S 1 0 0 1 -126 -610 2
 EndChar
 
 StartChar: uni063D.medi.long3
@@ -10455,11 +10463,11 @@ Width: 914
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 341 -581 basechar 0
-AnchorPoint: "Anchor110" 512 1302 basechar 0
+AnchorPoint: "Anchor110" 512 1282 basechar 0
 LayerCount: 2
 Fore
 Refer: 488 -1 N 1 0 0 1 0 0 3
-Refer: 452 1627 S 1 0 0 1 -66 -590 2
+Refer: 452 1627 S 1 0 0 1 -66 -610 2
 EndChar
 
 StartChar: uni063D.medi.long4
@@ -10469,11 +10477,11 @@ Width: 1023
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 451 -581 basechar 0
-AnchorPoint: "Anchor110" 622 1302 basechar 0
+AnchorPoint: "Anchor110" 622 1282 basechar 0
 LayerCount: 2
 Fore
 Refer: 489 -1 N 1 0 0 1 0 0 3
-Refer: 452 1627 S 1 0 0 1 44 -590 2
+Refer: 452 1627 S 1 0 0 1 44 -610 2
 EndChar
 
 StartChar: uniFEF3.long1
@@ -10651,13 +10659,13 @@ Width: 678
 VWidth: 2834
 Flags: HW
 AnchorPoint: "Anchor107" 282 -245 basechar 0
-AnchorPoint: "Anchor110" 330 1369 basechar 0
+AnchorPoint: "Anchor110" 330 1354 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 47 948 2
+Refer: 265 -1 S 1 0 0 1 47 933 2
 Refer: 453 -1 N 0.35 0 0 1 -14 0 2
 Refer: 300 -1 N 1 0 0 1 94 0 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-50 dv=0
 EndChar
 
@@ -10667,11 +10675,11 @@ GlifName: uniF_E_98.long
 Width: 784
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 323 1293 basechar 0
+AnchorPoint: "Anchor110" 323 1273 basechar 0
 AnchorPoint: "Anchor107" 282 -245 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 N 1 0 0 1 47 861 2
+Refer: 265 -1 S 1 0 0 1 47 841 2
 Refer: 453 -1 N 0.35 0 0 1 -14 0 2
 Refer: 301 -1 N 1 0 0 1 94 0 2
 EndChar
@@ -10682,11 +10690,11 @@ GlifName: uniF_E_9B_.long
 Width: 678
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 318 1570 basechar 0
+AnchorPoint: "Anchor110" 318 1560 basechar 0
 AnchorPoint: "Anchor107" 282 -245 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 56 953 2
+Refer: 266 -1 S 1 0 0 1 56 943 2
 Refer: 453 -1 N 0.35 0 0 1 -14 0 2
 Refer: 300 -1 N 1 0 0 1 94 0 2
 EndChar
@@ -10697,11 +10705,11 @@ GlifName: uniF_E_9C_.long
 Width: 783
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 312 1461 basechar 0
+AnchorPoint: "Anchor110" 312 1481 basechar 0
 AnchorPoint: "Anchor107" 282 -245 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 56 841 2
+Refer: 266 -1 S 1 0 0 1 56 861 2
 Refer: 301 -1 N 1 0 0 1 94 0 2
 Refer: 453 -1 N 0.35 0 0 1 -14 0 2
 EndChar
@@ -10718,8 +10726,8 @@ LayerCount: 2
 Fore
 Refer: 453 -1 N 0.2 0 0 1 -16 0 2
 Refer: 238 65251 N 1 0 0 1 40 0 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-168 dv=0
-Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-157 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
 StartChar: uniFEE4.long
@@ -10760,7 +10768,7 @@ AnchorPoint: "Anchor110" 371 1359 basechar 0
 AnchorPoint: "Anchor107" 371 -388 basechar 0
 LayerCount: 2
 Fore
-Refer: 393 64447 S 1 0 0 1 86 235 2
+Refer: 393 64447 N 1 0 0 1 86 235 2
 Refer: 453 -1 N 0.43 0 0 1 -12 0 2
 Refer: 242 65255 N 1 0 0 1 120 0 2
 EndChar
@@ -10786,14 +10794,14 @@ GlifName: uni067C_.init.long
 Width: 702
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 360 1369 basechar 0
+AnchorPoint: "Anchor110" 360 1354 basechar 0
 AnchorPoint: "Anchor107" 328 -398 basechar 0
 LayerCount: 2
 Fore
 Refer: 393 64447 N 1 0 0 1 85 235 2
 Refer: 453 -1 N 0.43 0 0 1 -12 0 2
 Refer: 300 -1 N 1 0 0 1 118 0 2
-Refer: 265 -1 N 1 0 0 1 77 948 2
+Refer: 265 -1 S 1 0 0 1 77 933 2
 EndChar
 
 StartChar: uni067C.medi.long
@@ -10802,14 +10810,14 @@ GlifName: uni067C_.medi.long
 Width: 808
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 353 1293 basechar 0
+AnchorPoint: "Anchor110" 353 1273 basechar 0
 AnchorPoint: "Anchor107" 368 -398 basechar 0
 LayerCount: 2
 Fore
 Refer: 393 64447 N 1 0 0 1 76 243 2
 Refer: 453 -1 N 0.43 0 0 1 -12 0 2
 Refer: 301 -1 N 1 0 0 1 118 0 2
-Refer: 265 -1 N 1 0 0 1 77 861 2
+Refer: 265 -1 S 1 0 0 1 77 841 2
 EndChar
 
 StartChar: uni06D0.init.long
@@ -10948,11 +10956,11 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-323 1247.17675781 m 5
- 323 0.8994140625 l 1
- 152 0.8994140625 l 1
- 152 1247.17675781 l 5
- 323 1247.17675781 l 5
+322 1247.17675781 m 1
+ 322 0.8994140625 l 1
+ 153 0.8994140625 l 5
+ 153 1247.17675781 l 5
+ 322 1247.17675781 l 1
 EndSplineSet
 EndChar
 
@@ -11137,6 +11145,275 @@ SplineSet
  1460 594 l 1
  1460 443 l 1
 EndSplineSet
+EndChar
+
+StartChar: uniFBDB
+Encoding: 64475 64475 555
+Width: 910
+VWidth: 2242
+Flags: HW
+AnchorPoint: "Anchor110" 425 1481 basechar 0
+AnchorPoint: "Anchor107" 437 -661 basechar 0
+LayerCount: 2
+Fore
+Refer: 557 1736 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFBDC
+Encoding: 64476 64476 556
+Width: 911
+VWidth: 2245
+Flags: HW
+AnchorPoint: "Anchor110" 425 1481 basechar 0
+AnchorPoint: "Anchor107" 437 -661 basechar 0
+LayerCount: 2
+Fore
+Refer: 249 65262 N 1 0 0 1 0 0 3
+Refer: 75 1648 N 1 0 0 1 320 -170 2
+EndChar
+
+StartChar: uni06C8
+Encoding: 1736 1736 557
+Width: 910
+VWidth: 2242
+Flags: HW
+AnchorPoint: "Anchor107" 437 -661 basechar 0
+AnchorPoint: "Anchor110" 425 1481 basechar 0
+LayerCount: 2
+Fore
+Refer: 75 1648 N 1 0 0 1 320 -170 2
+Refer: 43 1608 N 1 0 0 1 0 0 3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uniFBDC
+EndChar
+
+StartChar: uni06A0
+Encoding: 1696 1696 558
+Width: 1267
+VWidth: 3091
+Flags: HW
+AnchorPoint: "Anchor107" 688 -862 basechar 0
+AnchorPoint: "Anchor110" 704 1820 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 -1 N 1 0 0 1 453 1211 2
+Refer: 33 1593 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 3 subtable" dx=0 dy=0 dh=-93 dv=0
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06A0.init
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06A0.medi
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06A0.fina
+EndChar
+
+StartChar: uni06BD
+Encoding: 1725 1725 559
+Width: 1386
+VWidth: 3091
+Flags: HW
+AnchorPoint: "Anchor110" 666 1331 basechar 0
+AnchorPoint: "Anchor107" 740 -653 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 -1 N 1 0 0 1 411 737 2
+Refer: 83 1722 N 1 0 0 1 0 0 3
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE9B
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE9C
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06BD.fina
+EndChar
+
+StartChar: uni06CF
+Encoding: 1743 1743 560
+Width: 910
+VWidth: 2242
+Flags: HW
+AnchorPoint: "Anchor107" 461 -644 basechar 0
+AnchorPoint: "Anchor110" 420 1366 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 S 1 0 0 1 333 965 2
+Refer: 43 1608 N 1 0 0 1 0 0 3
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06CF.fina
+EndChar
+
+StartChar: uni0762
+Encoding: 1890 1890 561
+Width: 1793
+VWidth: 3091
+Flags: HW
+AnchorPoint: "Anchor110" 1222 1836 basechar 0
+AnchorPoint: "Anchor107" 975 -237 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 S 1 0 0 1 1131 1415 2
+Refer: 81 1705 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni0762.init
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni0762.medi
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni0762.fina
+EndChar
+
+StartChar: uni06A0.fina
+Encoding: 65709 -1 562
+Width: 1230
+VWidth: 3091
+Flags: HW
+AnchorPoint: "Anchor107" 641 -872 basechar 0
+AnchorPoint: "Anchor110" 633 1632 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 -1 N 1 0 0 1 381 1056 2
+Refer: 213 65226 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni06A0.init
+Encoding: 65710 -1 563
+Width: 1068
+VWidth: 3091
+Flags: HW
+AnchorPoint: "Anchor107" 509 -246 basechar 0
+AnchorPoint: "Anchor110" 557 1671 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 -1 N 1 0 0 1 305 1096 2
+Refer: 214 65227 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
+EndChar
+
+StartChar: uni06A0.medi
+Encoding: 65711 -1 564
+Width: 1172
+VWidth: 3094
+Flags: HW
+AnchorPoint: "Anchor110" 620 1579 basechar 0
+AnchorPoint: "Anchor107" 582 -246 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 -1 N 1 0 0 1 366 1002 2
+Refer: 215 65228 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni06BD.fina
+Encoding: 65712 -1 565
+Width: 1477
+VWidth: 2144
+Flags: HW
+AnchorPoint: "Anchor107" 713 -744 basechar 0
+AnchorPoint: "Anchor110" 666 1261 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 -1 N 1 0 0 1 411 667 2
+Refer: 115 64415 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni06CF.fina
+Encoding: 65713 -1 566
+Width: 911
+VWidth: 2245
+Flags: HW
+AnchorPoint: "Anchor107" 431 -644 basechar 0
+AnchorPoint: "Anchor110" 420 1366 basechar 0
+LayerCount: 2
+Fore
+Refer: 249 65262 N 1 0 0 1 0 0 3
+Refer: 264 -1 N 1 0 0 1 333 965 2
+EndChar
+
+StartChar: uni0762.fina
+Encoding: 65714 -1 567
+Width: 1929
+VWidth: 3091
+Flags: HW
+AnchorPoint: "Anchor110" 1222 1836 basechar 0
+AnchorPoint: "Anchor107" 895 -237 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 N 1 0 0 1 1131 1415 2
+Refer: 107 64399 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0762.init
+Encoding: 65715 -1 568
+Width: 909
+VWidth: 3091
+Flags: HW
+AnchorPoint: "Anchor110" 342 1836 basechar 0
+AnchorPoint: "Anchor107" 368 -243 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 S 1 0 0 1 251 1415 2
+Refer: 230 65243 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
+EndChar
+
+StartChar: uni0762.medi
+Encoding: 65716 -1 569
+Width: 1046
+VWidth: 3091
+Flags: HW
+AnchorPoint: "Anchor110" 342 1836 basechar 0
+AnchorPoint: "Anchor107" 368 -243 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 S 1 0 0 1 251 1415 2
+Refer: 231 65244 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni06AC
+Encoding: 1708 1708 570
+Width: 1804
+VWidth: 3094
+Flags: HW
+AnchorPoint: "Anchor107" 902 -237 basechar 0
+AnchorPoint: "Anchor110" 893 1689 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 N 1 0 0 1 800 1265 2
+Refer: 38 1603 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uni06AC.init
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uni06AC.medi
+Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06AC.fina
+EndChar
+
+StartChar: uni06AC.fina
+Encoding: 65717 -1 571
+Width: 1863
+VWidth: 3094
+Flags: HW
+AnchorPoint: "Anchor110" 893 1689 basechar 0
+AnchorPoint: "Anchor107" 945 -237 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 S 1 0 0 1 800 1265 2
+Refer: 229 65242 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni06AC.init
+Encoding: 65718 -1 572
+Width: 909
+VWidth: 3091
+Flags: HW
+AnchorPoint: "Anchor110" 342 1836 basechar 0
+AnchorPoint: "Anchor107" 368 -243 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 S 1 0 0 1 251 1415 2
+Refer: 230 65243 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
+EndChar
+
+StartChar: uni06AC.medi
+Encoding: 65719 -1 573
+Width: 1046
+VWidth: 3091
+Flags: HW
+AnchorPoint: "Anchor110" 342 1836 basechar 0
+AnchorPoint: "Anchor107" 368 -243 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 -1 S 1 0 0 1 251 1415 2
+Refer: 231 65244 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
