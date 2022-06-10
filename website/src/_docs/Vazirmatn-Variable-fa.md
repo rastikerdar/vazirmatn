@@ -33,7 +33,7 @@ author: 'Saber Rastikerdar'
 @font-face {
   font-family: Vazirmatn;
   src: url('fonts/webfonts/Vazirmatn[wght].woff2') format('woff2');
-  font-weight: 400;
+  font-weight: 100 900;
   font-style: normal;
   font-display: swap;
 }
@@ -44,7 +44,7 @@ author: 'Saber Rastikerdar'
 @font-face {
   font-family: Vazirmatn RD;
   src: url('Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2') format('woff2');
-  font-weight: 400;
+  font-weight: 100 900;
   font-style: normal;
   font-display: swap;
 }
@@ -54,8 +54,8 @@ author: 'Saber Rastikerdar'
 ```css
 @font-face {
   font-family: Vazirmatn RD;
-  src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v32.102/Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2') format('woff2');
-  font-weight: 400;
+  src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.000/Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2') format('woff2');
+  font-weight: 100 900;
   font-style: normal;
   font-display: swap;
 }
@@ -63,13 +63,26 @@ author: 'Saber Rastikerdar'
 
 هر چند که در آدرس ریشه، فایل `Vazirmatn-Variable-font-face.css` برای استفاده از نسخه وب قرار داده شده است که می‌توانید آن را مستقیما و یا از طریق CDN فرا بخوانید:
 ```html
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v32.102/Vazirmatn-Variable-font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.000/Vazirmatn-Variable-font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-در نظر داشته باشید که همیشه از آخرین نسخه به جای عدد ورژن v32.102 استفاده کنید.
+در نظر داشته باشید که همیشه از آخرین نسخه به جای عدد ورژن v33.000 استفاده کنید.
 
 
 نحوه استفاده در css بدین صورت است:
+```css
+body {
+    font-family: Vazirmatn;
+    font-weight: 400;
+}
+
+h1 {
+    font-weight: 900;
+}
+```
+از هر عددی بین 100 تا 900 می‌توان برای تغییر وزن استفاده کرد. مثلا 692.
+
+یا از پارامتر wght استفاده کنید:
 ```css
 body {
     font-family: Vazirmatn;
