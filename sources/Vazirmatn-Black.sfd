@@ -4,7 +4,7 @@ FullName: Vazirmatn Black
 FamilyName: Vazirmatn Black
 Weight: Black
 Copyright: Copyright 2015 The Vazirmatn Project Authors (https://github.com/rastikerdar/vazirmatn)
-Version: 33.000
+Version: 33.001
 ItalicAngle: 0
 UnderlinePosition: -730
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1654845131
+ModificationTime: 1654865151
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
@@ -190,11 +190,11 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1 0 1
   Coverage: 99 uniFB58 uniFB59 uniFBFE uniFBFF uniFEF3 uniFEF4 uni06CE.init uni06CE.medi uni063D.init uni063D.medi
-  FCoverage: 118 uniFB59 uniFB8B uniFB8D uniFB9F uniFBFF uniFEAE uniFEB0 uniFEDE uniFEE6 uniFEF4 uni06CE.medi uni06BC.fina uni063D.medi
+  FCoverage: 131 uniFB59 uniFB8B uniFB8D uniFB9F uniFBFF uniFEAE uniFEB0 uniFEDE uniFEE6 uniFEF4 uni06CE.medi uni06BC.fina uni063D.medi uni06BD.fina
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "" "" "Version 33.000" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazirmatn" "Black"
+LangName: 1033 "" "" "" "" "" "Version 33.001" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazirmatn" "Black"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -260,7 +260,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 252 12 13
+WinInfo: 228 12 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -11309,8 +11309,8 @@ LayerCount: 2
 Fore
 Refer: 266 -1 S 1 0 0 1 441 817 2
 Refer: 83 1722 N 1 0 0 1 0 0 3
-Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFE9B
-Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFE9C
+Substitution2: "'init' Initial Forms in Arabic lookup 3 subtable" uniFB58
+Substitution2: "'medi' Medial Forms in Arabic lookup 2 subtable" uniFB59
 Substitution2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06BD.fina
 EndChar
 

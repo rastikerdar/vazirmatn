@@ -1,5 +1,13 @@
 # Vazirmatn Changelog
 
+## 33.001
+
+- Fixed wrong forms of letter ڽ (thanks @WanAhmadShahmi98) (#272)
+
+۲۰ خرداد ۱۴۰۱
+
+- رفع ایراد فرم‌های حرف ڽ (با تشکر از @WanAhmadShahmi98) (#272)
+
 ## 33.000
 
 - Added Jawi letters (thanks @WanAhmadShahmi98) (#262)
