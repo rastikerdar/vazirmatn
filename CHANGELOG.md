@@ -1,5 +1,17 @@
 # Vazirmatn Changelog
 
+## 33.002
+
+- Add alternatives for یـ تـ پـ and related glyphs in connection with ـڕ‌ ـړ ـږ ـڵ ـڭ ـڬ ـݢ ـٹـ ـۏ ـه ـة (#273)
+- Improved حـ ـحـ ـح ح ـڡـ ـڡ ـه ڪ ڡـ ڡ و ـو ٯ ـٯ
+- Improved ۵ in Thick
+
+31 خرداد ۱۴۰۱
+
+- اضافه شدن جایگزین‌ها برای «یـ تـ پـ» و گلیف‌های مربوطه در اتصال با «ـڕ‌ ـړ ـږ ـڵ ـڭ ـڬ ـݢ ـٹـ ـۏ ـه ـة» (#273)
+- بهبود حـ ـحـ ـح ح ـڡـ ـڡ ـه ڪ ڡـ ڡ و ـو ٯ ـٯ
+- بهبود ۵ در ضخیم
+
 ## 33.001
 
 - Fixed wrong forms of letter ڽ (thanks @WanAhmadShahmi98) (#272)
