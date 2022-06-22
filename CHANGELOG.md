@@ -2,11 +2,11 @@
 
 ## 33.003
 
-- Fixed wrong kerning for ر مـ
+- Fixed wrong kerning for ژ ر with مـ تـ ثـ
 
 ۱ تیر ۱۴۰۱
 
-- اصلاح کرنینگ ر مـ
+- اصلاح کرنینگ اشتباه ژ ر با مـ تـ ثـ
 
 ## 33.002
 

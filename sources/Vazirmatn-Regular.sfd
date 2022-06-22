@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1655908137
+ModificationTime: 1655911257
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -168,14 +168,14 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 2" 0 0 0 1
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 2" 0 0 0 1
  1 1 0
-  Coverage: 817 uni0621 uni0622 uni0623 uni0624 uni0627 uni0628 uni0629 uni062A uni062B uni062F uni0630 uni0631 uni0632 uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0640 uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0647 uni0648 uni0679 uni067C uni067E uni0688 uni0691 uni0698 uni06A9 uni06AA uni06AB uni06AC uni06AD uni06AF uni06B5 uni06C0 uni06C1 uni06D2 uni06D3 uni06D5 uni0762 uni0763 uniFB68 uniFB7C uniFB8E uniFB90 uniFB92 uniFB94 uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF5 uniFEF7 uniFEF9 uniFEFB uni06B5.init lamVabove_alef.isol uni06AB.init LamAlefWasla uni06AA.init uni0763.init uniFE91.long1 uniFE91.long2 uniFE97.long uniFEE3.long uni06A0.init uni0762.init uni06AC.init
+  Coverage: 830 uni0621 uni0622 uni0623 uni0624 uni0627 uni0628 uni0629 uni062A uni062B uni062F uni0630 uni0631 uni0632 uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0640 uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0647 uni0648 uni0679 uni067C uni067E uni0688 uni0691 uni0698 uni06A9 uni06AA uni06AB uni06AC uni06AD uni06AF uni06B5 uni06C0 uni06C1 uni06D2 uni06D3 uni06D5 uni0762 uni0763 uniFB68 uniFB7C uniFB8E uniFB90 uniFB92 uniFB94 uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF5 uniFEF7 uniFEF9 uniFEFB uni06B5.init lamVabove_alef.isol uni06AB.init LamAlefWasla uni06AA.init uni0763.init uniFE91.long1 uniFE91.long2 uniFE97.long uniFE9B.long uniFEE3.long uni06A0.init uni0762.init uni06AC.init
   BCoverage: 73 uni0631 uni0632 uniFEAE uniFEB0 uni0695 uni0695.fina uni0693 uni0693.fina
  1
   SeqLookup: 0 "Single Positioning lookup 2"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning lookup 5 subtable 1" 0 0 0 1
  1 1 0
-  Coverage: 772 uni0621 uni0622 uni0623 uni0624 uni0627 uni0628 uni0629 uni062A uni062B uni062F uni0630 uni0631 uni0632 uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0640 uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0647 uni0648 uni0679 uni067E uni0688 uni0691 uni0698 uni06A9 uni06AA uni06AB uni06AD uni06AF uni06C0 uni06C1 uni06D2 uni06D3 uni06D5 uni0762 uni0763 uniFB68 uniFB8E uniFB90 uniFB92 uniFB94 uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF5 uniFEF7 uniFEF9 uniFEFB uni06B5.init lamVabove_alef.isol uni06AB.init LamAlefWasla uni06AA.init uni0763.init uniFE91.long1 uniFE91.long2 uniFE97.long uniFEE3.long uni06A0.init uni0762.init
+  Coverage: 785 uni0621 uni0622 uni0623 uni0624 uni0627 uni0628 uni0629 uni062A uni062B uni062F uni0630 uni0631 uni0632 uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0640 uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0647 uni0648 uni0679 uni067E uni0688 uni0691 uni0698 uni06A9 uni06AA uni06AB uni06AD uni06AF uni06C0 uni06C1 uni06D2 uni06D3 uni06D5 uni0762 uni0763 uniFB68 uniFB8E uniFB90 uniFB92 uniFB94 uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF5 uniFEF7 uniFEF9 uniFEFB uni06B5.init lamVabove_alef.isol uni06AB.init LamAlefWasla uni06AA.init uni0763.init uniFE91.long1 uniFE91.long2 uniFE97.long uniFE9B.long uniFEE3.long uni06A0.init uni0762.init
   BCoverage: 31 uni0698 uniFB8B uni0691 uniFB8D
  1
   SeqLookup: 0 "Single Positioning lookup 1"
@@ -260,21 +260,9 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 300 12 13
+WinInfo: 420 12 13
 BeginPrivate: 0
 EndPrivate
-Grid
--2048 719.000015259 m 0
- 4096 719.000015259 l 1024
--2048 1138.5 m 0
- 4096 1138.5 l 1024
-1425 2662 m 0
- 1425 -1434 l 1024
-539.5 2662 m 0
- 539.5 -1434 l 1024
--2048 1032.3999939 m 0
- 4096 1032.3999939 l 1024
-EndSplineSet
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor100" "'mkmk' Mark to Mark in Arabic lookup 12 subtable" "Anchor101" "'mkmk' Mark to Mark in Arabic lookup 11 subtable" "Anchor-2"""  "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor106" "'mark' Mark Positioning lookup 10 subtable" "Anchor107" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8"""  "Anchor109" "'mark' Mark Positioning lookup 8 subtable" "Anchor110" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"""  "Anchor-12"""  "Anchor-13"""  "Anchor-14"""  "Anchor-15"""  "Anchor-16"""  "Anchor-17"""  "Anchor-18"""  "Anchor-19""" 
 BeginChars: 65720 574
@@ -3800,10 +3788,10 @@ VWidth: 2834
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 232 -245 basechar 0
-AnchorPoint: "Anchor110" 258 1560 basechar 0
+AnchorPoint: "Anchor110" 261 1560 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 -4 943 2
+Refer: 266 -1 S 1 0 0 1 -1 943 2
 Refer: 453 -1 N 0.21 0 0 1 -16 0 2
 Refer: 300 -1 N 1 0 0 1 44 0 2
 Substitution2: "Single Substitution 1-2" uniFE9B.long
@@ -3820,10 +3808,10 @@ VWidth: 2834
 GlyphClass: 2
 Flags: HW
 AnchorPoint: "Anchor107" 230 -245 basechar 0
-AnchorPoint: "Anchor110" 252 1481 basechar 0
+AnchorPoint: "Anchor110" 255 1481 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 -4 861 2
+Refer: 266 -1 S 1 0 0 1 -1 861 2
 Refer: 453 -1 N 0.21 0 0 1 -16 0 2
 Refer: 301 -1 N 1 0 0 1 44 0 2
 Substitution2: "Single Substitution 1-2" uniFE9C.long
@@ -10673,7 +10661,7 @@ Fore
 Refer: 265 -1 S 1 0 0 1 47 933 2
 Refer: 453 -1 N 0.35 0 0 1 -14 0 2
 Refer: 300 -1 N 1 0 0 1 94 0 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-50 dv=0
 EndChar
 
@@ -10687,7 +10675,7 @@ AnchorPoint: "Anchor110" 323 1273 basechar 0
 AnchorPoint: "Anchor107" 282 -245 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 47 841 2
+Refer: 265 -1 N 1 0 0 1 47 841 2
 Refer: 453 -1 N 0.35 0 0 1 -14 0 2
 Refer: 301 -1 N 1 0 0 1 94 0 2
 EndChar
@@ -10698,13 +10686,15 @@ GlifName: uniF_E_9B_.long
 Width: 678
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 318 1560 basechar 0
+AnchorPoint: "Anchor110" 311 1560 basechar 0
 AnchorPoint: "Anchor107" 282 -245 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 56 943 2
+Refer: 266 -1 S 1 0 0 1 49 943 2
 Refer: 453 -1 N 0.35 0 0 1 -14 0 2
 Refer: 300 -1 N 1 0 0 1 94 0 2
+Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-80 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
 EndChar
 
 StartChar: uniFE9C.long
@@ -10713,11 +10703,11 @@ GlifName: uniF_E_9C_.long
 Width: 783
 VWidth: 2834
 Flags: HW
-AnchorPoint: "Anchor110" 312 1481 basechar 0
+AnchorPoint: "Anchor110" 305 1481 basechar 0
 AnchorPoint: "Anchor107" 282 -245 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1 0 0 1 56 861 2
+Refer: 266 -1 S 1 0 0 1 49 861 2
 Refer: 301 -1 N 1 0 0 1 94 0 2
 Refer: 453 -1 N 0.35 0 0 1 -14 0 2
 EndChar
@@ -10734,7 +10724,7 @@ LayerCount: 2
 Fore
 Refer: 453 -1 N 0.2 0 0 1 -16 0 2
 Refer: 238 65251 N 1 0 0 1 40 0 2
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-190 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 
