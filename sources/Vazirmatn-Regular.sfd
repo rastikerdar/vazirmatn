@@ -4,7 +4,7 @@ FullName: Vazirmatn Regular
 FamilyName: Vazirmatn
 Weight: Regular
 Copyright: Copyright 2015 The Vazirmatn Project Authors (https://github.com/rastikerdar/vazirmatn)
-Version: 33.002
+Version: 33.003
 ItalicAngle: 0
 UnderlinePosition: -730
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1655809388
+ModificationTime: 1655908137
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -194,7 +194,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 7 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 0"
 EndFPST
-LangName: 1033 "" "" "" "" "" "Version 33.002" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazirmatn" "Regular"
+LangName: 1033 "" "" "" "" "" "Version 33.003" "" "" "Saber Rastikerdar" "Saber Rastikerdar" "The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Vazirmatn" "Regular"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -5388,7 +5388,7 @@ SplineSet
  993 102 878 -23 678 -23 c 0
 EndSplineSet
 Substitution2: "Single Substitution 3-1" uniFEE3.long
-Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-140 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=-160 dv=0
 Position2: "Single Positioning lookup 1 subtable" dx=0 dy=0 dh=-150 dv=0
 EndChar
 

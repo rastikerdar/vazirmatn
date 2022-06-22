@@ -1,5 +1,13 @@
 # Vazirmatn Changelog
 
+## 33.003
+
+- Fixed wrong kerning for ر مـ
+
+۱ تیر ۱۴۰۱
+
+- اصلاح کرنینگ ر مـ
+
 ## 33.002
 
 - Added alternatives for یـ تـ پـ and related glyphs in connection with ـڕ‌ ـړ ـږ ـڵ ـڭ ـڬ ـݢ ـٹـ ـۏ ـه ـة (#273)
