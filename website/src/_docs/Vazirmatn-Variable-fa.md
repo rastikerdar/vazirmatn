@@ -31,8 +31,9 @@ author: 'Saber Rastikerdar'
 برای تعریف فونت در CSS:
 ```css
 @font-face {
-  font-family: Vazirmatn;
-  src: url('fonts/webfonts/Vazirmatn[wght].woff2') format('woff2');
+  font-family: 'Vazirmatn';
+  src: url('fonts/webfonts/Vazirmatn[wght].woff2') format('woff2 supports variations'),
+       url('fonts/webfonts/Vazirmatn[wght].woff2') format('woff2-variations');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -42,8 +43,9 @@ author: 'Saber Rastikerdar'
 برای نسخه نقطه گرد:
 ```css
 @font-face {
-  font-family: Vazirmatn RD;
-  src: url('Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2') format('woff2');
+  font-family: 'Vazirmatn RD';
+  src: url('Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2') format('woff2 supports variations'),
+       url('Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2') format('woff2-variations');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -53,8 +55,9 @@ author: 'Saber Rastikerdar'
 می‌توانید به جای آدرس‌های محلی از CDN استفاده کنید مانند:
 ```css
 @font-face {
-  font-family: Vazirmatn RD;
-  src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.000/Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2') format('woff2');
+  font-family: 'Vazirmatn RD';
+  src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2') format('woff2 supports variations'),
+       url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2') format('woff2-variations');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -63,10 +66,10 @@ author: 'Saber Rastikerdar'
 
 هر چند که در آدرس ریشه، فایل `Vazirmatn-Variable-font-face.css` برای استفاده از نسخه وب قرار داده شده است که می‌توانید آن را مستقیما و یا از طریق CDN فرا بخوانید:
 ```html
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.000/Vazirmatn-Variable-font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-Variable-font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-در نظر داشته باشید که همیشه از آخرین نسخه به جای عدد ورژن v33.000 استفاده کنید.
+در نظر داشته باشید که همیشه از آخرین نسخه به جای عدد ورژن v33.003 استفاده کنید.
 
 
 نحوه استفاده در css بدین صورت است:
