@@ -15,7 +15,7 @@ export const glyphCollections: GlyphCollections = {
         " ",
       ),
     numbers: "۰ ۱ ۲ ۳ ۴ ۵ ۶ ۷ ۸ ۹".split(" "),
-    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬ ∎".split(" "),
+    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬ ∎ ﴿ ﴾".split(" "),
   },
   arabic: {
     letters:
@@ -23,7 +23,7 @@ export const glyphCollections: GlyphCollections = {
         " ",
       ),
     numbers: "٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩".split(" "),
-    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬".split(" "),
+    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬ ∎ ﴿ ﴾".split(" "),
   },
   urdu: {
     letters:
@@ -31,7 +31,7 @@ export const glyphCollections: GlyphCollections = {
         " ",
       ),
     numbers: "٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩".split(" "),
-    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬".split(" "),
+    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬ ∎ ﴿ ﴾".split(" "),
   },
   kurdish: {
     letters:
@@ -39,7 +39,7 @@ export const glyphCollections: GlyphCollections = {
         " ",
       ),
     numbers: "٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩".split(" "),
-    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬".split(" "),
+    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬ ∎ ﴿ ﴾".split(" "),
   },
   gilak: {
     letters:
@@ -47,7 +47,7 @@ export const glyphCollections: GlyphCollections = {
         " ",
       ),
     numbers: "٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩".split(" "),
-    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬".split(" "),
+    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬ ∎ ﴿ ﴾".split(" "),
   },
   pashtu: {
     letters:
@@ -55,7 +55,7 @@ export const glyphCollections: GlyphCollections = {
         " ",
       ),
     numbers: "٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩".split(" "),
-    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬".split(" "),
+    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬ ∎ ﴿ ﴾".split(" "),
   },
   jawi: {
     letters:
@@ -63,7 +63,7 @@ export const glyphCollections: GlyphCollections = {
         " ",
       ),
     numbers: "٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩".split(" "),
-    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬".split(" "),
+    signs: "ا ! ؟ ) ( / [ ] - + ÷ × « » . ٬ = : ؛ ٪ ٫ ٬ ∎ ﴿ ﴾".split(" "),
   },
 } as const;
 
