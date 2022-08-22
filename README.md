@@ -73,3 +73,6 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. See
 
 ## Authors
 See [AUTHORS.txt](AUTHORS.txt).
+
+## Donation
+[Website](https://rastikerdar.github.io/vazirmatn)
