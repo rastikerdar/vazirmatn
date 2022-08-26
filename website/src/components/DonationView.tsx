@@ -57,9 +57,10 @@ export const DonationView = () => {
           {t("toman_payment")}
         </Button>{" "}
         <Button
-          variant="text"
+          variant="outlined"
           color="primary"
           onClick={() => setCRPaymentShow(!crPaymentShow)}
+          sx={{ borderRadius: "25px" }}
         >
           BTC/ETH donation
         </Button>
