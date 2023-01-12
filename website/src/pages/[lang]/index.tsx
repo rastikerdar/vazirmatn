@@ -82,7 +82,8 @@ export function IndexLayout() {
                 // gutterBottom
                 sx={{ fontWeight: "normal", mt: 1 }}
               >
-                {t("version")} {TAG_NAME}
+                {/* {t("version")} {TAG_NAME} */}
+                {t("version")} v33.003
               </Typography>
             </Box>
           </Grid>
